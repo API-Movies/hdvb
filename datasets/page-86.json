@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Падение",
+      "title_en": "Falling",
+      "year": 2020,
+      "kinopoisk_id": 1200915,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-30 22:39:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Мои волосы хотят убивать",
       "title_en": "Bad Hair",
       "year": 2020,
@@ -248,17 +261,109 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Корделия",
-      "title_en": "Cordelia",
-      "year": 2020,
-      "kinopoisk_id": 1280350,
-      "type": "movie",
+      "title_ru": "Голубая планета 2",
+      "title_en": "Blue Planet II",
+      "year": 2017,
+      "kinopoisk_id": 1073233,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "661758832464b96cec65a7e9fd767e824b486fc5865f1bff567cc01679e4b845",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-30 00:48:02",
+      "added_date": "2020-11-21 15:05:20",
+      "update_date": "2020-11-21 15:12:07",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1073233.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Капитан Марло",
+      "title_en": "Capitaine Marleau",
+      "year": 2015,
+      "kinopoisk_id": 1048725,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "272248b6358b58d125b7af810e3e4c317c99a84b9b599fb689250d4eea1f7831",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-11-06 19:59:37",
+      "update_date": "2020-11-21 15:02:09",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1048725.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Плохая судья",
+      "title_en": "Bad Judge",
+      "year": 2014,
+      "kinopoisk_id": 745495,
+      "world_art_id": null,
+      "translator": "Flux-Team",
+      "token": "de93d86c0136cb16a6ff2b7efa5c4f51bdd40c7299f38ba703dd5392d14fe96d",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-11-21 14:56:15",
+      "update_date": "2020-11-21 14:58:14",
+      "block": false,
+      "translator_id": 24,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/745495.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Возвращённые",
@@ -945,149 +1050,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Волчий зал",
-      "title_en": "Wolf Hall",
-      "year": 2015,
-      "kinopoisk_id": 839453,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "1aad93c9be376d86298b9249017082b344a4b161d45aa16a2b8539e0ef7f4d93",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-20 15:42:56",
-      "update_date": "2020-11-20 15:46:36",
-      "block": false,
-      "translator_id": 60,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/839453.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сыны свободы",
-      "title_en": "Sons of Liberty",
-      "year": 2015,
-      "kinopoisk_id": 843918,
-      "world_art_id": null,
-      "translator": "Alexfilm",
-      "token": "cc954f4be90e57304a4ee7ad52c3d3bcc53c169d16da6f2557c71907bea3fbde",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-20 15:40:00",
-      "update_date": "2020-11-20 15:41:39",
-      "block": false,
-      "translator_id": 3,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/843918.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Нереальный холостяк",
-      "title_en": "UnREAL",
-      "year": 2015,
-      "kinopoisk_id": 807444,
-      "world_art_id": null,
-      "translator": "Sony",
-      "token": "4dc36357d1ac2558c612b9ea42305c63e077fa4faaad8671dab142301a93bb9a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-20 14:42:59",
-      "update_date": "2020-11-20 14:56:32",
-      "block": false,
-      "translator_id": 146,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/807444.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

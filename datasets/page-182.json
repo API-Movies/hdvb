@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Вы не одни",
+      "title_en": "You're Not Alone / UNWANTED",
+      "year": 2020,
+      "kinopoisk_id": 1025194,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-22 00:24:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Лагерь &quot;Стрела&quot;",
       "title_en": "The Message / Camp Arrowhead / Сообщение",
       "year": 2020,
@@ -248,17 +261,233 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Селеста",
-      "title_en": "Celeste",
+      "title_ru": "Новый Амстердам",
+      "title_en": "New Amsterdam",
       "year": 2018,
-      "kinopoisk_id": 1055379,
-      "type": "movie",
+      "kinopoisk_id": 1129490,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "a677b3cd135c481573df7f6897214d66c1fb6d603a39e88ce875faf5d4e11d7e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-20 22:44:01",
+      "added_date": "2019-11-05 10:26:57",
+      "update_date": "2020-08-05 02:29:18",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1129490.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 44,
+          "episodes": [
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            6,
+            6,
+            7,
+            7,
+            8,
+            8,
+            9,
+            9,
+            10,
+            10,
+            11,
+            11,
+            12,
+            12,
+            13,
+            13,
+            14,
+            14,
+            15,
+            15,
+            16,
+            16,
+            17,
+            17,
+            18,
+            18,
+            19,
+            19,
+            20,
+            20,
+            21,
+            21,
+            22,
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Настоящий детектив",
+      "title_en": "True Detective",
+      "year": 2014,
+      "kinopoisk_id": 681831,
+      "world_art_id": null,
+      "translator": "Amedia",
+      "token": "0aadcce174d06b81223f602de051dcb5e99aa481caea096ebc827ec5829c57b0",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-03-07 10:54:10",
+      "update_date": "2020-08-05 02:25:52",
+      "block": [
+        "RU"
+      ],
+      "translator_id": 7,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/681831.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            6,
+            6,
+            7,
+            7,
+            8,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            6,
+            6,
+            7,
+            7,
+            8,
+            8
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            6,
+            6,
+            7,
+            7,
+            8,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Пересекая черту",
+      "title_en": "Crossing Lines",
+      "year": 2013,
+      "kinopoisk_id": 763048,
+      "world_art_id": null,
+      "translator": "Sony Turbo",
+      "token": "de4b0b0e83a8f7fb527858d3dd54b7469f3eced6d660ab673403cbbd50d27986",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-05 01:11:19",
+      "update_date": "2020-08-05 01:12:14",
+      "block": false,
+      "translator_id": 64,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/763048.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Дурман",
@@ -1255,138 +1484,6 @@
             19,
             20,
             21
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "365: Год победы над судьбой",
-      "title_en": "365: unmyeongeul geoseureuneun 1nyeon",
-      "year": 2020,
-      "kinopoisk_id": 1320378,
-      "world_art_id": null,
-      "translator": "SoftBox",
-      "token": "0cd5912d8b3ba602d8052b94dccb25ebb6fc82f964381a5f02cad10f69b92382",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-03 23:11:12",
-      "update_date": "2020-08-03 23:12:12",
-      "block": false,
-      "translator_id": 106,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1320378.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Я знаю, кто ты",
-      "title_en": "Sé quién eres",
-      "year": 2017,
-      "kinopoisk_id": 1044939,
-      "world_art_id": null,
-      "translator": "Русский Репортаж",
-      "token": "20e52dec5aaba4363da9decdc8bc56bbc1ac8f7afd284d4bd7f646b5ba236037",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-03 23:09:36",
-      "update_date": "2020-08-03 23:10:14",
-      "block": false,
-      "translator_id": 147,
-      "quality": "WEB-DLRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1044939.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рами",
-      "title_en": "Ramy",
-      "year": 2019,
-      "kinopoisk_id": 1108755,
-      "world_art_id": null,
-      "translator": "Contentica",
-      "token": "a58a2cc567900c83783ee523951d3a3444453ca300eb577475c647024c9c8056",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-02 14:35:26",
-      "update_date": "2020-08-03 23:00:48",
-      "block": false,
-      "translator_id": 129,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1108755.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

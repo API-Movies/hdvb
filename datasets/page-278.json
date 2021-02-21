@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Путешествие Артура на край света",
+      "title_en": "Arthur L'aventurier au bout du monde en Australie",
+      "year": 2019,
+      "kinopoisk_id": 6766762,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-21 20:13:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Упыри",
       "title_en": "",
       "year": 2019,
@@ -248,17 +261,159 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Харли",
-      "title_en": "Hurley",
+      "title_ru": "Форсаж: Шпионы-гонщики",
+      "title_en": "Fast &amp; Furious",
       "year": 2019,
-      "kinopoisk_id": 1107085,
-      "type": "movie",
+      "kinopoisk_id": 1138776,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "396cfcd12b8d0fdf525ae74a05e4b6557a9950d396a37469f723f3966d3f0b2c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-19 20:45:01",
+      "added_date": "2019-12-26 17:29:27",
+      "update_date": "2019-12-26 17:29:27",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1138776.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Улики",
+      "title_en": "Traces",
+      "year": 2019,
+      "kinopoisk_id": 1238013,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "fc8eefeabcda538a993f7c72777033c25bc39f968cb21170b059735a50001cc7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-25 17:51:57",
+      "update_date": "2019-12-25 17:51:57",
+      "block": false,
+      "translator_id": 115,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/1238013.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мистер Робот",
+      "title_en": "Mr. Robot",
+      "year": 2015,
+      "kinopoisk_id": 859908,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "33753ce0d2051c53f958b38b1b40c1ea9c267dd809eff6962155f53889f3db20",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-25 15:39:43",
+      "update_date": "2019-12-25 15:39:43",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/859908.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=134055",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Все реки текут",
@@ -922,103 +1077,6 @@
             7,
             8,
             9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ведьмак",
-      "title_en": "The Witcher",
-      "year": 2019,
-      "kinopoisk_id": 1044004,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "58a5775f0a55b2fdd0741d2bef65820582f87255c452f52757ea60ea5b7fc8cc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-22 08:44:44",
-      "update_date": "2019-12-22 08:44:44",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1044004.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Картер",
-      "title_en": "Carter",
-      "year": 2018,
-      "kinopoisk_id": 1114920,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "02a605068591b823239c0c5487669d8a1287145f6db1d16563d5a0e34c18524d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-22 08:19:58",
-      "update_date": "2019-12-22 08:19:58",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1114920.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=148383",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рождественская песнь",
-      "title_en": "A Christmas Carol",
-      "year": 2019,
-      "kinopoisk_id": 1244979,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "90a242b28bbc6d8fac81712fe5b9fcd7e10948c26813a3c8ca8dbf2089d98727",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-21 20:03:10",
-      "update_date": "2019-12-21 20:03:10",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1244979.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 1,
-          "episodes": [
-            1
           ]
         }
       ]

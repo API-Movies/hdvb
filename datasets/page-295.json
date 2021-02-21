@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Каскадерша",
+      "title_en": "The Sholay Girl",
+      "year": 2019,
+      "kinopoisk_id": 1247803,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-07 22:39:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Клоунада",
       "title_en": "Clownery",
       "year": 2020,
@@ -254,17 +267,117 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Механика любви",
-      "title_en": "The Mechanics of Love",
-      "year": 2020,
-      "kinopoisk_id": 970352,
-      "type": "movie",
+      "title_ru": "Криптон",
+      "title_en": "Krypton",
+      "year": 2018,
+      "kinopoisk_id": 880644,
+      "world_art_id": null,
+      "translator": "HamsterStudio",
+      "token": "c252488d749d62edce43d1e22bbeb4e3135072346361e71386ba82f02a0fb705",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-06 01:28:01",
+      "added_date": "2019-09-02 13:13:43",
+      "update_date": "2019-09-02 13:15:05",
       "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "WEB-DL"
+      "translator_id": 32,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/880644.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=147164",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Куртизанки",
+      "title_en": "Harlots",
+      "year": 2017,
+      "kinopoisk_id": 1007866,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "3937d75294570be5da5dfd69d59674ce181cd7c9797d127da9b37c23e0e28286",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-07-11 11:49:34",
+      "update_date": "2019-09-02 12:09:26",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1007866.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Странный ангел",
+      "title_en": "Strange Angel",
+      "year": 2018,
+      "kinopoisk_id": 1112192,
+      "world_art_id": null,
+      "translator": "HamsterStudio",
+      "token": "e2118f14453db45c577583128862fe5bd67adae8cd59b93a60dd673bdf24b377",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-09-02 01:29:18",
+      "update_date": "2019-09-02 01:30:22",
+      "block": false,
+      "translator_id": 32,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1112192.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=149248",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Тьма",
@@ -850,113 +963,6 @@
             3,
             4,
             5
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Карнивал Роу",
-      "title_en": "Carnival Row",
-      "year": 2019,
-      "kinopoisk_id": 891433,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "0c466bba3c5b1321ee49fed7392c362ac6badddfe9dafd2badfb33a91f10ef0b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-30 11:29:53",
-      "update_date": "2019-08-30 16:44:33",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/891433.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Я – зомби",
-      "title_en": "iZombie",
-      "year": 2015,
-      "kinopoisk_id": 824275,
-      "world_art_id": null,
-      "translator": "HamsterStudio",
-      "token": "5e4307f520e7d937062626c34f1249c91c9ec30eca1046f46869eae860205eb2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-30 16:19:04",
-      "update_date": "2019-08-30 16:19:58",
-      "block": false,
-      "translator_id": 32,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/824275.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=113726",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Игра престолов",
-      "title_en": "Game of Thrones",
-      "year": 2011,
-      "kinopoisk_id": 464963,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "db6ba6b8910f7d7b219d486786dc8c43b4baac232366b4a2f039021b70649c79",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-30 16:17:47",
-      "update_date": "2019-08-30 16:18:24",
-      "block": [
-        "RU"
-      ],
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/464963.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=141135",
-      "serial_episodes": [
-        {
-          "season_number": 8,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

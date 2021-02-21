@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Пятьдесят оттенков серого",
+      "title_en": "Fifty Shades of Grey",
+      "year": 2015,
+      "kinopoisk_id": 688832,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-13 19:06:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Первому игроку приготовиться",
       "title_en": "Ready Player One",
       "year": 2018,
@@ -248,17 +261,167 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Шрек",
-      "title_en": "Shrek",
-      "year": 2001,
-      "kinopoisk_id": 430,
-      "type": "movie",
+      "title_ru": "Супермаркет",
+      "title_en": "Superstore",
+      "year": 2015,
+      "kinopoisk_id": 901421,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "f312815c72a11c1e297329b5ba5e8bcef6964e1e69fc6fa02b2cff02725abe4c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-13 00:33:02",
+      "added_date": "2020-06-05 17:28:56",
+      "update_date": "2020-06-05 17:28:56",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/901421.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=127783",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 22,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 22,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Бродячая королева",
+      "title_en": "Vagrant Queen",
+      "year": 2020,
+      "kinopoisk_id": 1277811,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "1a8699090c218e1ae0e574978277336b34189928e9d4d0ae51528bbafed39c00",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-05 15:23:49",
+      "update_date": "2020-06-05 15:23:49",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1277811.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Алекс Райдер",
+      "title_en": "Alex Rider",
+      "year": 2019,
+      "kinopoisk_id": 1046704,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "5b8c578826a217eb54fa137993837dbb7aac2844c4c56d4f0d2987b835e23b77",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-05 09:39:13",
+      "update_date": "2020-06-05 09:39:13",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1046704.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Когда зовёт сердце",
@@ -1318,145 +1481,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мамаша",
-      "title_en": "Mom",
-      "year": 2013,
-      "kinopoisk_id": 735359,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "ef36ba0dff15a89682dbcffefbfecc1c022f629162e9fe32b56e4bcb0f30b219",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-03 18:07:39",
-      "update_date": "2020-06-03 18:07:39",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/735359.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=83841",
-      "serial_episodes": [
-        {
-          "season_number": 6,
-          "episodes_count": 22,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мамаша",
-      "title_en": "Mom",
-      "year": 2013,
-      "kinopoisk_id": 735359,
-      "world_art_id": null,
-      "translator": "Jaskier",
-      "token": "3bc9e017137003f7b2dd4b584f24d162ffd27aaf7acb7263b165f9934868a111",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-03 18:06:53",
-      "update_date": "2020-06-03 18:06:53",
-      "block": false,
-      "translator_id": 36,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/735359.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=83841",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 22,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мамаша",
-      "title_en": "Mom",
-      "year": 2013,
-      "kinopoisk_id": 735359,
-      "world_art_id": null,
-      "translator": "двухголосый закадровый",
-      "token": "31c8221443eb86d16b4619280b6248ae874a9d9314a0cfedb773027d9a71cab8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-03 18:06:04",
-      "update_date": "2020-06-03 18:06:04",
-      "block": false,
-      "translator_id": 81,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/735359.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=83841",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 17,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17
           ]
         }
       ]

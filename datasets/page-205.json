@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Титаник",
+      "title_en": "Titanic",
+      "year": 1997,
+      "kinopoisk_id": 2213,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-27 21:42:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Тайная жизнь домашних животных 2",
       "title_en": "The Secret Life of Pets 2",
       "year": 2019,
@@ -248,17 +261,200 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Девушка, которая застряла в паутине",
-      "title_en": "The Girl in the Spider's Web",
-      "year": 2018,
-      "kinopoisk_id": 955968,
-      "type": "movie",
+      "title_ru": "Бывшие",
+      "title_en": "The Exes",
+      "year": 2011,
+      "kinopoisk_id": 582259,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "de66bd06513605b9a957569833684d40e409016642f5227dc757434e230ec064",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-27 20:42:02",
+      "added_date": "2020-07-05 22:00:58",
+      "update_date": "2020-07-05 22:00:58",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/582259.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Голос",
+      "title_en": "Boiseu",
+      "year": 2017,
+      "kinopoisk_id": 1008085,
+      "world_art_id": null,
+      "translator": "двухголосый закадровый",
+      "token": "821fba4740e663199bcbb2dbf5bdb64990c2a44a333fa4eb11304ff03face84b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-05 20:57:07",
+      "update_date": "2020-07-05 20:57:07",
+      "block": false,
+      "translator_id": 81,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1008085.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Механизмы",
+      "title_en": "Maskineriet",
+      "year": 2020,
+      "kinopoisk_id": 1348396,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "0e79d4b540dda4a71bf9165fa32c8b8cd8d7592522bb63160bd57d98f15b3f96",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-05 15:05:43",
+      "update_date": "2020-07-05 15:05:43",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1348396.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Дети Арбата",
@@ -975,110 +1171,6 @@
             24,
             25,
             26
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ханна",
-      "title_en": "Hanna",
-      "year": 2019,
-      "kinopoisk_id": 1112559,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "03ed21d510b397997c8f238a7026e6a6035648315d8993e3fcb2b039d484ede9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-03 12:39:44",
-      "update_date": "2020-07-03 12:39:44",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1112559.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Монахиня-воин",
-      "title_en": "Warrior Nun",
-      "year": 2020,
-      "kinopoisk_id": 1245502,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "2274078e14d898c859ce89bb91f342589ae0ec27f12bff45d8b0a37eca30d6b0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-03 10:45:56",
-      "update_date": "2020-07-03 10:45:56",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1245502.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Слепцы",
-      "title_en": "Fartblinda",
-      "year": 2019,
-      "kinopoisk_id": 1204240,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "cedb7e82b7b7b16c4ef83c4d7c3f1ea812a57fb797bbad2d2af51e796e046a26",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-03 10:44:02",
-      "update_date": "2020-07-03 10:44:02",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1204240.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

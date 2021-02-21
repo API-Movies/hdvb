@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Механика любви",
+      "title_en": "The Mechanics of Love",
+      "year": 2020,
+      "kinopoisk_id": 970352,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-06 01:28:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Шито белыми нитками: тайна Авроры Тигардэн",
       "title_en": "Reap What You Sew: An Aurora Teagarden Mystery",
       "year": 2020,
@@ -248,17 +261,111 @@
       "quality": "DVDRip"
     },
     {
-      "title_ru": "Снегурочка",
-      "title_en": "The Snow Maiden",
-      "year": 2020,
-      "kinopoisk_id": 1263101,
-      "type": "movie",
+      "title_ru": "Карнивал Роу",
+      "title_en": "Carnival Row",
+      "year": 2019,
+      "kinopoisk_id": 891433,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "0c466bba3c5b1321ee49fed7392c362ac6badddfe9dafd2badfb33a91f10ef0b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-04 18:06:01",
+      "added_date": "2019-08-30 11:29:53",
+      "update_date": "2019-08-30 16:44:33",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/891433.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Я – зомби",
+      "title_en": "iZombie",
+      "year": 2015,
+      "kinopoisk_id": 824275,
+      "world_art_id": null,
+      "translator": "HamsterStudio",
+      "token": "5e4307f520e7d937062626c34f1249c91c9ec30eca1046f46869eae860205eb2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-08-30 16:19:04",
+      "update_date": "2019-08-30 16:19:58",
+      "block": false,
+      "translator_id": 32,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/824275.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=113726",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Игра престолов",
+      "title_en": "Game of Thrones",
+      "year": 2011,
+      "kinopoisk_id": 464963,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "db6ba6b8910f7d7b219d486786dc8c43b4baac232366b4a2f039021b70649c79",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-08-30 16:17:47",
+      "update_date": "2019-08-30 16:18:24",
+      "block": [
+        "RU"
+      ],
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/464963.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=141135",
+      "serial_episodes": [
+        {
+          "season_number": 8,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Проповедник",
@@ -835,109 +942,6 @@
             5,
             6,
             7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Инстинкт",
-      "title_en": "Instinct",
-      "year": 2018,
-      "kinopoisk_id": 907800,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "7e43a0d7547d02cd1f67ba9ded7609535a1c182e4b9cc36cd894f1b05f28a63e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-01 16:16:38",
-      "update_date": "2019-08-26 13:52:00",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/907800.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сакральные игры",
-      "title_en": "Sacred Games",
-      "year": 2018,
-      "kinopoisk_id": 1118195,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "5a748e4b6e056bc9e5af96e085d4364500402daf0e832ae42f38791eea2799e7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-15 15:11:41",
-      "update_date": "2019-08-26 13:25:46",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1118195.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=149236",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сбой",
-      "title_en": "Glitch",
-      "year": 2015,
-      "kinopoisk_id": 891675,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "b459e4946e6ddf6a914e6f3e61606f1278ff70626b3d7072a6498eeb2c5f49f1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-26 11:18:16",
-      "update_date": "2019-08-26 11:21:28",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/891675.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=127467",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

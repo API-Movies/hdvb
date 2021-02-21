@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Суне против Суне",
+      "title_en": "Sune vs. Sune",
+      "year": 2018,
+      "kinopoisk_id": 1087409,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-13 21:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Школьница с бензопилой. Часть 2 / Возвращение кровавой школьницы с бензопилой: пробуждение Гико",
       "title_en": "Chimamire sukeban chenso red: Kôhen - Giko no kakusei / Bloody Chainsaw Girl Returns: Giko Awakens",
       "year": 2019,
@@ -248,17 +261,164 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "С боем в сердце",
-      "title_en": "Fighting Heart",
-      "year": 2016,
-      "kinopoisk_id": 753807,
-      "type": "movie",
+      "title_ru": "Доктора акушеры-гинекологи",
+      "title_en": "Sanbuingwa",
+      "year": 2010,
+      "kinopoisk_id": 707368,
+      "world_art_id": null,
+      "translator": "SoftBox",
+      "token": "4f09829bf86548f68c402adb18c254ca66c4122854bf9b2683861e058c11a7c4",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-12 21:32:01",
+      "added_date": "2020-07-28 02:10:27",
+      "update_date": "2020-07-28 02:10:27",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 106,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/707368.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Чумовые тётки",
+      "title_en": "Knallerfrauen",
+      "year": 2011,
+      "kinopoisk_id": 688590,
+      "world_art_id": null,
+      "translator": "ViruseProject",
+      "token": "d3d2bb862ea3fab1c7653fabb92886623be8898e7591f376ce516400fb51344f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-28 02:04:37",
+      "update_date": "2020-07-28 02:04:37",
+      "block": false,
+      "translator_id": 72,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/688590.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Этой зимой дует ветер",
+      "title_en": "Geu gyeoul, barami bunda",
+      "year": 2013,
+      "kinopoisk_id": 738939,
+      "world_art_id": null,
+      "translator": "STEPonee",
+      "token": "de635a09b39dfc9f28918dad75426705b00fa82e3da739aa6176ff441210347c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-28 01:56:31",
+      "update_date": "2020-07-28 01:56:31",
+      "block": false,
+      "translator_id": 65,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/738939.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Славный парень",
@@ -1031,122 +1191,6 @@
             27,
             28,
             29
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Попадец",
-      "title_en": "Zapped",
-      "year": 2016,
-      "kinopoisk_id": 1006725,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "b81883f2bb3078868a02a87407c9cdf99fde9b32056c20c1743b1b2674a21b58",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-26 17:44:58",
-      "update_date": "2020-07-26 17:44:58",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1006725.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Железная леди. Когда кончается шоу",
-      "title_en": "Aieon reidi - yeongeuki kkeutnago nan dwi",
-      "year": 2016,
-      "kinopoisk_id": 1001689,
-      "world_art_id": null,
-      "translator": "SoftBox",
-      "token": "1ea58d5b4e8f1a540702953f327e2f11a068d995ec5133344903789661b969f9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-26 17:40:04",
-      "update_date": "2020-07-26 17:40:04",
-      "block": false,
-      "translator_id": 106,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1001689.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ангелы и бриллианты",
-      "title_en": "Angeli &amp; diamanti",
-      "year": 2011,
-      "kinopoisk_id": 703071,
-      "world_art_id": null,
-      "translator": "Eurochannel",
-      "token": "bf7745bf8613df360415307fa49226aa25b74dd29a00a928f65d9a45da37115f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-26 17:35:33",
-      "update_date": "2020-07-26 17:35:33",
-      "block": false,
-      "translator_id": 137,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/703071.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
           ]
         }
       ]

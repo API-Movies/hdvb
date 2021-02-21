@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "2 штата",
+      "title_en": "2 States",
+      "year": 2014,
+      "kinopoisk_id": 705986,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-26 02:27:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Майло",
       "title_en": "Bad Milo!",
       "year": 2013,
@@ -248,17 +261,97 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Мы любим тебя, Салли Кармайкл!",
-      "title_en": "We Love You, Sally Carmichael!",
-      "year": 2017,
-      "kinopoisk_id": 981511,
-      "type": "movie",
+      "title_ru": "Ответный удар",
+      "title_en": "Strike Back",
+      "year": 2010,
+      "kinopoisk_id": 505661,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "e3598b8a4ef0c4582851195373ea79982bfd05129de856a1bdedf60306438632",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-25 17:30:01",
+      "added_date": "2020-03-05 08:39:35",
+      "update_date": "2020-03-05 08:39:35",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/505661.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 8,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Чужестранка",
+      "title_en": "Outlander",
+      "year": 2014,
+      "kinopoisk_id": 818284,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "2d64d06f6ec578c7331e9232debbb3771400b5aa4faec16fd6a700d430ef3fa2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-05 08:39:05",
+      "update_date": "2020-03-05 08:39:05",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/818284.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Линкольн Райм: Охота на Собирателя костей",
+      "title_en": "Lincoln Rhyme: Hunt for the Bone Collector",
+      "year": 2020,
+      "kinopoisk_id": 1209836,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "aa4f1d7bf820bf13cec724299cbf220dc37b182b6b941e89376b9e3842baec99",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-05 08:36:56",
+      "update_date": "2020-03-05 08:36:56",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1209836.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Шучу",
@@ -862,109 +955,6 @@
             14,
             15,
             17
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Заместитель",
-      "title_en": "Deputy",
-      "year": 2020,
-      "kinopoisk_id": 1245494,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "d3ed8f3966ef50e7ec8cbc879f4d88023409f7a980a44b3b17e55cbf3187fc18",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-04 09:20:54",
-      "update_date": "2020-03-04 09:20:54",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1245494.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Моя гениальная подруга",
-      "title_en": "L'amica geniale / My Brilliant Friend",
-      "year": 2018,
-      "kinopoisk_id": 1176172,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "f754f103c48e86cc3af249c0a3006c4f2e35543cb46df34309f171e4935b808b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-03 22:13:54",
-      "update_date": "2020-03-03 22:13:54",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1176172.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Видоизмененный углерод",
-      "title_en": "Altered Carbon",
-      "year": 2018,
-      "kinopoisk_id": 669089,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "04d2229013c5f56444d5e04e4233761ee103d78447405d9b908f417f8cba796b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-03 18:49:06",
-      "update_date": "2020-03-03 18:49:06",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/669089.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=145434",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

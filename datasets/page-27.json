@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Дом в Шервуде",
+      "title_en": "The House in Sherwood",
+      "year": 2020,
+      "kinopoisk_id": 13641400,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-30 15:36:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Злой близнец",
       "title_en": "The Evil Twin",
       "year": 2021,
@@ -248,17 +261,132 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Перемещение",
-      "title_en": "Transference",
-      "year": 2020,
-      "kinopoisk_id": 1265073,
-      "type": "movie",
+      "title_ru": "Пощечина",
+      "title_en": "The Slap",
+      "year": 2015,
+      "kinopoisk_id": 840105,
+      "world_art_id": null,
+      "translator": "Newstudio",
+      "token": "9a822b235477817eed20e7cdd24accd38cbe434bc1897d3227d10c3973bbdd28",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-29 07:32:01",
+      "added_date": "2021-02-02 22:20:18",
+      "update_date": "2021-02-02 22:23:03",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 48,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/840105.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Спаси меня",
+      "title_en": "Guhaejwo",
+      "year": 2017,
+      "kinopoisk_id": 1043826,
+      "world_art_id": null,
+      "translator": "Храм Дорам ТВ",
+      "token": "341a1ce6e0e2f3c652cf05b88dc3be757f6719f25c7adc2b6a799ae645d92098",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-02 22:15:32",
+      "update_date": "2021-02-02 22:19:50",
+      "block": false,
+      "translator_id": 158,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1043826.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Секс, наркотики и рок-н-ролл",
+      "title_en": "Sex &amp; Drugs &amp; Rock &amp; Roll",
+      "year": 2015,
+      "kinopoisk_id": 839102,
+      "world_art_id": null,
+      "translator": "Newstudio",
+      "token": "45536a15bd9397e0a7a14210f618390bd983d4412d8ba4e560c9b2b2268479fd",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-02 22:14:29",
+      "update_date": "2021-02-02 22:18:42",
+      "block": false,
+      "translator_id": 48,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/839102.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Бешеные псы",
@@ -988,146 +1116,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Конец детства",
-      "title_en": "Childhood\\'s End",
-      "year": 2015,
-      "kinopoisk_id": 844223,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "745f492d2a09201f75ccc862baf3e9dffc7baf5514dc877a293b41c01c1ada76",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-01 22:46:09",
-      "update_date": "2021-02-01 22:48:30",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/844223.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Зоо-апокалипсис",
-      "title_en": "Zoo",
-      "year": 2015,
-      "kinopoisk_id": 804670,
-      "world_art_id": null,
-      "translator": "Пифагор",
-      "token": "8a5bd0045f0360092756d7bee0fcd73fac332000c830d7bb8f06d9f14ec91b43",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-01 22:45:00",
-      "update_date": "2021-02-01 22:46:01",
-      "block": false,
-      "translator_id": 124,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/804670.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Жаркое американское лето: Первый день лагеря",
-      "title_en": "Wet Hot American Summer: First Day of Camp",
-      "year": 2015,
-      "kinopoisk_id": 888089,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "7711725a1399017ebc629739cc4ed4f6342fa5012a1d318ff92925ce7fd848da",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-01 22:43:12",
-      "update_date": "2021-02-01 22:44:18",
-      "block": false,
-      "translator_id": 48,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/888089.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

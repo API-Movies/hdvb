@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Кофе с Богом",
+      "title_en": "Coffee with God",
+      "year": 2019,
+      "kinopoisk_id": 1264129,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-17 20:25:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Дакота",
       "title_en": "Dakota",
       "year": 2020,
@@ -248,17 +261,213 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Хранилище",
-      "title_en": "Vault",
-      "year": 2018,
-      "kinopoisk_id": 1062419,
-      "type": "movie",
+      "title_ru": "Шоу про любовь",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1387129,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "1bb832c8fbb17f5cc913d838f96cd2b9a9d8d3b07351a5fdfc1e53b5ef6ceced",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-16 08:38:01",
+      "added_date": "2020-06-15 01:38:01",
+      "update_date": "2020-06-15 01:38:01",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
+      "translator_id": 92,
+      "quality": "HDTV",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1387129.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Родина",
+      "title_en": "Homeland",
+      "year": 2011,
+      "kinopoisk_id": 574688,
+      "world_art_id": null,
+      "translator": "Amedia",
+      "token": "99f478cf2313627901409131d74b5f23ad85352219e026cbb6dfc986f48452c7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-15 01:36:42",
+      "update_date": "2020-06-15 01:36:42",
+      "block": false,
+      "translator_id": 7,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/574688.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 7,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 8,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Убийство на ферме «Уайтхаус»",
+      "title_en": "White House Farm",
+      "year": 2020,
+      "kinopoisk_id": 1311660,
+      "world_art_id": null,
+      "translator": "The Kitchen Russia",
+      "token": "b15626c3f788b9df12e48f10d9091f2525b441bec0b8ddc6f8169a7ec56ee1af",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-14 22:11:47",
+      "update_date": "2020-06-14 22:11:47",
+      "block": false,
+      "translator_id": 131,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1311660.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Скрестив мечи",
@@ -1235,110 +1444,6 @@
             1,
             2,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "В густом лесу",
-      "title_en": "W głębi lasu / The Woods",
-      "year": 2020,
-      "kinopoisk_id": 590631,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "cbf60a185fcaaea93605715e1fcac99f0c80e770e73813e424150ee8b8b3b4dd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-13 09:32:02",
-      "update_date": "2020-06-13 09:32:02",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/590631.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "С Значит Семья",
-      "title_en": "F Is for Family",
-      "year": 2015,
-      "kinopoisk_id": 891600,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "22b1779d2bd74eaff68a47446f299fb7b3df1b873ca7979c26a2f21e42f0ada0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-13 09:30:05",
-      "update_date": "2020-06-13 09:30:05",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/891600.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Болотная тварь",
-      "title_en": "Swamp Thing",
-      "year": 2019,
-      "kinopoisk_id": 1138780,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "c149a9eb12a39672022fd0f10c71038a701fd0bb52308abf4f8521b6142836bf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-13 04:56:21",
-      "update_date": "2020-06-13 04:56:21",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1138780.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

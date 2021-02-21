@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Разглядеть в темноте",
+      "title_en": "Out in the Dark",
+      "year": 2012,
+      "kinopoisk_id": 676075,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-25 15:12:01",
+      "block": false,
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "HDTV"
+    },
+    {
       "title_ru": "7 минут",
       "title_en": "7 minuti",
       "year": 2016,
@@ -248,17 +261,100 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Ребёнок готов",
-      "title_en": "Baby Done",
-      "year": 2021,
-      "kinopoisk_id": 1264191,
-      "type": "movie",
+      "title_ru": "По лезвию бритвы",
+      "title_en": "",
+      "year": 2013,
+      "kinopoisk_id": 669264,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "3ca800269c1750a4c7e194f126ac742a3ef53d76b8e62b3bfc7b9fddda7172f9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-24 11:37:01",
+      "added_date": "2021-01-27 16:08:36",
+      "update_date": "2021-01-27 16:09:33",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/669264.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Неслучайные встречи",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1330035,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "013dd057d0f84fb0c481a6b3dd6edad44ed9d8f9bc740a4e71d587684c9f8467",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-27 16:07:39",
+      "update_date": "2021-01-27 16:08:28",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1330035.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "История бранных слов",
+      "title_en": "History of Swear Words",
+      "year": 2021,
+      "kinopoisk_id": 4290646,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "66a9b43d3e6a6e22c13ad934330b73eec627ce72b5e55c741b4bcfea847463b3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-27 08:54:54",
+      "update_date": "2021-01-27 08:55:51",
+      "block": false,
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4290646.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Кармен Сандиего",
@@ -802,172 +898,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Капкан для звезды",
-      "title_en": "",
-      "year": 2015,
-      "kinopoisk_id": 947037,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "815e3bcef0861b2108adf3116f6ad40cc4b0c69de25164354f81bdfbf91aaee4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-26 23:03:32",
-      "update_date": "2021-01-26 23:05:06",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/947037.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Прошлое умеет ждать",
-      "title_en": "",
-      "year": 2015,
-      "kinopoisk_id": 938853,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "1ddf68f9f508df3a6281ac1c7903874023f5fef12f84ef2a5764998410b32bbc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-26 23:02:32",
-      "update_date": "2021-01-26 23:03:25",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/938853.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Последний корабль",
-      "title_en": "The Last Ship",
-      "year": 2014,
-      "kinopoisk_id": 681656,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "816a25906cb215bed402291cc552e0336b76e5c57789bbb2423a20e24a40506c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-26 21:12:01",
-      "update_date": "2021-01-26 21:13:27",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/681656.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Девять ночей",
+      "title_en": "Nine Nights",
+      "year": 2020,
+      "kinopoisk_id": 1119551,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-13 00:42:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Сердце дома",
       "title_en": "Heart of the Home",
       "year": 2021,
@@ -248,17 +261,132 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Гарабандаль: одному Богу известно",
-      "title_en": "Garabandal, solo Dios lo sabe / Garabandal: Only God Knows",
+      "title_ru": "Сплошной отстой!",
+      "title_en": "Everything Sucks!",
       "year": 2018,
-      "kinopoisk_id": 8045170,
-      "type": "movie",
+      "kinopoisk_id": 1103866,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "faa1e77db936397e744a06017c9e993d62cbd04b769727abdc968237e2262878",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-12 01:07:01",
+      "added_date": "2021-01-14 14:37:15",
+      "update_date": "2021-01-14 14:51:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1103866.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Крепкие орешки / Напарники",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1244931,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "a93ed0a5327bfa4868c810d467ee8463b19e6b354dadaecc0b753fa56dc9c4fa",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-10 12:50:59",
+      "update_date": "2021-01-14 14:33:56",
+      "block": false,
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1244931.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Атлантида",
+      "title_en": "Atlantis",
+      "year": 2013,
+      "kinopoisk_id": 794531,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "87dd037cfa1f30794472fb4d31e7211e98106c34c7ad2401814f539ef7003d2e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-14 12:20:36",
+      "update_date": "2021-01-14 12:21:19",
+      "block": false,
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/794531.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Тринадцатый апостол",
@@ -1464,147 +1592,6 @@
             3,
             4,
             5
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Братья Харди",
-      "title_en": "The Hardy Boys",
-      "year": 2020,
-      "kinopoisk_id": 1322697,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "e977a83f8f4bfcecd78e0a73a1ae203df143ee11a63377e23d0abec0ba1bb210",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-08 02:05:26",
-      "update_date": "2021-01-12 18:11:11",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1322697.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Вайнона Эрп",
-      "title_en": "Wynonna Earp",
-      "year": 2016,
-      "kinopoisk_id": 957825,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "e8364c1263c9058d79943ea15c4a03465144b9465b29f8edffb17c20ae26ceed",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-30 22:57:24",
-      "update_date": "2021-01-12 16:57:45",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/957825.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Реинкарнация безработного",
-      "title_en": "Mushoku Tensei: Isekai Ittara Honki Dasu",
-      "year": 2021,
-      "kinopoisk_id": 1312253,
-      "world_art_id": null,
-      "translator": "StudioBand",
-      "token": "1e53646f540efac7c72d91f5c218bba55dcc19e9a41e929e6e668144dad64cb5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-12 16:27:18",
-      "update_date": "2021-01-12 16:28:48",
-      "block": false,
-      "translator_id": 66,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1312253.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 1,
-          "episodes": [
-            1
           ]
         }
       ]

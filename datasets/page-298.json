@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Левин",
+      "title_en": "Levine",
+      "year": 2017,
+      "kinopoisk_id": 1056792,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-03 18:52:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Да будет так",
       "title_en": "So B. It",
       "year": 2016,
@@ -248,17 +261,113 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Париж, Техас",
-      "title_en": "Paris, Texas",
-      "year": 1984,
-      "kinopoisk_id": 4401,
-      "type": "movie",
+      "title_ru": "Джессика Джонс",
+      "title_en": "Jessica Jones",
+      "year": 2015,
+      "kinopoisk_id": 817508,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "3cd2f9bb7be882439902b0ec5cbb99df34f44c26a8f1c320b92adadefcb2de76",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-02 11:46:01",
+      "added_date": "2019-08-22 17:03:33",
+      "update_date": "2019-08-22 17:20:12",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
+      "translator_id": 15,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/817508.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=128771",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Вероника Марс",
+      "title_en": "Veronica Mars",
+      "year": 2004,
+      "kinopoisk_id": 255670,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "0db84eb1ed004344189867c1d206c8956b066134ac414e022eb44c5f8c170bcf",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-08-22 16:37:26",
+      "update_date": "2019-08-22 16:59:26",
+      "block": false,
+      "translator_id": 15,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/255670.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=15308",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Бойтесь ходячих мертвецов",
+      "title_en": "Fear the Walking Dead",
+      "year": 2015,
+      "kinopoisk_id": 846892,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "1b70d2e9ec1880f524204e9a476d91ce13206df31545fd2387554a733cf46c39",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-08-22 13:27:59",
+      "update_date": "2019-08-22 13:55:23",
+      "block": false,
+      "translator_id": 15,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/846892.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=122984",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Легион",
@@ -846,143 +955,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чернобыль",
-      "title_en": "Chernobyl",
-      "year": 2019,
-      "kinopoisk_id": 1227803,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "038d2211430de0dc796aa0ed6093dc0d1b70dc2201c73bb407a7698ab73eab9f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-20 17:23:43",
-      "update_date": "2019-08-20 17:25:16",
-      "block": [
-        "RU"
-      ],
-      "translator_id": 15,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1227803.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сотня",
-      "title_en": "The 100",
-      "year": 2014,
-      "kinopoisk_id": 733493,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "6b94cf7d3a62fbd1a1901feef648f84bb19f1a240dea064b7ce7befc4f69e8a5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-20 17:07:26",
-      "update_date": "2019-08-20 17:16:37",
-      "block": false,
-      "translator_id": 15,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/733493.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=89498",
-      "serial_episodes": [
-        {
-          "season_number": 6,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Домашний арест",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1044487,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "1b1f6d2d6161e60fd6b3ac11f871b079994bb4a582273e1b8194891d807c3bd6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-08-19 14:14:06",
-      "update_date": "2019-08-20 12:22:30",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1044487.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 36,
-          "episodes": [
-            1,
-            1,
-            1,
-            2,
-            2,
-            2,
-            3,
-            3,
-            3,
-            4,
-            4,
-            4,
-            5,
-            5,
-            5,
-            6,
-            6,
-            6,
-            7,
-            7,
-            7,
-            8,
-            8,
-            8,
-            9,
-            9,
-            9,
-            10,
-            10,
-            10,
-            11,
-            11,
-            11,
-            12,
-            12,
-            12
           ]
         }
       ]

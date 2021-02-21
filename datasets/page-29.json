@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Рия",
+      "title_en": "R.I.A. / Override",
+      "year": 2021,
+      "kinopoisk_id": 1202504,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-28 01:20:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Худший кошмар родителей / В сексуальном рабстве",
       "title_en": "A Parent's Worst Nightmare / Trafficked",
       "year": 2021,
@@ -248,17 +261,98 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Искусство ограбления",
-      "title_en": "The Burnt Orange Heresy",
-      "year": 2020,
-      "kinopoisk_id": 1190063,
-      "type": "movie",
+      "title_ru": "Умирающий детектив",
+      "title_en": "Den döende detektiven",
+      "year": 2018,
+      "kinopoisk_id": 1148165,
+      "world_art_id": null,
+      "translator": "Contentica",
+      "token": "1055a118a5d49dee63cd12c0e7c9aff587288086b37a492ecf1ca98cbd12a6e3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-27 09:46:01",
+      "added_date": "2021-01-31 15:08:43",
+      "update_date": "2021-01-31 15:09:24",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
+      "translator_id": 129,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1148165.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Четвёртый человек",
+      "title_en": "Den fjärde mannen",
+      "year": 2014,
+      "kinopoisk_id": 882049,
+      "world_art_id": null,
+      "translator": "Contentica",
+      "token": "cc56d604942c813711c68274e69a3757cf3a4ae20faf2704557f217c98716b0e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-31 09:29:04",
+      "update_date": "2021-01-31 15:08:28",
+      "block": false,
+      "translator_id": 129,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/882049.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Прекрасная эпоха",
+      "title_en": "Belle Epoque",
+      "year": 2017,
+      "kinopoisk_id": 6466504,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "945cfd7681267997da56c27ba99dd02fd3b9dc697885e8f2c9cce93a90c5abdb",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-22 17:28:58",
+      "update_date": "2021-01-31 14:57:33",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/6466504.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Свои чужие родные",
@@ -1139,121 +1233,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Посланники",
-      "title_en": "The Messengers",
-      "year": 2015,
-      "kinopoisk_id": 825923,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "335efbc010f69045d1f44475bfd7c31ab26cb1433cbd7aa165a00b40bd6dab98",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-29 20:59:49",
-      "update_date": "2021-01-29 21:01:17",
-      "block": false,
-      "translator_id": 48,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/825923.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Старшеклассница-фокусница",
-      "title_en": "Tejina Senpai",
-      "year": 2019,
-      "kinopoisk_id": 1272443,
-      "world_art_id": null,
-      "translator": "Crunchyroll",
-      "token": "181511a7f631e2c0e168c00fde43f891d89fff1aeb5e3e70b7b50423b5ef5f77",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-29 20:58:09",
-      "update_date": "2021-01-29 20:59:18",
-      "block": false,
-      "translator_id": 190,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1272443.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ради своей дочери я смогу победить даже короля демонов",
-      "title_en": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
-      "year": 2019,
-      "kinopoisk_id": 1273481,
-      "world_art_id": null,
-      "translator": "AniLibria",
-      "token": "3a0ead001dc52fc538d1e0d7ef7fd61cfee3f6e53c914abe7bffdba9e7a12286",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-29 20:55:12",
-      "update_date": "2021-01-29 20:57:16",
-      "block": false,
-      "translator_id": 10,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1273481.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

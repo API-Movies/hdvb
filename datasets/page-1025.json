@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title_ru": "Вокс люкс",
+      "title_en": "Vox Lux",
+      "year": 2018,
+      "kinopoisk_id": 1005972,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-08 11:31:27",
+      "block": [
+        "RU"
+      ],
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Сумерки. Сага. Затмение",
       "title_en": "The Twilight Saga: Eclipse",
       "year": 2010,
@@ -254,19 +269,6 @@
       "translator": "Дубляж",
       "translator_id": 82,
       "quality": "TS"
-    },
-    {
-      "title_ru": "Парадокс Кловерфилда",
-      "title_en": "The Cloverfield Paradox",
-      "year": 2018,
-      "kinopoisk_id": 722816,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-04 19:39:26",
-      "block": false,
-      "translator": "Newstudio",
-      "translator_id": 48,
-      "quality": "WEB-DL"
     }
   ]
 }

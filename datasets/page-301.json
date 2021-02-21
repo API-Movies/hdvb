@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Всё ради мамы",
+      "title_en": "All for My Mother / Wszystko dla mojej matki",
+      "year": 2019,
+      "kinopoisk_id": 1283190,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-05-31 18:42:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Инферно Габриэля",
       "title_en": "Gabriel's Inferno",
       "year": 2020,
@@ -251,17 +264,102 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Аспромонте: земля последних",
-      "title_en": "Aspromonte - La terra degli ultimi",
-      "year": 2020,
-      "kinopoisk_id": 1202493,
-      "type": "movie",
+      "title_ru": "Благие знамения",
+      "title_en": "Good Omens",
+      "year": 2019,
+      "kinopoisk_id": 585727,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "b1085e3e96340d3601261b9273a84f7bd0f6078fa7b7b1f8897a37364fadeee6",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-05-30 00:32:02",
+      "added_date": "2019-07-24 20:02:39",
+      "update_date": "2019-07-24 20:03:46",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "DVDRip"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/585727.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Вероника Марс",
+      "title_en": "Veronica Mars",
+      "year": 2004,
+      "kinopoisk_id": 255670,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "3a938465b4f79f46c0eabd8c7595b451ec13b1635d26fab28fdc0d76cce50074",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-07-20 22:08:30",
+      "update_date": "2019-07-21 13:11:41",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/255670.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=15308",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Клондайк",
+      "title_en": "Klondike",
+      "year": 2014,
+      "kinopoisk_id": 748140,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "7c02f362c581efb52bfc815450378b507b2e9f15ee4e1c33a2b4d99577098c42",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-07-19 13:14:01",
+      "update_date": "2019-07-19 13:14:26",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/748140.jpg",
+      "trailer": "https://kp.cdn.yandex.net/748140/kinopoisk.ru-Klondike-201219.mp4",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Колония",
@@ -1302,111 +1400,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Грязные деньги",
-      "title_en": "Dark Mon£y",
-      "year": 2019,
-      "kinopoisk_id": 1213642,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "5426d8da90d0634ba3eae91d3dcec936d3210debf70ac915b9e297958e122a49",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-09 16:54:51",
-      "update_date": "2019-07-09 16:54:54",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1213642.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Покои",
-      "title_en": "Chambers",
-      "year": 2019,
-      "kinopoisk_id": 1144177,
-      "world_art_id": null,
-      "translator": "Пифагор",
-      "token": "a729c4df309f272a6913842d8501162b2f7fccb3706b7e6ea6c10ce0b45b839e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-08 21:30:49",
-      "update_date": "2019-07-09 15:20:01",
-      "block": false,
-      "translator_id": 124,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1144177.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Болотная тварь",
-      "title_en": "Swamp Thing",
-      "year": 2019,
-      "kinopoisk_id": 1138780,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "91d6237af6603580be1ff7adcec0a9dbfe9ea1814dfce7c9cfc54af2754832d8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-06-01 13:21:21",
-      "update_date": "2019-07-06 11:20:37",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1138780.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

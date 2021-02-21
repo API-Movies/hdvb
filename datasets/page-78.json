@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Длиннная ночь в Блэкстоуне",
+      "title_en": "Long Night at Blackstone",
+      "year": 2018,
+      "kinopoisk_id": 1145214,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-07 18:46:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Куртуазная любовь",
       "title_en": "Fin Amor",
       "year": 2018,
@@ -248,17 +261,188 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "На берегу",
-      "title_en": "On Chesil Beach",
-      "year": 2017,
-      "kinopoisk_id": 524953,
-      "type": "movie",
+      "title_ru": "Отыграть назад",
+      "title_en": "The Undoing",
+      "year": 2020,
+      "kinopoisk_id": 1209420,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "8262ec522cbab538b03bc5155e414c50ac1229f5f4c732784b81a8292ad8a827",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-06 21:39:02",
+      "added_date": "2020-10-27 09:50:57",
+      "update_date": "2020-12-01 23:19:43",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BDRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1209420.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Звёздные войны: Повстанцы",
+      "title_en": "Star Wars: Rebels",
+      "year": 2014,
+      "kinopoisk_id": 803148,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "a91050e89332f945c2a52477ff24420fee1c20fa48de9efdd1b869952badb351",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-01 21:47:09",
+      "update_date": "2020-12-01 22:38:44",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/803148.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 21,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 21,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Клуб нянь",
+      "title_en": "The Baby-Sitters Club",
+      "year": 2020,
+      "kinopoisk_id": 1245488,
+      "world_art_id": null,
+      "translator": "HDrezka Studio",
+      "token": "96ede649ac5ce1c19a88f27f7857b3a448ccc1740b5b28e43252931e266307ba",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-01 22:16:03",
+      "update_date": "2020-12-01 22:16:42",
+      "block": false,
+      "translator_id": 33,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1245488.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Мистер Пиклз",
@@ -1356,113 +1540,6 @@
             38,
             39,
             40
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Отыграть назад",
-      "title_en": "The Undoing",
-      "year": 2020,
-      "kinopoisk_id": 1209420,
-      "world_art_id": null,
-      "translator": "Novamedia",
-      "token": "8ec173ac6b49f9cfda10762759e7d6febfba7e1e798ff503440337951816b784",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-28 09:10:48",
-      "update_date": "2020-11-30 19:46:13",
-      "block": false,
-      "translator_id": 51,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/1209420.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Шервуд",
-      "title_en": "Sherwood",
-      "year": 2019,
-      "kinopoisk_id": 1245444,
-      "world_art_id": null,
-      "translator": "NewStation",
-      "token": "e0f7abcaa62ae8e40e6f7f1ec496df1bb2b8977089a0e54cf493efda1ca2143d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-30 17:10:41",
-      "update_date": "2020-11-30 17:12:49",
-      "block": false,
-      "translator_id": 138,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1245444.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мстители: Всегда вместе",
-      "title_en": "Avengers",
-      "year": 1999,
-      "kinopoisk_id": 441415,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "31f498406ad167d3da8a211ee1d33c8d64e28148c99b0ab900ed94e531d53c4f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-30 17:05:49",
-      "update_date": "2020-11-30 17:07:18",
-      "block": false,
-      "translator_id": 82,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/441415.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

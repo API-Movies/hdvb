@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Трибханга: Неидеальные и прекрасные",
+      "title_en": "Tribhanga",
+      "year": 2021,
+      "kinopoisk_id": 4307503,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-20 23:20:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Фрау Штерн",
       "title_en": "Frau Stern",
       "year": 2020,
@@ -248,17 +261,206 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Трое",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1334856,
-      "type": "movie",
+      "title_ru": "Жан-Клод Ван Джонсон",
+      "title_en": "Jean-Claude Van Johnson",
+      "year": 2016,
+      "kinopoisk_id": 975207,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "d04676f207483fcff21c5e45f4447db1d8b0403e2c556bbf387c431decfa5752",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-20 08:43:02",
+      "added_date": "2021-01-23 20:04:11",
+      "update_date": "2021-01-23 20:05:33",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/975207.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Библиотекари",
+      "title_en": "The Librarians",
+      "year": 2014,
+      "kinopoisk_id": 839902,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "ff22585acbc368f1919e2f751807c83bbb5a2eb5b532b0e5ffca785630c03284",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-23 20:02:31",
+      "update_date": "2021-01-23 20:03:58",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/839902.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Моцарт в джунглях",
+      "title_en": "Mozart in the Jungle",
+      "year": 2014,
+      "kinopoisk_id": 804666,
+      "world_art_id": null,
+      "translator": "Alexfilm",
+      "token": "d0d24b801a8bc3f9ebe728f7a2bc2afffb90ae1ea6cab31bfdcd261b776226da",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-23 20:00:43",
+      "update_date": "2021-01-23 20:02:15",
+      "block": false,
+      "translator_id": 3,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/804666.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Долгая дорога домой",
@@ -987,158 +1189,6 @@
             9,
             10,
             11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сталкер",
-      "title_en": "Stalker",
-      "year": 2014,
-      "kinopoisk_id": 839599,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "1d9d5f870925dd1deb98db325d8a4f9353829c0e0dba1f3d7765b03922d6bc0a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-22 22:25:25",
-      "update_date": "2021-01-22 22:27:09",
-      "block": false,
-      "translator_id": 48,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/839599.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Фальсификация",
-      "title_en": "Faking It",
-      "year": 2014,
-      "kinopoisk_id": 789972,
-      "world_art_id": null,
-      "translator": "многоголосый закадровый",
-      "token": "18524f9aeff5dcc4d0d621fb6346acbc6ba2885da90dce3eae2a1667b0245ccf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-22 22:23:58",
-      "update_date": "2021-01-22 22:25:02",
-      "block": false,
-      "translator_id": 89,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/789972.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "В погоне за тенями",
-      "title_en": "Chasing Shadows",
-      "year": 2014,
-      "kinopoisk_id": 840618,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "97ebc4a8d6b2965d2a18f4934e7cb1267bf70b6ed577c66407d5d342c4314731",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-22 22:21:53",
-      "update_date": "2021-01-22 22:23:29",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/840618.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

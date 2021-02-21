@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Гости",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1115818,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-11 12:12:35",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Ограбление по Фрейду",
       "title_en": "Ruben Brandt, Collector",
       "year": 2018,
@@ -252,21 +265,6 @@
       "translator": "Дубляж [Чистый звук]",
       "translator_id": 109,
       "quality": "BDRip"
-    },
-    {
-      "title_ru": "Вокс люкс",
-      "title_en": "Vox Lux",
-      "year": 2018,
-      "kinopoisk_id": 1005972,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-08 11:31:27",
-      "block": [
-        "RU"
-      ],
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
     }
   ]
 }

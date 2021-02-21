@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Проклятие монахини",
+      "title_en": "The Nun",
+      "year": 2018,
+      "kinopoisk_id": 991225,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-05-20 11:25:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Люси",
       "title_en": "Lucy",
       "year": 2014,
@@ -248,17 +261,80 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "По соображениям совести",
-      "title_en": "Hacksaw Ridge",
+      "title_ru": "Красные браслеты",
+      "title_en": "",
       "year": 2016,
-      "kinopoisk_id": 649917,
-      "type": "movie",
+      "kinopoisk_id": 891366,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "d1fb8a17cef5d09b9b753e2e0c77a85da506d4b5cb6f8ea6f74aec0e4aad94bf",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-05-20 10:41:01",
+      "added_date": "2018-08-18 11:35:53",
+      "update_date": "2018-08-18 11:35:53",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/891366.jpg",
+      "trailer": "https://kp.cdn.yandex.net/891366/kinopoisk.ru-Krasnie-brasleti-304832.mp4",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Надежда как свидетельство жизни",
+      "title_en": "",
+      "year": 2008,
+      "kinopoisk_id": 406136,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "eff3c237f8400d7a4e46221129328f0c52d95b09ca9dfec9d8dee546c65e9bda",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-31 15:05:04",
+      "update_date": null,
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEBRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/406136.jpg",
+      "trailer": "",
+      "serial_episodes": []
+    },
+    {
+      "title_ru": "Пес",
+      "title_en": "",
+      "year": 2015,
+      "kinopoisk_id": 927789,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "9ebaaae5038c708e848d2bb1023c2fec67229b7481f22d522b1d9aadca8e4c21",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-10-30 23:56:10",
+      "update_date": null,
+      "block": false,
+      "translator_id": 92,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/927789.jpg",
+      "trailer": "",
+      "serial_episodes": []
     },
     {
       "title_ru": "",

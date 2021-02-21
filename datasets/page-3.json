@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "",
+      "title_en": "Summer Knight",
+      "year": 2019,
+      "kinopoisk_id": 1163187,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-18 15:42:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Новый год, новые мы",
       "title_en": "New Year, New Us",
       "year": 2019,
@@ -248,17 +261,513 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Корпорация Ad Libitum",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1101306,
-      "type": "movie",
+      "title_ru": "Детство Шелдона",
+      "title_en": "Young Sheldon",
+      "year": 2017,
+      "kinopoisk_id": 1040419,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "76cd53f3d0bf3e337824f40a4bb78a2bddd87434c4cf6133777b4292b64bdaf1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-18 07:57:01",
+      "added_date": "2020-02-16 22:00:22",
+      "update_date": "2021-02-20 09:06:56",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1040419.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=142672",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ванда/Вижн",
+      "title_en": "WandaVision",
+      "year": 2021,
+      "kinopoisk_id": 1203040,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "346dbe4d403997097e900dffff08c2669312f3e09a5e8830dda6d0ae467b89f3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-16 10:45:21",
+      "update_date": "2021-02-20 09:06:34",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1203040.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Уокер",
+      "title_en": "Walker",
+      "year": 2021,
+      "kinopoisk_id": 1309174,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "a26a996546d1a9aa54fd477a4618f85afcb1f21d37cc93228a640b247edf3399",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-23 09:53:45",
+      "update_date": "2021-02-20 09:06:20",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1309174.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Топ Гир Америка",
+      "title_en": "Top Gear America",
+      "year": 2021,
+      "kinopoisk_id": 10196394,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "8ea3526d2206f6e809bab41a7a2205c37dbaffa90c57a3f11cdd22c68743a798",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-30 09:30:49",
+      "update_date": "2021-02-20 09:06:01",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/10196394.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Дом с прислугой",
+      "title_en": "Servant",
+      "year": 2019,
+      "kinopoisk_id": 1188984,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "00a17ee55b6c81fdde9d9affcab6d2875b05365aba844718b659bbe3127371c2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-01-20 18:29:39",
+      "update_date": "2021-02-20 09:05:44",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1188984.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Тайны серных источников",
+      "title_en": "Secrets of Sulphur Springs",
+      "year": 2021,
+      "kinopoisk_id": 1317950,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "c598d2cacf344efc76feff62757f31555e896db3ddb7052b50d06c61cde44161",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-17 10:29:20",
+      "update_date": "2021-02-20 09:05:26",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1317950.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мистер Мэр",
+      "title_en": "Mr. Mayor",
+      "year": 2021,
+      "kinopoisk_id": 1291451,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "b551ff8785ef882f31f07ee802220c2150ce57568057f7511313cd4128b91a8e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-09 09:15:09",
+      "update_date": "2021-02-20 09:05:09",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://img.imgilall.me/movies/franchise/4/3/4/1/5/0/0/0/0/0/610x900_43415.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Марокканская мафия",
+      "title_en": "Mocro Maffia",
+      "year": 2018,
+      "kinopoisk_id": 1179946,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "a1f937a548fe64b20a7206793cd34c9b2f03a2b896d76ff39c731eeff3777a4b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-03 08:17:08",
+      "update_date": "2021-02-20 09:04:52",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1179946.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Наследие",
+      "title_en": "Legacies",
+      "year": 2018,
+      "kinopoisk_id": 1120247,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "ca6b002549f952fa726407bbafa6c8136e345e2d420cc0f0b89c3f3c5e0a1dd1",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-02-17 23:59:37",
+      "update_date": "2021-02-20 09:04:34",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1120247.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Закон и порядок. Специальный корпус",
+      "title_en": "Law &amp; Order: Special Victims Unit",
+      "year": 1999,
+      "kinopoisk_id": 184288,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "3b4843e688477caa81e1d37c174a20cb841642a87eae40496296448081445295",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-02-28 08:08:59",
+      "update_date": "2021-02-20 09:04:14",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/184288.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=125557",
+      "serial_episodes": [
+        {
+          "season_number": 21,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "season_number": 22,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Последний настоящий мужчина",
+      "title_en": "Last Man Standing",
+      "year": 2011,
+      "kinopoisk_id": 582232,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "eea0127ab6ded3d23bcacdbbff7812c1edf2633ba870ba1f928753c8d5056985",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-05 09:27:52",
+      "update_date": "2021-02-20 09:02:18",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/582232.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 9,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ради всего человечества",
+      "title_en": "For All Mankind",
+      "year": 2019,
+      "kinopoisk_id": 1188415,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "a5cdb3e99691c0d906c94c9e6d8352f0b8037ddcc8ffbe3f2e63f2ca93ac4a80",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-23 11:31:30",
+      "update_date": "2021-02-20 09:01:09",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1188415.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 1,
+          "episodes": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Племена Европы",
+      "title_en": "Tribes of Europa",
+      "year": 2021,
+      "kinopoisk_id": 1302772,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "2d0ecf79021c14ca990b0a318a4da8d2f4a2df43412a7aca8e10adb2419e1bbd",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-20 08:59:41",
+      "update_date": "2021-02-20 09:00:17",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1302772.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Интернат",
@@ -521,533 +1030,6 @@
       "translator_id": 14,
       "quality": "WEB-DL",
       "poster": "https://st.kp.yandex.net/images/film_big/4361620.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мы дети станции Зоо",
-      "title_en": "Wir Kinder vom Bahnhof Zoo",
-      "year": 2021,
-      "kinopoisk_id": 1420179,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "8b966e5d1eefd96b5784f9f2bf8f8ac4eb9a62ce7b6ccde3ea16ac18e33e444e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-20 08:53:15",
-      "update_date": "2021-02-20 08:53:53",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1420179.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Иерро",
-      "title_en": "Hierro",
-      "year": 2019,
-      "kinopoisk_id": 1145306,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "6d5f985bcb298d59bcf5dd2e770b048055f2d4261393eb4c8c2eac7b908e56c3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-19 21:44:08",
-      "update_date": "2021-02-20 08:36:07",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1145306.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Стыд (Франция)",
-      "title_en": "Skam France",
-      "year": 2018,
-      "kinopoisk_id": 1112625,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "d998903dafa765e05cc5c0b51a38bff8e05ee83741499395a7d99ef124c66917",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-22 23:45:03",
-      "update_date": "2021-02-20 00:22:31",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1112625.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 7,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ради всего человечества",
-      "title_en": "For All Mankind",
-      "year": 2019,
-      "kinopoisk_id": 1188415,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "55b3297877f9118cda8475455b3633d45a3d90775034e7e83699c1df7eb36b54",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-19 22:23:17",
-      "update_date": "2021-02-19 22:23:54",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1188415.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 1,
-          "episodes": [
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Игрок",
-      "title_en": "Peulleieo",
-      "year": 2018,
-      "kinopoisk_id": 1115711,
-      "world_art_id": null,
-      "translator": "HighHopes",
-      "token": "7b466e190a9547be14750eb78cae123cb044244c567cadac12cc6ddcca15d94c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-19 22:06:36",
-      "update_date": "2021-02-19 22:07:41",
-      "block": false,
-      "translator_id": 168,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1115711.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Гастролёры",
-      "title_en": "Roadies",
-      "year": 2016,
-      "kinopoisk_id": 868526,
-      "world_art_id": null,
-      "translator": "Jaskier",
-      "token": "d8d3cd9a4e3d9b8390126a5800649b23d9943d08a78cbfc5e11159d3a96e4d43",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-19 22:05:31",
-      "update_date": "2021-02-19 22:06:41",
-      "block": false,
-      "translator_id": 36,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/868526.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Хэп и Леонард",
-      "title_en": "Hap and Leonard",
-      "year": 2016,
-      "kinopoisk_id": 891670,
-      "world_art_id": null,
-      "translator": "Alexfilm",
-      "token": "d2362ce336d481497a83316f508783bf04da00e2efe6ef29d7e0054f8e5ffcce",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-19 22:04:13",
-      "update_date": "2021-02-19 22:05:12",
-      "block": false,
-      "translator_id": 3,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/891670.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Оттенки синего",
-      "title_en": "Shades of Blue",
-      "year": 2016,
-      "kinopoisk_id": 890417,
-      "world_art_id": null,
-      "translator": "True Dubbing Studio",
-      "token": "fd0c2c74a685ac75593dcd05d146ea28f24abad33faebf17cad386e5abc1b810",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-19 22:03:09",
-      "update_date": "2021-02-19 22:04:27",
-      "block": false,
-      "translator_id": 134,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/890417.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ложное обвинение",
-      "title_en": "Conviction",
-      "year": 2016,
-      "kinopoisk_id": 979247,
-      "world_art_id": null,
-      "translator": "Jaskier",
-      "token": "f30f80ad646f293b6287d1c4189207e69a1e542b57f8505b32ba9daede8a49e3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-19 22:01:30",
-      "update_date": "2021-02-19 22:02:43",
-      "block": false,
-      "translator_id": 36,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/979247.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Изумрудный город",
-      "title_en": "Emerald City",
-      "year": 2016,
-      "kinopoisk_id": 840106,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "b2419acba4c71430709531b53c20ab6c1c1b4855de2db45f8851686c96990fe1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-19 22:00:37",
-      "update_date": "2021-02-19 22:01:36",
-      "block": false,
-      "translator_id": 60,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/840106.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Граница",
-      "title_en": "Frontier",
-      "year": 2016,
-      "kinopoisk_id": 958575,
-      "world_art_id": null,
-      "translator": "Jaskier",
-      "token": "815ad159371fe72245534c1539210fdd25cb6b4a6c8da093b40bd76562b80831",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-19 21:59:20",
-      "update_date": "2021-02-19 22:00:42",
-      "block": false,
-      "translator_id": 36,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/958575.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Класс",
-      "title_en": "Class",
-      "year": 2016,
-      "kinopoisk_id": 972319,
-      "world_art_id": null,
-      "translator": "Jaskier",
-      "token": "545f7df45a00286faf52e9defc50da59880faaa35356af82a39464700fed69d7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-19 21:58:13",
-      "update_date": "2021-02-19 21:59:02",
-      "block": false,
-      "translator_id": 36,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/972319.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дэмиен",
-      "title_en": "Damien",
-      "year": 2016,
-      "kinopoisk_id": 891586,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "d47a593441ca0f958d4f71a53e650e698e227f2a1b76e61f3cb092b0ca2abcb5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-19 21:57:11",
-      "update_date": "2021-02-19 21:58:27",
-      "block": false,
-      "translator_id": 48,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/891586.jpg",
       "trailer": "",
       "serial_episodes": [
         {

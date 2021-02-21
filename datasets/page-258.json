@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Клиника",
+      "title_en": "The Clinic",
+      "year": 2009,
+      "kinopoisk_id": 437057,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-27 01:45:01",
+      "block": false,
+      "translator": "одноголосый закадровый",
+      "translator_id": 93,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "В электрическом тумане",
       "title_en": "In the Electric Mist",
       "year": 2009,
@@ -248,17 +261,173 @@
       "quality": "BluRay"
     },
     {
-      "title_ru": "Маленькая Одесса",
-      "title_en": "Little Odessa",
-      "year": 1994,
-      "kinopoisk_id": 9474,
-      "type": "movie",
+      "title_ru": "Фантастическая звезда онлайн 2: Эпизод Оракул",
+      "title_en": "Phantasy Star Online 2: Episode Oracle",
+      "year": 2019,
+      "kinopoisk_id": 10814346,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "40e280097d6895a2fb4fabe7fa7fdf2f8507c68eb5b032f0f0f2180067f79c87",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-27 01:25:02",
+      "added_date": "2020-03-31 13:47:56",
+      "update_date": "2020-03-31 13:47:56",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/10814346.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 26,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Хороший доктор",
+      "title_en": "The Good Doctor",
+      "year": 2017,
+      "kinopoisk_id": 1011528,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "7241b42fef47e724b726fe9a22171172e5123358bfc3ee2b7ae4aff1cf5a94c8",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-31 13:44:56",
+      "update_date": "2020-03-31 13:44:56",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1011528.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=144648",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Озарк",
+      "title_en": "Ozark",
+      "year": 2017,
+      "kinopoisk_id": 1045553,
+      "world_art_id": null,
+      "translator": "Пифагор",
+      "token": "2e180a1e411b26da004f1539eda14c475937af0773b63bd0785ecbcff954ec6e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-31 08:18:46",
+      "update_date": "2020-03-31 08:18:46",
+      "block": false,
+      "translator_id": 124,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1045553.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=142747",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Озарк",
@@ -976,123 +1145,6 @@
             22,
             23,
             24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Наследие",
-      "title_en": "Legacies",
-      "year": 2018,
-      "kinopoisk_id": 1120247,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "13d654fd95877f8955a2d9962b8c224220eb9cd3fd9eca5c49bd37c7ae641b4d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-27 12:08:25",
-      "update_date": "2020-03-27 12:08:25",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1120247.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Заместитель",
-      "title_en": "Deputy",
-      "year": 2020,
-      "kinopoisk_id": 1245494,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "cd191c78bf70662096c99fc1ab3761c3552742e3e6cf8d36c528db133257c6ba",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-27 12:05:31",
-      "update_date": "2020-03-27 12:05:31",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1245494.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Звёздный путь: Пикар",
-      "title_en": "Star Trek: Picard",
-      "year": 2020,
-      "kinopoisk_id": 1178022,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "b5d177781dcc9d67245118bc2db9c506b24a1034fb9de3c9db734c41848708ca",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-27 10:05:07",
-      "update_date": "2020-03-27 10:05:07",
-      "block": false,
-      "translator_id": 60,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1178022.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

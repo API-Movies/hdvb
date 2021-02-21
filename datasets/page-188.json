@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Одна ночь в Бангкоке",
+      "title_en": "One Night in Bangkok",
+      "year": 2020,
+      "kinopoisk_id": 1379620,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-14 17:06:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "DVDRip"
+    },
+    {
       "title_ru": "Отрыв",
       "title_en": "Spree",
       "year": 2020,
@@ -251,17 +264,102 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Суне против Суне",
-      "title_en": "Sune vs. Sune",
-      "year": 2018,
-      "kinopoisk_id": 1087409,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-13 21:00:01",
-      "block": false,
+      "title_ru": "Особый закон романтики",
+      "title_en": "Romaenseu teukbyeolbeop",
+      "year": 2017,
+      "kinopoisk_id": 1049797,
+      "world_art_id": null,
       "translator": "многоголосый закадровый",
+      "token": "25e33c7374e7b25611210d68465deaf17be6121ebfc605e654f6f2d8e32e73a0",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-29 00:30:26",
+      "update_date": "2020-07-29 00:31:38",
+      "block": false,
       "translator_id": 89,
-      "quality": "WEB-DL"
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1049797.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Шерлок Холмс",
+      "title_en": "",
+      "year": 2013,
+      "kinopoisk_id": 417715,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "34aca3fb7998733f615310b01092d70a772e29f75641d50dc56a08ead95f6878",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-29 00:27:27",
+      "update_date": "2020-07-29 00:28:29",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/417715.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Богомол",
+      "title_en": "La Mante",
+      "year": 2017,
+      "kinopoisk_id": 1111975,
+      "world_art_id": null,
+      "translator": "Игмар",
+      "token": "2d6a5dbfd1e7acc81dd1854b427d7a91a3e726b4bfe649e861fb748b8f03f1ed",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-28 22:09:50",
+      "update_date": "2020-07-28 22:12:17",
+      "block": false,
+      "translator_id": 160,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1111975.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Китай, Иллинойс",
@@ -1326,166 +1424,6 @@
             20,
             21,
             22
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Доктора акушеры-гинекологи",
-      "title_en": "Sanbuingwa",
-      "year": 2010,
-      "kinopoisk_id": 707368,
-      "world_art_id": null,
-      "translator": "SoftBox",
-      "token": "4f09829bf86548f68c402adb18c254ca66c4122854bf9b2683861e058c11a7c4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-28 02:10:27",
-      "update_date": "2020-07-28 02:10:27",
-      "block": false,
-      "translator_id": 106,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/707368.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чумовые тётки",
-      "title_en": "Knallerfrauen",
-      "year": 2011,
-      "kinopoisk_id": 688590,
-      "world_art_id": null,
-      "translator": "ViruseProject",
-      "token": "d3d2bb862ea3fab1c7653fabb92886623be8898e7591f376ce516400fb51344f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-28 02:04:37",
-      "update_date": "2020-07-28 02:04:37",
-      "block": false,
-      "translator_id": 72,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/688590.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Этой зимой дует ветер",
-      "title_en": "Geu gyeoul, barami bunda",
-      "year": 2013,
-      "kinopoisk_id": 738939,
-      "world_art_id": null,
-      "translator": "STEPonee",
-      "token": "de635a09b39dfc9f28918dad75426705b00fa82e3da739aa6176ff441210347c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-28 01:56:31",
-      "update_date": "2020-07-28 01:56:31",
-      "block": false,
-      "translator_id": 65,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/738939.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
           ]
         }
       ]

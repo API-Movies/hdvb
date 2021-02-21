@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Довод",
+      "title_en": "Tenet",
+      "year": 2020,
+      "kinopoisk_id": 1236063,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-04 13:41:01",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Новые мутанты",
       "title_en": "The New Mutants",
       "year": 2020,
@@ -248,17 +261,116 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Фрики: Ты один из нас",
-      "title_en": "Freaks: You're One of Us",
-      "year": 2020,
-      "kinopoisk_id": 1399051,
-      "type": "movie",
+      "title_ru": "24 часа: Проживи еще один день",
+      "title_en": "24: Live Another Day",
+      "year": 2014,
+      "kinopoisk_id": 498658,
+      "world_art_id": null,
+      "translator": "Newstudio",
+      "token": "9a677f532f0060e335974b23b487b3892b40950667ca8ca0e316e7117507e803",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-03 01:55:02",
+      "added_date": "2020-08-20 20:39:49",
+      "update_date": "2020-08-20 20:43:29",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 48,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/498658.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Печная лига",
+      "title_en": "Seutobeurigeu",
+      "year": 2019,
+      "kinopoisk_id": 1297133,
+      "world_art_id": null,
+      "translator": "Мобильное телевидение",
+      "token": "659529566d0de794476f85efea2acf7818298f7638028fbc0c4b0e37ed183051",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-20 18:40:07",
+      "update_date": "2020-08-20 18:41:02",
+      "block": false,
+      "translator_id": 133,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1297133.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Биохакеры",
+      "title_en": "Biohackers",
+      "year": 2020,
+      "kinopoisk_id": 1395418,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "569736d52755924c2bab3e7e9f78991847a364ca2871756dcf46f8eaaa48224c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-20 17:54:33",
+      "update_date": "2020-08-20 17:55:07",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1395418.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "По законам военного времени",
@@ -1129,171 +1241,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Киллер Севен",
-      "title_en": "Scissor Seven",
-      "year": 2019,
-      "kinopoisk_id": 1342761,
-      "world_art_id": null,
-      "translator": "NewStation",
-      "token": "44d75a88bc60737e6793582a03addc21347e0b67c945949966b28e96d5659fcf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-19 21:09:52",
-      "update_date": "2020-08-19 21:10:46",
-      "block": false,
-      "translator_id": 138,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1342761.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Жизнь и приключения робота-подростка",
-      "title_en": "My Life as a Teenage Robot",
-      "year": 2003,
-      "kinopoisk_id": 416180,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "e140ae8b7db6be72514ddb23c84c3202cbd35b8a137c68cbb1d134df5fcb91b4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-19 21:07:49",
-      "update_date": "2020-08-19 21:09:36",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/416180.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Не говорите моему шефу",
-      "title_en": "Non dirlo al mio capo",
-      "year": 2016,
-      "kinopoisk_id": 982771,
-      "world_art_id": null,
-      "translator": "ViruseProject",
-      "token": "a45cd33b749cf6c17f52c6c9128e069617bfa60398a37da7cecd1a7da8d7d04d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-19 21:06:00",
-      "update_date": "2020-08-19 21:07:12",
-      "block": false,
-      "translator_id": 72,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/982771.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            3,
-            5,
-            7,
-            9,
-            11
           ]
         }
       ]

@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Художник",
+      "title_en": "Painter",
+      "year": 2020,
+      "kinopoisk_id": 1114480,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-13 23:33:03",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Это была Америка",
       "title_en": "This Was America",
       "year": 2020,
@@ -248,17 +261,117 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Я - робот",
-      "title_en": "iBOT",
-      "year": 2020,
-      "kinopoisk_id": 1164890,
-      "type": "movie",
+      "title_ru": "Гадание при свечах",
+      "title_en": "",
+      "year": 2010,
+      "kinopoisk_id": 487349,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "8309a1753b77a204665eaab08cfde1eede693cd902848580a5e9bcf02d2c441c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-12 21:01:02",
+      "added_date": "2020-10-03 21:00:58",
+      "update_date": "2020-10-03 21:14:33",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/487349.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Солнечные дни",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 45737845,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "ba2162e314fc906ca88a3ca0acd1b1ff02e30fff3d04a9e0734ccc1afcdb82d7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-03 20:05:52",
+      "update_date": "2020-10-03 20:06:28",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEBRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/45737845.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ходячие мертвецы",
+      "title_en": "The Walking Dead",
+      "year": 2010,
+      "kinopoisk_id": 508161,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "c90df484be0943e7082271450d904f85da4393ae91bf4dedf287ef1c867f3506",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-04 13:41:37",
+      "update_date": "2020-10-03 10:19:54",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/508161.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=142978",
+      "serial_episodes": [
+        {
+          "season_number": 10,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Тед Лассо",
@@ -1352,134 +1465,6 @@
       "serial_episodes": [
         {
           "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Доброе утро, Вероника",
-      "title_en": "Bom Dia, Verônica",
-      "year": 2020,
-      "kinopoisk_id": 1403707,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "5444bb7acbb8a25dfc7bebe25245de1053ef9e1a0ba4893de53eaf8eedddc174",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-02 08:45:50",
-      "update_date": "2020-10-02 08:47:00",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1403707.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Команда Бенедикт",
-      "title_en": "Benedict Men",
-      "year": 2020,
-      "kinopoisk_id": 1259690,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "f99147d1eb5dc189da5708bb1103aa998a0b3fbe31d74364b99201dc350f5fdd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-24 08:55:29",
-      "update_date": "2020-10-02 08:46:21",
-      "block": false,
-      "translator_id": 14,
-      "quality": "CAMRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1259690.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "50 штатов страха",
-      "title_en": "50 States of Fright",
-      "year": 2020,
-      "kinopoisk_id": 1272561,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "d9785a7c6b55e59b9fda89ab8707f64d057160798838798a7ca889d6f9a7e608",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-22 22:50:32",
-      "update_date": "2020-10-02 08:44:41",
-      "block": false,
-      "translator_id": 14,
-      "quality": "TS",
-      "poster": "https://st.kp.yandex.net/images/film_big/1272561.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "season_number": 2,
           "episodes_count": 10,
           "episodes": [
             1,

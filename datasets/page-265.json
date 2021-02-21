@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Большой фанат",
+      "title_en": "Big Fan",
+      "year": 2009,
+      "kinopoisk_id": 430635,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-25 17:10:01",
+      "block": false,
+      "translator": "одноголосый закадровый",
+      "translator_id": 93,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Большой Бак",
       "title_en": "Big Buck Bunny",
       "year": 2008,
@@ -248,17 +261,105 @@
       "quality": "BluRay"
     },
     {
-      "title_ru": "Навахо Джо",
-      "title_en": "Navajo Joe",
-      "year": 1966,
-      "kinopoisk_id": 31323,
-      "type": "movie",
+      "title_ru": "Агата Рейзин",
+      "title_en": "Agatha Raisin",
+      "year": 2016,
+      "kinopoisk_id": 932339,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "01aa1fe539a9a454337b8a07b2af407ffb6a141f6a218352909d2086cf7a37d2",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-25 16:50:02",
+      "added_date": "2020-03-01 19:31:37",
+      "update_date": "2020-03-01 19:31:37",
       "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "BluRay"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/932339.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Видоизмененный углерод",
+      "title_en": "Altered Carbon",
+      "year": 2018,
+      "kinopoisk_id": 669089,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "de7d778b6575a157ffea375a6e79f6182f9b7ab66bb2b79c9d6ea4c886389ac9",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-01 19:01:16",
+      "update_date": "2020-03-01 19:01:16",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/669089.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=145434",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Смерть в раю",
+      "title_en": "Death in Paradise",
+      "year": 2011,
+      "kinopoisk_id": 592197,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "c2c92331ce4fc5351fb7f793e59b201ad6119426ece4b740a0e3996efbe82f85",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-01 19:00:43",
+      "update_date": "2020-03-01 19:00:43",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/592197.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 9,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Формула 1: Гонять, чтобы выживать",
@@ -912,109 +1013,6 @@
             19,
             20,
             21
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Охотники",
-      "title_en": "Hunters",
-      "year": 2020,
-      "kinopoisk_id": 1170235,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "abfe3bf91f6e73c4fb43cfe131fb9bef0db61dbe0f60cd8c386a4e45752346f8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-24 15:20:16",
-      "update_date": "2020-02-24 15:20:16",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1170235.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Молодой Морс",
-      "title_en": "Endeavour",
-      "year": 2012,
-      "kinopoisk_id": 747494,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "6a40d5bd5eaf70243a699a9297f34e86ab80c924531ea61eaf62089d12482ff0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-24 14:30:24",
-      "update_date": "2020-02-24 14:30:24",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/747494.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 7,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Зовите повитуху",
-      "title_en": "Call the Midwife",
-      "year": 2012,
-      "kinopoisk_id": 664424,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "688c971f0cc1938d1340d3b9a3ab6cc26386282f7b0d7493f8e61c28f76b2b46",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-24 14:30:02",
-      "update_date": "2020-02-24 14:30:02",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/664424.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 9,
-          "episodes_count": 9,
-          "episodes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

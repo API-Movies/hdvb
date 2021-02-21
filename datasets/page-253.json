@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "В погоне за наследством",
+      "title_en": "Locos por la herencia",
+      "year": 2019,
+      "kinopoisk_id": 1342697,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-28 22:33:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Мой отец Марианна",
       "title_en": "Min pappa Marianne",
       "year": 2020,
@@ -248,17 +261,124 @@
       "quality": "DVDRip"
     },
     {
-      "title_ru": "Одна миллиардная доля",
-      "title_en": "Parts Per Billion",
-      "year": 2014,
-      "kinopoisk_id": 715451,
-      "type": "movie",
+      "title_ru": "Морская полиция: Спецотдел",
+      "title_en": "NCIS: Naval Criminal Investigative Service",
+      "year": 2003,
+      "kinopoisk_id": 251725,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "0702629a4bde6bdaa93769aa2638d0379362c3ef52bcb9ca542a7374dfac37cf",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-27 17:17:02",
+      "added_date": "2020-04-15 19:23:29",
+      "update_date": "2020-04-15 19:23:29",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BluRay"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/251725.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=15266",
+      "serial_episodes": [
+        {
+          "season_number": 17,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Новый Амстердам",
+      "title_en": "New Amsterdam",
+      "year": 2018,
+      "kinopoisk_id": 1129490,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "75a1af1b48a60d81d0bc8e28c2831dfeadaea7963b48efa2b4c61b9a17e3337a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-15 15:09:33",
+      "update_date": "2020-04-15 15:09:33",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1129490.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Прикуп",
+      "title_en": "The Take",
+      "year": 2009,
+      "kinopoisk_id": 487211,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "e6ab39632a8803940691e83738c8b1a1964592c1ee8b85d61b9e56decc70e46b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-15 12:58:50",
+      "update_date": "2020-04-15 12:58:50",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/487211.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Счастье по договору",
@@ -1033,152 +1153,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Подпольная империя",
-      "title_en": "Boardwalk Empire",
-      "year": 2010,
-      "kinopoisk_id": 474779,
-      "world_art_id": null,
-      "translator": "АРК ТВ",
-      "token": "03788b02f12f5db950a2d48522ad4347eb387352759e140c0dbef117ac772d75",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-11 23:05:34",
-      "update_date": "2020-04-11 23:05:34",
-      "block": false,
-      "translator_id": 77,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/474779.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Подпольная империя",
-      "title_en": "Boardwalk Empire",
-      "year": 2010,
-      "kinopoisk_id": 474779,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "8e5eb1df1911afe11f580a3d5c161907502336ed417271b8ea65ebc7140d7c22",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-11 23:00:41",
-      "update_date": "2020-04-11 23:00:41",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/474779.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Подпольная империя",
-      "title_en": "Boardwalk Empire",
-      "year": 2010,
-      "kinopoisk_id": 474779,
-      "world_art_id": null,
-      "translator": "Первый канал",
-      "token": "9c56fbc68ae98a2bac8898b38cb3d8590eed71ac7d978d41ec599a420d6e8c63",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-11 22:51:12",
-      "update_date": "2020-04-11 22:51:12",
-      "block": false,
-      "translator_id": 94,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/474779.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

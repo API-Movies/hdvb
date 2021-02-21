@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Вместе",
+      "title_en": "Together",
+      "year": 2020,
+      "kinopoisk_id": 1006079,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-11 01:49:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Улицы Синдиката, Огайо",
       "title_en": "Streets of Syndicate / Streets of Syndicate Ohio / The Edge of Indolence",
       "year": 2020,
@@ -248,17 +261,118 @@
       "quality": "DVDRip"
     },
     {
-      "title_ru": "Львы-холостяки",
-      "title_en": "Bachelor Lions",
-      "year": 2020,
-      "kinopoisk_id": 1019414,
-      "type": "movie",
+      "title_ru": "Кровавый след",
+      "title_en": "Trackers",
+      "year": 2019,
+      "kinopoisk_id": 1230284,
+      "world_art_id": null,
+      "translator": "Novamedia",
+      "token": "c5a8083b4e29e5df79677587f67c5fcc753fe2e69384d6ae24af3779ca1983d0",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-09 18:19:01",
+      "added_date": "2020-07-23 08:51:40",
+      "update_date": "2020-07-23 08:51:40",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 51,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1230284.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мы охотимся вместе",
+      "title_en": "We Hunt Together",
+      "year": 2020,
+      "kinopoisk_id": 1307024,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "6ab8b346e584729a3b1f90008c5da43ebed2950b32b8cae7e3f99ac7c696faae",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-23 08:46:39",
+      "update_date": "2020-07-23 08:46:39",
+      "block": false,
+      "translator_id": 60,
+      "quality": "HDTV",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1307024.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Возвращение чемпиона",
+      "title_en": "Vechtershart",
+      "year": 2015,
+      "kinopoisk_id": 1033117,
+      "world_art_id": null,
+      "translator": "ShowJet",
+      "token": "67720dab8dbeaa77002e618cabca19f6682d7e60657a849766ec1cf3ad07e9b9",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-23 03:27:40",
+      "update_date": "2020-07-23 03:27:40",
+      "block": false,
+      "translator_id": 125,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1033117.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Доверься мне",
@@ -1197,129 +1311,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ханна",
-      "title_en": "Hanna",
-      "year": 2019,
-      "kinopoisk_id": 1112559,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "167bf24f080524067bd51dcfeee68c8f7e6b5df2eb78cdbc7dccbfc103d9a9d5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-21 19:40:46",
-      "update_date": "2020-07-21 19:40:46",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1112559.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Позвони мне, если ты умрешь",
-      "title_en": "Appelle-moi si tu meurs",
-      "year": 2019,
-      "kinopoisk_id": 1256615,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "74e5e58a0e56808bf0e9ea7bec8b240ff0abc6acaffd1835f0e7217795d58e79",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-21 16:07:26",
-      "update_date": "2020-07-21 16:07:26",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1256615.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Привет, Мини",
-      "title_en": "Hello Mini",
-      "year": 2019,
-      "kinopoisk_id": 1221434,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "b380a94b8385b134e04012562bd20aa6a45a3a11f744467a32ba9931a35b9bd7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-21 10:42:32",
-      "update_date": "2020-07-21 10:42:32",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1221434.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
           ]
         }
       ]

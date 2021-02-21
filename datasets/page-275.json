@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Под покровом небес",
+      "title_en": "The Sheltering Sky",
+      "year": 1990,
+      "kinopoisk_id": 6777,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-23 15:09:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Леший",
       "title_en": "The Gingerbread Man",
       "year": 1997,
@@ -248,17 +261,114 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Голодарь",
-      "title_en": "Danjiki geinin / Artist of fasting",
-      "year": 2016,
-      "kinopoisk_id": 954115,
-      "type": "movie",
+      "title_ru": "Звёздный путь: Короткометражки",
+      "title_en": "Star Trek: Short Treks",
+      "year": 2018,
+      "kinopoisk_id": 1198462,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "a2ec828a41b8fcd622a77ad0ca90aa90a174765d9c0e419484c28a362adaa8cf",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-22 15:55:01",
+      "added_date": "2020-01-14 17:41:25",
+      "update_date": "2020-01-14 17:41:25",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1198462.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Медицинская полиция",
+      "title_en": "Medical Police",
+      "year": 2020,
+      "kinopoisk_id": 1245640,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "72c19706b58bf301f8ddf95bb649b7c48da9cc922083664b46f6588dfefb3b98",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-01-14 09:05:21",
+      "update_date": "2020-01-14 09:05:21",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1245640.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Звёздный путь: Короткометражки",
+      "title_en": "Star Trek: Short Treks",
+      "year": 2018,
+      "kinopoisk_id": 1198462,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "c0a92bdce57d5768bf99ab8655a9bc0eaa36d0d3fffa4fe5b5d0f4b2e52a0600",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-01-14 09:03:08",
+      "update_date": "2020-01-14 09:03:08",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1198462.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Крепостная",
@@ -982,114 +1092,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Старая гвардия",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1235983,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "19616241404178b5e5d0c56ee600d4cbf0f519a0b4435d580c3fceaebdff0637",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-06 15:32:23",
-      "update_date": "2020-01-06 15:32:23",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1235983.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дракула",
-      "title_en": "Dracula",
-      "year": 2020,
-      "kinopoisk_id": 1202266,
-      "world_art_id": null,
-      "translator": "Невафильм",
-      "token": "a7115908a1f230507795010084f8cff208baf3d1456f0dd754a0f3e74e8088a0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-06 09:50:35",
-      "update_date": "2020-01-06 09:50:35",
-      "block": false,
-      "translator_id": 90,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1202266.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дракула",
-      "title_en": "Dracula",
-      "year": 2020,
-      "kinopoisk_id": 1202266,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "ff269fc790271b2414f03e106d55074c3d0278c195359aa10400906b5f44b3c8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-06 09:39:59",
-      "update_date": "2020-01-06 09:39:59",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1202266.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
           ]
         }
       ]

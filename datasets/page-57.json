@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Перепало?",
+      "title_en": "T'as pécho?",
+      "year": 2020,
+      "kinopoisk_id": 1391217,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-31 00:14:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Игрок",
       "title_en": "",
       "year": 2020,
@@ -248,17 +261,203 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Красный Чемодан",
-      "title_en": "Baggage Red",
-      "year": 2020,
-      "kinopoisk_id": 1303364,
-      "type": "movie",
+      "title_ru": "Вселенная Стивена",
+      "title_en": "Steven Universe",
+      "year": 2013,
+      "kinopoisk_id": 790336,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "5f7ee1c23c667108b12cc2e18f9a5a332d2ac1204d9a03e929f68944257cd819",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-30 12:26:02",
+      "added_date": "2020-12-26 22:36:06",
+      "update_date": "2020-12-26 22:36:54",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/790336.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 30,
+          "episodes": [
+            1,
+            3,
+            5,
+            7,
+            9,
+            11,
+            13,
+            15,
+            17,
+            20,
+            21,
+            23,
+            25,
+            27,
+            29,
+            31,
+            33,
+            35,
+            37,
+            39,
+            41,
+            43,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            10,
+            11,
+            13,
+            15,
+            17,
+            19,
+            21,
+            23,
+            25
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            3,
+            5,
+            6,
+            8,
+            10,
+            12,
+            14,
+            16,
+            18,
+            20,
+            22,
+            24
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            3,
+            5,
+            7,
+            8,
+            10,
+            11,
+            13,
+            15,
+            17,
+            19,
+            21,
+            23,
+            25
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            3,
+            5,
+            7,
+            9,
+            11,
+            13,
+            15,
+            17,
+            19,
+            21,
+            23,
+            25,
+            27,
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Подруги",
+      "title_en": "Girlfriends",
+      "year": 2018,
+      "kinopoisk_id": 1112138,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "1d084603e6aceb7335e06ef4b2dbb7b9861c190223195a8a42e08603511a20f7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-26 22:33:11",
+      "update_date": "2020-12-26 22:35:40",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1112138.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Три девушки",
+      "title_en": "Three Girls",
+      "year": 2017,
+      "kinopoisk_id": 1045514,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "8bd660c5e899e8bb10573c1ccb04af289009d7b5e054d75d41cf3103acf779e9",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-26 22:32:07",
+      "update_date": "2020-12-26 22:33:17",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1045514.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Форсаж: Шпионы-гонщики",
@@ -1356,111 +1555,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бриджертоны",
-      "title_en": "Bridgerton",
-      "year": 2020,
-      "kinopoisk_id": 1278808,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "2e4986c75075d8b845889d12dd777729adedfb6ed97c7ab182f8f429bb0c6472",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-25 13:31:01",
-      "update_date": "2020-12-25 13:33:32",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1278808.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Призраки",
-      "title_en": "Ghosts",
-      "year": 2019,
-      "kinopoisk_id": 1236766,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "75859ba3dafb3b82b8b864b965e821bbc453fae4b62cba7a8637ef2a3699ca74",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-23 16:12:11",
-      "update_date": "2020-12-25 08:51:54",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1236766.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Черные вдовы",
-      "title_en": "Black Widows",
-      "year": 2020,
-      "kinopoisk_id": 1404337,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "7c52f5fb429cf0e307961e28498ceb12aea5b8d4ffd9cb8b7cbf69214dabc5c4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-24 09:08:23",
-      "update_date": "2020-12-25 08:51:31",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1404337.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Зеленая миля",
+      "title_en": "The Green Mile",
+      "year": 1999,
+      "kinopoisk_id": 435,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-10 03:12:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Запретная зона",
       "title_en": "Chernobyl Diaries",
       "year": 2012,
@@ -248,17 +261,108 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "На пятьдесят оттенков темнее",
-      "title_en": "Fifty Shades Darker",
-      "year": 2017,
-      "kinopoisk_id": 893487,
-      "type": "movie",
+      "title_ru": "Последний танец",
+      "title_en": "The Last Dance",
+      "year": 2020,
+      "kinopoisk_id": 1162628,
+      "world_art_id": null,
+      "translator": "Netflix",
+      "token": "fe858c98b3ffbe2dea50b2b0fb63204cf31d62d97fa8366fac2b3d6fc5388e86",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-10 00:50:01",
+      "added_date": "2020-05-19 09:44:13",
+      "update_date": "2020-05-19 09:44:13",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 113,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1162628.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Белые линии",
+      "title_en": "White Lines",
+      "year": 2020,
+      "kinopoisk_id": 1280210,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "2f6ca407b9f3ea058858f341dfa56e0a1da409f6f7a6e60ec1dbcb1d5d95fad8",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-19 09:35:16",
+      "update_date": "2020-05-19 09:35:16",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1280210.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Светила",
+      "title_en": "The Luminaries",
+      "year": 2020,
+      "kinopoisk_id": 1192866,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "d19038fee93bd91d3c405d6be4fbfbe8503b544cfe0b3e72de5b7b4eb337eaec",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-19 09:30:22",
+      "update_date": "2020-05-19 09:30:22",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEBRip",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1192866.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Последнее королевство",
@@ -1003,140 +1107,6 @@
         },
         {
           "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рагнарёк",
-      "title_en": "Ragnarok",
-      "year": 2020,
-      "kinopoisk_id": 1254370,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "9e6c665c84bec8993c036ca7bcb565db2b60bc9d6db202e210899457e79fbd24",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-17 23:06:32",
-      "update_date": "2020-05-17 23:06:32",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1254370.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Гранчестер",
-      "title_en": "Grantchester",
-      "year": 2014,
-      "kinopoisk_id": 840574,
-      "world_art_id": null,
-      "translator": "ТВЦ",
-      "token": "98ae45643cb60d8c46a2905b71d890750745f7056c8b6e74c4704fc4fa6b7a24",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-17 23:03:36",
-      "update_date": "2020-05-17 23:03:36",
-      "block": false,
-      "translator_id": 136,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/840574.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Незнакомец",
-      "title_en": "The Stranger",
-      "year": 2020,
-      "kinopoisk_id": 1263496,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "eb76f2c4c70ff38faf07ef4916e33d2bea12705fddc541cafc5544c65d5a0fb9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-17 23:00:25",
-      "update_date": "2020-05-17 23:00:25",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1263496.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 8,
           "episodes": [
             1,

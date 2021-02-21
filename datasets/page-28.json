@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Перемещение",
+      "title_en": "Transference",
+      "year": 2020,
+      "kinopoisk_id": 1265073,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-29 07:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Сан",
       "title_en": "Sun",
       "year": 2019,
@@ -248,17 +261,144 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Рия",
-      "title_en": "R.I.A. / Override",
-      "year": 2021,
-      "kinopoisk_id": 1202504,
-      "type": "movie",
+      "title_ru": "Конец детства",
+      "title_en": "Childhood\\'s End",
+      "year": 2015,
+      "kinopoisk_id": 844223,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "745f492d2a09201f75ccc862baf3e9dffc7baf5514dc877a293b41c01c1ada76",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-28 01:20:01",
+      "added_date": "2021-02-01 22:46:09",
+      "update_date": "2021-02-01 22:48:30",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/844223.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Зоо-апокалипсис",
+      "title_en": "Zoo",
+      "year": 2015,
+      "kinopoisk_id": 804670,
+      "world_art_id": null,
+      "translator": "Пифагор",
+      "token": "8a5bd0045f0360092756d7bee0fcd73fac332000c830d7bb8f06d9f14ec91b43",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-01 22:45:00",
+      "update_date": "2021-02-01 22:46:01",
+      "block": false,
+      "translator_id": 124,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/804670.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Жаркое американское лето: Первый день лагеря",
+      "title_en": "Wet Hot American Summer: First Day of Camp",
+      "year": 2015,
+      "kinopoisk_id": 888089,
+      "world_art_id": null,
+      "translator": "Newstudio",
+      "token": "7711725a1399017ebc629739cc4ed4f6342fa5012a1d318ff92925ce7fd848da",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-01 22:43:12",
+      "update_date": "2021-02-01 22:44:18",
+      "block": false,
+      "translator_id": 48,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/888089.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Джекил и Хайд",
@@ -941,100 +1081,6 @@
             21,
             22,
             24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Умирающий детектив",
-      "title_en": "Den döende detektiven",
-      "year": 2018,
-      "kinopoisk_id": 1148165,
-      "world_art_id": null,
-      "translator": "Contentica",
-      "token": "1055a118a5d49dee63cd12c0e7c9aff587288086b37a492ecf1ca98cbd12a6e3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-31 15:08:43",
-      "update_date": "2021-01-31 15:09:24",
-      "block": false,
-      "translator_id": 129,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1148165.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Четвёртый человек",
-      "title_en": "Den fjärde mannen",
-      "year": 2014,
-      "kinopoisk_id": 882049,
-      "world_art_id": null,
-      "translator": "Contentica",
-      "token": "cc56d604942c813711c68274e69a3757cf3a4ae20faf2704557f217c98716b0e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-31 09:29:04",
-      "update_date": "2021-01-31 15:08:28",
-      "block": false,
-      "translator_id": 129,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/882049.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Прекрасная эпоха",
-      "title_en": "Belle Epoque",
-      "year": 2017,
-      "kinopoisk_id": 6466504,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "945cfd7681267997da56c27ba99dd02fd3b9dc697885e8f2c9cce93a90c5abdb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-22 17:28:58",
-      "update_date": "2021-01-31 14:57:33",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/6466504.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]
