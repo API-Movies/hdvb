@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Справедливость отца",
+      "title_en": "The Great Father",
+      "year": 2017,
+      "kinopoisk_id": 1000515,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-31 21:06:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Д.Н.К: Доказано, не кондиция",
       "title_en": "D.N.A.: Decisamente non adatti",
       "year": 2020,
@@ -248,17 +261,191 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Эвакуатор",
-      "title_en": "Rekka",
-      "year": 2019,
-      "kinopoisk_id": 1301700,
-      "type": "movie",
+      "title_ru": "Рождество",
+      "title_en": "The Nativity",
+      "year": 2010,
+      "kinopoisk_id": 574231,
+      "world_art_id": null,
+      "translator": "Профессиональный (многоголосый)",
+      "token": "79a86545b3c173e37ed841a0fed90f4c8fe0783163467247eea688e27eb9e18f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-30 00:12:01",
+      "added_date": "2020-08-13 17:33:23",
+      "update_date": "2020-08-13 17:34:09",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 126,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/574231.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Сельский детектив. Месть Чернобога",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1377942,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "557d29f9e1b60614288d9cf54a08fcc37c273ffaefbb42be95d25d6a809ca1a6",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-13 17:30:53",
+      "update_date": "2020-08-13 17:31:56",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1377942.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Сельский детектив. Яблоня раздора",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1334039,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "84ac62eb9fa4d2d50036e2b5e6a64d3d70db4caa0fc35e390a269fb572301b37",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-13 17:29:58",
+      "update_date": "2020-08-13 17:30:30",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1334039.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ожившая книга Джейн Остин",
+      "title_en": "Lost in Austen",
+      "year": 2008,
+      "kinopoisk_id": 435352,
+      "world_art_id": null,
+      "translator": "Профессиональный (многоголосый)",
+      "token": "aa7275d0ce248049fb27dba33e9dd27505eed818382777b66c986bbd88a16f13",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-13 17:27:35",
+      "update_date": "2020-08-13 17:28:55",
+      "block": false,
+      "translator_id": 126,
+      "quality": "DVDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/435352.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Городок",
+      "title_en": "The Town",
+      "year": 2012,
+      "kinopoisk_id": 722999,
+      "world_art_id": null,
+      "translator": "МногоТВ",
+      "token": "08e19abca2dc636bcaa13db10e57fd607c7e5f28a9b56838847574b8996aeac4",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-13 17:23:56",
+      "update_date": "2020-08-13 17:24:49",
+      "block": false,
+      "translator_id": 144,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/722999.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Худшая неделя моей жизни",
+      "title_en": "Worst Week",
+      "year": 2008,
+      "kinopoisk_id": 409461,
+      "world_art_id": null,
+      "translator": "Universal Russia",
+      "token": "fbe75382aab45adbf8f17b28fa24035fffe2b3048d9e3f860e086cc317ed2176",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-13 17:21:30",
+      "update_date": "2020-08-13 17:23:27",
+      "block": false,
+      "translator_id": 70,
+      "quality": "DVDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/409461.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Песнь русалки",
@@ -837,257 +1024,6 @@
             16,
             17,
             18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Красавица Кон Щим",
-      "title_en": "Minyeo Gongshimi",
-      "year": 2016,
-      "kinopoisk_id": 979312,
-      "world_art_id": null,
-      "translator": "SoftBox",
-      "token": "e1e0a01df6f1ffd1c963da9b6eb2ad17b7cdc94f54d56442ee8e9fedf2374ca9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-12 21:35:32",
-      "update_date": "2020-08-12 21:36:34",
-      "block": false,
-      "translator_id": 106,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/979312.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ругал",
-      "title_en": "Rugal",
-      "year": 2020,
-      "kinopoisk_id": 1297201,
-      "world_art_id": null,
-      "translator": "SoftBox",
-      "token": "dda0c6bb81607e975e129ba145241d566e2868697d12907309d8c4bd5ad89cbe",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-12 21:33:39",
-      "update_date": "2020-08-12 21:34:33",
-      "block": false,
-      "translator_id": 106,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1297201.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Континенталь",
-      "title_en": "El Continental",
-      "year": 2018,
-      "kinopoisk_id": 1120200,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "2c333db2380f1731c745120d0281d91e548693c242942f183d29f6bfddfaf66f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-03 22:35:11",
-      "update_date": "2020-08-12 20:46:39",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1120200.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Счастливы вместе",
-      "title_en": "Happy Together",
-      "year": 2018,
-      "kinopoisk_id": 1149042,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "4b9d751eaa6bfc40da5c7ae5eabaea83e7d54e138e0087997485e2e741763119",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-12 17:38:55",
-      "update_date": "2020-08-12 17:41:25",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1149042.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Падам-падам... Стук их сердец",
-      "title_en": "Padam padam ... Keuwa keunyeoui shimjangbakdongsori",
-      "year": 2011,
-      "kinopoisk_id": 661054,
-      "world_art_id": null,
-      "translator": "GREEN TEA",
-      "token": "095d0af319b7e2d543361283209c1a397c9fe334ca6ea6d3e4f2344d7f9d6759",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-12 17:30:43",
-      "update_date": "2020-08-12 17:38:12",
-      "block": false,
-      "translator_id": 31,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/661054.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ведьмак",
-      "title_en": "The Witcher",
-      "year": 2019,
-      "kinopoisk_id": 1044004,
-      "world_art_id": null,
-      "translator": "Дубляж [Лицензия]",
-      "token": "f65f28cb14985e29308e4d45f5467b358b756ac349e7488d40c3bb7aca5e88cb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-01 15:52:19",
-      "update_date": "2020-08-12 17:11:11",
-      "block": false,
-      "translator_id": 107,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1044004.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            1,
-            2,
-            2,
-            3,
-            3,
-            4,
-            4,
-            5,
-            5,
-            6,
-            6,
-            7,
-            7,
-            8,
-            8
           ]
         }
       ]

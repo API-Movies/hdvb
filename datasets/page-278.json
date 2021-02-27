@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Я обслуживал английского короля",
+      "title_en": "Obsluhoval jsem anglického krále",
+      "year": 2006,
+      "kinopoisk_id": 265664,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-24 22:16:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Придурки из Хаззарда: Начало",
       "title_en": "The Dukes of Hazzard: The Beginning",
       "year": 2007,
@@ -248,17 +261,302 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Моей бывшей посвящается",
-      "title_en": "Dedicada a mi Ex",
-      "year": 2020,
-      "kinopoisk_id": 1080085,
-      "type": "movie",
+      "title_ru": "Выскочка",
+      "title_en": "Shrill",
+      "year": 2019,
+      "kinopoisk_id": 1191096,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "bb9c9266b2848e6e9d0734dbb6ca521a5892b42b6816473aaaa25b188221a88a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-23 23:05:01",
+      "added_date": "2020-01-24 20:51:51",
+      "update_date": "2020-01-24 20:51:51",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1191096.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Восход Османской империи",
+      "title_en": "Ottoman Rising / Rise of Empires: Ottoman",
+      "year": 2020,
+      "kinopoisk_id": 1244945,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "605c075b30b0dc6976f2bdc7f9d5e34ea8a244025d8ba97cdd5ad2d401a6c429",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-01-24 20:51:11",
+      "update_date": "2020-01-24 20:51:11",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1244945.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Рэй Донован",
+      "title_en": "Ray Donovan",
+      "year": 2013,
+      "kinopoisk_id": 667871,
+      "world_art_id": null,
+      "translator": "Amedia",
+      "token": "2ce69dba01e3ef957f3eb17758343790fc45a7e691dc6ded9eafdd6937e8aea7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-01-24 16:44:23",
+      "update_date": "2020-01-24 16:44:23",
+      "block": false,
+      "translator_id": 7,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/667871.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 7,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Лига Октября",
+      "title_en": "October Faction",
+      "year": 2019,
+      "kinopoisk_id": 1180685,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "ef3a54f7cbc9940579ce11f75d2391a2757be68e147793db2a0c50a9d84da2ab",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-01-23 21:33:01",
+      "update_date": "2020-01-23 21:33:01",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1180685.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ты",
+      "title_en": "You",
+      "year": 2018,
+      "kinopoisk_id": 1115630,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "4f15b8a53248612dff344de6dabf2b9beebf6eaa245b38aad2f99f2b4506623e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-01-23 21:29:43",
+      "update_date": "2020-01-23 21:29:43",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1115630.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Невеста призрака",
@@ -851,170 +1149,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ударная группа",
-      "title_en": "Smeris",
-      "year": 2014,
-      "kinopoisk_id": 1113107,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "1cffa4595a954f1fcedd0c182826b0c5878aacf8e8bdb655a2a6d820806b66e9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-19 16:42:05",
-      "update_date": "2020-01-19 16:42:05",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1113107.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Паук-отшельник / Когда выходит отшельник",
-      "title_en": "Quand Sort la Recluse",
-      "year": 2019,
-      "kinopoisk_id": 703230,
-      "world_art_id": null,
-      "translator": "многоголосый закадровый",
-      "token": "73886b4a0eb09a34eb777f2b74b67de68f82662af5885099b6b7216b5cdc59bd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-19 16:37:44",
-      "update_date": "2020-01-19 16:37:44",
-      "block": false,
-      "translator_id": 89,
-      "quality": "HDTV",
-      "poster": "https://www.kinopoisk.ru/images/film_big/703230.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рэй Донован",
-      "title_en": "Ray Donovan",
-      "year": 2013,
-      "kinopoisk_id": 667871,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "13293910afa4f169496340b7beb04f6dab22891501e706e37cf984d3d64df4c8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-19 15:55:59",
-      "update_date": "2020-01-19 15:55:59",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/667871.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 7,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Грейс и Фрэнки",
-      "title_en": "Grace and Frankie",
-      "year": 2015,
-      "kinopoisk_id": 891629,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "21800214b83aaeab257c87c8d92c7f5f5706e0c7bc68d6266449307838a59227",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-19 12:05:43",
-      "update_date": "2020-01-19 12:05:43",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/891629.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 6,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кобра",
-      "title_en": "Cobra",
-      "year": 2019,
-      "kinopoisk_id": 1253001,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "61c098af134608a8550b3154901a0bdc659f60b97f482761032cd525f0ce2025",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-18 19:44:34",
-      "update_date": "2020-01-18 19:44:34",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1253001.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

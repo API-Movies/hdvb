@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Чувствуй ритм",
+      "title_en": "Feel the Beat",
+      "year": 2020,
+      "kinopoisk_id": 1291855,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-19 11:35:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Найти и уничтожить",
       "title_en": "Search and Destroy",
       "year": 2020,
@@ -248,17 +261,179 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Сила природы",
-      "title_en": "Force of Nature",
-      "year": 2020,
-      "kinopoisk_id": 1266917,
-      "type": "movie",
+      "title_ru": "Кремниевая долина",
+      "title_en": "Silicon Valley",
+      "year": 2014,
+      "kinopoisk_id": 723959,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "9cfbe46819447533f03ce5fce7207375e3ad64f82e08902eba57df7318dcd2e2",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-18 15:26:01",
+      "added_date": "2019-12-09 14:04:04",
+      "update_date": "2019-12-09 14:04:04",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/723959.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=145895",
+      "serial_episodes": [
+        {
+          "season_number": 6,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Миссис Флетчер",
+      "title_en": "Mrs. Fletcher",
+      "year": 2019,
+      "kinopoisk_id": 1118647,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "5848da3b71b2a26fd98944c96266d65de19308f9f2b10d800c3371efeb4d004c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-09 11:42:49",
+      "update_date": "2019-12-09 11:42:49",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1118647.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Вампирские войны",
+      "title_en": "V-Wars",
+      "year": 2019,
+      "kinopoisk_id": 1142624,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "d79b2a21a39ead063838d098f93dd3be71a1e31f07c5bbb51aff23d892547705",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-08 10:32:17",
+      "update_date": "2019-12-08 10:32:17",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1142624.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Вампирские войны",
+      "title_en": "V-Wars",
+      "year": 2019,
+      "kinopoisk_id": 1142624,
+      "world_art_id": null,
+      "translator": "Дубляж [Лицензия]",
+      "token": "f5daaec735a179a41706115149f3be96909756e3e7b64b8211a46a47253b2af1",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-08 10:29:29",
+      "update_date": "2019-12-08 10:29:29",
+      "block": false,
+      "translator_id": 107,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1142624.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Солнечная сторона",
+      "title_en": "Sunnyside",
+      "year": 2019,
+      "kinopoisk_id": 1245505,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "23165b014c86bca48eb98e6630b9a42f434025e52c159fe0c6ce977810f73039",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-08 10:24:15",
+      "update_date": "2019-12-08 10:24:15",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1245505.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Видеть",
@@ -846,191 +1021,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Горе от ума",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1316615,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "c5062d3a58a36667a4eb74d242c9011fd570182cd5e12a880f4f7aae47acc5a7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-05 20:19:27",
-      "update_date": "2019-12-05 20:19:27",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1316615.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Великолепные Медичи",
-      "title_en": "Medici: The Magnificent",
-      "year": 2018,
-      "kinopoisk_id": 1115149,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "6cfa854c720bd1c30ba8a5405e1b29a5296109ef67fef9fa7336d5ab3c5434e3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-05 11:16:58",
-      "update_date": "2019-12-05 11:16:58",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1115149.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Устаревший",
-      "title_en": "Obsolete",
-      "year": 2019,
-      "kinopoisk_id": 111,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "654add02371857a60947de0629ca3e6040c1446928134c64156ef0215be7db14",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-03 17:55:54",
-      "update_date": "2019-12-03 17:55:54",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/111.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Титаны",
-      "title_en": "Titans",
-      "year": 2018,
-      "kinopoisk_id": 462353,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "950ba6ff18914433e3a047eebd59e9a24728df1f96b9d1f82326f48d0351110b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-03 17:42:12",
-      "update_date": "2019-12-03 17:42:12",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/462353.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Венская кровь",
-      "title_en": "Vienna Blood",
-      "year": 2019,
-      "kinopoisk_id": 1302026,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "fd86d10ddfac35e0711722c184e77d16874b0d9013bbcadaa9158b80d6cf9fee",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-03 13:40:35",
-      "update_date": "2019-12-03 13:40:35",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1302026.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
           ]
         }
       ]

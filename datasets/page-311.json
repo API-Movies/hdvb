@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Последний",
+      "title_en": "The Last Beyond",
+      "year": 2019,
+      "kinopoisk_id": 1018761,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-05-26 18:22:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Страна, одолевшая вирус",
       "title_en": "The Country that Beat the Virus",
       "year": 2020,
@@ -251,17 +264,172 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Отвези меня туда, где хорошо",
-      "title_en": "Take Me Somewhere Nice",
-      "year": 2019,
-      "kinopoisk_id": 1216264,
-      "type": "movie",
+      "title_ru": "На краю",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1101298,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "6f423f0cb41db0bb4494645496ee89f7de7cdee665cff14443e6e7c4a78e4eb4",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-05-25 19:59:01",
+      "added_date": "2019-04-01 18:54:14",
+      "update_date": "2019-04-04 18:14:00",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "HDTVRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1101298.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Судьба: Начало",
+      "title_en": "Fate/Zero",
+      "year": 2011,
+      "kinopoisk_id": 629401,
+      "world_art_id": null,
+      "translator": "двухголосый закадровый",
+      "token": "816843e0eaea21eb71a89bcdefbf2f7ee3dbc1c8d74dfdea0da65333175a5d4b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-04-03 11:56:31",
+      "update_date": "2019-04-03 11:59:12",
+      "block": false,
+      "translator_id": 81,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/629401.jpg",
+      "trailer": "https://kp.cdn.yandex.net/629401/kinopoisk.ru-Fate-Zero-84031.flv",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Любовь, смерть и роботы",
+      "title_en": "Love, Death &amp; Robots",
+      "year": 2019,
+      "kinopoisk_id": 1228254,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "61b4e5b3147772e1d9330be3efd0b570a0c3f2c8e15975561fa58a17c0f1160b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-03-20 13:24:26",
+      "update_date": "2019-04-01 20:59:51",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1228254.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 36,
+          "episodes": [
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            6,
+            6,
+            7,
+            7,
+            8,
+            8,
+            9,
+            9,
+            10,
+            10,
+            11,
+            11,
+            12,
+            12,
+            13,
+            13,
+            14,
+            14,
+            15,
+            15,
+            16,
+            16,
+            17,
+            17,
+            18,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Осмос",
+      "title_en": "Osmosis",
+      "year": 2019,
+      "kinopoisk_id": 1180353,
+      "world_art_id": null,
+      "translator": "KosharaSerials",
+      "token": "ad47f99a5d9409e4dcf8b508fd92315b01b3a24f0c8794272f664c97489fc7f7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-03-29 19:08:58",
+      "update_date": "2019-03-29 20:28:45",
+      "block": false,
+      "translator_id": 111,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1180353.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Падение Ордена",
@@ -883,167 +1051,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Год культуры",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1206901,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "84e8af063f658d40f7c60d602692cde7987deab7ef2dbd8ff25001d192470ca3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-11-21 15:03:59",
-      "update_date": "2019-01-24 00:58:36",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1206901.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 40,
-          "episodes": [
-            1,
-            1,
-            2,
-            2,
-            3,
-            3,
-            4,
-            4,
-            5,
-            5,
-            6,
-            6,
-            7,
-            7,
-            8,
-            8,
-            9,
-            9,
-            10,
-            10,
-            11,
-            11,
-            12,
-            12,
-            13,
-            13,
-            14,
-            14,
-            15,
-            15,
-            16,
-            16,
-            17,
-            17,
-            18,
-            18,
-            19,
-            19,
-            20,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Шестой пост",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1112943,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "49e33fe1f9e1fa70e578551d6085f3105067d9f29e698f500dcabcfabd2d0b2f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-01-10 12:30:13",
-      "update_date": "2019-01-11 04:58:44",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTVRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1112943.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Страна приливов",
-      "title_en": "Tidelands",
-      "year": 2018,
-      "kinopoisk_id": 1118017,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "4b30b234c5b3db623d8bc97b9716e953b0ae3c392fca677c8628d6350656841d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-12-18 22:50:55",
-      "update_date": "2019-01-11 03:53:14",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1118017.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Вторая первая любовь",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1138857,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "7cb1c10baa1068011c7903d53db1d77b7d11176ed05644b78bb7be3f344e4d0a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-01-06 01:39:34",
-      "update_date": "2019-01-06 13:40:22",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DLRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1138857.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Зелёный Шершень",
+      "title_en": "The Green Hornet",
+      "year": 2011,
+      "kinopoisk_id": 290751,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-24 21:57:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Любовь и другие лекарства",
       "title_en": "Love &amp; Other Drugs",
       "year": 2010,
@@ -249,22 +262,6 @@
       "translator": "Не требуется",
       "translator_id": 92,
       "quality": "TS"
-    },
-    {
-      "title_ru": "Война токов",
-      "title_en": "The Current War",
-      "year": 2017,
-      "kinopoisk_id": 680851,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-24 19:15:01",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
     }
   ]
 }

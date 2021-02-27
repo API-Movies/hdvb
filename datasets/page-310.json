@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Джоди",
+      "title_en": "Jodi",
+      "year": 2019,
+      "kinopoisk_id": 1301094,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-05-27 23:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Акула-призрак",
       "title_en": "Ouija Shark",
       "year": 2020,
@@ -248,17 +261,154 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Последний",
-      "title_en": "The Last Beyond",
-      "year": 2019,
-      "kinopoisk_id": 1018761,
-      "type": "movie",
+      "title_ru": "Легенды завтрашнего дня",
+      "title_en": "DC's Legends of Tomorrow",
+      "year": 2016,
+      "kinopoisk_id": 893459,
+      "world_art_id": null,
+      "translator": "KosharaSerials",
+      "token": "6d295dc694d3308a0f67c82533caa4a4464fc1a2e2c6473ec4975d91040042d8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-05-26 18:22:01",
+      "added_date": "2018-11-07 17:15:30",
+      "update_date": "2019-05-22 00:00:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 111,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/893459.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=119844",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Состояние союза",
+      "title_en": "State of the Union",
+      "year": 2019,
+      "kinopoisk_id": 1174219,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "7bb6a57f426e6ef897f8016c7c99c3924894ee47fb666e6944fb985fd8c99309",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-05-21 12:57:17",
+      "update_date": "2019-05-21 13:07:31",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1174219.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Рами",
+      "title_en": "Ramy",
+      "year": 2019,
+      "kinopoisk_id": 1108755,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "3320592275373b2029a9e99e23898797d12bdbd8816eaff74f61cdf1bb962687",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-05-21 11:56:47",
+      "update_date": "2019-05-21 11:57:24",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1108755.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Общество",
+      "title_en": "The Society",
+      "year": 2019,
+      "kinopoisk_id": 1194396,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "ffe8a71e42e8a65e9701a9ae8009398fbdd6709529fd9006be7b864b7bce240e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-05-21 02:53:14",
+      "update_date": "2019-05-21 11:54:03",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1194396.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Игра престолов",
@@ -790,174 +940,6 @@
       "translator_id": 115,
       "quality": "WEBRip",
       "poster": "https://www.kinopoisk.ru/images/film_big/1229179.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "На краю",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1101298,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "6f423f0cb41db0bb4494645496ee89f7de7cdee665cff14443e6e7c4a78e4eb4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-04-01 18:54:14",
-      "update_date": "2019-04-04 18:14:00",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTVRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1101298.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Судьба: Начало",
-      "title_en": "Fate/Zero",
-      "year": 2011,
-      "kinopoisk_id": 629401,
-      "world_art_id": null,
-      "translator": "двухголосый закадровый",
-      "token": "816843e0eaea21eb71a89bcdefbf2f7ee3dbc1c8d74dfdea0da65333175a5d4b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-04-03 11:56:31",
-      "update_date": "2019-04-03 11:59:12",
-      "block": false,
-      "translator_id": 81,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/629401.jpg",
-      "trailer": "https://kp.cdn.yandex.net/629401/kinopoisk.ru-Fate-Zero-84031.flv",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Любовь, смерть и роботы",
-      "title_en": "Love, Death &amp; Robots",
-      "year": 2019,
-      "kinopoisk_id": 1228254,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "61b4e5b3147772e1d9330be3efd0b570a0c3f2c8e15975561fa58a17c0f1160b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-03-20 13:24:26",
-      "update_date": "2019-04-01 20:59:51",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1228254.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 36,
-          "episodes": [
-            1,
-            1,
-            2,
-            2,
-            3,
-            3,
-            4,
-            4,
-            5,
-            5,
-            6,
-            6,
-            7,
-            7,
-            8,
-            8,
-            9,
-            9,
-            10,
-            10,
-            11,
-            11,
-            12,
-            12,
-            13,
-            13,
-            14,
-            14,
-            15,
-            15,
-            16,
-            16,
-            17,
-            17,
-            18,
-            18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Осмос",
-      "title_en": "Osmosis",
-      "year": 2019,
-      "kinopoisk_id": 1180353,
-      "world_art_id": null,
-      "translator": "KosharaSerials",
-      "token": "ad47f99a5d9409e4dcf8b508fd92315b01b3a24f0c8794272f664c97489fc7f7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-03-29 19:08:58",
-      "update_date": "2019-03-29 20:28:45",
-      "block": false,
-      "translator_id": 111,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1180353.jpg",
       "trailer": "",
       "serial_episodes": [
         {

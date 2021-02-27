@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title_ru": "Королевский корги",
+      "title_en": "The Queen's Corgi",
+      "year": 2019,
+      "kinopoisk_id": 1047996,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-25 14:44:20",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж [Звук с TS]",
+      "translator_id": 108,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Хищник",
       "title_en": "The Predator",
       "year": 2018,
@@ -251,19 +267,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Алоха",
-      "title_en": "Aloha",
-      "year": 2015,
-      "kinopoisk_id": 430568,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-05-24 14:05:38",
-      "block": false,
-      "translator": "2x2",
-      "translator_id": 1,
-      "quality": "BDRip"
     }
   ]
 }

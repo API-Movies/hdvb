@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Чужой: Завет",
+      "title_en": "Alien: Covenant",
+      "year": 2017,
+      "kinopoisk_id": 695548,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-15 17:12:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Форсаж",
       "title_en": "The Fast and the Furious",
       "year": 2001,
@@ -248,17 +261,209 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Зачистка",
-      "title_en": "The Clearing",
-      "year": 2020,
-      "kinopoisk_id": 1055532,
-      "type": "movie",
+      "title_ru": "Лаймтаун",
+      "title_en": "Limetown",
+      "year": 2019,
+      "kinopoisk_id": 1207875,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "7ded03a487a86486c0149fad8e8e96a54332f62754f7dcc41191c762b545bbe5",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-15 16:21:01",
+      "added_date": "2019-11-14 07:58:54",
+      "update_date": "2019-11-14 07:58:54",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1207875.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Пять минут тишины",
+      "title_en": "",
+      "year": 2016,
+      "kinopoisk_id": 961720,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "00b7efd645e7b3c62ed8deaa32ab5bf631269068dc3b70481ba4c30200835752",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-14 01:15:41",
+      "update_date": "2019-11-14 01:15:41",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/961720.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 24,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Плебеи",
+      "title_en": "Plebs",
+      "year": 2013,
+      "kinopoisk_id": 745556,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "d3bf4709cb7a34d476a1c5a8df0cceba684e77f18eef9f9e0fc6cf5604dbdc3d",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-12 18:51:24",
+      "update_date": "2019-11-12 18:51:24",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/745556.jpg",
+      "trailer": "https://kp.cdn.yandex.net/745556/kinopoisk.ru-Plebs-243156.mp4",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Британия",
+      "title_en": "Britannia",
+      "year": 2017,
+      "kinopoisk_id": 1006636,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "427a225a2fc9d60295030c7cc3c4d1192dc71af7e45a339ab447a217c32bbbe3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-12 13:17:48",
+      "update_date": "2019-11-12 13:17:48",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1006636.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мир в огне",
+      "title_en": "World On Fire",
+      "year": 2019,
+      "kinopoisk_id": 1202312,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "4dbc3ced7fcdb5d82c2dfcf33a711949b23f958d0e4d5e08e7940d3d40c08afc",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-11 13:09:10",
+      "update_date": "2019-11-11 13:09:10",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1202312.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
       "title_ru": "S. W. A. T.: Спецназ города ангелов",
@@ -1144,248 +1349,6 @@
         },
         {
           "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Адаптация",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 971143,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "a5f7bfbda379d70509fa1dec7980901825cc8d175d265201e8973a0be50d6518",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-05 22:39:53",
-      "update_date": "2019-11-05 22:39:53",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/971143.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=137865",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 17,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 21,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Конец ***го мира",
-      "title_en": "The End of the F***ing World",
-      "year": 2017,
-      "kinopoisk_id": 1071384,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "7078d00d3f2b0a6b276bb70fc12b228af8a5ee28e3f09c960a120435e4bcd687",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-05 18:21:00",
-      "update_date": "2019-11-05 18:21:00",
-      "block": false,
-      "translator_id": 115,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/1071384.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=145340",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Люк Кейдж",
-      "title_en": "Luke Cage",
-      "year": 2016,
-      "kinopoisk_id": 817507,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "3a0cd734b4f48ff5faee276c7d8392a42698afd58de0c585282ba9910b9a1df6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-05 11:12:17",
-      "update_date": "2019-11-05 11:12:17",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/817507.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=134840",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Частный детектив Магнум",
-      "title_en": "Magnum P.I.",
-      "year": 2018,
-      "kinopoisk_id": 1134829,
-      "world_art_id": null,
-      "translator": "IdeaFilm",
-      "token": "2398b5e71dd6db4e3e43b32102350becd06aa69260a548dd48880a91b25508ee",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-05 00:51:40",
-      "update_date": "2019-11-05 00:51:40",
-      "block": false,
-      "translator_id": 35,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1134829.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Играть по-крупному",
-      "title_en": "Playing for Keeps",
-      "year": 2019,
-      "kinopoisk_id": 1172823,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "f1ef08d2664e14deafe1a57b8685e3b47c6390b6c0729c96d9577c980e070b1a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-05 00:33:25",
-      "update_date": "2019-11-05 00:33:25",
-      "block": false,
-      "translator_id": 15,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1172823.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 8,
           "episodes": [
             1,

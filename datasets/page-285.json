@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Я умею падать",
+      "title_en": "Je sais tomber",
+      "year": 2020,
+      "kinopoisk_id": 1230765,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-20 12:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Змеиный камень",
       "title_en": "A Pedra da Serpente / The Serpent's Stone",
       "year": 2020,
@@ -248,17 +261,186 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Чувствуй ритм",
-      "title_en": "Feel the Beat",
-      "year": 2020,
-      "kinopoisk_id": 1291855,
-      "type": "movie",
+      "title_ru": "Рестлинг-шоу от &quot;All Elite Wrestling&quot;",
+      "title_en": "All Elite Wrestling: Dynamite",
+      "year": 2019,
+      "kinopoisk_id": 1289010,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "5d919df1fb90631f4784db0004beff1a6d9ab153b0cbc005604fe63903542c96",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-19 11:35:01",
+      "added_date": "2019-12-16 10:47:09",
+      "update_date": "2019-12-16 10:47:09",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1289010.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Джокер",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 4455112244,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "063452cea6ea697b11aada3d93a2d8351b56a8cba81dd85fcd44426b3d34a445",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-16 02:32:07",
+      "update_date": "2019-12-16 02:32:07",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4455112244.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Беглецы",
+      "title_en": "Runaways",
+      "year": 2017,
+      "kinopoisk_id": 463689,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "ebdbc9a533b53757910889b4876bff4acb683b877ff2537fcad4e96f19b50a4b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-14 07:45:20",
+      "update_date": "2019-12-14 07:45:20",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/463689.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Касл-Рок",
+      "title_en": "Castle Rock",
+      "year": 2018,
+      "kinopoisk_id": 1040949,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "a03e68408cf92b87d4c6070ea1b7a2c816ccba05d369570b0131697f37093daa",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-13 23:36:38",
+      "update_date": "2019-12-13 23:36:38",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1040949.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=151100",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Психо-паспорт",
+      "title_en": "Psycho-Pass",
+      "year": 2012,
+      "kinopoisk_id": 707090,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "c23c8e1b2c5ebca79b9b4ef205e3d8f3595a268d34b3f3c2e75d6b1c03010639",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-13 19:59:34",
+      "update_date": "2019-12-13 19:59:34",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/707090.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Пространство",
@@ -896,181 +1078,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кремниевая долина",
-      "title_en": "Silicon Valley",
-      "year": 2014,
-      "kinopoisk_id": 723959,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "9cfbe46819447533f03ce5fce7207375e3ad64f82e08902eba57df7318dcd2e2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-09 14:04:04",
-      "update_date": "2019-12-09 14:04:04",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/723959.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=145895",
-      "serial_episodes": [
-        {
-          "season_number": 6,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Миссис Флетчер",
-      "title_en": "Mrs. Fletcher",
-      "year": 2019,
-      "kinopoisk_id": 1118647,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "5848da3b71b2a26fd98944c96266d65de19308f9f2b10d800c3371efeb4d004c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-09 11:42:49",
-      "update_date": "2019-12-09 11:42:49",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1118647.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Вампирские войны",
-      "title_en": "V-Wars",
-      "year": 2019,
-      "kinopoisk_id": 1142624,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "d79b2a21a39ead063838d098f93dd3be71a1e31f07c5bbb51aff23d892547705",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-08 10:32:17",
-      "update_date": "2019-12-08 10:32:17",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1142624.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Вампирские войны",
-      "title_en": "V-Wars",
-      "year": 2019,
-      "kinopoisk_id": 1142624,
-      "world_art_id": null,
-      "translator": "Дубляж [Лицензия]",
-      "token": "f5daaec735a179a41706115149f3be96909756e3e7b64b8211a46a47253b2af1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-08 10:29:29",
-      "update_date": "2019-12-08 10:29:29",
-      "block": false,
-      "translator_id": 107,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1142624.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Солнечная сторона",
-      "title_en": "Sunnyside",
-      "year": 2019,
-      "kinopoisk_id": 1245505,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "23165b014c86bca48eb98e6630b9a42f434025e52c159fe0c6ce977810f73039",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-08 10:24:15",
-      "update_date": "2019-12-08 10:24:15",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1245505.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
           ]
         }
       ]

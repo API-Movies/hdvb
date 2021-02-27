@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Хило 2",
+      "title_en": "Hilo 2",
+      "year": 2021,
+      "kinopoisk_id": 4308872,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 18:06:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Газлайтинг",
       "title_en": "Gaslighting",
       "year": 2021,
@@ -248,17 +261,309 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Behind the Movement",
+      "title_ru": "Сайнфелд",
+      "title_en": "Seinfeld",
+      "year": 1989,
+      "kinopoisk_id": 277627,
+      "world_art_id": null,
+      "translator": "Sony Turbo",
+      "token": "f814002d1729ac73bc52aa52c12dcc8c2a0c22b78bdda779b2ab33cc5cf09355",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-21 11:05:10",
+      "update_date": "2021-02-21 11:07:20",
+      "block": false,
+      "translator_id": 64,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/277627.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 23,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Двойная ложь",
       "title_en": "",
       "year": 2018,
-      "kinopoisk_id": 1083546,
-      "type": "movie",
+      "kinopoisk_id": 1112553,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "c2513853ed93cd6e573abab69d86eb1b8b4c6fe1f8b0f999c3711e33a16e1b2e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-16 12:17:01",
+      "added_date": "2021-02-21 09:59:10",
+      "update_date": "2021-02-21 10:00:28",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1112553.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Чудотворец",
+      "title_en": "",
+      "year": 2014,
+      "kinopoisk_id": 837647,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "4cf77af61f5a3a38117edd23ff6cea0d43fe5de458b7bc50a8cdb2d44660db7a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-21 09:58:41",
+      "update_date": "2021-02-21 09:59:26",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/837647.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Бирюк",
+      "title_en": "",
+      "year": 2014,
+      "kinopoisk_id": 861597,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "b450c56fe0f086f0d24a9159266cb5d36a9381f9efbbcd0cecba4a6342eab206",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-21 09:58:16",
+      "update_date": "2021-02-21 09:59:01",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/861597.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Наследие",
+      "title_en": "Legacies",
+      "year": 2018,
+      "kinopoisk_id": 1120247,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "493eae2e4e48747450b71ccdf752d2a5a3ad7f55471c857ee0b4c4ad65579168",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-29 02:24:43",
+      "update_date": "2021-02-21 09:25:40",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1120247.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Четыре кризиса любви",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1112150,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "f7c286fcbd8cb811d451efdd4853e0e2c3a6bde5da1cac1cb0f1427e73575cec",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-21 08:24:45",
+      "update_date": "2021-02-21 08:26:28",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1112150.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Шарлатаны",
+      "title_en": "Quacks",
+      "year": 2017,
+      "kinopoisk_id": 971148,
+      "world_art_id": null,
+      "translator": "Ozz",
+      "token": "463a6f7f28a07d0c63454cb63970ddd156197e03a38c1b80bdf110e193ae262b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-21 08:25:30",
+      "update_date": "2021-02-21 08:26:26",
+      "block": false,
+      "translator_id": 54,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/971148.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Чёрный список",
@@ -776,340 +1081,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Семья",
-      "title_en": "The Family",
-      "year": 2016,
-      "kinopoisk_id": 893605,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "367d715b1c2923bc0d5d63879700b155bb03d14c01000385174997f621194b45",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-20 19:48:22",
-      "update_date": "2021-02-20 19:50:37",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/893605.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Агенты «Щ.И.Т.»: Йо-йо",
-      "title_en": "Agents of S.H.I.E.L.D.: Slingshot",
-      "year": 2016,
-      "kinopoisk_id": 1008480,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "d354f7fa9a2a4ab2da0602a2e613e60cc3806755f9f321005345bb8a8b364baf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-20 19:46:18",
-      "update_date": "2021-02-20 19:48:14",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1008480.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ад на колёсах",
-      "title_en": "Hell on Wheels",
-      "year": 2011,
-      "kinopoisk_id": 557760,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "c634cb9df784ec8a1c06849741bad8a30d9b96ceb55154fb275b6a77251bf047",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-20 19:44:52",
-      "update_date": "2021-02-20 19:46:03",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/557760.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=104997",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Радиоволна",
-      "title_en": "Frequency",
-      "year": 2016,
-      "kinopoisk_id": 970032,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "c5d429a6e162cc5316b15660f262d66876217863cf4d6f741e03571316f78520",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-20 19:43:14",
-      "update_date": "2021-02-20 19:44:36",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/970032.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Открытие ведьм",
-      "title_en": "A Discovery of Witches",
-      "year": 2018,
-      "kinopoisk_id": 665236,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "ea53df2e11afadfc464f39eb3683e4f36e6ea5f3a56dd9e5e0ad009cd626b325",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-04 14:51:55",
-      "update_date": "2021-02-20 16:06:13",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/665236.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чёрный список",
-      "title_en": "The Blacklist",
-      "year": 2013,
-      "kinopoisk_id": 741231,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "000114a48b26f33290d87cc9944640eb7a2c481f706a1a7deab5389054126c95",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-14 13:49:16",
-      "update_date": "2021-02-20 15:03:31",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/741231.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=82734",
-      "serial_episodes": [
-        {
-          "season_number": 8,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Частный детектив Магнум",
-      "title_en": "Magnum P.I.",
-      "year": 2018,
-      "kinopoisk_id": 1134829,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "942cd81c6a8a148ad2f6df5d042f23842b9606e12407ce49f50043be621e315e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-05 15:26:33",
-      "update_date": "2021-02-20 12:40:55",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1134829.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
           ]
         }
       ]

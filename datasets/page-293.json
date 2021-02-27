@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Прометей",
+      "title_en": "Prometheus",
+      "year": 2012,
+      "kinopoisk_id": 467099,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-13 23:09:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Привет, Джули!",
       "title_en": "Flipped",
       "year": 2010,
@@ -251,17 +264,241 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Пересечь границу",
-      "title_en": "Flukten Over Grensen",
-      "year": 2020,
-      "kinopoisk_id": 1223025,
-      "type": "movie",
+      "title_ru": "Рассказ служанки",
+      "title_en": "The Handmaid's Tale",
+      "year": 2017,
+      "kinopoisk_id": 1007426,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "a4029cc7f487993615327f3f307a5c70755d0978c7b5fb8df5fb205b7ce1232d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-12 23:39:01",
+      "added_date": "2019-11-02 23:38:47",
+      "update_date": "2019-11-02 23:38:47",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1007426.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140263",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Топор",
+      "title_en": "Hache",
+      "year": 2019,
+      "kinopoisk_id": 1174304,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "7f3c6dfee6c26610cb2a93937cc8b9ab16c8698affc3539d94e19e4b1346942b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-02 23:20:53",
+      "update_date": "2019-11-02 23:20:53",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1174304.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Рыцарь нашего времени",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1235982,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "5193b7707021fa21add329cbde6aaf07f329ba3c1477117a78065ef4b9a3e8e4",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-02 22:01:13",
+      "update_date": "2019-11-02 22:01:13",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1235982.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Калейдоскоп ужасов",
+      "title_en": "Creepshow",
+      "year": 2019,
+      "kinopoisk_id": 1178548,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "dcdd3784deedcfd497490444bf7088c735e342f499ff30a52381452e84476009",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-02 21:13:02",
+      "update_date": "2019-11-02 21:13:02",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1178548.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Вне игры",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1115041,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "c19442a5083335ecf76d037559c87cf7d6f48a7534aea1b57cce1a569a1e64d0",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-02 02:21:59",
+      "update_date": "2019-11-02 02:21:59",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1115041.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=148860",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Екатерина",
@@ -947,212 +1184,6 @@
             1,
             2,
             3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Канцелярская крыса",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 1103793,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "73d80f44ada596c960b0bc64885e3a84b701555d00dbe0fc70304b8d2e37432b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-26 16:21:58",
-      "update_date": "2019-10-26 16:21:58",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1103793.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "След лисицы на камнях",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1235981,
-      "world_art_id": null,
-      "translator": "Перевод не требуется",
-      "token": "88b2854d6dc7abebbcf56404bcb2874752e62e8ed967ad2013cca6363f5e6519",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-26 16:13:16",
-      "update_date": "2019-10-26 16:13:16",
-      "block": false,
-      "translator_id": 103,
-      "quality": "WEB-DLRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1235981.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Когда зовет надежда",
-      "title_en": "When Hope Calls",
-      "year": 2019,
-      "kinopoisk_id": 1273206,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "26b7e05af6c57e6fa22fc388ba16cbe78e8e6dc06c078a1540e0a21b22461e2c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-26 09:11:58",
-      "update_date": "2019-10-26 09:11:58",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1273206.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Живая мина",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1181561,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "24bd85ee53319158cc1e6ddc688bed48a54814bd818ead4014d1a17f73bf229f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-25 23:06:30",
-      "update_date": "2019-10-25 23:06:30",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1181561.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Немедленное реагирование",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1200875,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "1473e04a7825a06804787f1e7c214e64985e0dc109b77beb99e4b23a25e02d76",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-25 22:51:40",
-      "update_date": "2019-10-25 22:51:40",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1200875.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

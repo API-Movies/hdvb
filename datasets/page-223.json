@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Обратный рейс",
+      "title_en": "Dead Heading",
+      "year": 2018,
+      "kinopoisk_id": 1086363,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-18 09:08:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Наследие лжи",
       "title_en": "Legacy of Lies",
       "year": 2020,
@@ -252,17 +265,211 @@
       "quality": "HDTVRip"
     },
     {
-      "title_ru": "Донор",
-      "title_en": "Donor",
-      "year": 2020,
-      "kinopoisk_id": 1195947,
-      "type": "movie",
+      "title_ru": "С Значит Семья",
+      "title_en": "F Is for Family",
+      "year": 2015,
+      "kinopoisk_id": 891600,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "0f7b511914fb06c7c5eb3a000b4dd5f92726eb11d4cb47eba6bff48a3325a2f8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-16 15:07:01",
+      "added_date": "2020-06-12 23:24:04",
+      "update_date": "2020-06-12 23:24:04",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/891600.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Скрестив мечи",
+      "title_en": "Crossing Swords",
+      "year": 2020,
+      "kinopoisk_id": 1198083,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "0a0494a7b88cf00801fd83170f6604f9182d931bb8523501b20c07d3dbbb354d",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-12 20:11:58",
+      "update_date": "2020-06-12 20:11:58",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1198083.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Джеймстаун",
+      "title_en": "Jamestown",
+      "year": 2017,
+      "kinopoisk_id": 1004925,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "cccd85c1c18cbedca760bd31996c9f7ddb773771f38e4ab703bedcc8479c4d0e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-12 17:41:40",
+      "update_date": "2020-06-12 17:41:40",
+      "block": false,
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1004925.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140085",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "В густом лесу",
+      "title_en": "W głębi lasu / The Woods",
+      "year": 2020,
+      "kinopoisk_id": 590631,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "d33b6ca584e5b372d3985b8a2f48a7fe8bbcfe7fe168d56b3ca56a99ab1c02fb",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-12 17:36:55",
+      "update_date": "2020-06-12 17:36:55",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/590631.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мушкетеры",
+      "title_en": "The Musketeers",
+      "year": 2014,
+      "kinopoisk_id": 793557,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "4ca997d2e9b7f4aaa393790ccca013594033a772a59ca475cb542758b225c38f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-12 13:57:56",
+      "update_date": "2020-06-12 13:57:56",
+      "block": false,
+      "translator_id": 60,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/793557.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Незнакомец",
@@ -1360,184 +1567,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Шептуны",
-      "title_en": "Whispers",
-      "year": 2020,
-      "kinopoisk_id": 12410506,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "58472b7b238cba0b00103fab8813efde46db799d4bcc0760944755e8c8602dbf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-11 19:19:19",
-      "update_date": "2020-06-11 19:19:19",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/12410506.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Журавль в небе",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1049562,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "229ffeaf792301ad02ea950b942edc4b65a69208ac36b28f8d3dab2c19bf4e29",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-11 17:42:22",
-      "update_date": "2020-06-11 17:42:22",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1049562.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Постановка",
-      "title_en": "Staged",
-      "year": 2020,
-      "kinopoisk_id": 1384808,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "182a195f3449e87f02af46a0fc6b7f4afc29c5162da45db101106cc1527750cc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-11 16:26:56",
-      "update_date": "2020-06-11 16:26:56",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1384808.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чем мы заняты в тени (Реальные упыри)",
-      "title_en": "What We Do in the Shadows",
-      "year": 2019,
-      "kinopoisk_id": 1113116,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "b5c5b94ae5d9102597f4fa819050e264e9ff37c2986807848038ed000c1409fe",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-11 16:25:06",
-      "update_date": "2020-06-11 16:25:06",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1113116.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Жизнь и судьба",
-      "title_en": "",
-      "year": 2012,
-      "kinopoisk_id": 644788,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "57d1b8657d13f3ace82cbae28bf588c574fe5e1b74d7f7396ca6849228b10d23",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-11 09:40:40",
-      "update_date": "2020-06-11 09:40:40",
-      "block": false,
-      "translator_id": 92,
-      "quality": "BDRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/644788.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Гаон",
+      "title_en": "Gaon",
+      "year": 2018,
+      "kinopoisk_id": 1071943,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-08-20 23:35:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Люди в черном: Интернэшнл",
       "title_en": "Men in Black International",
       "year": 2019,
@@ -246,22 +259,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Синяя бездна 2",
-      "title_en": "47 Meters Down: Uncaged",
-      "year": 2019,
-      "kinopoisk_id": 1048681,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-08-18 22:14:01",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
     }
   ]
 }

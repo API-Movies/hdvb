@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Афера Томаса Крауна",
+      "title_en": "The Thomas Crown Affair",
+      "year": 1968,
+      "kinopoisk_id": 12836,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-26 02:56:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Измученные походом",
       "title_en": "Bushwhacked",
       "year": 1995,
@@ -248,17 +261,191 @@
       "quality": "BluRay"
     },
     {
-      "title_ru": "Легенда о Бене Холле",
-      "title_en": "The Legend of Ben Hall",
-      "year": 2017,
-      "kinopoisk_id": 857415,
-      "type": "movie",
+      "title_ru": "Бог меня зафрендил",
+      "title_en": "God Friended Me",
+      "year": 2018,
+      "kinopoisk_id": 1117415,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "3c7442910b3874d236f7afe7150415494689ed4d3bb07d5b1a6461bc8c678b09",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-26 02:36:01",
+      "added_date": "2020-03-05 08:34:30",
+      "update_date": "2020-03-05 08:34:30",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1117415.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Формула 1: Гонять, чтобы выживать",
+      "title_en": "Formula 1: Drive to Survive",
+      "year": 2019,
+      "kinopoisk_id": 1240162,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "540352e4584998d5be87321cd8021895ec9bf62ed0f9e617946cfa0f8ba55c2e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-04 19:27:43",
+      "update_date": "2020-03-04 19:27:43",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1240162.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Неудержимый",
+      "title_en": "Desenfrenadas / Unstoppable",
+      "year": 2020,
+      "kinopoisk_id": 1317529,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "a00bf7ceb0a0f5140b3347561333c9616f394e7f236eb157424d5d851bec78b9",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-04 19:24:20",
+      "update_date": "2020-03-04 19:24:20",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1317529.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Династия",
+      "title_en": "Dynasty",
+      "year": 2017,
+      "kinopoisk_id": 588761,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "4e5e2fb237b65c05fc82cf3d34307ee17ffde8d5a1b1e79557b6b1166187a5ec",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-04 19:17:46",
+      "update_date": "2020-03-04 19:17:46",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/588761.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=141754",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Как ты смеешь",
+      "title_en": "Dare Me",
+      "year": 2019,
+      "kinopoisk_id": 772824,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "602db480a62742377bc611413fa449f1511246d4acb2d13d3c9b0bffcec1b73c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-04 19:17:18",
+      "update_date": "2020-03-04 19:17:18",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/772824.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Умерь свой энтузиазм",
@@ -767,225 +954,6 @@
             16,
             17,
             18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Лжец",
-      "title_en": "Liar",
-      "year": 2017,
-      "kinopoisk_id": 1007943,
-      "world_art_id": null,
-      "translator": "ShowJet",
-      "token": "ee77eb193aae5445ed4ecd777f9dc2a2d2165ffa2aaa87424adfb0bd78a8f11d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-03 15:36:35",
-      "update_date": "2020-03-03 15:36:35",
-      "block": false,
-      "translator_id": 125,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1007943.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Формула 1: Гонять, чтобы выживать",
-      "title_en": "Formula 1: Drive to Survive",
-      "year": 2019,
-      "kinopoisk_id": 1240162,
-      "world_art_id": null,
-      "translator": "Пифагор",
-      "token": "441b544675c23c8af8cf6db44d786c9a2138efe2cf2ed38962223e9a38c8b0cf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-03 12:15:20",
-      "update_date": "2020-03-03 12:15:20",
-      "block": false,
-      "translator_id": 124,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1240162.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Вавилон-Берлин",
-      "title_en": "Babylon Berlin",
-      "year": 2017,
-      "kinopoisk_id": 891441,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "11d5040a22b3987990aaf67be5d39772747772358702a39ad52711683d603c7f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-02 20:50:37",
-      "update_date": "2020-03-02 20:50:37",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 60,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/891441.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Короли палат",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1245334,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "883b120b7ab0c633814f4d02f58eceeb8bc9387dccb835e33f882cf165909367",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-02 15:11:10",
-      "update_date": "2020-03-02 15:11:10",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1245334.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Доктор Кто",
-      "title_en": "Doctor Who",
-      "year": 2005,
-      "kinopoisk_id": 252089,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "f4b7edc52cd41618bcb7b6d35db542e48709cab2ba5a8c6ff2f6295b3e6992d4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-02 09:07:19",
-      "update_date": "2020-03-02 09:07:19",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/252089.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 12,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]
