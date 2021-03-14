@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Паранормальная ферма 3: Хэллоуин",
+      "title_en": "Paranormal Farm 3 Halloween",
+      "year": 2019,
+      "kinopoisk_id": 1331482,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-10 22:56:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Один призыв - сотня откликов",
+      "title_en": "One Call One Hundred Responses",
+      "year": 2020,
+      "kinopoisk_id": 4557876,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-10 22:55:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Свадьба Розы",
+      "title_en": "La boda de Rosa",
+      "year": 2020,
+      "kinopoisk_id": 1255054,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-10 22:54:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Кто без греха…",
       "title_en": "He Who Is Without Sin",
       "year": 2020,
@@ -222,43 +261,422 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Застрять на Аляске",
-      "title_en": "Alaska Is a Drag",
+      "title_ru": "Американское преступление",
+      "title_en": "American Crime",
+      "year": 2015,
+      "kinopoisk_id": 824461,
+      "world_art_id": null,
+      "translator": "Кириллица",
+      "token": "bc64194da21f9e0cdc3c90be03a6526fa205464730b7c6d1159eb9847c108674",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-28 01:01:44",
+      "update_date": "2020-12-28 01:02:29",
+      "block": false,
+      "translator_id": 123,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/824461.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Слёборн: эпидемия на острове",
+      "title_en": "Sløborn (Sloborn)",
+      "year": 2020,
+      "kinopoisk_id": 1273210,
+      "world_art_id": null,
+      "translator": "Русский Репортаж",
+      "token": "60daed9f235a4561cb00e836357010b16729af1c1dd85548534aca067c21c4a0",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-28 01:00:35",
+      "update_date": "2020-12-28 01:02:14",
+      "block": false,
+      "translator_id": 147,
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1273210.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Касагранде",
+      "title_en": "The Casagrandes",
+      "year": 2019,
+      "kinopoisk_id": 1263550,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "4a3366f8cf901c3834ff5c524a8912849c1faff8d120c31dcdba81dfc46bd49a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-28 00:59:22",
+      "update_date": "2020-12-28 01:00:40",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1263550.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Генеральша",
+      "title_en": "A Generala",
+      "year": 2020,
+      "kinopoisk_id": 1404373,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "ff568179162508905e2a255e018b8c62a0db7c3c4737eb8b480312aea4ffa45b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-02 09:06:12",
+      "update_date": "2020-12-28 00:33:34",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1404373.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мастера ужасов",
+      "title_en": "Masters of Horror",
+      "year": 2005,
+      "kinopoisk_id": 230571,
+      "world_art_id": null,
+      "translator": "РЕН-ТВ",
+      "token": "a06f9cfe7fcb3662dca5fbd698f38da29423419c6521a417a39f821f20abd814",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-27 21:32:34",
+      "update_date": "2020-12-27 21:33:28",
+      "block": false,
+      "translator_id": 178,
+      "quality": "BluRay",
+      "poster": "https://st.kp.yandex.net/images/film_big/230571.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мастера ужасов",
+      "title_en": "Masters of Horror",
+      "year": 2005,
+      "kinopoisk_id": 230571,
+      "world_art_id": null,
+      "translator": "Инис",
+      "token": "409e6259f3a8a3ee00a485a760c63e68924378258b40206a9d7023dd909f18d7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-27 21:31:23",
+      "update_date": "2020-12-27 21:32:19",
+      "block": false,
+      "translator_id": 182,
+      "quality": "BluRay",
+      "poster": "https://st.kp.yandex.net/images/film_big/230571.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Курс биологии",
+      "title_en": "A.P. Bio",
       "year": 2017,
-      "kinopoisk_id": 888492,
-      "type": "movie",
+      "kinopoisk_id": 1030256,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "87f60596c15ceb937115d691d29e5896623df1140a5b2228fef9e99b148213dd",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-09 22:25:02",
+      "added_date": "2020-12-27 09:45:19",
+      "update_date": "2020-12-27 10:06:06",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1030256.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Рождество в шоколаде",
-      "title_en": "My Sweet Holiday / Chocolate Covered Christmas",
+      "title_ru": "Галерея Disney: Мандалорец",
+      "title_en": "Disney Gallery: Star Wars: The Mandalorian",
       "year": 2020,
-      "kinopoisk_id": 1404654,
-      "type": "movie",
+      "kinopoisk_id": 1371991,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "b6ad1a4b992fc208371920f4dc8a94655b48c3be4b1b946b48ad55893b872258",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-09 20:58:01",
+      "added_date": "2020-12-27 09:48:46",
+      "update_date": "2020-12-27 09:50:03",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1371991.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 1,
+          "episodes": [
+            1
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Аленький цветочек",
-      "title_en": "Song ni yi duo xiao hong hua",
-      "year": 2020,
-      "kinopoisk_id": 1396268,
-      "type": "movie",
+      "title_ru": "Форсаж: Шпионы-гонщики",
+      "title_en": "Fast &amp; Furious",
+      "year": 2019,
+      "kinopoisk_id": 1138776,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "e0995c3c73ac3138d70f6288ed1032451ac62e0d8ae8d86cd74923733376fa90",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-09 19:21:02",
+      "added_date": "2019-12-29 08:51:38",
+      "update_date": "2020-12-27 09:50:00",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1138776.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Тик",
@@ -780,519 +1198,6 @@
             18,
             19,
             20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Вселенная Стивена",
-      "title_en": "Steven Universe",
-      "year": 2013,
-      "kinopoisk_id": 790336,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "5f7ee1c23c667108b12cc2e18f9a5a332d2ac1204d9a03e929f68944257cd819",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-26 22:36:06",
-      "update_date": "2020-12-26 22:36:54",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/790336.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 30,
-          "episodes": [
-            1,
-            3,
-            5,
-            7,
-            9,
-            11,
-            13,
-            15,
-            17,
-            20,
-            21,
-            23,
-            25,
-            27,
-            29,
-            31,
-            33,
-            35,
-            37,
-            39,
-            41,
-            43,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            8,
-            10,
-            11,
-            13,
-            15,
-            17,
-            19,
-            21,
-            23,
-            25
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            3,
-            5,
-            6,
-            8,
-            10,
-            12,
-            14,
-            16,
-            18,
-            20,
-            22,
-            24
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            3,
-            5,
-            7,
-            8,
-            10,
-            11,
-            13,
-            15,
-            17,
-            19,
-            21,
-            23,
-            25
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            3,
-            5,
-            7,
-            9,
-            11,
-            13,
-            15,
-            17,
-            19,
-            21,
-            23,
-            25,
-            27,
-            29
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Подруги",
-      "title_en": "Girlfriends",
-      "year": 2018,
-      "kinopoisk_id": 1112138,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "1d084603e6aceb7335e06ef4b2dbb7b9861c190223195a8a42e08603511a20f7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-26 22:33:11",
-      "update_date": "2020-12-26 22:35:40",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1112138.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Три девушки",
-      "title_en": "Three Girls",
-      "year": 2017,
-      "kinopoisk_id": 1045514,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "8bd660c5e899e8bb10573c1ccb04af289009d7b5e054d75d41cf3103acf779e9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-26 22:32:07",
-      "update_date": "2020-12-26 22:33:17",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1045514.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Форсаж: Шпионы-гонщики",
-      "title_en": "Fast &amp; Furious",
-      "year": 2019,
-      "kinopoisk_id": 1138776,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "ae34e74ac356cdef88a3df8f0ce231d020e982c9514a848bbaca9774ada33865",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-09 19:08:59",
-      "update_date": "2020-12-26 18:03:13",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1138776.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Król",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1254894,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "02ade841fc4633676088866cf0ca62a74cd681c3565b5f929bdb4ecf8a849d9c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-08 00:04:02",
-      "update_date": "2020-12-26 14:17:54",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1254894.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Звездный крейсер Галактика",
-      "title_en": "Battlestar Galactica",
-      "year": 1978,
-      "kinopoisk_id": 229181,
-      "world_art_id": null,
-      "translator": "CTC",
-      "token": "e0d06bca91d07168840010f25077a2398ea2e334a49df6d987da0d4cf02cf548",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-26 02:50:56",
-      "update_date": "2020-12-26 02:51:38",
-      "block": false,
-      "translator_id": 16,
-      "quality": "BluRay",
-      "poster": "https://st.kp.yandex.net/images/film_big/229181.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 21,
-          "episodes": [
-            1,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            21,
-            22,
-            23,
-            24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Калейдоскоп ужасов",
-      "title_en": "Creepshow",
-      "year": 2019,
-      "kinopoisk_id": 1178548,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "b0aa7558db0288e4c0e4dbc76e2af5f078696578bdd47d7659e52a54e1aef71c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-08 16:45:31",
-      "update_date": "2020-12-26 01:11:07",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1178548.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 1,
-          "episodes": [
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Галерея Disney: Мандалорец",
-      "title_en": "Disney Gallery: Star Wars: The Mandalorian",
-      "year": 2020,
-      "kinopoisk_id": 1371991,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "e29f22ee0c0f9ea65dce8f69ad1d7f22359fc10b4a2d78b8bde97f6a0acb5b21",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-25 23:09:39",
-      "update_date": "2020-12-25 23:10:21",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1371991.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 1,
-          "episodes": [
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Супермаркет",
-      "title_en": "Trollied",
-      "year": 2011,
-      "kinopoisk_id": 633623,
-      "world_art_id": null,
-      "translator": "двухголосый закадровый",
-      "token": "027cbe548837d9de79b2c6d009646052f4c2a6487da7a64038ca4cf5b86f55e6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-25 22:58:10",
-      "update_date": "2020-12-25 22:59:23",
-      "block": false,
-      "translator_id": 81,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/633623.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 1,
-          "episodes": [
-            14
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 7,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
           ]
         }
       ]

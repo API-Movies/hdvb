@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title_ru": "11-11-11",
+      "title_en": "11-11-11",
+      "year": 2011,
+      "kinopoisk_id": 565837,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-19 16:45:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Многоцветье",
+      "title_en": "Karafuru",
+      "year": 2010,
+      "kinopoisk_id": 535440,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-19 16:44:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Куда ты делась, Бернадетта?",
+      "title_en": "Where'd You Go, Bernadette",
+      "year": 0,
+      "kinopoisk_id": 702904,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-19 16:41:01",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Дельфин Берни",
       "title_en": "Bernie The Dolphin",
       "year": 2018,
@@ -219,45 +261,6 @@
       "block": false,
       "translator": "Не требуется",
       "translator_id": 92,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Белая лента",
-      "title_en": "Das weiße Band - Eine deutsche Kindergeschichte",
-      "year": 2009,
-      "kinopoisk_id": 400873,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-18 22:27:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Шери",
-      "title_en": "Chéri",
-      "year": 2009,
-      "kinopoisk_id": 404230,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-18 22:22:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Фантомная боль",
-      "title_en": "Phantomschmerz",
-      "year": 2009,
-      "kinopoisk_id": 396650,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-18 22:18:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
       "quality": "BluRay"
     }
   ]

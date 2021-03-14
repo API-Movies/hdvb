@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Гарри Поттер и Дары Смерти: Часть I",
+      "title_en": "Harry Potter and the Deathly Hallows: Part 1",
+      "year": 2010,
+      "kinopoisk_id": 276762,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-13 00:07:12",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "4К"
+    },
+    {
+      "title_ru": "Гарри Поттер и Принц-полукровка",
+      "title_en": "Harry Potter and the Half-Blood Prince",
+      "year": 2009,
+      "kinopoisk_id": 89515,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-13 00:05:43",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "4К"
+    },
+    {
+      "title_ru": "Гарри Поттер и Орден Феникса",
+      "title_en": "Harry Potter and the Order of the Phoenix",
+      "year": 2007,
+      "kinopoisk_id": 48356,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-13 00:04:08",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "4К"
+    },
+    {
       "title_ru": "Гарри Поттер и Кубок огня",
       "title_en": "Harry Potter and the Goblet of Fire",
       "year": 2005,
@@ -220,48 +259,6 @@
       "translator": "Дубляж",
       "translator_id": 82,
       "quality": "BluRay"
-    },
-    {
-      "title_ru": "Т-34",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 930878,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-05-12 15:29:14",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Новая жизнь Аманды",
-      "title_en": "Amanda",
-      "year": 2018,
-      "kinopoisk_id": 1091772,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-05-12 12:57:44",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Грязная игра",
-      "title_en": "The Game Is Dirty",
-      "year": 2018,
-      "kinopoisk_id": 9673648,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-05-11 20:27:16",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
     }
   ]
 }
