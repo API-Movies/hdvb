@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title_ru": "Медведи-соседи: Спутанные миры",
+      "title_en": "Boonie Bears: Entangled Worlds",
+      "year": 2017,
+      "kinopoisk_id": 6857250,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-30 13:42:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Дар",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1118076,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-30 13:41:01",
+      "block": [
+        "RU"
+      ],
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Люди Икс: Последняя битва",
       "title_en": "X-Men: The Last Stand",
       "year": 2006,
@@ -235,32 +263,6 @@
       "translator": "Дубляж [Чистый звук]",
       "translator_id": 109,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Волшебный парк Джун",
-      "title_en": "Amusement Park",
-      "year": 2019,
-      "kinopoisk_id": 1041723,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-05-29 10:53:01",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "День сурка",
-      "title_en": "Groundhog Day",
-      "year": 1993,
-      "kinopoisk_id": 527,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-05-29 08:28:29",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "4К"
     }
   ]
 }

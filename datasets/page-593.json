@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "title_ru": "Достать ножи",
+      "title_en": "Knives Out",
+      "year": 2019,
+      "kinopoisk_id": 1188529,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-02-07 13:04:02",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Смерть кадетки",
+      "title_en": "Tod einer Kadettin",
+      "year": 2017,
+      "kinopoisk_id": 998825,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-02-06 19:54:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
       "title_ru": "Зловещий сталкер",
       "title_en": "Sinister Stalker",
       "year": 2019,
@@ -233,32 +262,6 @@
       "translator": "Дубляж [Лицензия]",
       "translator_id": 107,
       "quality": "BDRip"
-    },
-    {
-      "title_ru": "Любовь с хвостом",
-      "title_en": "My Fairy Tail Love Story",
-      "year": 2018,
-      "kinopoisk_id": 1092186,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-02-05 21:13:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Две простушки и красавчик",
-      "title_en": "Two Plains &amp; a Fancy",
-      "year": 2018,
-      "kinopoisk_id": 234345123,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-02-05 21:12:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
     }
   ]
 }

@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Слон по имени Бенджамин",
+      "title_en": "Benjamin Blümchen",
+      "year": 2019,
+      "kinopoisk_id": 1043289,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-02-08 06:45:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Предания",
+      "title_en": "Lore",
+      "year": 2017,
+      "kinopoisk_id": 935337,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-02-07 22:56:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Солнце",
       "title_en": "A Sun",
       "year": 2019,
@@ -233,35 +259,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Достать ножи",
-      "title_en": "Knives Out",
-      "year": 2019,
-      "kinopoisk_id": 1188529,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-02-07 13:04:02",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Смерть кадетки",
-      "title_en": "Tod einer Kadettin",
-      "year": 2017,
-      "kinopoisk_id": 998825,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-02-06 19:54:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
     }
   ]
 }

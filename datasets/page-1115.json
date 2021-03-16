@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title_ru": "Такси 5",
+      "title_en": "Taxi 5",
+      "year": 2018,
+      "kinopoisk_id": 1047736,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-08-05 11:31:39",
+      "block": [
+        "RU"
+      ],
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Мстители: Война бесконечности. Часть 1",
+      "title_en": "Avengers: Infinity War. Part I",
+      "year": 2018,
+      "kinopoisk_id": 843649,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-08-02 21:49:17",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Эскобар",
       "title_en": "Loving Pablo",
       "year": 2017,
@@ -234,32 +262,6 @@
       "block": false,
       "translator": "Дубляж",
       "translator_id": 82,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Рука-убийца",
-      "title_en": "Idle Hands",
-      "year": 1999,
-      "kinopoisk_id": 6191,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-08-01 07:43:04",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Выскочка",
-      "title_en": "Election",
-      "year": 1999,
-      "kinopoisk_id": 15259,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-08-01 07:43:04",
-      "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
       "quality": "BDRip"
     }
   ]

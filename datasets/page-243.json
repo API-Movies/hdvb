@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Солнце в ночи",
+      "title_en": "The Sunlit Night",
+      "year": 2019,
+      "kinopoisk_id": 1167411,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-19 10:43:02",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Четвёртая мировая война",
+      "title_en": "World War Four",
+      "year": 2019,
+      "kinopoisk_id": 1059789,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-19 10:42:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Пакт",
       "title_en": "El pacto",
       "year": 2018,
@@ -239,30 +265,457 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Тише едешь",
-      "title_en": "Easy Does It",
-      "year": 2020,
-      "kinopoisk_id": 865351,
-      "type": "movie",
+      "title_ru": "Воспитывая Диона",
+      "title_en": "Raising Dion",
+      "year": 2019,
+      "kinopoisk_id": 1113115,
+      "world_art_id": null,
+      "translator": "Невафильм",
+      "token": "7a7422e9ed8779165d57ff75eff3221cfebb18b7ae4d25b6925f45308590b9d5",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-17 21:53:01",
+      "added_date": "2020-05-25 22:56:45",
+      "update_date": "2020-05-25 22:56:45",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 90,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1113115.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Бесшумный",
-      "title_en": "The Silencing",
-      "year": 2020,
-      "kinopoisk_id": 1256891,
-      "type": "movie",
+      "title_ru": "Клондайк",
+      "title_en": "Klondike",
+      "year": 2014,
+      "kinopoisk_id": 748140,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "a5019bc91d03339aaf0795022c391baf4a559b4e9b59222c68a019bb078d8fbd",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-17 21:51:01",
+      "added_date": "2020-05-25 22:51:13",
+      "update_date": "2020-05-25 22:51:13",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/748140.jpg",
+      "trailer": "https://kp.cdn.yandex.net/748140/kinopoisk.ru-Klondike-201219.mp4",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Кайфоломы / Киллджойс",
+      "title_en": "Killjoys",
+      "year": 2015,
+      "kinopoisk_id": 891589,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "37f938ab99bc3cfcab7220be818eed757ac9cbc8b5edcb746c14f67fae3e6abb",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-25 22:48:41",
+      "update_date": "2020-05-25 22:48:41",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/891589.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=117215",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Гранд Отель",
+      "title_en": "Grand Hotel",
+      "year": 2019,
+      "kinopoisk_id": 1123486,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "8b43c2fd596463c69eaa965fa34c08db352beb847e4e532f5715a37de47d4183",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-25 22:46:49",
+      "update_date": "2020-05-25 22:46:49",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1123486.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Легендарный квест",
+      "title_en": "Mythic Quest: Raven's Banquet",
+      "year": 2020,
+      "kinopoisk_id": 1188292,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "bdaa2c1abf5879becc3d4d667ff35770756cccbd8258ab655f2474f2cb3ae1b2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-25 19:23:04",
+      "update_date": "2020-05-25 19:23:04",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1188292.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Жирным шрифтом",
+      "title_en": "The Bold Type",
+      "year": 2017,
+      "kinopoisk_id": 1043604,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "161c7014f62e14959d5452584c1f7a4f2c399b15014cce6e9a0fa5d6cadf5168",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-25 15:13:18",
+      "update_date": "2020-05-25 15:13:18",
+      "block": false,
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1043604.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140733",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Миллион мелочей",
+      "title_en": "A Million Little Things",
+      "year": 2018,
+      "kinopoisk_id": 1113315,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "a6d51953789117a904e22fc99520ec6351dec6f93075dafa4f71f2c3320cf040",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-25 13:51:39",
+      "update_date": "2020-05-25 13:51:39",
+      "block": false,
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1113315.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 17,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Всеамериканский",
+      "title_en": "All American",
+      "year": 2018,
+      "kinopoisk_id": 1117951,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "5b2702112c241b83b707eba17d6589b2efc6d988840c9f8ff1f2d0b744bdf0cc",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-25 13:50:34",
+      "update_date": "2020-05-25 13:50:34",
+      "block": false,
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1117951.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Дрянь",
+      "title_en": "Fleabag",
+      "year": 2016,
+      "kinopoisk_id": 991739,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "e9b0c376bff8ae14cc71503bd34e6c4f565ebdd6722773fb2e179c8fd80b1adc",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-25 13:34:11",
+      "update_date": "2020-05-25 13:34:11",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/991739.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Беги",
+      "title_en": "Run",
+      "year": 2020,
+      "kinopoisk_id": 1202314,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "1c442adfe2c4f051a729a9fb1365659e9be7cc49c13859c6c5d4ab8d2fd67bac",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-25 13:32:48",
+      "update_date": "2020-05-25 13:32:48",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1202314.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Ши-Ра и непобедимые принцессы",
@@ -654,428 +1107,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Легкий как перышко",
-      "title_en": "Light as a Feather",
-      "year": 2018,
-      "kinopoisk_id": 1173528,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "9ac45f0c23608120434616f6b1742bc3a91fc5701118dea40f9bd7a81f09f91c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-24 08:58:23",
-      "update_date": "2020-05-24 08:58:23",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1173528.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Легендарный квест",
-      "title_en": "Mythic Quest: Raven's Banquet",
-      "year": 2020,
-      "kinopoisk_id": 1188292,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "64f0d03d191f25b541de8af68fcbb9199289d0ecfeaee82c750ed955fa4a862a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-24 07:36:08",
-      "update_date": "2020-05-24 07:36:08",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1188292.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 0
-        }
-      ]
-    },
-    {
-      "title_ru": "Парни из Трейлерпарка. Мультсериал",
-      "title_en": "Trailer Park Boys: The Animated Series",
-      "year": 2019,
-      "kinopoisk_id": 1246226,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "c5742eadda87abadfb37ff154f5cc04b80dd0e35fd5671b9409be67c071fc058",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-24 07:34:52",
-      "update_date": "2020-05-24 07:34:52",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1246226.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Смерть в раю",
-      "title_en": "Death in Paradise",
-      "year": 2011,
-      "kinopoisk_id": 592197,
-      "world_art_id": null,
-      "translator": "Jaskier",
-      "token": "335b1a285a68609a059f18e3a17ad9ca7f729fb2eff517b7e7a92d28a1656256",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-23 22:41:57",
-      "update_date": "2020-05-23 22:41:57",
-      "block": false,
-      "translator_id": 36,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/592197.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 7,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Смерть в раю",
-      "title_en": "Death in Paradise",
-      "year": 2011,
-      "kinopoisk_id": 592197,
-      "world_art_id": null,
-      "translator": "двухголосый закадровый",
-      "token": "bd176b541021fa83f74fa7574291fdda024afe9d5cc95474170b5d4a50c60a18",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-23 22:13:29",
-      "update_date": "2020-05-23 22:13:29",
-      "block": false,
-      "translator_id": 81,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/592197.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Смерть в раю",
-      "title_en": "Death in Paradise",
-      "year": 2011,
-      "kinopoisk_id": 592197,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "645fceb34204b1f47ebeb6e622eddeaa2403625b2b55d20def621915008608e4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-23 22:12:43",
-      "update_date": "2020-05-23 22:12:43",
-      "block": false,
-      "translator_id": 126,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/592197.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Синичка 3",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1379039,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "8ac619de300495c3f69835ff8f9dcab7fd3c06ef307b11a53cb159abb610fb66",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-23 22:10:53",
-      "update_date": "2020-05-23 22:10:53",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1379039.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Праведные Джемстоуны",
-      "title_en": "The Righteous Gemstones",
-      "year": 2019,
-      "kinopoisk_id": 1170183,
-      "world_art_id": null,
-      "translator": "Кравец",
-      "token": "4d68b61ec219cd336a3129ccbf1e5e8c74b26525f81895b4f32bf329e341a453",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-23 21:39:36",
-      "update_date": "2020-05-23 21:39:36",
-      "block": false,
-      "translator_id": 85,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1170183.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Спасти Фэйт",
-      "title_en": "Keeping Faith",
-      "year": 2017,
-      "kinopoisk_id": 1111741,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "ad2cb6765e655bde072ab0fa7da8b4f7734fc7e730c62cd1e9119f81af7687ef",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-23 21:37:46",
-      "update_date": "2020-05-23 21:37:46",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1111741.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Карнивал Роу",
-      "title_en": "Carnival Row",
-      "year": 2019,
-      "kinopoisk_id": 891433,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "4962fec4103efd680ebb34179a27f1cb6f18ce61b521d2cad4f88e7577358ecb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-23 21:36:22",
-      "update_date": "2020-05-23 21:36:22",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/891433.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

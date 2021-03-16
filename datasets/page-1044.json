@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title_ru": "Балканский рубеж",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1000443,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-24 12:46:23",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Великий северный путь",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 958530,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-24 01:15:28",
+      "block": [
+        "RU"
+      ],
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Омен: Перерождение",
       "title_en": "The Prodigy",
       "year": 2019,
@@ -237,32 +265,6 @@
       "translator": "den904",
       "translator_id": 19,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Каждые двадцать одну секунду",
-      "title_en": "Every 21 Seconds",
-      "year": 2018,
-      "kinopoisk_id": 906640,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-22 19:06:20",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Видок: Охотник на призраков",
-      "title_en": "L\\'Empereur de Paris",
-      "year": 2018,
-      "kinopoisk_id": 1063019,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-22 14:19:22",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
     }
   ]
 }

@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title_ru": "Химера",
+      "title_en": "Braid",
+      "year": 2018,
+      "kinopoisk_id": 1047565,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-02-08 13:43:56",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Чайные питомцы",
+      "title_en": "A tang qi yu",
+      "year": 2017,
+      "kinopoisk_id": 1044626,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-02-08 12:15:01",
+      "block": [
+        "RU"
+      ],
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Бабушка легкого поведения 2. Престарелые Мстители",
       "title_en": "",
       "year": 2018,
@@ -235,32 +263,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "DVDRip"
-    },
-    {
-      "title_ru": "Пирсинг",
-      "title_en": "Piercing",
-      "year": 2018,
-      "kinopoisk_id": 1022839,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-02-02 08:43:25",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Семья по-быстрому",
-      "title_en": "Instant Family",
-      "year": 2018,
-      "kinopoisk_id": 1108494,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-02-01 16:25:00",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
     }
   ]
 }

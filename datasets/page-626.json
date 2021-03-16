@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "title_ru": "Союз Спасения",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 972740,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-12-30 11:32:02",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Король Кёльна",
+      "title_en": "Der König von Köln",
+      "year": 2019,
+      "kinopoisk_id": 1214677,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-12-29 17:25:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
       "title_ru": "Холодное Рождество 3",
       "title_en": "A Frozen Christmas 3",
       "year": 2018,
@@ -236,32 +265,6 @@
       "translator": "Не требуется",
       "translator_id": 92,
       "quality": "TS"
-    },
-    {
-      "title_ru": "Мастер Фэнг Шу",
-      "title_en": "Feng Shui Master",
-      "year": 2019,
-      "kinopoisk_id": 11556622,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-12-28 13:03:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Появление",
-      "title_en": "Apparition",
-      "year": 2019,
-      "kinopoisk_id": 1031159,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-12-28 12:53:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
     }
   ]
 }

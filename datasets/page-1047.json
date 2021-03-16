@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title_ru": "Русское краткое. Выпуск 3",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1231421,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-19 19:57:01",
+      "block": [
+        "RU"
+      ],
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Чудо",
+      "title_en": "Prodigy",
+      "year": 2018,
+      "kinopoisk_id": 1075041,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-19 19:55:45",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Пинки Мемсааб",
       "title_en": "Pinky Memsaab",
       "year": 2018,
@@ -237,35 +265,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "BDRip"
-    },
-    {
-      "title_ru": "Штормовой мальчик",
-      "title_en": "Storm Boy",
-      "year": 2019,
-      "kinopoisk_id": 809823,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-18 14:44:19",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Фантастические твари: Преступления Грин-де-Вальда",
-      "title_en": "Fantastic Beasts: The Crimes of Grindelwald",
-      "year": 2018,
-      "kinopoisk_id": 843479,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-18 14:37:46",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "4К"
     }
   ]
 }

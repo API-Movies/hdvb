@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Дуглас Браун",
+      "title_en": "Douglas Brown",
+      "year": 2016,
+      "kinopoisk_id": 730090,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-08-11 09:44:27",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Небоскрёб",
+      "title_en": "Skyscraper",
+      "year": 2018,
+      "kinopoisk_id": 1041734,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-08-10 20:41:53",
+      "block": false,
+      "translator": "Дубляж [Звук с TS]",
+      "translator_id": 108,
+      "quality": "HDTV"
+    },
+    {
       "title_ru": "Слепые пятна",
       "title_en": "Blindspotting",
       "year": 2018,
@@ -237,34 +263,6 @@
       "translator": "Дубляж [Чистый звук]",
       "translator_id": 109,
       "quality": "BDRip"
-    },
-    {
-      "title_ru": "Такси 5",
-      "title_en": "Taxi 5",
-      "year": 2018,
-      "kinopoisk_id": 1047736,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-08-05 11:31:39",
-      "block": [
-        "RU"
-      ],
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Мстители: Война бесконечности. Часть 1",
-      "title_en": "Avengers: Infinity War. Part I",
-      "year": 2018,
-      "kinopoisk_id": 843649,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-08-02 21:49:17",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "BluRay"
     }
   ]
 }

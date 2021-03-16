@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Мэри Поппинс возвращается",
+      "title_en": "Mary Poppins Returns",
+      "year": 2018,
+      "kinopoisk_id": 933182,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-11 14:47:25",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Лига справедливости",
+      "title_en": "Justice League",
+      "year": 2017,
+      "kinopoisk_id": 424994,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-11 13:33:00",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Человек-паук: Через вселенные",
       "title_en": "Spider-Man: Into the Spider-Verse",
       "year": 2018,
@@ -239,32 +265,6 @@
       "translator": "Дубляж",
       "translator_id": 82,
       "quality": "TS"
-    },
-    {
-      "title_ru": "Мэри Поппинс возвращается",
-      "title_en": "Mary Poppins Returns",
-      "year": 2018,
-      "kinopoisk_id": 933182,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-07 15:20:19",
-      "block": false,
-      "translator": "Дубляж [Звук с TS]",
-      "translator_id": 108,
-      "quality": "DVDRip"
-    },
-    {
-      "title_ru": "Айка",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 665107,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-07 13:03:27",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
     }
   ]
 }

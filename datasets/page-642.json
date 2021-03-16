@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "title_ru": "Комната желаний",
+      "title_en": "The Room",
+      "year": 2019,
+      "kinopoisk_id": 1159556,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-12-12 08:42:02",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ричард прощается",
+      "title_en": "Richard Says Goodbye",
+      "year": 2018,
+      "kinopoisk_id": 1047881,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-12-12 08:41:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Робо",
       "title_en": "",
       "year": 2019,
@@ -236,32 +265,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мой лучший друг - знаменитость",
-      "title_en": "My Best Friend's Famous",
-      "year": 2019,
-      "kinopoisk_id": 1189126,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-12-11 12:21:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Секта",
-      "title_en": "Il nido",
-      "year": 2019,
-      "kinopoisk_id": 1264122,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-12-11 12:12:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
     }
   ]
 }
