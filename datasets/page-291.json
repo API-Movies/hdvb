@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Наркокурьер",
+      "title_en": "The Mule",
+      "year": 2018,
+      "kinopoisk_id": 1142526,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-11 02:05:03",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Назад в будущее",
+      "title_en": "Back to the Future",
+      "year": 1985,
+      "kinopoisk_id": 476,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-11 02:04:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Мистер и миссис Смит",
+      "title_en": "Mr. &amp; Mrs. Smith",
+      "year": 2005,
+      "kinopoisk_id": 12090,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-11 02:03:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Милые кости",
+      "title_en": "The Lovely Bones",
+      "year": 2009,
+      "kinopoisk_id": 51319,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-11 02:02:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Мертвые не умирают",
+      "title_en": "The Dead Don't Die",
+      "year": 2019,
+      "kinopoisk_id": 1171953,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-11 02:01:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Малавита",
+      "title_en": "The Family",
+      "year": 2013,
+      "kinopoisk_id": 682669,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-11 01:55:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Леон",
+      "title_en": "Léon",
+      "year": 1994,
+      "kinopoisk_id": 389,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-11 01:54:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Ледниковый период 2: Глобальное потепление",
       "title_en": "Ice Age: The Meltdown",
       "year": 2006,
@@ -170,95 +261,161 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Голодные игры: Сойка-пересмешница. Часть I",
-      "title_en": "The Hunger Games: Mockingjay - Part 1",
+      "title_ru": "Черная комедия",
+      "title_en": "Black Comedy",
       "year": 2014,
-      "kinopoisk_id": 661911,
-      "type": "movie",
+      "kinopoisk_id": 3697996,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "02831cc5b4ce31bbcd49a66f31fea1bd097605e266e5a359a44fe073e5d0bac7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-11 01:40:01",
+      "added_date": "2020-03-11 21:29:47",
+      "update_date": "2020-03-11 21:29:47",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/3697996.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Гадкий я 2",
-      "title_en": "Despicable Me 2",
-      "year": 2013,
-      "kinopoisk_id": 550910,
-      "type": "movie",
+      "title_ru": "Чужак",
+      "title_en": "The Outsider",
+      "year": 2020,
+      "kinopoisk_id": 1162527,
+      "world_art_id": null,
+      "translator": "Кравец",
+      "token": "740372769e426e26c413f60548a8908dc7e8102c6d4a3d029d8d15118cfeda48",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-11 01:36:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "added_date": "2020-03-11 21:29:23",
+      "update_date": "2020-03-11 21:29:23",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 85,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1162527.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Выживший",
-      "title_en": "The Revenant",
-      "year": 2015,
-      "kinopoisk_id": 522941,
-      "type": "movie",
+      "title_ru": "На районе",
+      "title_en": "On My Block",
+      "year": 2018,
+      "kinopoisk_id": 1112258,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "f4a33bbbca01fe625f777f78825edd835833bb404627c25bb6873c061488386b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-11 01:34:01",
+      "added_date": "2020-03-11 21:27:56",
+      "update_date": "2020-03-11 21:27:56",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1112258.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "В тени Луны",
-      "title_en": "In the Shadow of the Moon",
-      "year": 2019,
-      "kinopoisk_id": 1127701,
-      "type": "movie",
+      "title_ru": "На районе",
+      "title_en": "On My Block",
+      "year": 2018,
+      "kinopoisk_id": 1112258,
+      "world_art_id": null,
+      "translator": "Пифагор",
+      "token": "6288937a7ec3f1f308094f5e349049e3010726ad84114af343a0e7dcd7544ac0",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-11 01:33:04",
+      "added_date": "2020-03-11 16:38:04",
+      "update_date": "2020-03-11 16:38:04",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Военный ныряльщик",
-      "title_en": "Men of Honor",
-      "year": 2000,
-      "kinopoisk_id": 751,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-11 01:32:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Виноваты звезды",
-      "title_en": "The Fault in Our Stars",
-      "year": 2014,
-      "kinopoisk_id": 724703,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-11 01:31:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Бойцовский клуб",
-      "title_en": "Fight Club",
-      "year": 1999,
-      "kinopoisk_id": 361,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-11 01:30:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 124,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1112258.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Всеамериканский",
@@ -835,147 +992,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Триггер",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1100777,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "9532ff67ef2cb5030d7220bc0bad8f2fc455c938bba76bbb7d55aa66813c747c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-05 19:09:20",
-      "update_date": "2020-03-05 19:09:20",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1100777.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Грешница",
-      "title_en": "The Sinner",
-      "year": 2017,
-      "kinopoisk_id": 1004780,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "cbc93b23b86e234fe19a232e4618fe93448f1948dc83b694c6abbd0b6a745fa5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-05 08:41:34",
-      "update_date": "2020-03-05 08:41:34",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1004780.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чужак",
-      "title_en": "The Outsider",
-      "year": 2020,
-      "kinopoisk_id": 1162527,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "0364d24a8fdff5481c5e91da597a40abca6cb7dbf300322dc4466998ed003eb5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-05 08:39:59",
-      "update_date": "2020-03-05 08:39:59",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1162527.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ответный удар",
-      "title_en": "Strike Back",
-      "year": 2010,
-      "kinopoisk_id": 505661,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "e3598b8a4ef0c4582851195373ea79982bfd05129de856a1bdedf60306438632",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-05 08:39:35",
-      "update_date": "2020-03-05 08:39:35",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/505661.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 8,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            3
           ]
         }
       ]

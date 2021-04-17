@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Временная Петля / Временные Перспективы",
+      "title_en": "Time Loop / Time Perspectives",
+      "year": 2020,
+      "kinopoisk_id": 1147403,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-01 22:54:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Один день Тома",
+      "title_en": "Tom of Your Life",
+      "year": 2020,
+      "kinopoisk_id": 1077277,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-01 22:53:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Видовс Пойнт",
+      "title_en": "Widow's Point",
+      "year": 2020,
+      "kinopoisk_id": 1191324,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-01 22:51:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Да здравствует Рок!",
+      "title_en": "Long Live Rock... Celebrate the Chaos",
+      "year": 2020,
+      "kinopoisk_id": 1174658,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-01 22:48:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мой создатель",
+      "title_en": "Archive",
+      "year": 2020,
+      "kinopoisk_id": 1055319,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-01 22:46:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Завещание Теслы",
+      "title_en": "Final Frequency",
+      "year": 2020,
+      "kinopoisk_id": 1194544,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-01 22:43:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Душа",
+      "title_en": "Soul / Roh",
+      "year": 2020,
+      "kinopoisk_id": 1285010,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-01 14:53:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Мелодия мира боевых искусств",
       "title_en": "Assassin on the String",
       "year": 2019,
@@ -170,95 +261,161 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "",
-      "title_en": "L'amore, il sole e l'altre stelle",
+      "title_ru": "Гараж Джея Лено",
+      "title_en": "Jay Leno's Garage",
+      "year": 2015,
+      "kinopoisk_id": 4944090,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "94eb9107f4be56e859d969c94f145c2384d6caeb3db94f65cdd17740d041fae3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-11 09:13:10",
+      "update_date": "2020-07-11 09:13:10",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4944090.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Код величия",
+      "title_en": "Greatness Code",
+      "year": 2020,
+      "kinopoisk_id": 12615492,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "a05c9d08429d46467e89e333078c0f5f5069073cad08e78051647f747c5b0102",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-11 09:11:45",
+      "update_date": "2020-07-11 09:11:45",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/12615492.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "С волками жить",
+      "title_en": "",
       "year": 2019,
-      "kinopoisk_id": 766390,
-      "type": "movie",
+      "kinopoisk_id": 1254495,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "23898c6b4035179fa0f4b92893ac7bc191cc50410ee9336bd043df7c7d38788c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-01 14:29:01",
+      "added_date": "2020-07-11 00:58:26",
+      "update_date": "2020-07-11 00:58:26",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "DVDRip"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1254495.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Не входи",
-      "title_en": "The Owners",
-      "year": 2020,
-      "kinopoisk_id": 1251292,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-01 14:27:01",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Зона 261",
-      "title_en": "Operation Ragnarök",
+      "title_ru": "За витриной",
+      "title_en": "",
       "year": 2019,
-      "kinopoisk_id": 586498,
-      "type": "movie",
+      "kinopoisk_id": 1227919,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "d73e23777c3ff6013b8c19ad15c3efadbead2445e2deb6995c6a5da2f75fe194",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-01 14:24:01",
+      "added_date": "2020-07-11 00:56:48",
+      "update_date": "2020-07-11 00:56:48",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Тайное происхождение",
-      "title_en": "Orígenes secretos",
-      "year": 2020,
-      "kinopoisk_id": 1066440,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-01 14:23:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сантана",
-      "title_en": "Santana",
-      "year": 2020,
-      "kinopoisk_id": 54678865,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-01 14:21:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Неуязвимый Царь",
-      "title_en": "The King is Invincible",
-      "year": 2020,
-      "kinopoisk_id": 45647555,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-01 14:20:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Финес и Ферб: Кэндис против Вселенной",
-      "title_en": "Phineas and Ferb the Movie: Candace Against the Universe",
-      "year": 2020,
-      "kinopoisk_id": 577532,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-01 14:16:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1227919.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Сердцебиение",
@@ -1357,230 +1514,6 @@
             5,
             6,
             7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Воссоединившиеся миры",
-      "title_en": "Dashi mannan segye",
-      "year": 2017,
-      "kinopoisk_id": 1045562,
-      "world_art_id": null,
-      "translator": "SoftBox",
-      "token": "90fbf4870c48840add1da992403fde16781c83cd68bb682944e8026f7670743c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-09 19:44:13",
-      "update_date": "2020-07-09 19:44:13",
-      "block": false,
-      "translator_id": 106,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1045562.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Волшебный школьный автобус",
-      "title_en": "The Magic School Bus",
-      "year": 1994,
-      "kinopoisk_id": 280134,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "867524ec62e782d9f3d366b596f5bd0575573c98b0cee8bbcf763db4247984d9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-09 15:28:45",
-      "update_date": "2020-07-09 15:28:45",
-      "block": false,
-      "translator_id": 82,
-      "quality": "SATRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/280134.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Богатство",
-      "title_en": "Servet",
-      "year": 2018,
-      "kinopoisk_id": 1112964,
-      "world_art_id": null,
-      "translator": "двухголосый закадровый",
-      "token": "af64540e2535fe81a8261456528ee388c608f89a3bd07de89d1f4bdbbc8f2985",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-09 14:55:23",
-      "update_date": "2020-07-09 14:55:23",
-      "block": false,
-      "translator_id": 81,
-      "quality": "WEB-DLRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1112964.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дело чести",
-      "title_en": "Seref Meselesi",
-      "year": 2014,
-      "kinopoisk_id": 880716,
-      "world_art_id": null,
-      "translator": "одноголосый закадровый",
-      "token": "ca030da31a23d6f9fe2b33944aefa0a37844a5230f0bb2ed7c24b426667fce67",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-09 14:38:37",
-      "update_date": "2020-07-09 14:38:37",
-      "block": false,
-      "translator_id": 93,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/880716.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 26,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26
           ]
         }
       ]

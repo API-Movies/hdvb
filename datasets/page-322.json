@@ -1,6 +1,100 @@
 {
   "items": [
     {
+      "title_ru": "Нетипичная среда",
+      "title_en": "aTypical Wednesday / Wednesdays",
+      "year": 2020,
+      "kinopoisk_id": 5676676,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-26 20:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пёс Аллан",
+      "title_en": "Allan the Dog",
+      "year": 2020,
+      "kinopoisk_id": 1212538,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-26 19:49:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "История Фанни Лэй",
+      "title_en": "Fanny Lye Deliver'd",
+      "year": 2020,
+      "kinopoisk_id": 978502,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-26 19:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Честный кандидат",
+      "title_en": "Irresistible",
+      "year": 2020,
+      "kinopoisk_id": 1252341,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-26 19:47:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дрожь земли 6",
+      "title_en": "Tremors: A Cold Day in Hell",
+      "year": 2018,
+      "kinopoisk_id": 1004968,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-26 18:08:01",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Евровидение: История огненной саги",
+      "title_en": "Eurovision Song Contest: The Story of Fire Saga",
+      "year": 2020,
+      "kinopoisk_id": 1338102,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-26 16:18:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Герой СамСам",
+      "title_en": "SamSam",
+      "year": 2019,
+      "kinopoisk_id": 1319263,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-26 15:43:01",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "После полуночи",
       "title_en": "After Midnight",
       "year": 2019,
@@ -170,95 +264,142 @@
       "quality": "DVDRip"
     },
     {
-      "title_ru": "Хрупкость",
-      "title_en": "Frágiles",
-      "year": 2005,
-      "kinopoisk_id": 81487,
-      "type": "movie",
+      "title_ru": "Острые козырьки",
+      "title_en": "Peaky Blinders",
+      "year": 2013,
+      "kinopoisk_id": 716587,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "dfc6a8c2e6e4c57c9607da47dcddc8d468b6095854be1d5eb18d6a1360f67c34",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-26 03:06:01",
+      "added_date": "2019-08-26 11:18:41",
+      "update_date": "2019-09-23 08:18:18",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BluRay"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/716587.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=134056",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Игрушка",
-      "title_en": "Le jouet",
-      "year": 1976,
-      "kinopoisk_id": 57004,
-      "type": "movie",
+      "title_ru": "Снегопад",
+      "title_en": "Snowfall",
+      "year": 2017,
+      "kinopoisk_id": 909854,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "6a9f216c62cc3f9452ce673a13c26ed2ed13830f02d10579c1a4dd717fa12b63",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-26 03:05:01",
+      "added_date": "2019-07-11 22:05:06",
+      "update_date": "2019-09-23 01:15:59",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/909854.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=141427",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Единственная",
-      "title_en": "Hum Tumhare Hain Sanam",
-      "year": 2002,
-      "kinopoisk_id": 51215,
-      "type": "movie",
+      "title_ru": "Шоу Шермана",
+      "title_en": "Sherman's Showcase",
+      "year": 2019,
+      "kinopoisk_id": 1153386,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "542ac73773988530289903d0cd49d8598b55767917e26481f259b247584f821f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-26 03:04:02",
+      "added_date": "2019-07-30 19:26:38",
+      "update_date": "2019-09-23 00:20:41",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BluRay"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1153386.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Декамерон",
-      "title_en": "Il Decameron",
-      "year": 1970,
-      "kinopoisk_id": 39872,
-      "type": "movie",
+      "title_ru": "Кайфоломы / Киллджойс",
+      "title_en": "Killjoys",
+      "year": 2015,
+      "kinopoisk_id": 891589,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "4f5a6fe90018950fca228b3f5bf151622bb6e25312716c8d05a78ece35e763c4",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-26 03:03:02",
+      "added_date": "2019-07-20 16:22:38",
+      "update_date": "2019-09-21 14:37:35",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Игра смерти",
-      "title_en": "Game of Death",
-      "year": 1978,
-      "kinopoisk_id": 34807,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-26 03:02:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Честь и ярость 2: Враждебный захват",
-      "title_en": "Rage and Honor II",
-      "year": 1993,
-      "kinopoisk_id": 28575,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-26 03:01:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "DVDRip"
-    },
-    {
-      "title_ru": "Ночь кошмаров",
-      "title_en": "Night of the Creeps",
-      "year": 1986,
-      "kinopoisk_id": 22137,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-26 03:00:02",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/891589.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=117215",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Клуб первых жён",
@@ -829,144 +970,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Пенниуорт",
-      "title_en": "Pennyworth",
-      "year": 2019,
-      "kinopoisk_id": 1142552,
-      "world_art_id": null,
-      "translator": "HamsterStudio",
-      "token": "3c3d366f180d637e0de0d0909f9fcdd9b08aea2db58b1669f2f1013651a57b2d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-09-04 15:53:39",
-      "update_date": "2019-09-04 15:54:19",
-      "block": false,
-      "translator_id": 32,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1142552.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Тёмный кристалл: Эпоха сопротивления",
-      "title_en": "The Dark Crystal: Age of Resistance",
-      "year": 2019,
-      "kinopoisk_id": 1045246,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "7cccccb26cdc32bd522c9b3be3a5e8d0ade045e613f395e08fcd9131e20fffec",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-30 17:17:20",
-      "update_date": "2019-09-03 14:35:03",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1045246.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=142402",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Плащ и Кинжал",
-      "title_en": "Cloak &amp; Dagger",
-      "year": 2018,
-      "kinopoisk_id": 978854,
-      "world_art_id": null,
-      "translator": "HamsterStudio",
-      "token": "6785131a4d2c7d15b4b8744f8329f3750a89af71566e64d0e0966bbe4f04e16a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-09-02 20:11:57",
-      "update_date": "2019-09-02 20:14:22",
-      "block": false,
-      "translator_id": 32,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/978854.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140183",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Легкий как перышко",
-      "title_en": "Light as a Feather",
-      "year": 2018,
-      "kinopoisk_id": 1173528,
-      "world_art_id": null,
-      "translator": "HamsterStudio",
-      "token": "b290fd00bf375f0c3c716918a8876bc19220c42e311e7671c352bb6caf04c091",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-09-02 20:08:50",
-      "update_date": "2019-09-02 20:11:19",
-      "block": false,
-      "translator_id": 32,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1173528.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

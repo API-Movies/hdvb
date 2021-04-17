@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Лучшие годы",
+      "title_en": "Gli anni più belli",
+      "year": 2020,
+      "kinopoisk_id": 1219395,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-05 20:57:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Драконы: Команда спасения. Охота на Золотого дракона",
+      "title_en": "Dragons: Rescue Riders: Hunt for the Golden Dragon",
+      "year": 2020,
+      "kinopoisk_id": 1364427,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-05 20:56:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Американские кошмары",
+      "title_en": "Mr. Malevolent",
+      "year": 2018,
+      "kinopoisk_id": 1046498,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-05 20:27:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "В одиночестве",
+      "title_en": "Alone",
+      "year": 2020,
+      "kinopoisk_id": 1264487,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-05 17:35:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Русский рейд",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1272294,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-05 16:35:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Путешественник. Начало",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1251128,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-05 13:48:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Нашествие пришельцев",
+      "title_en": "Alien Outbreak",
+      "year": 2020,
+      "kinopoisk_id": 1025774,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-04 17:13:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Снежный человек во льдах",
       "title_en": "Frozen Sasquatch",
       "year": 2018,
@@ -170,95 +261,228 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Номер один",
+      "title_ru": "Закрытый сезон",
       "title_en": "",
       "year": 2020,
-      "kinopoisk_id": 1314719,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-04 08:46:01",
-      "block": false,
+      "kinopoisk_id": 1301771,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "139cd0bf388bebe03fa29249999e8665b669da41004080813860af57bab4e29a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-09 16:44:27",
+      "update_date": "2020-08-14 10:04:05",
+      "block": [
+        "RU",
+        "UA"
+      ],
       "translator_id": 92,
-      "quality": "WEB-DL"
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1301771.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Лесси. Возвращение домой",
-      "title_en": "Lassie Come Home / Lassie - Eine abenteuerliche Reise",
+      "title_ru": "Пиноккио",
+      "title_en": "Pinokio",
+      "year": 2014,
+      "kinopoisk_id": 843778,
+      "world_art_id": null,
+      "translator": "Мобильное телевидение",
+      "token": "ec5f7a61670f01018f72736678bf39aea3c4bd9c1fc9d7eecaebbc3908744ee7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-14 08:53:33",
+      "update_date": "2020-08-14 08:54:29",
+      "block": false,
+      "translator_id": 133,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/843778.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Не копайся в себе",
+      "title_en": "Don't Look Deeper",
       "year": 2020,
-      "kinopoisk_id": 1272115,
-      "type": "movie",
+      "kinopoisk_id": 1274562,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "f10c58eb38d1f5f1d57ad08c61925a448b6d33cf2fbbafc5c21754f538b8c1c0",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-04 08:45:01",
+      "added_date": "2020-07-27 21:39:05",
+      "update_date": "2020-08-14 08:39:35",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
+      "translator_id": 115,
+      "quality": "CAMRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1274562.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "M",
-      "title_en": "M",
-      "year": 2017,
-      "kinopoisk_id": 940039,
-      "type": "movie",
+      "title_ru": "Виктория-победительница",
+      "title_en": "Victorious",
+      "year": 2010,
+      "kinopoisk_id": 517338,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "16b0ffeec19c649adf21ad6d023f3b2cc68bdde93ec8159cc8fde4e1d2836cc3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-04 00:02:01",
+      "added_date": "2020-08-14 02:11:07",
+      "update_date": "2020-08-14 02:12:25",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Миф",
-      "title_en": "Myth",
-      "year": 2020,
-      "kinopoisk_id": 1025111,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-04 00:00:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Стандарт",
-      "title_en": "The Standard",
-      "year": 2020,
-      "kinopoisk_id": 12681044,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-03 23:58:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Материнский инстинкт",
-      "title_en": "Maternal / Hogar",
-      "year": 2019,
-      "kinopoisk_id": 1292109,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-03 23:55:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Предательство",
-      "title_en": "Traición / Betrayal",
-      "year": 2018,
-      "kinopoisk_id": 996745,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-03 23:49:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/517338.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 19,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            13,
+            14
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Buddy Thunderstruck",
@@ -1324,122 +1548,6 @@
             9,
             10,
             11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рождество",
-      "title_en": "The Nativity",
-      "year": 2010,
-      "kinopoisk_id": 574231,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "79a86545b3c173e37ed841a0fed90f4c8fe0783163467247eea688e27eb9e18f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-13 17:33:23",
-      "update_date": "2020-08-13 17:34:09",
-      "block": false,
-      "translator_id": 126,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/574231.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сельский детектив. Месть Чернобога",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1377942,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "557d29f9e1b60614288d9cf54a08fcc37c273ffaefbb42be95d25d6a809ca1a6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-13 17:30:53",
-      "update_date": "2020-08-13 17:31:56",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1377942.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сельский детектив. Яблоня раздора",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1334039,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "84ac62eb9fa4d2d50036e2b5e6a64d3d70db4caa0fc35e390a269fb572301b37",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-13 17:29:58",
-      "update_date": "2020-08-13 17:30:30",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1334039.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ожившая книга Джейн Остин",
-      "title_en": "Lost in Austen",
-      "year": 2008,
-      "kinopoisk_id": 435352,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "aa7275d0ce248049fb27dba33e9dd27505eed818382777b66c986bbd88a16f13",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-13 17:27:35",
-      "update_date": "2020-08-13 17:28:55",
-      "block": false,
-      "translator_id": 126,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/435352.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

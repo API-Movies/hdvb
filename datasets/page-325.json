@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Майло",
+      "title_en": "Bad Milo!",
+      "year": 2013,
+      "kinopoisk_id": 692952,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-26 02:26:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Студия секса",
+      "title_en": "Studio Sex",
+      "year": 2012,
+      "kinopoisk_id": 684326,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-26 02:25:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Прибежище",
+      "title_en": "Faro",
+      "year": 2013,
+      "kinopoisk_id": 662590,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-26 02:24:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Молчание до гроба",
+      "title_en": "Sexting in Suburbia",
+      "year": 2012,
+      "kinopoisk_id": 622617,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-26 02:23:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "HDTVRip"
+    },
+    {
+      "title_ru": "Тихая гора",
+      "title_en": "Der stille Berg",
+      "year": 2014,
+      "kinopoisk_id": 606769,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-26 02:22:01",
+      "block": false,
+      "translator": "одноголосый закадровый",
+      "translator_id": 93,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "За гранью «Черной месы»",
+      "title_en": "Beyond Black Mesa",
+      "year": 2010,
+      "kinopoisk_id": 580660,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-26 02:21:01",
+      "block": false,
+      "translator": "одноголосый закадровый",
+      "translator_id": 93,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Обратная сторона любви",
+      "title_en": "Lo contrario al amor",
+      "year": 2011,
+      "kinopoisk_id": 530358,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-26 02:20:02",
+      "block": false,
+      "translator": "одноголосый закадровый",
+      "translator_id": 93,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Супермен/Бэтмен: Враги общества",
       "title_en": "Superman/Batman: Public Enemies",
       "year": 2009,
@@ -170,95 +261,147 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Незнакомец с моими детьми",
-      "title_en": "A Stranger with My Kids",
+      "title_ru": "Криптон",
+      "title_en": "Krypton",
+      "year": 2018,
+      "kinopoisk_id": 880644,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "849d204560c6935e801466477307ec4fc57acb379ca37f6609b46dc2124c8f84",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-08-28 10:58:57",
+      "update_date": "2019-08-28 10:59:51",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/880644.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=147164",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Рассказ служанки",
+      "title_en": "The Handmaid's Tale",
       "year": 2017,
-      "kinopoisk_id": 973200,
-      "type": "movie",
+      "kinopoisk_id": 1007426,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "9851ce4f2b5509e20e5ccf929ebe0d95d70f47c32fbd7e648413d602ea3218e8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-25 17:29:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "added_date": "2019-08-28 10:55:40",
+      "update_date": "2019-08-28 10:56:49",
+      "block": [
+        "RU"
+      ],
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1007426.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140263",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Tarnation",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 970109,
-      "type": "movie",
+      "title_ru": "Плащ и Кинжал",
+      "title_en": "Cloak &amp; Dagger",
+      "year": 2018,
+      "kinopoisk_id": 978854,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "89c72b4a116f58f1761c59ed9e261f4ea9c673f67847735b9be19fdc65e9d501",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-25 17:28:01",
+      "added_date": "2019-08-27 11:30:55",
+      "update_date": "2019-08-27 11:32:33",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/978854.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140183",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            2,
+            3,
+            5,
+            6,
+            8,
+            9
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Плохие парни всегда умирают",
-      "title_en": "Huai dan bi xu si",
-      "year": 2015,
-      "kinopoisk_id": 943998,
-      "type": "movie",
+      "title_ru": "Барри",
+      "title_en": "Barry",
+      "year": 2018,
+      "kinopoisk_id": 972587,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "1ad9f2b5fb461d8a0ab4fbef408834feada230a4497ee6ac8a1952f10988db0b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-25 17:27:01",
+      "added_date": "2019-08-27 11:29:52",
+      "update_date": "2019-08-27 11:30:34",
       "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Человек-блин",
-      "title_en": "Jian Bing Man",
-      "year": 2015,
-      "kinopoisk_id": 910925,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-25 17:26:01",
-      "block": false,
-      "translator": "одноголосый закадровый",
-      "translator_id": 93,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Небо",
-      "title_en": "Sky",
-      "year": 2015,
-      "kinopoisk_id": 885976,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-25 17:25:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "West of Her",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 879327,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-25 17:24:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Ace the Case",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 847597,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-25 17:23:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BluRay"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/972587.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=147763",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Очень странные дела",
@@ -797,135 +940,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кайфоломы / Киллджойс",
-      "title_en": "Killjoys",
-      "year": 2015,
-      "kinopoisk_id": 891589,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "19b5645c76c5d88e708196e992fa2a712e55d4bcc5e64e4adf7af806c962d665",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-24 01:27:24",
-      "update_date": "2019-08-24 01:33:46",
-      "block": false,
-      "translator_id": 15,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/891589.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=117215",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Криптон",
-      "title_en": "Krypton",
-      "year": 2018,
-      "kinopoisk_id": 880644,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "d094b1eefa73cc9f01a0f1714ba8b82f62aaaa94fb0afa088735d527c7f8b86a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-23 01:48:39",
-      "update_date": "2019-08-24 01:25:29",
-      "block": false,
-      "translator_id": 15,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/880644.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=147164",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Пенниуорт",
-      "title_en": "Pennyworth",
-      "year": 2019,
-      "kinopoisk_id": 1142552,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "217904103732108cc84b4e410782303531ce95abc8c9fbc92c92e1b88b193488",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-24 01:11:57",
-      "update_date": "2019-08-24 01:13:53",
-      "block": false,
-      "translator_id": 15,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1142552.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Топ Гир",
-      "title_en": "Top Gear",
-      "year": 2002,
-      "kinopoisk_id": 566602,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "51650bbcb7c612492f1a87766c20a2db836278fe661aac86a3a4457af346ccd7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-24 00:57:27",
-      "update_date": "2019-08-24 00:58:32",
-      "block": false,
-      "translator_id": 15,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/566602.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=94814",
-      "serial_episodes": [
-        {
-          "season_number": 27,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
           ]
         }
       ]

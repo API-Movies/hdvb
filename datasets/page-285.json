@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Первому игроку приготовиться",
+      "title_en": "Ready Player One",
+      "year": 2018,
+      "kinopoisk_id": 538225,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-13 19:05:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Паразиты",
+      "title_en": "Gisaengchung",
+      "year": 2019,
+      "kinopoisk_id": 1043758,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-13 19:04:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Оно 2",
+      "title_en": "It Chapter Two",
+      "year": 2019,
+      "kinopoisk_id": 686898,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-13 19:03:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Зов предков",
+      "title_en": "The Call of the Wild",
+      "year": 2020,
+      "kinopoisk_id": 1060511,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-13 19:02:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Джуманджи: Новый уровень",
+      "title_en": "Jumanji: The Next Level",
+      "year": 2019,
+      "kinopoisk_id": 1112539,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-13 19:01:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Джокер",
+      "title_en": "Joker",
+      "year": 2019,
+      "kinopoisk_id": 1048334,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-13 19:00:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Восемь подруг Оушена",
+      "title_en": "Ocean's Eight",
+      "year": 2018,
+      "kinopoisk_id": 983177,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-13 18:59:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Вне игры",
       "title_en": "The Way Back",
       "year": 2020,
@@ -170,95 +261,242 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Черепашки-ниндзя",
-      "title_en": "Teenage Mutant Ninja Turtles",
-      "year": 2014,
-      "kinopoisk_id": 461206,
-      "type": "movie",
+      "title_ru": "Детективное агентство «Лунный свет»",
+      "title_en": "Moonlighting",
+      "year": 1985,
+      "kinopoisk_id": 77291,
+      "world_art_id": null,
+      "translator": "многоголосый закадровый",
+      "token": "42f3369ea7dd919642bac6c6b1ac977a83d092b51d50364522c1ad1f91c26ffc",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-13 00:32:01",
+      "added_date": "2020-04-05 14:17:35",
+      "update_date": "2020-04-05 14:17:35",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 89,
+      "quality": "DVDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/77291.jpg",
+      "trailer": "https://kp.cdn.yandex.net/77291/kinopoisk.ru-Moonlighting-224242.mp4",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Человек-муравей и Оса",
-      "title_en": "Ant-Man and the Wasp",
+      "title_ru": "Пресса",
+      "title_en": "Press",
       "year": 2018,
-      "kinopoisk_id": 935940,
-      "type": "movie",
+      "kinopoisk_id": 1184877,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "082d71ed69206143251bab52c3d78f62d9470797833de6d5ecef81405442ae33",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-13 00:31:01",
+      "added_date": "2020-04-05 00:07:33",
+      "update_date": "2020-04-05 00:07:33",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1184877.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Хроники Риддика",
-      "title_en": "The Chronicles of Riddick",
-      "year": 2004,
-      "kinopoisk_id": 5900,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-13 00:30:02",
-      "block": false,
+      "title_ru": "Апокалипсис: Вторая мировая война",
+      "title_en": "Apocalypse: La 2ème guerre mondiale",
+      "year": 2009,
+      "kinopoisk_id": 478013,
+      "world_art_id": null,
       "translator": "Дубляж [Лицензия]",
+      "token": "d9280e41c343d956f73be0121a89ca23aa19f54fba5c316a499d5aa9ca9befb5",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-05 00:04:16",
+      "update_date": "2020-04-05 00:04:16",
+      "block": false,
       "translator_id": 107,
-      "quality": "HDRip"
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/478013.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Хоббит: Битва пяти воинств",
-      "title_en": "The Hobbit: The Battle of the Five Armies",
-      "year": 2014,
-      "kinopoisk_id": 694633,
-      "type": "movie",
+      "title_ru": "Сирена",
+      "title_en": "Siren",
+      "year": 2018,
+      "kinopoisk_id": 1044468,
+      "world_art_id": null,
+      "translator": "Кириллица",
+      "token": "ed73fa79c3c3c7a48225974a0b45b8c8190c684dcc149f87df65fbab4d12acb9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-13 00:29:01",
+      "added_date": "2020-04-04 23:39:35",
+      "update_date": "2020-04-04 23:39:35",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Форрест Гамп",
-      "title_en": "Forrest Gump",
-      "year": 1994,
-      "kinopoisk_id": 448,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-13 00:28:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Фиксики против кработов",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1115685,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-13 00:27:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Туннель: Опасно для жизни",
-      "title_en": "Tunnelen",
-      "year": 2020,
-      "kinopoisk_id": 1199016,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-13 00:26:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 123,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1044468.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Академия шпионов",
@@ -956,235 +1194,6 @@
             21,
             22,
             23
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бумажный дом",
-      "title_en": "La casa de papel",
-      "year": 2017,
-      "kinopoisk_id": 1046206,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "6a1a1b5db65cf07181b075ad1a440d002774b02c8e91d9c752a6ddc737b242ef",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-03 21:23:23",
-      "update_date": "2020-04-03 21:23:23",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1046206.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Волшебники",
-      "title_en": "The Magicians",
-      "year": 2015,
-      "kinopoisk_id": 875215,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "3e49cd05e41174cd017cdf246a6d4d59e970c54d6fb332b1416a5f55d60ddbb2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-03 20:50:55",
-      "update_date": "2020-04-03 20:50:55",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/875215.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=120386",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Человек будущего",
-      "title_en": "Future Man",
-      "year": 2017,
-      "kinopoisk_id": 958578,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "04e65f98bbde5590d30ccc527c4d4fa5a2f48d82158350f10406ad447261088b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-03 18:48:36",
-      "update_date": "2020-04-03 18:48:36",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/958578.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Платформа 45",
-      "title_en": "Rig 45",
-      "year": 2018,
-      "kinopoisk_id": 1112863,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "9100b22ed9a1a2efde26deb3beb2287836c5598453c3203869bbfa1ac636ed06",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-03 15:06:10",
-      "update_date": "2020-04-03 15:06:10",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1112863.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

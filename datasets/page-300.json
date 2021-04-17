@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Если увидишь мою маму",
+      "title_en": "Si tu vois ma mère",
+      "year": 2019,
+      "kinopoisk_id": 1256501,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-05 21:28:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Соль и Луна",
+      "title_en": "Sol y Luna",
+      "year": 2019,
+      "kinopoisk_id": 970659,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-05 21:27:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Счастье матери",
+      "title_en": "Hanh Phuc Cua Me / The Happiness of a Mother",
+      "year": 2019,
+      "kinopoisk_id": 1249134,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-05 21:25:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Заколдованное перо",
+      "title_en": "Zakleté pírko",
+      "year": 2020,
+      "kinopoisk_id": 1255941,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-05 21:24:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ликвидация",
+      "title_en": "Termination",
+      "year": 2020,
+      "kinopoisk_id": 1266191,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-05 21:23:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пробуждение",
+      "title_en": "Wake Up",
+      "year": 2019,
+      "kinopoisk_id": 1099440,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-05 15:46:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Восточный ветер 2",
+      "title_en": "Ostwind 2",
+      "year": 2015,
+      "kinopoisk_id": 846875,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-05 15:45:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Тайна Елисейского дворца",
       "title_en": "Mystère à l'Élysée",
       "year": 2019,
@@ -170,95 +261,173 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Холмс &amp; Ватсон",
-      "title_en": "Holmes and Watson",
-      "year": 2018,
-      "kinopoisk_id": 462450,
-      "type": "movie",
+      "title_ru": "Ударная группа",
+      "title_en": "Smeris",
+      "year": 2014,
+      "kinopoisk_id": 1113107,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "9e3f9128d4528cf6558b6c09dc9abef7b2bc498230ab4fd46b553229e9d11867",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-04 15:11:01",
+      "added_date": "2020-02-02 22:11:14",
+      "update_date": "2020-02-02 22:11:14",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1113107.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Фантастические твари и где они обитают",
-      "title_en": "Fantastic Beasts and Where to Find Them",
+      "title_ru": "Зло",
+      "title_en": "Evil",
+      "year": 2019,
+      "kinopoisk_id": 1200706,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "ea2d985698b6f532499dab23bec2ef0cef97fba05ed1a963d641d1079cae9037",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-02-02 22:04:36",
+      "update_date": "2020-02-02 22:04:36",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1200706.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Диаблеро",
+      "title_en": "Diablero",
+      "year": 2018,
+      "kinopoisk_id": 1148801,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "b41166483c116ea00e1e087068f80a9f12eb11d9dbe09349bbc754f99c550cb6",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-02-02 22:04:13",
+      "update_date": "2020-02-02 22:04:13",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1148801.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Закон Мёрфи",
+      "title_en": "Milo Murphy's Law",
       "year": 2016,
-      "kinopoisk_id": 797840,
-      "type": "movie",
+      "kinopoisk_id": 1008496,
+      "world_art_id": null,
+      "translator": "Невафильм",
+      "token": "b4a222aa8475aab7bbd63e54ea80e568f1e70a957061a3d26a0e5f3e4ee5753b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-04 15:10:01",
+      "added_date": "2020-02-02 19:26:29",
+      "update_date": "2020-02-02 19:26:29",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Ты водишь!",
-      "title_en": "Tag",
-      "year": 2018,
-      "kinopoisk_id": 759874,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-04 15:09:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Три метра над уровнем неба",
-      "title_en": "Tres metros sobre el cielo",
-      "year": 2010,
-      "kinopoisk_id": 523362,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-04 15:08:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Такси",
-      "title_en": "Taxi",
-      "year": 1998,
-      "kinopoisk_id": 14349,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-04 15:07:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Тайна 7 сестер",
-      "title_en": "Seven Sisters",
-      "year": 2017,
-      "kinopoisk_id": 484628,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-04 15:06:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Сквозь снег",
-      "title_en": "Snowpiercer",
-      "year": 2013,
-      "kinopoisk_id": 566283,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-04 15:05:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 90,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1008496.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Как женить папу",
@@ -1067,171 +1236,6 @@
         },
         {
           "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Выскочка",
-      "title_en": "Shrill",
-      "year": 2019,
-      "kinopoisk_id": 1191096,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "248270e8018ce3c9c5efbe73da59bd77cdd426289f718971e1a4b7934395842d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-29 21:04:34",
-      "update_date": "2020-01-29 21:04:34",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1191096.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Всеведущий",
-      "title_en": "Onisciente",
-      "year": 2020,
-      "kinopoisk_id": 1339669,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "a2a752003e22ea3e94fd95e1f22144ceda20a852b8a740890adba870516ecadb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-29 19:46:25",
-      "update_date": "2020-01-29 19:46:25",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1339669.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Очень странные дела",
-      "title_en": "Stranger Things",
-      "year": 2016,
-      "kinopoisk_id": 915196,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "6f6788f7bbad7af1de1a393b3bc22f8eaab0f49d0f19077f9bfbe1ea8b44782b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-29 14:58:39",
-      "update_date": "2020-01-29 14:58:39",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/915196.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=143128",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Стрела",
-      "title_en": "Arrow",
-      "year": 2012,
-      "kinopoisk_id": 661938,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "13672ff46cc830210346f477f01757c9984c30e9317811ab1ce3a1b279d0dfdf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-29 11:09:17",
-      "update_date": "2020-01-29 11:09:17",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/661938.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&trailer_id=142456",
-      "serial_episodes": [
-        {
-          "season_number": 8,
           "episodes_count": 10,
           "episodes": [
             1,

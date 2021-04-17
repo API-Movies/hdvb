@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Жажда мести",
+      "title_en": "Khoon Bhari Maang",
+      "year": 1988,
+      "kinopoisk_id": 18764,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-24 22:06:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Осторожно, перестройка",
+      "title_en": "Occhio alla perestrojka",
+      "year": 1990,
+      "kinopoisk_id": 17560,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-24 22:05:01",
+      "block": false,
+      "translator": "одноголосый закадровый",
+      "translator_id": 93,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Рассекая волны",
+      "title_en": "Breaking the Waves",
+      "year": 1996,
+      "kinopoisk_id": 5264,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-24 22:04:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Елена в ящике",
+      "title_en": "Boxing Helena",
+      "year": 1992,
+      "kinopoisk_id": 2223,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-24 22:03:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Беспокойство",
+      "title_en": "Kaygi / Inflame",
+      "year": 2017,
+      "kinopoisk_id": 965273,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-24 16:09:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Великая война Архимеда",
+      "title_en": "Archimedes no Taisen",
+      "year": 2020,
+      "kinopoisk_id": 1175511,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-24 16:08:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Гуру Асура",
+      "title_en": "Asura Guru",
+      "year": 2020,
+      "kinopoisk_id": 1133101,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-24 16:07:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Акхуни",
       "title_en": "Axone / Akhuni",
       "year": 2019,
@@ -170,95 +261,151 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Водохранилище",
-      "title_en": "Réservoir",
+      "title_ru": "СМЕРШ. Продолжение",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1203030,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "8acb733293b60f0f63ea76a05e88a61dcb828bc11f0396372b5280d18af57998",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-04-28 14:58:07",
+      "update_date": "2019-05-18 20:00:37",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1203030.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Американские боги",
+      "title_en": "American Gods",
+      "year": 2017,
+      "kinopoisk_id": 591843,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "176ecec702c400d173cd09a3078778ce56f966e6dc51398ce341692da9cc52ef",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-04-05 14:39:44",
+      "update_date": "2019-04-28 15:48:03",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/591843.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=139987",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "СМЕРШ",
+      "title_en": "",
+      "year": 2007,
+      "kinopoisk_id": 450142,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "dee4ab337269d098b307cd8972b6f4e3edff5cfcbd4cbecb3c0dd3bdf643acd6",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-04-28 14:57:02",
+      "update_date": "2019-04-28 14:57:30",
+      "block": false,
+      "translator_id": 92,
+      "quality": "DVDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/450142.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Подсудимый",
+      "title_en": "",
       "year": 2019,
-      "kinopoisk_id": 1313150,
-      "type": "movie",
+      "kinopoisk_id": 1178003,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "587813cc1767dd19e3319df97c1995307bb91c5a1dcebd38368c30ca4406129c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-23 18:51:02",
+      "added_date": "2019-04-23 23:41:31",
+      "update_date": "2019-04-27 12:33:02",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Допросная номер один",
-      "title_en": "1 Interrogation",
-      "year": 2020,
-      "kinopoisk_id": 926020,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-23 18:49:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Папочкины проблемы",
-      "title_en": "Daddy Issues",
-      "year": 2020,
-      "kinopoisk_id": 1027312,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-23 18:48:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ночь дьявола: зарождение Красного Карлика",
-      "title_en": "Devil's Night: Dawn of the Nain Rouge / Devils Night Dawn Of The Nain Rouge",
-      "year": 2020,
-      "kinopoisk_id": 1053505,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-23 18:47:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Школа воровства",
-      "title_en": "Stealing School",
-      "year": 2020,
-      "kinopoisk_id": 1190272,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-23 18:46:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Опасное небо",
-      "title_en": "Top Gunner",
-      "year": 2020,
-      "kinopoisk_id": 1378286,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-23 18:45:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Останемся друзьями",
-      "title_en": "Restiamo amici",
-      "year": 2020,
-      "kinopoisk_id": 1140687,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-23 17:19:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BDRip"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1178003.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Покои",
@@ -815,152 +962,6 @@
           "episodes_count": 4,
           "episodes": [
             -1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чернов",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1112086,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "770cdd805245231e3d7c6ce4e7855a12ed6b19c345a7a63fbb9cb76968972798",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-03-04 22:54:20",
-      "update_date": "2019-03-08 12:24:38",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1112086.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Sпарта",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 927627,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "e93cf50edd513d150691b8d09768f313cfd0ddf17870d6bd559af9010754334d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-03-07 16:09:34",
-      "update_date": "2019-03-07 17:17:55",
-      "block": [
-        "RU"
-      ],
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/927627.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Лучше, чем люди",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 996399,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "27e596d8c1db180952cba4dbcf9b845a48ad60c1959b9354a1b01854c2e45278",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-11-23 12:27:48",
-      "update_date": "2019-03-01 11:23:05",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/996399.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Пустыня",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1183606,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "f805bc756cc230eb20e067c78518b7c48bf3b00cdd73449c2e0509cca9fd4f2f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-02-25 13:06:33",
-      "update_date": "2019-02-25 14:59:33",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1183606.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
             2,
             3,
             4

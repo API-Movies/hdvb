@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Охотники на упырей",
+      "title_en": "Ghoul Catchers",
+      "year": 2019,
+      "kinopoisk_id": 1299940,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-17 00:21:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Прощание",
+      "title_en": "Khuda Haafiz",
+      "year": 2020,
+      "kinopoisk_id": 1097019,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-17 00:20:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Давно прошедшее",
+      "title_en": "Long Gone By",
+      "year": 2020,
+      "kinopoisk_id": 1175476,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-17 00:19:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Магнетическое притяжение",
+      "title_en": "Magnetic",
+      "year": 2018,
+      "kinopoisk_id": 46723767,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-17 00:18:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Нимбе: Фильм",
+      "title_en": "Nimbe: The Movie",
+      "year": 2019,
+      "kinopoisk_id": 1196559,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-17 00:16:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Черная полоса",
+      "title_en": "Temps de Chien!",
+      "year": 2019,
+      "kinopoisk_id": 1216913,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-17 00:15:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "ЛорикLorik",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1144197,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-16 09:18:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Ночной Бог",
       "title_en": "",
       "year": 2017,
@@ -170,95 +261,166 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Скалы на краю света",
-      "title_en": "End of the World Rocks",
+      "title_ru": "В густом лесу",
+      "title_en": "W głębi lasu / The Woods",
       "year": 2020,
-      "kinopoisk_id": 1171270,
-      "type": "movie",
+      "kinopoisk_id": 590631,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "d33b6ca584e5b372d3985b8a2f48a7fe8bbcfe7fe168d56b3ca56a99ab1c02fb",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-15 15:24:01",
+      "added_date": "2020-06-12 17:36:55",
+      "update_date": "2020-06-12 17:36:55",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/590631.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Пи Нак",
-      "title_en": "Pee Nak",
+      "title_ru": "Мушкетеры",
+      "title_en": "The Musketeers",
+      "year": 2014,
+      "kinopoisk_id": 793557,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "4ca997d2e9b7f4aaa393790ccca013594033a772a59ca475cb542758b225c38f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-12 13:57:56",
+      "update_date": "2020-06-12 13:57:56",
+      "block": false,
+      "translator_id": 60,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/793557.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Незнакомец",
+      "title_en": "The Stranger",
       "year": 2020,
-      "kinopoisk_id": 1247740,
-      "type": "movie",
+      "kinopoisk_id": 1313231,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "5dbdd0cee881431629b0625df5d89a164ab0a06a219ab0d0fe8719b796a0ea35",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-15 15:21:01",
+      "added_date": "2020-06-12 11:04:38",
+      "update_date": "2020-06-12 11:04:38",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1313231.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Скажи, что любишь меня",
-      "title_en": "Tell Me I Love You",
-      "year": 2020,
-      "kinopoisk_id": 682271,
-      "type": "movie",
+      "title_ru": "Все схвачено",
+      "title_en": "Man with a Plan",
+      "year": 2016,
+      "kinopoisk_id": 968211,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "de7d9569e71e07c6c9edb8f2f3c3acb728982ceacbb6e717fe6726c7f7daa682",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-15 15:19:01",
+      "added_date": "2020-06-12 11:02:56",
+      "update_date": "2020-06-12 11:02:56",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "II",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1321576,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-15 12:06:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "В ожидании варваров",
-      "title_en": "Waiting for the Barbarians",
-      "year": 2020,
-      "kinopoisk_id": 1164484,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-15 10:02:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Осада Мумбаи: 4 дня ужаса",
-      "title_en": "One Less God",
-      "year": 2018,
-      "kinopoisk_id": 821005,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-15 10:01:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Юлия и Ромео",
-      "title_en": "Julia &amp; Romeo - Liebe ist ein Schlachtfeld",
-      "year": 2017,
-      "kinopoisk_id": 1173637,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-15 02:24:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/968211.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Нация Z",
@@ -1359,183 +1521,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чем мы заняты в тени (Реальные упыри)",
-      "title_en": "What We Do in the Shadows",
-      "year": 2019,
-      "kinopoisk_id": 1113116,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "b5c5b94ae5d9102597f4fa819050e264e9ff37c2986807848038ed000c1409fe",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-11 16:25:06",
-      "update_date": "2020-06-11 16:25:06",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1113116.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Жизнь и судьба",
-      "title_en": "",
-      "year": 2012,
-      "kinopoisk_id": 644788,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "57d1b8657d13f3ace82cbae28bf588c574fe5e1b74d7f7396ca6849228b10d23",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-11 09:40:40",
-      "update_date": "2020-06-11 09:40:40",
-      "block": false,
-      "translator_id": 92,
-      "quality": "BDRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/644788.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ты, Я, Она",
-      "title_en": "You Me Her",
-      "year": 2016,
-      "kinopoisk_id": 982768,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "4c3f50ab510c46d984e913713d7cb0e0a13750c929e37104251de9656f83ce3c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-11 09:14:22",
-      "update_date": "2020-06-11 09:14:22",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/982768.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Последний настоящий гангстер",
-      "title_en": "The Last O.G.",
-      "year": 2018,
-      "kinopoisk_id": 1049469,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "094bf009125af35d0f0ec31498c918c4435d32080eb96be88d5a26d06f6a3a83",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-11 09:13:02",
-      "update_date": "2020-06-11 09:13:02",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1049469.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=148202",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

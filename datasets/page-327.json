@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Большой Бак",
+      "title_en": "Big Buck Bunny",
+      "year": 2008,
+      "kinopoisk_id": 420145,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-25 17:09:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Близкие друзья",
+      "title_en": "Dostana",
+      "year": 2008,
+      "kinopoisk_id": 406387,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-25 17:08:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Лагаан: Однажды в Индии",
+      "title_en": "Lagaan: Once Upon a Time in India",
+      "year": 2001,
+      "kinopoisk_id": 401605,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-25 17:07:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Nightwish: Конец эры",
+      "title_en": "Nightwish: End of an Era",
+      "year": 2006,
+      "kinopoisk_id": 320972,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-25 17:06:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Ван-Пис: Фильм первый",
+      "title_en": "One piece the movie: Kaisokuou ni ore wa naru",
+      "year": 2000,
+      "kinopoisk_id": 304487,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-25 17:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Найти Аманду",
+      "title_en": "Finding Amanda",
+      "year": 2008,
+      "kinopoisk_id": 272004,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-25 17:04:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Полурусская история",
+      "title_en": "Sipur Hatzi-Russi",
+      "year": 2006,
+      "kinopoisk_id": 265922,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-25 17:03:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "DVDRip"
+    },
+    {
       "title_ru": "Школа выживания",
       "title_en": "Drillbit Taylor",
       "year": 2008,
@@ -170,95 +261,151 @@
       "quality": "BluRay"
     },
     {
-      "title_ru": "Братья-соперники",
-      "title_en": "Love\\'s Brother",
-      "year": 2004,
-      "kinopoisk_id": 23065,
-      "type": "movie",
+      "title_ru": "Большая маленькая ложь",
+      "title_en": "Big Little Lies",
+      "year": 2017,
+      "kinopoisk_id": 947758,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "d0c4d21690c89a49bc57ebe5dbf4d90127dfaa5d85e2b211bb58ea227bd4084e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-25 16:49:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "DVDRip"
+      "added_date": "2019-08-21 06:46:03",
+      "update_date": "2019-08-21 06:57:01",
+      "block": [
+        "RU"
+      ],
+      "translator_id": 15,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/947758.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=136634",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Дровосек",
-      "title_en": "The Woodsman",
-      "year": 2004,
-      "kinopoisk_id": 18266,
-      "type": "movie",
+      "title_ru": "Оранжевый — хит сезона",
+      "title_en": "Orange Is the New Black",
+      "year": 2013,
+      "kinopoisk_id": 767164,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "0ce1cc60d84ba869701d6b1444d29b55ddcf3ec21f3dfabaa4156d9fe11d453f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-25 16:48:01",
+      "added_date": "2019-08-21 00:30:58",
+      "update_date": "2019-08-21 00:45:06",
       "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "HDTV"
+      "translator_id": 15,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/767164.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=100341",
+      "serial_episodes": [
+        {
+          "season_number": 7,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Теперь мой ход",
-      "title_en": "It\\'s My Turn",
-      "year": 1980,
-      "kinopoisk_id": 18179,
-      "type": "movie",
+      "title_ru": "Слэшер",
+      "title_en": "Slasher",
+      "year": 2016,
+      "kinopoisk_id": 941473,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "4c6670b45a8328507312c03d05d8913fb841e293ce7860326058a3b9f7b1f8b5",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-25 16:47:02",
+      "added_date": "2019-08-21 00:20:52",
+      "update_date": "2019-08-21 00:27:46",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BluRay"
+      "translator_id": 15,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/941473.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=130750",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Снайпер",
-      "title_en": "Sniper",
-      "year": 1992,
-      "kinopoisk_id": 17288,
-      "type": "movie",
+      "title_ru": "Я – зомби",
+      "title_en": "iZombie",
+      "year": 2015,
+      "kinopoisk_id": 824275,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "4165e1baa5f71f84b5fc5f5c76b46825d0e93fa67f8893b8ebfc9fbf7201aca9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-25 16:46:01",
+      "added_date": "2019-08-21 00:05:55",
+      "update_date": "2019-08-21 00:19:29",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Все псы попадают в рай 2",
-      "title_en": "All Dogs Go to Heaven 2",
-      "year": 1996,
-      "kinopoisk_id": 16235,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-25 16:45:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Верный шанс",
-      "title_en": "Bank Shot",
-      "year": 1974,
-      "kinopoisk_id": 15569,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-25 16:44:02",
-      "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Меня зовут Никто",
-      "title_en": "Il mio nome è Nessuno",
-      "year": 1973,
-      "kinopoisk_id": 9961,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-25 16:43:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BluRay"
+      "translator_id": 15,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/824275.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=113726",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Люцифер",
@@ -841,194 +988,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Посредник",
-      "title_en": "The InBetween",
-      "year": 2019,
-      "kinopoisk_id": 1118052,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "0b10029a0198595d2b32d912e5c4a627a3b74446474e8d090db690930630876e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-05-31 00:09:53",
-      "update_date": "2019-08-15 16:55:38",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1118052.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сорвиголова",
-      "title_en": "Daredevil",
-      "year": 2015,
-      "kinopoisk_id": 817509,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "6226f8d479f5cb62c609d0af59fd87f07cb446652d1185b729a765e5b16d3b1a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-10-27 22:15:35",
-      "update_date": "2019-08-14 17:40:43",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/817509.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=127283",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рассказ служанки",
-      "title_en": "The Handmaid's Tale",
-      "year": 2017,
-      "kinopoisk_id": 1007426,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "044cd8561927b8e538acd77d2c8aa31b18f2804d5a894cf9fb18d61618433882",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-06-05 20:10:48",
-      "update_date": "2019-08-14 17:39:12",
-      "block": [
-        "RU"
-      ],
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1007426.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140263",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Легион",
-      "title_en": "Legion",
-      "year": 2017,
-      "kinopoisk_id": 939002,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "0e1727bc03c2bd59157865131971471f06f896ca7f93cfe79810ce1f626a198e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-06-25 11:28:59",
-      "update_date": "2019-08-13 16:22:21",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/939002.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=134382",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

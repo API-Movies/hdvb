@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Тринадцатилетняя",
+      "title_en": "Little Thirteen",
+      "year": 2012,
+      "kinopoisk_id": 666541,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-24 22:26:00",
+      "block": false,
+      "translator": "одноголосый закадровый",
+      "translator_id": 93,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Родственник",
+      "title_en": "",
+      "year": 2011,
+      "kinopoisk_id": 652090,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-24 22:25:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "HDTVRip"
+    },
+    {
+      "title_ru": "Окаменелость",
+      "title_en": "Fossil",
+      "year": 2014,
+      "kinopoisk_id": 621432,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-24 22:24:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Мисс Пуля",
+      "title_en": "Miss Bala",
+      "year": 2011,
+      "kinopoisk_id": 588788,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-24 22:23:01",
+      "block": false,
+      "translator": "одноголосый закадровый",
+      "translator_id": 93,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Благодарю тебя",
+      "title_en": "Thank You",
+      "year": 2011,
+      "kinopoisk_id": 566125,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-24 22:22:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Тони 10",
+      "title_en": "Tony 10",
+      "year": 2012,
+      "kinopoisk_id": 545554,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-24 22:21:01",
+      "block": false,
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Судьба",
+      "title_en": "Fate",
+      "year": 2016,
+      "kinopoisk_id": 520031,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-24 22:20:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Очень испанское кино",
       "title_en": "Spanish Movie",
       "year": 2009,
@@ -170,95 +261,140 @@
       "quality": "DVDRip"
     },
     {
-      "title_ru": "Жажда мести",
-      "title_en": "Khoon Bhari Maang",
-      "year": 1988,
-      "kinopoisk_id": 18764,
-      "type": "movie",
+      "title_ru": "Игра престолов",
+      "title_en": "Game of Thrones",
+      "year": 2011,
+      "kinopoisk_id": 464963,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "844e4946e8b5ff942859c55bc02b91f3c47f3aedab0361df4453ede6d93fc68f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-24 22:06:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "DVDRip"
+      "added_date": "2019-04-15 20:16:41",
+      "update_date": "2019-05-28 18:33:31",
+      "block": [
+        "RU"
+      ],
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/464963.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=141135",
+      "serial_episodes": [
+        {
+          "season_number": 8,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Осторожно, перестройка",
-      "title_en": "Occhio alla perestrojka",
-      "year": 1990,
-      "kinopoisk_id": 17560,
-      "type": "movie",
+      "title_ru": "Благослови этот бардак",
+      "title_en": "Bless This Mess",
+      "year": 2019,
+      "kinopoisk_id": 1219414,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "c5e2d79f8fba0d6b372b44e1f5c10767b1e8ac9b4ac7beb7bf1aeb1236872096",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-24 22:05:01",
+      "added_date": "2019-05-20 12:50:15",
+      "update_date": "2019-05-28 18:31:22",
       "block": false,
-      "translator": "одноголосый закадровый",
-      "translator_id": 93,
-      "quality": "DVDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1219414.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Рассекая волны",
-      "title_en": "Breaking the Waves",
-      "year": 1996,
-      "kinopoisk_id": 5264,
-      "type": "movie",
+      "title_ru": "Вице-президент",
+      "title_en": "Veep",
+      "year": 2012,
+      "kinopoisk_id": 572049,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "5476c27e49c364ebc218a8b21b1505126ea1d61a172d1071cebd622b1d93de10",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-24 22:04:02",
+      "added_date": "2019-04-30 18:46:55",
+      "update_date": "2019-05-28 18:30:41",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BluRay"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/572049.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=139695",
+      "serial_episodes": [
+        {
+          "season_number": 7,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Елена в ящике",
-      "title_en": "Boxing Helena",
-      "year": 1992,
-      "kinopoisk_id": 2223,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-24 22:03:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "DVDRip"
-    },
-    {
-      "title_ru": "Беспокойство",
-      "title_en": "Kaygi / Inflame",
+      "title_ru": "Сын",
+      "title_en": "The Son",
       "year": 2017,
-      "kinopoisk_id": 965273,
-      "type": "movie",
+      "kinopoisk_id": 972775,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "93b2e1b62cdb43ae22b8dae81087afbdb55e54c2e4d372cca2c7061c72c8b652",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-24 16:09:01",
+      "added_date": "2019-04-29 13:41:30",
+      "update_date": "2019-05-28 16:10:55",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Великая война Архимеда",
-      "title_en": "Archimedes no Taisen",
-      "year": 2020,
-      "kinopoisk_id": 1175511,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-24 16:08:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Гуру Асура",
-      "title_en": "Asura Guru",
-      "year": 2020,
-      "kinopoisk_id": 1133101,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-24 16:07:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/972775.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=138056",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Жизнь в деталях",
@@ -813,153 +949,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "СМЕРШ. Продолжение",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1203030,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "8acb733293b60f0f63ea76a05e88a61dcb828bc11f0396372b5280d18af57998",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-04-28 14:58:07",
-      "update_date": "2019-05-18 20:00:37",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1203030.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Американские боги",
-      "title_en": "American Gods",
-      "year": 2017,
-      "kinopoisk_id": 591843,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "176ecec702c400d173cd09a3078778ce56f966e6dc51398ce341692da9cc52ef",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-04-05 14:39:44",
-      "update_date": "2019-04-28 15:48:03",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/591843.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=139987",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "СМЕРШ",
-      "title_en": "",
-      "year": 2007,
-      "kinopoisk_id": 450142,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "dee4ab337269d098b307cd8972b6f4e3edff5cfcbd4cbecb3c0dd3bdf643acd6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-04-28 14:57:02",
-      "update_date": "2019-04-28 14:57:30",
-      "block": false,
-      "translator_id": 92,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/450142.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Подсудимый",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1178003,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "587813cc1767dd19e3319df97c1995307bb91c5a1dcebd38368c30ca4406129c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-04-23 23:41:31",
-      "update_date": "2019-04-27 12:33:02",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1178003.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
           ]
         }
       ]
