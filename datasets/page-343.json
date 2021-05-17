@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title_ru": "Возмездие",
+      "title_en": "Wira",
+      "year": 2020,
+      "kinopoisk_id": 1320672,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-01 01:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Преступный мир: Последняя глава",
+      "title_en": "Penoza: The Final Chapter",
+      "year": 2020,
+      "kinopoisk_id": 1216002,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-01 01:31:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Отряд Бретнера",
+      "title_en": "Qu'un sang impur... / The Breitner Commando /",
+      "year": 2019,
+      "kinopoisk_id": 1217047,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-01 01:27:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "История о любви",
+      "title_en": "A Gschicht über d'Lieb",
+      "year": 2020,
+      "kinopoisk_id": 1074495,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-01 01:26:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Терминатор 3: Восстание машин",
+      "title_en": "Terminator 3: Rise of the Machines",
+      "year": 2003,
+      "kinopoisk_id": 319,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-01 00:07:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Терминатор 2: Судный день",
+      "title_en": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "kinopoisk_id": 444,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-01 00:06:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Поезд в Пусан",
       "title_en": "Busanhaeng",
       "year": 2016,
@@ -186,82 +264,187 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Пути назад нет",
-      "title_en": "No Turning Back",
+      "title_ru": "Осмос",
+      "title_en": "Osmosis",
       "year": 2019,
-      "kinopoisk_id": 1259663,
-      "type": "movie",
+      "kinopoisk_id": 1180353,
+      "world_art_id": null,
+      "translator": "KosharaSerials",
+      "token": "ad47f99a5d9409e4dcf8b508fd92315b01b3a24f0c8794272f664c97489fc7f7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-30 18:24:01",
+      "added_date": "2019-03-29 19:08:58",
+      "update_date": "2019-03-29 20:28:45",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 111,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1180353.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Чужой: Завет",
-      "title_en": "Alien: Covenant",
+      "title_ru": "Падение Ордена",
+      "title_en": "Knightfall",
       "year": 2017,
-      "kinopoisk_id": 695548,
-      "type": "movie",
+      "kinopoisk_id": 1007957,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "3db8d8baef84fdb99144b4c7f39a786783697f5b126c1c28ffeeaa7a0bb53d71",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-30 14:52:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "added_date": "2019-03-28 11:58:19",
+      "update_date": "2019-03-29 19:26:24",
+      "block": [
+        "RU"
+      ],
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1007957.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=144757",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 1,
+          "episodes": [
+            1
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Собачья жизнь",
-      "title_en": "A Dog's Purpose",
-      "year": 2017,
-      "kinopoisk_id": 571896,
-      "type": "movie",
+      "title_ru": "У моего мужа слишком большой",
+      "title_en": "My Husband Won't Fit",
+      "year": 2019,
+      "kinopoisk_id": 1245925,
+      "world_art_id": null,
+      "translator": "KosharaSerials",
+      "token": "fbbcfd91280a4d34c52425256aa48ac6184bba7049940ab4cf79aa0830d62e08",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-06-30 14:51:01",
+      "added_date": "2019-03-21 21:21:26",
+      "update_date": "2019-03-21 23:08:34",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 111,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1245925.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Люди Икс: Начало. Росомаха",
-      "title_en": "X-Men Origins: Wolverine",
-      "year": 2009,
-      "kinopoisk_id": 104904,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-30 14:50:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Гордость и предубеждение",
-      "title_en": "Pride &amp; Prejudice",
-      "year": 2005,
-      "kinopoisk_id": 81733,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-30 14:49:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Брестская крепость",
+      "title_ru": "Стражи отчизны",
       "title_en": "",
-      "year": 2010,
-      "kinopoisk_id": 436263,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-30 14:48:01",
-      "block": false,
+      "year": 2019,
+      "kinopoisk_id": 1243955,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "be0f466cbf6715a62edc3826592b7e225c709373f97e3db798b2dc6d9f1ee61b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-03-08 15:53:31",
+      "update_date": "2019-03-14 14:06:29",
+      "block": false,
       "translator_id": 92,
-      "quality": "HDRip"
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1243955.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            -1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Чернов",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1112086,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "770cdd805245231e3d7c6ce4e7855a12ed6b19c345a7a63fbb9cb76968972798",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-03-04 22:54:20",
+      "update_date": "2019-03-08 12:24:38",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1112086.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Sпарта",
@@ -824,192 +1007,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Призраки дома на холме",
-      "title_en": "The Haunting of Hill House",
-      "year": 2018,
-      "kinopoisk_id": 1044279,
-      "world_art_id": null,
-      "translator": "АРК-ТВ Studio & VSI International",
-      "token": "3e8305eb59a8eb49e9d1f50b4b1c2d614b924c1671b3e886ca24dbf18de722b6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-01-05 00:56:21",
-      "update_date": "2019-01-05 19:19:26",
-      "block": false,
-      "translator_id": 112,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1044279.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Летящие сквозь ночь",
-      "title_en": "Nightflyers",
-      "year": 2018,
-      "kinopoisk_id": 1046273,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "abc5115069b8c61b0ae1af2b87d9302df0a3a70b49dc458975010c23ef653251",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-12-04 21:00:20",
-      "update_date": "2018-12-29 19:47:06",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1046273.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Грезы",
-      "title_en": "Reverie",
-      "year": 2018,
-      "kinopoisk_id": 1034624,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "a94779c97cb7dae9fdca19af453cd8f0be46d1aefdc436c0639e896936d5665b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-12-28 00:09:58",
-      "update_date": "2018-12-28 00:16:47",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1034624.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Картер",
-      "title_en": "Carter",
-      "year": 2018,
-      "kinopoisk_id": 1114920,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "7f108267426d52cac6d1e05487ffd2196e4b4b6639114b51d8287d746e7fd133",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-12-27 13:52:25",
-      "update_date": "2018-12-27 13:53:14",
-      "block": false,
-      "translator_id": 82,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/1114920.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=148383",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Последняя статья журналиста",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 994622,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "73e2d13a4892d070997ec658acac8cc715470b1f9d0e610574ef8c35e950efd4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-12-25 23:50:27",
-      "update_date": "2018-12-26 12:58:50",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/994622.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
           ]
         }
       ]

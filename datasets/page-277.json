@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title_ru": "Час истины",
+      "title_en": "Hour of Lead",
+      "year": 2020,
+      "kinopoisk_id": 1238802,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-21 18:51:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вот это ночка!",
+      "title_en": "The Sleepover",
+      "year": 2020,
+      "kinopoisk_id": 1301982,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-21 18:40:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Львица",
+      "title_en": "Rogue",
+      "year": 2020,
+      "kinopoisk_id": 1340587,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-21 18:39:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Опустошение",
+      "title_en": "Ravage",
+      "year": 2020,
+      "kinopoisk_id": 1120932,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-21 18:37:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "За призрачной дверью",
+      "title_en": "The Pale Door",
+      "year": 2020,
+      "kinopoisk_id": 1242644,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-21 17:56:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Агент Ева",
+      "title_en": "Ava",
+      "year": 2020,
+      "kinopoisk_id": 1189368,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-21 17:14:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Солнце",
       "title_en": "Solis",
       "year": 2018,
@@ -183,82 +261,241 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Император",
-      "title_en": "Emperor",
-      "year": 2020,
-      "kinopoisk_id": 1167664,
-      "type": "movie",
+      "title_ru": "Прибежище Дьявола",
+      "title_en": "Devil's Playground",
+      "year": 2014,
+      "kinopoisk_id": 820534,
+      "world_art_id": null,
+      "translator": "ShowJet",
+      "token": "3e51c287a09d20457884b0f57bd62bccda8203e495fed1bf79cdb90fa15fc040",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-20 17:49:02",
+      "added_date": "2020-05-12 23:07:39",
+      "update_date": "2020-05-12 23:07:39",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 125,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/820534.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Морские паразиты",
-      "title_en": "Sea Fever",
-      "year": 2020,
-      "kinopoisk_id": 740296,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-20 12:22:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Я знаю, когда ты умрешь",
-      "title_en": "Aku Tahu Kapan Kamu Mati",
-      "year": 2020,
-      "kinopoisk_id": 1346572,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-19 23:43:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Ундина",
-      "title_en": "Undine",
-      "year": 2020,
-      "kinopoisk_id": 1342810,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-19 23:38:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Абу Лейла",
-      "title_en": "Abou Leila",
+      "title_ru": "Исповедь",
+      "title_en": "A Confession",
       "year": 2019,
-      "kinopoisk_id": 1259306,
-      "type": "movie",
+      "kinopoisk_id": 1200704,
+      "world_art_id": null,
+      "translator": "True Dubbing Studio",
+      "token": "36e4c98965c7a24bc91a0e629652aede413e5073074cd9b5442a8ef50b296713",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-19 23:37:01",
+      "added_date": "2020-05-12 23:05:59",
+      "update_date": "2020-05-12 23:05:59",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 134,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1200704.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "",
-      "title_en": "Do I Say I Do?",
-      "year": 2020,
-      "kinopoisk_id": 969377,
-      "type": "movie",
+      "title_ru": "Рапунцель: Новая история",
+      "title_en": "Tangled: The Series",
+      "year": 2017,
+      "kinopoisk_id": 970916,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "3f585577779ac499e89e78e9c6754e2c7dd80ff95c7a691f5816e450253e6663",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-19 23:36:02",
+      "added_date": "2020-05-12 23:04:38",
+      "update_date": "2020-05-12 23:04:38",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/970916.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 21,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 21,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 17,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Помнить",
+      "title_en": "Rimembeo",
+      "year": 2015,
+      "kinopoisk_id": 957931,
+      "world_art_id": null,
+      "translator": "STEPonee",
+      "token": "00595765c44f008eb828004022af64ffca099a1b4af13b1387913901890eba11",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-12 23:02:37",
+      "update_date": "2020-05-12 23:02:37",
+      "block": false,
+      "translator_id": 65,
+      "quality": "HDTVRip",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/957931.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Наполеон",
+      "title_en": "Napoléon",
+      "year": 2002,
+      "kinopoisk_id": 77227,
+      "world_art_id": null,
+      "translator": "Профессиональный (многоголосый)",
+      "token": "cca13b31185c78925204e23a63c80f519b2998aa8b1efa5b934b2b1143f702e2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-12 23:00:00",
+      "update_date": "2020-05-12 23:00:00",
+      "block": false,
+      "translator_id": 126,
+      "quality": "DVDRip",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/77227.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Кардинал",
@@ -850,250 +1087,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Грейс и Фрэнки",
-      "title_en": "Grace and Frankie",
-      "year": 2015,
-      "kinopoisk_id": 891629,
-      "world_art_id": null,
-      "translator": "Sunshine Studio",
-      "token": "5b234f7c13f89506ac30cbf66bf5cf74d4837d55f0ec9bb19bbc8a1599203084",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-11 23:38:20",
-      "update_date": "2020-05-11 23:38:20",
-      "block": false,
-      "translator_id": 67,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/891629.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Грейс и Фрэнки",
-      "title_en": "Grace and Frankie",
-      "year": 2015,
-      "kinopoisk_id": 891629,
-      "world_art_id": null,
-      "translator": "ViruseProject",
-      "token": "c2e8063e67ae4c9e53e20cce5f5635764579b2410d0a4d33f4d6535023809953",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-11 23:37:18",
-      "update_date": "2020-05-11 23:37:18",
-      "block": false,
-      "translator_id": 72,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/891629.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Выше только любовь",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1201821,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "784e4c2033c9763e26f664cc1e075844bf48f675f12c47433c074f7580ff9ec9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-11 23:34:57",
-      "update_date": "2020-05-11 23:34:57",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1201821.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Деньги",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 954289,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "b61d6293aa1b666d2d5a97442ad156d3f22c48e7d984818f073d81737c54b073",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-11 23:33:58",
-      "update_date": "2020-05-11 23:33:58",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/954289.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Последнее танго в Галифаксе",
-      "title_en": "Last Tango in Halifax",
-      "year": 2012,
-      "kinopoisk_id": 764566,
-      "world_art_id": null,
-      "translator": "многоголосый закадровый",
-      "token": "a312b48dfae60f61a81c38eeb4aa178faedfb77e291ce5b9ee5ad55c50151ca2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-11 23:31:16",
-      "update_date": "2020-05-11 23:31:16",
-      "block": false,
-      "translator_id": 89,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/764566.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
           ]
         }
       ]

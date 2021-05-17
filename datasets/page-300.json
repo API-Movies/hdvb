@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title_ru": "Мстители",
+      "title_en": "The Avengers",
+      "year": 2012,
+      "kinopoisk_id": 263531,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-27 20:54:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Малефисента: Владычица тьмы",
+      "title_en": "Maleficent: Mistress of Evil",
+      "year": 2019,
+      "kinopoisk_id": 916498,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-27 20:53:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "МЭГ",
+      "title_en": "Meg",
+      "year": 2018,
+      "kinopoisk_id": 918627,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-27 20:52:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Лев Яшин. Вратарь моей мечты",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1007986,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-27 20:51:03",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Король Лев",
+      "title_en": "The Lion King",
+      "year": 2019,
+      "kinopoisk_id": 1005878,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-27 20:50:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Капитан Марвел",
+      "title_en": "Captain Marvel",
+      "year": 2019,
+      "kinopoisk_id": 843859,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-27 20:49:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Как приручить дракона 3",
       "title_en": "How to Train Your Dragon 3",
       "year": 2019,
@@ -183,82 +261,192 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Аватар",
-      "title_en": "Avatar",
-      "year": 2009,
-      "kinopoisk_id": 251733,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-27 20:34:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Zомбилэнд: Контрольный выстрел",
-      "title_en": "Zombieland: Double Tap",
-      "year": 2019,
-      "kinopoisk_id": 489414,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-27 20:33:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "1917",
-      "title_en": "1917",
-      "year": 2019,
-      "kinopoisk_id": 1171976,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-27 20:32:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Биение сердца",
-      "title_en": "Heartbeat",
-      "year": 2020,
-      "kinopoisk_id": 1312126,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-27 18:08:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Боевые шрамы",
-      "title_en": "Battle Scars",
-      "year": 2020,
-      "kinopoisk_id": 1373537,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-27 18:06:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Путешествие Кокоши и его друзей",
-      "title_en": "Der kleine Drache Kokosnuss - Auf in den Dschungel!",
+      "title_ru": "Всеамериканский",
+      "title_en": "All American",
       "year": 2018,
-      "kinopoisk_id": 1215761,
-      "type": "movie",
+      "kinopoisk_id": 1117951,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "60dfa59183b6b97164dc620c41ab55887b9ac59f3808528d65fd14bfcbd06f72",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-27 10:03:01",
+      "added_date": "2020-03-10 21:30:13",
+      "update_date": "2020-03-10 21:30:13",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1117951.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Медперсонал",
+      "title_en": "Nurses",
+      "year": 2019,
+      "kinopoisk_id": 1254351,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "89cc9187afe3a3a1fd1108b7b40369c06d6f48557520b05be071ded1c36b2a5f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-10 18:00:56",
+      "update_date": "2020-03-10 18:00:56",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1254351.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "911: Одинокая звезда",
+      "title_en": "9-1-1: Lone Star",
+      "year": 2020,
+      "kinopoisk_id": 1272633,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "073c064bd58bc46ed4cba8b170238782d503b499f3e224b59a2f451ea41c936a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-10 18:00:35",
+      "update_date": "2020-03-10 18:00:35",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1272633.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Внутри девятого номера",
+      "title_en": "Inside No. 9",
+      "year": 2014,
+      "kinopoisk_id": 818445,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "0d5d26d280859723692893a04c543719ba35ed3099deb6cf9301c3786b10bbfe",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-10 17:58:25",
+      "update_date": "2020-03-10 17:58:25",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/818445.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Черная молния",
+      "title_en": "Black Lightning",
+      "year": 2018,
+      "kinopoisk_id": 1002949,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "7366f39cb2aaa8b41a6db44853323c00ab127f92fc9493a75fdfcc4c7ae84bb6",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-10 17:57:39",
+      "update_date": "2020-03-10 17:57:39",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1002949.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Бэтвумен",
@@ -788,199 +976,6 @@
           "episodes": [
             1,
             3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чужестранка",
-      "title_en": "Outlander",
-      "year": 2014,
-      "kinopoisk_id": 818284,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "2d64d06f6ec578c7331e9232debbb3771400b5aa4faec16fd6a700d430ef3fa2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-05 08:39:05",
-      "update_date": "2020-03-05 08:39:05",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/818284.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Линкольн Райм: Охота на Собирателя костей",
-      "title_en": "Lincoln Rhyme: Hunt for the Bone Collector",
-      "year": 2020,
-      "kinopoisk_id": 1209836,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "aa4f1d7bf820bf13cec724299cbf220dc37b182b6b941e89376b9e3842baec99",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-05 08:36:56",
-      "update_date": "2020-03-05 08:36:56",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1209836.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Шучу",
-      "title_en": "Kidding",
-      "year": 2018,
-      "kinopoisk_id": 1161788,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "f80f8e4bc15d6c9a02e0d87ecbe2f90511909fefb6f57bb75617a21d633783de",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-05 08:36:35",
-      "update_date": "2020-03-05 08:36:35",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1161788.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=150032",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            5,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Гавайи 5.0",
-      "title_en": "Hawaii Five-0",
-      "year": 2010,
-      "kinopoisk_id": 503148,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "6a403d2973ba2696a260faa14928c1dce1996355668d24357912679c36437147",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-05 08:35:23",
-      "update_date": "2020-03-05 08:35:23",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/503148.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=77366",
-      "serial_episodes": [
-        {
-          "season_number": 10,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бог меня зафрендил",
-      "title_en": "God Friended Me",
-      "year": 2018,
-      "kinopoisk_id": 1117415,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "3c7442910b3874d236f7afe7150415494689ed4d3bb07d5b1a6461bc8c678b09",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-05 08:34:30",
-      "update_date": "2020-03-05 08:34:30",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1117415.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
           ]
         }
       ]

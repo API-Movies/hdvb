@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title_ru": "Красная точка",
+      "title_en": "Red Dot",
+      "year": 2021,
+      "kinopoisk_id": 4299212,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-12 17:46:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Фабрика Кукол",
+      "title_en": "Doll Factory: The Musical / Doll Factory",
+      "year": 2021,
+      "kinopoisk_id": 1104976,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-12 17:45:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ноги Святой Хильдегарды (Побег из брака)",
+      "title_en": "De Beentjes van Sint Hildegard",
+      "year": 2020,
+      "kinopoisk_id": 1246629,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-12 17:43:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Кокон",
+      "title_en": "Kokon",
+      "year": 2020,
+      "kinopoisk_id": 1254550,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-12 17:42:05",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Девять дней без сна",
+      "title_en": "9 Tage wach",
+      "year": 2020,
+      "kinopoisk_id": 1328279,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-12 17:40:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Летучая рыба",
+      "title_en": "Buladó",
+      "year": 2020,
+      "kinopoisk_id": 1370818,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-12 17:38:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Annem",
       "title_en": "",
       "year": 2019,
@@ -183,82 +261,251 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Жениться молодым",
-      "title_en": "Married Young",
+      "title_ru": "Карнавал",
+      "title_en": "Carnivàle",
+      "year": 2003,
+      "kinopoisk_id": 214333,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "31da4bbe9922d790c1f83cc3fe6be30156624a1cca02b3ee6efcdcfdac1120ac",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-13 23:32:26",
+      "update_date": "2020-12-13 23:44:24",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/214333.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Второй шанс",
+      "title_en": "Другий шанс",
+      "year": 2020,
+      "kinopoisk_id": 98087967,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "667af8e0d6c089bd98def83d51466a83410ad1cf49608642f539bbad50fb4ddd",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-13 23:04:31",
+      "update_date": "2020-12-13 23:10:26",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/98087967.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Дело",
+      "title_en": "O Negócio",
+      "year": 2013,
+      "kinopoisk_id": 806687,
+      "world_art_id": null,
+      "translator": "Goodtime Media",
+      "token": "205002b83515c0be2ba7609252b1f52bb77a902e5142a8936142c2a16e505aac",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-13 21:57:45",
+      "update_date": "2020-12-13 21:59:35",
+      "block": false,
+      "translator_id": 193,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/806687.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Пришельцы из прошлого",
+      "title_en": "Fremvandrerne",
       "year": 2019,
-      "kinopoisk_id": 1040753,
-      "type": "movie",
+      "kinopoisk_id": 1212764,
+      "world_art_id": null,
+      "translator": "Кириллица",
+      "token": "78b9b83d5ca1789feca6ab74b5c3b872a048e4e9504289218020cf600d39715f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-11 20:19:01",
+      "added_date": "2020-12-13 21:56:44",
+      "update_date": "2020-12-13 21:57:49",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 123,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1212764.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Под дулом пистолета",
-      "title_en": "Gunpoint",
+      "title_ru": "Ничья земля",
+      "title_en": "No Man's Land",
       "year": 2020,
-      "kinopoisk_id": 1258925,
-      "type": "movie",
+      "kinopoisk_id": 1273322,
+      "world_art_id": null,
+      "translator": "Кравец",
+      "token": "623dc76e3c4a89f04777a7ba7c0e011a492514aa8274f2fb130ba499944cdf87",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-11 20:18:02",
+      "added_date": "2020-12-13 21:55:59",
+      "update_date": "2020-12-13 21:56:48",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Безликий",
-      "title_en": "Faceless",
-      "year": 2021,
-      "kinopoisk_id": 883264,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-11 20:17:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Судебное примирение мамы и папы",
-      "title_en": "Courting Mom and Dad",
-      "year": 2020,
-      "kinopoisk_id": 1355356,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-11 20:16:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Большой куш Эди и Коксмэна",
-      "title_en": "En Passant Pécho: Les Carottes Sont Cuites",
-      "year": 2021,
-      "kinopoisk_id": 4295013,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-11 18:31:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Тазманийский дьявол",
-      "title_en": "Tazmanian Devil",
-      "year": 2020,
-      "kinopoisk_id": 1196278,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-11 18:29:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 85,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1273322.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Дорогая подруга",
@@ -1008,223 +1255,6 @@
             1,
             2,
             3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "4 квартала",
-      "title_en": "4 Blocks",
-      "year": 2017,
-      "kinopoisk_id": 1111924,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "35fdf90f8250693f04b25575354466363e0ee818863e6b372fc15cab72d2ad49",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-12 10:52:52",
-      "update_date": "2020-12-12 10:53:34",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1111924.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Беспорядок после тебя",
-      "title_en": "El desorden que dejas (The Mess You Leave Behind)",
-      "year": 2020,
-      "kinopoisk_id": 1311460,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "176865bf7da2828ff76a4266b8fe8491e9ecf7375c5be407d1c469c2336f060f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-12 09:20:40",
-      "update_date": "2020-12-12 09:28:42",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1311460.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мадагаскар: Маленькие и дикие",
-      "title_en": "Madagascar: A Little Wild",
-      "year": 2020,
-      "kinopoisk_id": 1367720,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "cba2cfd1cc0904cdb9a952117282531fa9703696ed9123ceaf1bc15de5ecea39",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-08 14:17:14",
-      "update_date": "2020-12-12 09:19:19",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1367720.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Стэн против сил зла",
-      "title_en": "Stan Against Evil",
-      "year": 2016,
-      "kinopoisk_id": 1007563,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "bff689c3e03f3d55e15edd200e8d138d1938eea3345ba1751634741ff4a2d465",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-11 21:02:47",
-      "update_date": "2020-12-11 21:03:52",
-      "block": false,
-      "translator_id": 48,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1007563.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Стэн против сил зла",
-      "title_en": "Stan Against Evil",
-      "year": 2016,
-      "kinopoisk_id": 1007563,
-      "world_art_id": null,
-      "translator": "СВ-Дубль",
-      "token": "0cb10b0dfbfc0d077ae84e6a7c785c007662990aaa074954047800d201299d58",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-11 21:01:33",
-      "update_date": "2020-12-11 21:02:34",
-      "block": false,
-      "translator_id": 166,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/1007563.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

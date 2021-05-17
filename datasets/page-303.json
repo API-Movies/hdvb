@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title_ru": "Театр",
+      "title_en": "Gekijo / Theater",
+      "year": 2020,
+      "kinopoisk_id": 1282686,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 23:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Шазам!",
+      "title_en": "Shazam!",
+      "year": 2019,
+      "kinopoisk_id": 840372,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 22:38:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Человек-паук: Возвращение домой",
+      "title_en": "Spider-Man: Homecoming",
+      "year": 2017,
+      "kinopoisk_id": 690593,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 22:37:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Холоп",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1183582,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 22:36:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Темный рыцарь",
+      "title_en": "The Dark Knight",
+      "year": 2008,
+      "kinopoisk_id": 111543,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 22:35:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Сумерки. Сага. Рассвет: Часть 2",
+      "title_en": "The Twilight Saga: Breaking Dawn - Part 2",
+      "year": 2012,
+      "kinopoisk_id": 527662,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 22:34:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Стражи Галактики. Часть 2",
       "title_en": "Guardians of the Galaxy Vol. 2",
       "year": 2017,
@@ -183,82 +261,208 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Бесплодные усилия любви",
-      "title_en": "Love's Labour's Lost",
+      "title_ru": "Тёмный город",
+      "title_en": "Dunkelstadt",
+      "year": 2020,
+      "kinopoisk_id": 1337138,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "625756507b14b7b65daaef14c7f15bc995db6ef7b8d811760ef1d5df261373c5",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-02-27 08:30:36",
+      "update_date": "2020-02-27 08:30:36",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1337138.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мик",
+      "title_en": "The Mick",
       "year": 2017,
-      "kinopoisk_id": 1157801,
-      "type": "movie",
+      "kinopoisk_id": 977496,
+      "world_art_id": null,
+      "translator": "Fox Life",
+      "token": "9b3fc9cfe55bcc0941638456434bac255956cd49e314c8407113fce719f218bd",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-24 12:07:01",
+      "added_date": "2020-02-26 20:31:17",
+      "update_date": "2020-02-26 20:31:17",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 127,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/977496.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 17,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "После моего ухода",
-      "title_en": "The Day After I'm Gone",
-      "year": 2019,
-      "kinopoisk_id": 1220978,
-      "type": "movie",
+      "title_ru": "Виндзоры",
+      "title_en": "The Windsors",
+      "year": 2016,
+      "kinopoisk_id": 982724,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "18e9b8df974fa7a7da44246b0382e829d2b37a613a58bed5342717422a479377",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-24 12:04:01",
+      "added_date": "2020-02-26 18:16:44",
+      "update_date": "2020-02-26 18:16:44",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/982724.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Ода страсти",
-      "title_en": "Ode to Passion",
+      "title_ru": "Мне это не нравится",
+      "title_en": "I Am Not Okay with This",
       "year": 2020,
-      "kinopoisk_id": 1081368,
-      "type": "movie",
+      "kinopoisk_id": 1261983,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "01f6ce9f5cc990f0c86d43b5a6882983be665bb9761ae9854276a840ce9bf359",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-24 12:03:02",
+      "added_date": "2020-02-26 17:01:08",
+      "update_date": "2020-02-26 17:01:08",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1261983.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Одной ногой на том свете",
-      "title_en": "Nearly Departed",
-      "year": 2019,
-      "kinopoisk_id": 1021041,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-24 12:02:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сделано в Бангладеш",
-      "title_en": "Made in Bangladesh",
-      "year": 2019,
-      "kinopoisk_id": 1164819,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-24 12:00:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Последняя молитва",
-      "title_en": "One Last Prayer",
+      "title_ru": "Гамильтон",
+      "title_en": "Hamilton",
       "year": 2020,
-      "kinopoisk_id": 985784,
-      "type": "movie",
+      "kinopoisk_id": 1137275,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "0ef5fc2692fed3e3ffa7f6b8cd4e06972a0ba605ea42bc04790f49433c658168",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-24 11:59:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "added_date": "2020-02-26 16:59:08",
+      "update_date": "2020-02-26 16:59:08",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1137275.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Мамаша",
@@ -859,179 +1063,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Погоня за американской мечтой",
-      "title_en": "Gentefied",
-      "year": 2020,
-      "kinopoisk_id": 1257042,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "7dcee9652a92656744333dcb961d87e0c1c7bf8d5ded4e679eb1eb8a1db00ff9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-21 21:18:36",
-      "update_date": "2020-02-21 21:18:36",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1257042.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Разведка",
-      "title_en": "Intelligence",
-      "year": 2020,
-      "kinopoisk_id": 1231057,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "4fdfc4ca5c1c8eaa8182509dc2b8993bf923bd6f9e4c09b7203ba4dc3855dc88",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-21 16:27:08",
-      "update_date": "2020-02-21 16:27:08",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1231057.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Священная ложь",
-      "title_en": "Sacred Lies",
-      "year": 2018,
-      "kinopoisk_id": 1159316,
-      "world_art_id": null,
-      "translator": "IdeaFilm",
-      "token": "e1b467ec3ec7bd71921025ca1219218970a90505745d1acc559fa956f2aa499b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-21 14:48:39",
-      "update_date": "2020-02-21 14:48:39",
-      "block": false,
-      "translator_id": 35,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1159316.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Крушение утопии",
-      "title_en": "Utopia Falls",
-      "year": 2020,
-      "kinopoisk_id": 1255527,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "5650158137acd9be4a4993a9c0bbeaabc9b0dcb99202a756cd59bff4f29d27b9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-20 21:09:22",
-      "update_date": "2020-02-20 21:09:22",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1255527.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Спектрос",
-      "title_en": "Spectros",
-      "year": 2020,
-      "kinopoisk_id": 1256580,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "a27c5e466d5b34efbfd9b69bbfc15505d40fa3b4d043687d182eecb9757495d7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-20 20:24:29",
-      "update_date": "2020-02-20 20:24:29",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1256580.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
           ]
         }
       ]

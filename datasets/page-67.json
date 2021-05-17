@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title_ru": "Как стать писателем",
+      "title_en": "How to Be a Writer",
+      "year": 2019,
+      "kinopoisk_id": 1276001,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-17 15:25:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Багровый",
+      "title_en": "Crimson",
+      "year": 2020,
+      "kinopoisk_id": 4366524,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-17 15:24:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Одноклассники минус",
+      "title_en": "Tong xue mai na si",
+      "year": 2020,
+      "kinopoisk_id": 1429506,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-17 15:23:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дети кровавого лагеря",
+      "title_en": "Children of Camp Blood",
+      "year": 2020,
+      "kinopoisk_id": 2000381,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-17 15:20:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Судьба",
+      "title_en": "Azali",
+      "year": 2018,
+      "kinopoisk_id": 1179553,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-17 15:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мой Валентин",
+      "title_en": "The Valentine Competition / My Valentine",
+      "year": 2021,
+      "kinopoisk_id": 13503476,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-17 01:35:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Свободная жена",
       "title_en": "The Available Wife",
       "year": 2020,
@@ -183,82 +261,191 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Атака на госпиталь ветеранов",
-      "title_en": "Assault on VA-33",
-      "year": 2021,
-      "kinopoisk_id": 1366345,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-16 19:44:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Все мертвецы",
-      "title_en": "Todos os Mortos",
+      "title_ru": "Красные фонари",
+      "title_en": "Red Light",
       "year": 2020,
-      "kinopoisk_id": 1181025,
-      "type": "movie",
+      "kinopoisk_id": 1292344,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "76fbb2e8c0f84638cd967939f846d82ff3de0e5e7894c8ceec73752234a7761d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-16 19:42:01",
+      "added_date": "2021-01-22 19:21:27",
+      "update_date": "2021-02-06 22:22:20",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1292344.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Супернова",
-      "title_en": "Supernova",
-      "year": 2020,
-      "kinopoisk_id": 1317850,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-16 19:41:02",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Трафик",
-      "title_en": "Crisis",
-      "year": 2021,
-      "kinopoisk_id": 1237488,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-16 19:40:01",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "День курка",
-      "title_en": "Boss Level",
-      "year": 2020,
-      "kinopoisk_id": 1101569,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-16 19:39:01",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Ясновидящая",
+      "title_ru": "Мёртвые лилии",
       "title_en": "",
-      "year": 2009,
-      "kinopoisk_id": 469203,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-16 17:07:02",
-      "block": false,
+      "year": 2021,
+      "kinopoisk_id": 54687663,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "1bda634c080a766cdda957178e56a6a9b7ba2051920ceb87ab178b64bbb1d723",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-06 21:04:35",
+      "update_date": "2021-02-06 21:07:26",
+      "block": false,
       "translator_id": 92,
-      "quality": "DVDRip"
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/54687663.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Британия",
+      "title_en": "Britannia",
+      "year": 2017,
+      "kinopoisk_id": 1006636,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "e85f71279ffe96d18371ac093b1e876ba302cb42d42e04112494fedc5bc54086",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-17 23:35:42",
+      "update_date": "2021-02-06 21:00:49",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1006636.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Частные сыщики",
+      "title_en": "Private Eyes",
+      "year": 2016,
+      "kinopoisk_id": 982446,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "ffc3277fc98d4dce11b7d72c7905ed04a01f3f7b5907bf67582e92c71137dd72",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-11-05 08:56:18",
+      "update_date": "2021-02-06 09:11:03",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/982446.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=136607",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Загадочные убийства Агаты Кристи",
+      "title_en": "Les petits meurtres d\\'Agatha Christie",
+      "year": 2009,
+      "kinopoisk_id": 503296,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "1725fc5bfc5d8d5e769fb6bef5f8fca249cf181c144b2793b0a92b8a40c59b17",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-30 09:27:17",
+      "update_date": "2021-02-06 09:10:03",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/503296.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Невидимый город",
@@ -837,188 +1024,6 @@
       "serial_episodes": [
         {
           "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Смертельная битва: Наследие",
-      "title_en": "Mortal Kombat",
-      "year": 2011,
-      "kinopoisk_id": 581094,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "647014a2bea409405cdfc05ff4712fa8f708bfff92e730a98ded1f957d00dc48",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-05 20:00:48",
-      "update_date": "2021-02-05 20:06:57",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/581094.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Загадочные убийства Агаты Кристи",
-      "title_en": "Les petits meurtres d\\'Agatha Christie",
-      "year": 2009,
-      "kinopoisk_id": 503296,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "430844b2fe893da9bd7f125adeb5386db6edce61376b0d4314c6c4f5b55b8338",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-29 23:52:52",
-      "update_date": "2021-02-05 19:51:51",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/503296.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Топор",
-      "title_en": "Hache",
-      "year": 2019,
-      "kinopoisk_id": 1174304,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "e29dbdd64a26d3916f90a29b002a8c3471bc52446a1597bed45e9b447b1a9052",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-05 15:46:45",
-      "update_date": "2021-02-05 19:39:26",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1174304.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Невидимый город",
-      "title_en": "Cidade Invisível",
-      "year": 2021,
-      "kinopoisk_id": 1190099,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "e8faf9b5d6af9ac9c8cc23db3838d48363c6bc06377f736d81e2c4333cf6b46f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-05 15:45:26",
-      "update_date": "2021-02-05 19:39:04",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1190099.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Частные сыщики",
-      "title_en": "Private Eyes",
-      "year": 2016,
-      "kinopoisk_id": 982446,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "526a7f598802bc9a253f035dbb21d759092b26802eec3322390c6e49a854ce3a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-03 15:20:01",
-      "update_date": "2021-02-05 17:11:15",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/982446.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=136607",
-      "serial_episodes": [
-        {
-          "season_number": 4,
           "episodes_count": 12,
           "episodes": [
             1,

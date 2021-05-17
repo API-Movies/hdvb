@@ -1,6 +1,87 @@
 {
   "items": [
     {
+      "title_ru": "Контракты",
+      "title_en": "Contracts",
+      "year": 2020,
+      "kinopoisk_id": 1101652,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-06 21:12:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Штормовой ветер",
+      "title_en": "El Pampero",
+      "year": 2017,
+      "kinopoisk_id": 917202,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-06 21:10:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Багровые реки",
+      "title_en": "Les rivières pourpres",
+      "year": 2000,
+      "kinopoisk_id": 805,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-06 12:36:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Огонек-Огниво",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1291065,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-06 09:25:02",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Секретарша Амалия",
+      "title_en": "Amalia the Secretary",
+      "year": 2018,
+      "kinopoisk_id": 1060564,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-06 00:15:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Гэм Кэм Гёрл",
+      "title_en": "Gam Cam Grrl",
+      "year": 2020,
+      "kinopoisk_id": 1191250,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-06 00:14:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "MS Slavic 7",
       "title_en": "MS Slavic 7",
       "year": 2019,
@@ -183,82 +264,172 @@
       "quality": "BluRay"
     },
     {
-      "title_ru": "Тайна Елисейского дворца",
-      "title_en": "Mystère à l'Élysée",
-      "year": 2019,
-      "kinopoisk_id": 1206438,
-      "type": "movie",
+      "title_ru": "Маргинал",
+      "title_en": "El marginal",
+      "year": 2016,
+      "kinopoisk_id": 1048038,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "71a4f3e6ef2997fbebff8436910887fd20d23bbb64c436e4c920f169ab049045",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-05 09:45:02",
+      "added_date": "2019-07-28 13:10:54",
+      "update_date": "2019-09-01 03:32:01",
       "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1048038.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Тайна Сорбонны",
-      "title_en": "Mystère à la Sorbonne",
-      "year": 2019,
-      "kinopoisk_id": 1183096,
-      "type": "movie",
+      "title_ru": "Очень странные дела",
+      "title_en": "Stranger Things",
+      "year": 2016,
+      "kinopoisk_id": 915196,
+      "world_art_id": null,
+      "translator": "HamsterStudio",
+      "token": "b90ad10e365bc315e956448491f835df88741a85e0ac64599562972cb4cf0013",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-05 09:44:01",
+      "added_date": "2019-09-01 02:11:30",
+      "update_date": "2019-09-01 02:12:41",
       "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "WEB-DL"
+      "translator_id": 32,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/915196.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=143128",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Таинственное происшествие в Лувре",
-      "title_en": "Mystère au Louvre",
-      "year": 2017,
-      "kinopoisk_id": 1145537,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-05 09:43:05",
-      "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Тайна Вандомской площади",
-      "title_en": "Mystère Place Vendôme",
-      "year": 2017,
-      "kinopoisk_id": 1074885,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-05 09:42:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Mystère à la Tour Eiffel",
-      "title_en": "",
+      "title_ru": "Крик",
+      "title_en": "Scream: The TV Series",
       "year": 2015,
-      "kinopoisk_id": 900003,
-      "type": "movie",
+      "kinopoisk_id": 841605,
+      "world_art_id": null,
+      "translator": "HamsterStudio",
+      "token": "cb98f8d937dfe144fe6f08ad7c3a2f219729979b7e0c9546d8843f78b6baa7b9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-05 09:41:01",
+      "added_date": "2019-08-31 14:08:28",
+      "update_date": "2019-08-31 14:11:50",
       "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "WEB-DL"
+      "translator_id": 32,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/841605.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=125225",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Тайна «Гранд-опера»",
-      "title_en": "Mystère à l\\'Opéra",
-      "year": 2015,
-      "kinopoisk_id": 895847,
-      "type": "movie",
+      "title_ru": "Черное зеркало",
+      "title_en": "Black Mirror",
+      "year": 2011,
+      "kinopoisk_id": 655800,
+      "world_art_id": null,
+      "translator": "HamsterStudio",
+      "token": "4676eb79a17fd1d0b7ec5643d2ac9241461451c77ff830b3d59320e7297732c2",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-05 09:40:02",
+      "added_date": "2019-08-31 13:06:35",
+      "update_date": "2019-08-31 13:12:01",
       "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "WEB-DL"
+      "translator_id": 32,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/655800.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135634",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Королева юга",
+      "title_en": "Queen of the South",
+      "year": 2016,
+      "kinopoisk_id": 466545,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "cf0905194c36b30b5fef1b01f5fe4ed9aa7f3a89109d2b061ec8a83d35aa4361",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-06-07 14:59:00",
+      "update_date": "2019-08-31 13:03:05",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/466545.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=131077",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Игры ключей",
@@ -770,183 +941,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Вероника Марс",
-      "title_en": "Veronica Mars",
-      "year": 2004,
-      "kinopoisk_id": 255670,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "233c3d9b61acafa5d24836b73d7064a86812941c5ead4538d94b60ce972c7069",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-30 11:21:26",
-      "update_date": "2019-08-30 11:22:03",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/255670.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=15308",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Амбиции",
-      "title_en": "Ambitions",
-      "year": 2019,
-      "kinopoisk_id": 1219282,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "f9d43f2507693a5d27aca3a40e4f31c2fa58610b9eaf49a3974b65faf54fd394",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-06-19 22:01:09",
-      "update_date": "2019-08-29 17:48:26",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1219282.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Джессика Джонс",
-      "title_en": "Jessica Jones",
-      "year": 2015,
-      "kinopoisk_id": 817508,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "bdf4886605e8522715635c14c78ead7d4797ea5084a437a02237562b7f19f9db",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-29 16:38:16",
-      "update_date": "2019-08-29 16:39:14",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/817508.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=128771",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Легион",
-      "title_en": "Legion",
-      "year": 2017,
-      "kinopoisk_id": 939002,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "8b634bc3bcd35f7effad423f087f9130caf1d5b8dc9166d8d9b0b13a5b45040c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-29 16:34:15",
-      "update_date": "2019-08-29 16:34:54",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/939002.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=134382",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Странный ангел",
-      "title_en": "Strange Angel",
-      "year": 2018,
-      "kinopoisk_id": 1112192,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "668f6677f855ada3dc826d4172e54d42df159fb9b5547d148fe9a5209adbf3e5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-28 11:02:14",
-      "update_date": "2019-08-28 11:02:43",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1112192.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=149248",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
           ]
         }
       ]

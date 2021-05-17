@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title_ru": "Семейка Крудс",
+      "title_en": "The Croods",
+      "year": 2013,
+      "kinopoisk_id": 198116,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-04 15:04:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Сделано в Америке",
+      "title_en": "American Made",
+      "year": 2017,
+      "kinopoisk_id": 837552,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-04 15:03:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Рапунцель: Запутанная история",
+      "title_en": "Tangled",
+      "year": 2010,
+      "kinopoisk_id": 84049,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-04 15:02:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Проклятие плачущей",
+      "title_en": "The Curse of La Llorona",
+      "year": 2019,
+      "kinopoisk_id": 1084329,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-04 15:01:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Полный расколбас",
+      "title_en": "Sausage Party",
+      "year": 2016,
+      "kinopoisk_id": 557804,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-04 15:00:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Под покровом ночи",
+      "title_en": "Nocturnal Animals",
+      "year": 2016,
+      "kinopoisk_id": 909898,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-04 14:59:04",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Робин Гуд, правдивая история",
       "title_en": "Robin des Bois, la véritable histoire",
       "year": 2015,
@@ -183,82 +261,168 @@
       "quality": "BluRay"
     },
     {
-      "title_ru": "Мидуэй",
-      "title_en": "Midway",
+      "title_ru": "Чернобыль",
+      "title_en": "Chernobyl",
       "year": 2019,
-      "kinopoisk_id": 1045457,
-      "type": "movie",
+      "kinopoisk_id": 1227803,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "1aa584a33fc3be6f9f6c2011859636445cafaf9d0314fb870efd3104c0a16c55",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-04 14:52:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "added_date": "2019-08-25 14:47:17",
+      "update_date": "2019-08-25 14:47:50",
+      "block": [
+        "RU"
+      ],
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1227803.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Маяк",
-      "title_en": "The Lighthouse",
-      "year": 2019,
-      "kinopoisk_id": 1114927,
-      "type": "movie",
+      "title_ru": "Баскетс",
+      "title_en": "Baskets",
+      "year": 2016,
+      "kinopoisk_id": 823468,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "66a5907aae19e53c15a7dcd7fb7abc13ab3087b2da1b31f7b18492835a75a2a7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-04 14:51:01",
+      "added_date": "2019-06-14 21:53:46",
+      "update_date": "2019-08-24 12:01:39",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/823468.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=130315",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Кусочки Трэйси",
-      "title_en": "The Tracey Fragments",
-      "year": 2007,
-      "kinopoisk_id": 266681,
-      "type": "movie",
+      "title_ru": "Тьма",
+      "title_en": "Dark",
+      "year": 2017,
+      "kinopoisk_id": 1032606,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "4dbc5287ec90e482734ff87d40a5f6165a2accad84a656505316d4825a9b1b4b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-04 14:51:01",
+      "added_date": "2019-08-24 10:38:34",
+      "update_date": "2019-08-24 10:42:18",
       "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "DVDRip"
+      "translator_id": 15,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1032606.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=144547",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Марсианин",
-      "title_en": "The Martian",
+      "title_ru": "Проповедник",
+      "title_en": "Preacher",
+      "year": 2016,
+      "kinopoisk_id": 461353,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "b9044ec5e8c2b62410a5a700753efd48f631ccc7082cec3939db6fba2f22bdec",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-08-24 01:15:44",
+      "update_date": "2019-08-24 01:38:12",
+      "block": false,
+      "translator_id": 15,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/461353.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=129134",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Кайфоломы / Киллджойс",
+      "title_en": "Killjoys",
       "year": 2015,
-      "kinopoisk_id": 841700,
-      "type": "movie",
+      "kinopoisk_id": 891589,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "19b5645c76c5d88e708196e992fa2a712e55d4bcc5e64e4adf7af806c962d665",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-04 14:50:02",
+      "added_date": "2019-08-24 01:27:24",
+      "update_date": "2019-08-24 01:33:46",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Кровавая графиня – Батори",
-      "title_en": "Bathory",
-      "year": 2008,
-      "kinopoisk_id": 222056,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-04 14:50:02",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Ма",
-      "title_en": "Ma",
-      "year": 2019,
-      "kinopoisk_id": 1112909,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-04 14:49:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 15,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/891589.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=117215",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Криптон",
@@ -767,175 +931,6 @@
       "quality": "WEB-DL",
       "poster": "https://st.kp.yandex.net/images/film_big/1112192.jpg",
       "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=149248",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Очень странные дела",
-      "title_en": "Stranger Things",
-      "year": 2016,
-      "kinopoisk_id": 915196,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "e2f2151e18850a99cc0e30cdd2576297d52b853a0ed60e2aec32f0aa612ca938",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-21 07:14:58",
-      "update_date": "2019-08-21 07:22:17",
-      "block": false,
-      "translator_id": 15,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/915196.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=143128",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Легкий как перышко",
-      "title_en": "Light as a Feather",
-      "year": 2018,
-      "kinopoisk_id": 1173528,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "9cbdc3e66aa5b3a7a7ba2a7c19be9dfdbd3b420832020177b3563010a51f4cc5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-21 07:06:56",
-      "update_date": "2019-08-21 07:13:45",
-      "block": false,
-      "translator_id": 15,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1173528.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Крик",
-      "title_en": "Scream: The TV Series",
-      "year": 2015,
-      "kinopoisk_id": 841605,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "238aaf82aa507f73dac336a9612aaf22665dec689496d66b7d1a0a05ebcb5540",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-21 07:04:14",
-      "update_date": "2019-08-21 07:11:25",
-      "block": false,
-      "translator_id": 15,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/841605.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=125225",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "3%",
-      "title_en": "3%",
-      "year": 2016,
-      "kinopoisk_id": 1007455,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "4f89d6dbd00561ddd9861d03976230c89a1babc677487714822723f4807c50b7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-21 06:47:45",
-      "update_date": "2019-08-21 07:00:00",
-      "block": false,
-      "translator_id": 15,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1007455.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135817",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Большая маленькая ложь",
-      "title_en": "Big Little Lies",
-      "year": 2017,
-      "kinopoisk_id": 947758,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "d0c4d21690c89a49bc57ebe5dbf4d90127dfaa5d85e2b211bb58ea227bd4084e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-21 06:46:03",
-      "update_date": "2019-08-21 06:57:01",
-      "block": [
-        "RU"
-      ],
-      "translator_id": 15,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/947758.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=136634",
       "serial_episodes": [
         {
           "season_number": 2,
