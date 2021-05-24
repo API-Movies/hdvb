@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "title_ru": "Мир Юрского периода",
+      "title_en": "Jurassic World",
+      "year": 2015,
+      "kinopoisk_id": 594554,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-30 22:56:43",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "4К"
+    },
+    {
+      "title_ru": "Звёздные войны: Последние джедаи",
+      "title_en": "Star Wars: Episode VIII - The Last Jedi",
+      "year": 2017,
+      "kinopoisk_id": 718223,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-30 22:49:23",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "4К"
+    },
+    {
+      "title_ru": "Битва за Землю",
+      "title_en": "Captive State",
+      "year": 2019,
+      "kinopoisk_id": 1009739,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-30 21:26:01",
+      "block": [
+        "RU"
+      ],
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Зловещий Бонг 777",
+      "title_en": "Evil Bong 777",
+      "year": 2018,
+      "kinopoisk_id": 1140541,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-30 21:25:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "На краю пропасти",
       "title_en": "The Precipice",
       "year": 2018,
@@ -215,58 +269,6 @@
       "translator": "Дубляж [Лицензия]",
       "translator_id": 107,
       "quality": "BluRay"
-    },
-    {
-      "title_ru": "История игрушек: Большой побег",
-      "title_en": "Toy Story 3",
-      "year": 2010,
-      "kinopoisk_id": 258328,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-05-29 23:56:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Хан Соло: Звёздные Войны. Истории",
-      "title_en": "Solo: A Star Wars Story",
-      "year": 2018,
-      "kinopoisk_id": 841277,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-05-29 22:21:14",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "4К"
-    },
-    {
-      "title_ru": "Бэтмен",
-      "title_en": "Batman",
-      "year": 1989,
-      "kinopoisk_id": 4205,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-05-29 22:18:48",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "4К"
-    },
-    {
-      "title_ru": "Неизвестный случай с братьями Баш",
-      "title_en": "The Unauthorized Bash Brothers Experience",
-      "year": 2019,
-      "kinopoisk_id": 1269495,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-05-29 21:00:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DLRip"
     }
   ]
 }
