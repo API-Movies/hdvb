@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Зоя Космодемьянская",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4365698,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-10 17:18:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Африка",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4365786,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-10 09:06:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Приключения экспоната",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1275514,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-09 23:36:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Восход красной звезды",
+      "title_en": "Gaolou wanzhang pingdi qi / A Thousand Feet of Tall Buildings Rising from the Ground",
+      "year": 2020,
+      "kinopoisk_id": 45634654,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-09 23:35:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Молчаливая Роза",
       "title_en": "Silent Rose",
       "year": 2020,
@@ -209,56 +261,397 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Родом из Иерусалима, но всё еще жив",
-      "title_en": "Born in Jerusalem and Still Alive",
-      "year": 2019,
-      "kinopoisk_id": 1296815,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-09 15:40:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Обратная сторона Луны",
-      "title_en": "Back of the Moon",
-      "year": 2019,
-      "kinopoisk_id": 1381241,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-09 15:39:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Безжалостный",
-      "title_en": "Bulhandang: nappeun nomdeului sesang",
+      "title_ru": "Хороший доктор",
+      "title_en": "The Good Doctor",
       "year": 2017,
-      "kinopoisk_id": 1008626,
-      "type": "movie",
+      "kinopoisk_id": 1011528,
+      "world_art_id": null,
+      "translator": "Кириллица",
+      "token": "a86135ad4ab4bab3e83a21ef73379f56cff83b5008da19dbd60ea746e73ad44c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-09 09:18:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
+      "added_date": "2020-03-04 19:01:35",
+      "update_date": "2021-05-13 10:25:06",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 123,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1011528.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=144648",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Рядовой Чээрин",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 4418992,
-      "type": "movie",
+      "title_ru": "Овальный кабинет",
+      "title_en": "The Oval",
+      "year": 2019,
+      "kinopoisk_id": 1282149,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "7d7b50505fa625edd999e80df11b9e107f2d42710f5f2b7ab7f0636080b12410",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-09 08:59:01",
+      "added_date": "2021-02-18 08:14:01",
+      "update_date": "2021-05-13 09:50:58",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1282149.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Супергёрл",
+      "title_en": "Supergirl",
+      "year": 2015,
+      "kinopoisk_id": 880643,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "4b163720edd24ea44cf4e10cc35179bc57d23b79a81da301ee78a09913d3f540",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-02-25 21:46:32",
+      "update_date": "2021-05-13 09:49:58",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/880643.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=122147",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Майянцы",
+      "title_en": "Mayans M.C.",
+      "year": 2018,
+      "kinopoisk_id": 1008307,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "549a08dd7257aefee9e802feba51877fde6d9837c7cc7fcec4df97e81b3e3bf3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-08 17:44:55",
+      "update_date": "2021-05-13 09:48:40",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1008307.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=151771",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Майянцы",
+      "title_en": "Mayans M.C.",
+      "year": 2018,
+      "kinopoisk_id": 1008307,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "d7fb0fc70f2da89d4e3d3653ed2df0c9f4258063d8bde23455f703e4810bd7e2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-17 21:46:47",
+      "update_date": "2021-05-13 04:28:13",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1008307.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=151771",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Шлемоголовые",
+      "title_en": "Bucketheads",
+      "year": 2020,
+      "kinopoisk_id": 1419168,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "158f859434d68fc25632be1184fa62d5329ba45547dd83c15d7f5ec7fc002312",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-20 18:59:56",
+      "update_date": "2021-05-13 04:02:05",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1419168.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Овальный кабинет",
+      "title_en": "The Oval",
+      "year": 2019,
+      "kinopoisk_id": 1282149,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "f7d151138f641798466b601f00ba34b53558cade3c94bd530b17373522666607",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-17 16:25:57",
+      "update_date": "2021-05-12 21:13:21",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1282149.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Супергёрл",
+      "title_en": "Supergirl",
+      "year": 2015,
+      "kinopoisk_id": 880643,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "8d4b1cf7b1040dcf9e07b6d777516ddc3f785311f39b5b3caa7f659c088c964c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-31 09:22:31",
+      "update_date": "2021-05-12 20:57:44",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/880643.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=122147",
+      "serial_episodes": [
+        {
+          "season_number": 6,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Анатомия страсти",
@@ -1807,310 +2200,6 @@
             511,
             512,
             513
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "В поисках любви",
-      "title_en": "The Pursuit of Love",
-      "year": 2021,
-      "kinopoisk_id": 1332407,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "432c45bcce55bbc40179e250d426c7235cbd7bf65c51b7bb04f3d55ba659c93f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-10 08:46:32",
-      "update_date": "2021-05-10 12:50:22",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1332407.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кухарка из Кастамара",
-      "title_en": "La cocinera de Castamar",
-      "year": 2021,
-      "kinopoisk_id": 1400972,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "40efd3db5d8e567d8155267dbbb9ffd8fe9078260b6a4dfacd9c39d3b701d70f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-25 08:17:08",
-      "update_date": "2021-05-10 09:07:19",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1400972.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Наследие Юпитера",
-      "title_en": "Jupiter's Legacy",
-      "year": 2021,
-      "kinopoisk_id": 983145,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "a942dba7fba0eb9a3679adfa27418bde74ad43aa553ec068074cf3558fda90c4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-07 16:06:33",
-      "update_date": "2021-05-09 21:21:50",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/983145.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            1,
-            2,
-            2,
-            3,
-            3,
-            4,
-            4,
-            5,
-            5,
-            6,
-            6,
-            7,
-            7,
-            8,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кухарка из Кастамара",
-      "title_en": "La cocinera de Castamar",
-      "year": 2021,
-      "kinopoisk_id": 1400972,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "afe95460528c049d013f7eddd29592ae44ed23fb707fa2ce72bf5c49f6129869",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-21 19:38:33",
-      "update_date": "2021-05-09 17:46:11",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1400972.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Скажи мне правду",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 56573456,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "f8dfcab9211beca5c5523811c094572afc658568ffffb2364d5af27e77a1c7b0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-09 16:17:51",
-      "update_date": "2021-05-09 16:19:03",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/56573456.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Врачебная ошибка",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 4430396,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "5a47c6a03bb665d0ebbeccc961a389f0656054155321cb939472587ab13e1f4b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-08 21:30:29",
-      "update_date": "2021-05-09 16:17:41",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4430396.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            1,
-            2,
-            2,
-            3,
-            3,
-            4,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Частный детектив Магнум",
-      "title_en": "Magnum P.I.",
-      "year": 2018,
-      "kinopoisk_id": 1134829,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "a5fe2323cf6792eb872ecf791f52dc5e8021c9220a5a3336640003f9d3938bea",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-03 21:46:16",
-      "update_date": "2021-05-09 09:19:51",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1134829.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Катарина Хусс",
-      "title_en": "Huss",
-      "year": 2021,
-      "kinopoisk_id": 4367276,
-      "world_art_id": null,
-      "translator": "WestFilm",
-      "token": "16e7f55145a97633b3589b5b11b083e451d63a89a5c9e121357813907b5de692",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-09 03:04:06",
-      "update_date": "2021-05-09 03:06:09",
-      "block": false,
-      "translator_id": 167,
-      "quality": "WEBRip",
-      "poster": "https://img.imgilall.me/movies/franchise/4/5/9/2/6/0/0/0/0/0/610x900_45926.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
           ]
         }
       ]

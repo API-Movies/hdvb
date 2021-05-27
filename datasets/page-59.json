@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Обман по-голливудски",
+      "title_en": "Hollywood.Con",
+      "year": 2021,
+      "kinopoisk_id": 1160146,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-02 21:14:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Хакер",
+      "title_en": "Hacker",
+      "year": 2018,
+      "kinopoisk_id": 1035790,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-02 21:13:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ченс",
+      "title_en": "Chance",
+      "year": 2020,
+      "kinopoisk_id": 1117007,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-02 21:11:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вольная пташка",
+      "title_en": "Free Byrd",
+      "year": 2021,
+      "kinopoisk_id": 720489,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-02 21:10:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Пчелка Майя: Медовый движ",
       "title_en": "Maya the Bee 3: The Golden Orb",
       "year": 2021,
@@ -209,56 +261,341 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Семейство Лэндри: Скрытая жемчужина",
-      "title_en": "V.C. Andrews' Landry Family / V.C. Andrews' Hidden Jewel",
-      "year": 2021,
-      "kinopoisk_id": 1354385,
-      "type": "movie",
+      "title_ru": "Игрок",
+      "title_en": "Peulleieo",
+      "year": 2018,
+      "kinopoisk_id": 1115711,
+      "world_art_id": null,
+      "translator": "HighHopes",
+      "token": "7b466e190a9547be14750eb78cae123cb044244c567cadac12cc6ddcca15d94c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-01 16:14:03",
+      "added_date": "2021-02-19 22:06:36",
+      "update_date": "2021-02-19 22:07:41",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 168,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1115711.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Выстоять!",
-      "title_en": "Strike!",
-      "year": 2019,
-      "kinopoisk_id": 1087862,
-      "type": "movie",
+      "title_ru": "Гастролёры",
+      "title_en": "Roadies",
+      "year": 2016,
+      "kinopoisk_id": 868526,
+      "world_art_id": null,
+      "translator": "Jaskier",
+      "token": "d8d3cd9a4e3d9b8390126a5800649b23d9943d08a78cbfc5e11159d3a96e4d43",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-01 16:12:01",
+      "added_date": "2021-02-19 22:05:31",
+      "update_date": "2021-02-19 22:06:41",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 36,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/868526.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "В погоне: пропавшие без вести",
-      "title_en": "In Pursuit: The Missing",
-      "year": 2021,
-      "kinopoisk_id": 14214572,
-      "type": "movie",
+      "title_ru": "Хэп и Леонард",
+      "title_en": "Hap and Leonard",
+      "year": 2016,
+      "kinopoisk_id": 891670,
+      "world_art_id": null,
+      "translator": "Alexfilm",
+      "token": "d2362ce336d481497a83316f508783bf04da00e2efe6ef29d7e0054f8e5ffcce",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-01 16:11:02",
+      "added_date": "2021-02-19 22:04:13",
+      "update_date": "2021-02-19 22:05:12",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 3,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/891670.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Гиз и Энн",
-      "title_en": "Geez &amp; Ann",
-      "year": 2021,
-      "kinopoisk_id": 1368069,
-      "type": "movie",
+      "title_ru": "Оттенки синего",
+      "title_en": "Shades of Blue",
+      "year": 2016,
+      "kinopoisk_id": 890417,
+      "world_art_id": null,
+      "translator": "True Dubbing Studio",
+      "token": "fd0c2c74a685ac75593dcd05d146ea28f24abad33faebf17cad386e5abc1b810",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-01 16:09:01",
+      "added_date": "2021-02-19 22:03:09",
+      "update_date": "2021-02-19 22:04:27",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 134,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/890417.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ложное обвинение",
+      "title_en": "Conviction",
+      "year": 2016,
+      "kinopoisk_id": 979247,
+      "world_art_id": null,
+      "translator": "Jaskier",
+      "token": "f30f80ad646f293b6287d1c4189207e69a1e542b57f8505b32ba9daede8a49e3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-19 22:01:30",
+      "update_date": "2021-02-19 22:02:43",
+      "block": false,
+      "translator_id": 36,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/979247.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Изумрудный город",
+      "title_en": "Emerald City",
+      "year": 2016,
+      "kinopoisk_id": 840106,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "b2419acba4c71430709531b53c20ab6c1c1b4855de2db45f8851686c96990fe1",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-19 22:00:37",
+      "update_date": "2021-02-19 22:01:36",
+      "block": false,
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/840106.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Граница",
+      "title_en": "Frontier",
+      "year": 2016,
+      "kinopoisk_id": 958575,
+      "world_art_id": null,
+      "translator": "Jaskier",
+      "token": "815ad159371fe72245534c1539210fdd25cb6b4a6c8da093b40bd76562b80831",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-19 21:59:20",
+      "update_date": "2021-02-19 22:00:42",
+      "block": false,
+      "translator_id": 36,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/958575.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Класс",
@@ -963,311 +1300,6 @@
             1,
             2,
             3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Эта женщина",
-      "title_en": "Esa mujer",
-      "year": 2013,
-      "kinopoisk_id": 841090,
-      "world_art_id": null,
-      "translator": "одноголосый закадровый",
-      "token": "984cc74b9f371830fec144e371b2891915410b5fd8c929bf071cbfd12f042980",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-19 08:31:26",
-      "update_date": "2021-02-19 08:33:24",
-      "block": false,
-      "translator_id": 93,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/841090.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Вернуться в 1988",
-      "title_en": "Eungdaphara 1988",
-      "year": 2015,
-      "kinopoisk_id": 944829,
-      "world_art_id": null,
-      "translator": "GREEN TEA",
-      "token": "4172262fa7bcf59bcba61e509087ab1146c68808e923482cccbddce7e20bbf82",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-19 08:23:50",
-      "update_date": "2021-02-19 08:30:05",
-      "block": false,
-      "translator_id": 31,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/944829.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Счастлива вопреки (Несмотря ни на что)",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 98080678,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "f16f0bd5d41bc47de5ee54ec0473194b3bbc31e4370ac1fe0d20d66b89828004",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-10 23:51:18",
-      "update_date": "2021-02-19 08:23:40",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/98080678.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Благословите Хартов",
-      "title_en": "Bless the Harts",
-      "year": 2019,
-      "kinopoisk_id": 1198936,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "a49efd5c07742611cd67b22f95a745ee4284676130f30ae45b0de3973e4e9727",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-19 21:59:11",
-      "update_date": "2021-02-19 02:32:55",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1198936.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "El Internado: Las Cumbres",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1348831,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "0040bc3848ca65e2e4e4771aa58c54d304b7874b0da6b0f5ef3c8c004ae30e0b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-19 02:06:08",
-      "update_date": "2021-02-19 02:12:03",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1348831.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Оптимисты",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 970176,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "4eb8b566d9b127835cbdaefcf469a8c19954fb2df4f13523780c3a1041a73934",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-20 21:55:04",
-      "update_date": "2021-02-19 00:38:15",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/970176.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Литра 2.0",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 7857098,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "c7d17eef269926c0bcb77a0813f9e1de8ef9aabc6c5d0313fca1b1518d089141",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-18 18:02:42",
-      "update_date": "2021-02-18 18:03:57",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/7857098.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

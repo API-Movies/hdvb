@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "title_ru": "Девочка",
+      "title_en": "Girl",
+      "year": 2018,
+      "kinopoisk_id": 1115628,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-19 16:43:41",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Планета зверей",
+      "title_en": "Dong wu shi jie",
+      "year": 2018,
+      "kinopoisk_id": 1047812,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-19 14:31:21",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "ВМаяковский",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 682395,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-18 20:23:42",
+      "block": [
+        "RU"
+      ],
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Холмс &amp; Ватсон",
+      "title_en": "Holmes and Watson",
+      "year": 2018,
+      "kinopoisk_id": 462450,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-18 17:11:00",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Битва за Землю",
       "title_en": "Captive State",
       "year": 2019,
@@ -217,60 +271,6 @@
       "translator": "Дубляж [Чистый звук]",
       "translator_id": 109,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Холмс &amp; Ватсон",
-      "title_en": "Holmes and Watson",
-      "year": 2018,
-      "kinopoisk_id": 462450,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-14 14:35:26",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Две королевы",
-      "title_en": "Mary Queen of Scots",
-      "year": 2018,
-      "kinopoisk_id": 696247,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-13 23:13:56",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Две королевы",
-      "title_en": "Mary Queen of Scots",
-      "year": 2018,
-      "kinopoisk_id": 696247,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-13 19:21:54",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Ван Гоги",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1049526,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-13 18:41:02",
-      "block": [
-        "RU"
-      ],
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
     }
   ]
 }

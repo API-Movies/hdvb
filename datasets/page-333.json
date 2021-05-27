@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Мистер и миссис Смит",
+      "title_en": "Mr. &amp; Mrs. Smith",
+      "year": 2005,
+      "kinopoisk_id": 12090,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-11 02:03:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Милые кости",
+      "title_en": "The Lovely Bones",
+      "year": 2009,
+      "kinopoisk_id": 51319,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-11 02:02:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Мертвые не умирают",
+      "title_en": "The Dead Don't Die",
+      "year": 2019,
+      "kinopoisk_id": 1171953,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-11 02:01:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Малавита",
+      "title_en": "The Family",
+      "year": 2013,
+      "kinopoisk_id": 682669,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-11 01:55:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Леон",
       "title_en": "Léon",
       "year": 1994,
@@ -209,56 +261,178 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Выживший",
-      "title_en": "The Revenant",
-      "year": 2015,
-      "kinopoisk_id": 522941,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-11 01:34:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "В тени Луны",
-      "title_en": "In the Shadow of the Moon",
+      "title_ru": "Пирсон",
+      "title_en": "Pearson",
       "year": 2019,
-      "kinopoisk_id": 1127701,
-      "type": "movie",
+      "kinopoisk_id": 1115520,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "d4d2c29b949e637dba66093a69e2afdabeaf2c63a063b8a893fb633488e5502e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-11 01:33:04",
+      "added_date": "2019-07-18 15:59:41",
+      "update_date": "2019-09-23 08:26:17",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1115520.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Военный ныряльщик",
-      "title_en": "Men of Honor",
-      "year": 2000,
-      "kinopoisk_id": 751,
-      "type": "movie",
+      "title_ru": "Острые козырьки",
+      "title_en": "Peaky Blinders",
+      "year": 2013,
+      "kinopoisk_id": 716587,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "dfc6a8c2e6e4c57c9607da47dcddc8d468b6095854be1d5eb18d6a1360f67c34",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-11 01:32:01",
+      "added_date": "2019-08-26 11:18:41",
+      "update_date": "2019-09-23 08:18:18",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/716587.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=134056",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Виноваты звезды",
-      "title_en": "The Fault in Our Stars",
-      "year": 2014,
-      "kinopoisk_id": 724703,
-      "type": "movie",
+      "title_ru": "Снегопад",
+      "title_en": "Snowfall",
+      "year": 2017,
+      "kinopoisk_id": 909854,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "6a9f216c62cc3f9452ce673a13c26ed2ed13830f02d10579c1a4dd717fa12b63",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-11 01:31:02",
+      "added_date": "2019-07-11 22:05:06",
+      "update_date": "2019-09-23 01:15:59",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/909854.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=141427",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Шоу Шермана",
+      "title_en": "Sherman's Showcase",
+      "year": 2019,
+      "kinopoisk_id": 1153386,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "542ac73773988530289903d0cd49d8598b55767917e26481f259b247584f821f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-07-30 19:26:38",
+      "update_date": "2019-09-23 00:20:41",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1153386.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Кайфоломы / Киллджойс",
+      "title_en": "Killjoys",
+      "year": 2015,
+      "kinopoisk_id": 891589,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "4f5a6fe90018950fca228b3f5bf151622bb6e25312716c8d05a78ece35e763c4",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-07-20 16:22:38",
+      "update_date": "2019-09-21 14:37:35",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/891589.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=117215",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Клуб первых жён",
@@ -797,176 +971,6 @@
             5,
             6,
             7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Проповедник",
-      "title_en": "Preacher",
-      "year": 2016,
-      "kinopoisk_id": 461353,
-      "world_art_id": null,
-      "translator": "HamsterStudio",
-      "token": "44897492a94aade0c5514569580b1489bb2e611fe245e983e87b17847f6c9baa",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-09-04 15:54:45",
-      "update_date": "2019-09-04 15:55:35",
-      "block": false,
-      "translator_id": 32,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/461353.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=129134",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Пенниуорт",
-      "title_en": "Pennyworth",
-      "year": 2019,
-      "kinopoisk_id": 1142552,
-      "world_art_id": null,
-      "translator": "HamsterStudio",
-      "token": "3c3d366f180d637e0de0d0909f9fcdd9b08aea2db58b1669f2f1013651a57b2d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-09-04 15:53:39",
-      "update_date": "2019-09-04 15:54:19",
-      "block": false,
-      "translator_id": 32,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1142552.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Тёмный кристалл: Эпоха сопротивления",
-      "title_en": "The Dark Crystal: Age of Resistance",
-      "year": 2019,
-      "kinopoisk_id": 1045246,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "7cccccb26cdc32bd522c9b3be3a5e8d0ade045e613f395e08fcd9131e20fffec",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-30 17:17:20",
-      "update_date": "2019-09-03 14:35:03",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1045246.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=142402",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Плащ и Кинжал",
-      "title_en": "Cloak &amp; Dagger",
-      "year": 2018,
-      "kinopoisk_id": 978854,
-      "world_art_id": null,
-      "translator": "HamsterStudio",
-      "token": "6785131a4d2c7d15b4b8744f8329f3750a89af71566e64d0e0966bbe4f04e16a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-09-02 20:11:57",
-      "update_date": "2019-09-02 20:14:22",
-      "block": false,
-      "translator_id": 32,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/978854.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140183",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Легкий как перышко",
-      "title_en": "Light as a Feather",
-      "year": 2018,
-      "kinopoisk_id": 1173528,
-      "world_art_id": null,
-      "translator": "HamsterStudio",
-      "token": "b290fd00bf375f0c3c716918a8876bc19220c42e311e7671c352bb6caf04c091",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-09-02 20:08:50",
-      "update_date": "2019-09-02 20:11:19",
-      "block": false,
-      "translator_id": 32,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1173528.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

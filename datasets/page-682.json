@@ -1,6 +1,61 @@
 {
   "items": [
     {
+      "title_ru": "Проксима",
+      "title_en": "Proxima",
+      "year": 2020,
+      "kinopoisk_id": 1049034,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-01-23 11:04:01",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Игры с огнём",
+      "title_en": "Playing with Fire",
+      "year": 2019,
+      "kinopoisk_id": 1215558,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-01-23 11:03:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Просто помиловать",
+      "title_en": "Just Mercy",
+      "year": 2019,
+      "kinopoisk_id": 1108556,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-01-23 11:02:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "DVDScr"
+    },
+    {
+      "title_ru": "Малышка зомби",
+      "title_en": "Zombi Child",
+      "year": 2019,
+      "kinopoisk_id": 1199271,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-01-23 09:08:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Зимняя любовь",
       "title_en": "Love in Winterland / Alice in Winterland",
       "year": 2020,
@@ -207,58 +262,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "HDTV"
-    },
-    {
-      "title_ru": "Петта",
-      "title_en": "Petta",
-      "year": 2019,
-      "kinopoisk_id": 1189940,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-01-21 20:45:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Паранормальная Ферма 2: Ближе к истине",
-      "title_en": "Paranormal Farm 2 Closer to the Truth",
-      "year": 2019,
-      "kinopoisk_id": 1193676,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-01-21 20:44:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Травля",
-      "title_en": "Manhunt",
-      "year": 2020,
-      "kinopoisk_id": 995773,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-01-21 20:43:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Волны",
-      "title_en": "Waves",
-      "year": 2019,
-      "kinopoisk_id": 1172136,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-01-21 20:42:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
     }
   ]
 }
