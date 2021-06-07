@@ -1,16 +1,16 @@
-# :tv: Movies and TV `33,249` (hdvb)
+# :tv: Movies and TV `33,267` (hdvb)
 
 <a href="https://API-Movies.github.io"><img src="https://API-Movies.github.io/banner.png?cache"></a>
 
-### :date: 2021-06-06
-- Movies `26,223`
-  - [x] <a href="https://API-Movies.github.io/hdvb/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `22,101`
+### :date: 2021-06-07
+- Movies `26,233`
+  - [x] <a href="https://API-Movies.github.io/hdvb/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `22,147`
   - [ ] IMDb IDs `0`
   - [ ] TMDb IDs `0`
   - [ ] World-Art IDs `0`
   - [ ] Shikimori IDs `0`
   - [x] None IDs `33`
-- TV `7,026`
+- TV `7,034`
   - [x] <a href="https://API-Movies.github.io/hdvb/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `4,927`
   - [ ] IMDb IDs `0`
   - [ ] TMDb IDs `0`
