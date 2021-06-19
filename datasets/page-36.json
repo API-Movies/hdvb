@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Никаких обид",
+      "title_en": "Futur Drei",
+      "year": 2020,
+      "kinopoisk_id": 1187185,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-13 19:27:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Танец сорока одного",
+      "title_en": "El baile de los 41",
+      "year": 2020,
+      "kinopoisk_id": 1341605,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-13 19:26:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Похоть: история о семи смертных грехах",
+      "title_en": "Seven Deadly Sins: Lust",
+      "year": 2021,
+      "kinopoisk_id": 9145518,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-13 16:02:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Концепция киллера",
+      "title_en": "Killer Concept",
+      "year": 2021,
+      "kinopoisk_id": 14236094,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-13 16:01:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Джозеф Оливер Браун",
       "title_en": "Joseph Oliver Brown",
       "year": 2019,
@@ -209,56 +261,80 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Здесь и сейчас",
-      "title_en": "Here and Now",
-      "year": 2018,
-      "kinopoisk_id": 1148016,
-      "type": "movie",
+      "title_ru": "Форсаж: Шпионы-гонщики",
+      "title_en": "Fast &amp; Furious",
+      "year": 2019,
+      "kinopoisk_id": 1138776,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "e0995c3c73ac3138d70f6288ed1032451ac62e0d8ae8d86cd74923733376fa90",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-12 21:21:01",
+      "added_date": "2019-12-29 08:51:38",
+      "update_date": "2021-04-17 09:05:21",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Фортуна",
-      "title_en": "Fortuna",
-      "year": 2020,
-      "kinopoisk_id": 828614,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-12 21:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Запретный плод: Первый кусочек",
-      "title_en": "Forbidden Fruit: First Bite",
-      "year": 2021,
-      "kinopoisk_id": 1418128,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-12 21:19:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Интрижка с собой",
-      "title_en": "A One Sided Affair",
-      "year": 2021,
-      "kinopoisk_id": 14363206,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-12 21:18:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1138776.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Безумие в Уэйкфилде",
@@ -1343,53 +1419,6 @@
             21,
             21,
             22
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Радиант",
-      "title_en": "Radiant",
-      "year": 2018,
-      "kinopoisk_id": 1215576,
-      "world_art_id": null,
-      "translator": "AniLibria",
-      "token": "6bc30ea1b1306c9c41f2ca9d0b48ac3c0e8dbbe979fb1b655911d08d0efa0c01",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-14 07:15:58",
-      "update_date": "2021-04-14 07:17:50",
-      "block": false,
-      "translator_id": 10,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1215576.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 21,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21
           ]
         }
       ]

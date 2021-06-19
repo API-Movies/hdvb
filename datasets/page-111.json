@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Кадия: Мир волшебства",
+      "title_en": "Cadia: The World Within",
+      "year": 2019,
+      "kinopoisk_id": 1109145,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-07 15:34:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Поступь хаоса",
+      "title_en": "Chaos Walking",
+      "year": 2021,
+      "kinopoisk_id": 634786,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-07 15:33:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Гуляй, Вася! Свидание на Бали",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1189865,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-07 15:32:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Хребет дьявола",
+      "title_en": "The Devil Below",
+      "year": 2021,
+      "kinopoisk_id": 1134989,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-07 02:46:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Как-нибудь в другой раз",
       "title_en": "Sometime Other Than Now",
       "year": 2021,
@@ -209,56 +261,134 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Друг",
-      "title_en": "Amigo",
-      "year": 2019,
-      "kinopoisk_id": 1277460,
-      "type": "movie",
+      "title_ru": "Пацанки",
+      "title_en": "",
+      "year": 2016,
+      "kinopoisk_id": 20202020,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "21e5128fa9958b293e3114c601babe95509f1c0fba4394c8b77f217c6704d6e2",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-06 14:06:01",
+      "added_date": "2018-08-18 10:34:50",
+      "update_date": "2020-12-25 17:17:06",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ва-банк",
-      "title_en": "All In",
-      "year": 2019,
-      "kinopoisk_id": 1074003,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-06 14:04:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Инопланетная теория",
-      "title_en": "Alien Theory",
-      "year": 2019,
-      "kinopoisk_id": 813464,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-06 14:00:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Алан, и когда пробьёт час",
-      "title_en": "Alan and the Fullness of Time",
-      "year": 2019,
-      "kinopoisk_id": 1097927,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-06 13:58:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "http://ipic.su/img/img7/fs/B0.1474119029.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 17,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Призраки",
@@ -1338,39 +1468,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Все существа, большие и малые",
-      "title_en": "All Creatures Great and Small",
-      "year": 2020,
-      "kinopoisk_id": 1309507,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "28a53ac89d13ef884e7cbf1be76475b2ecbaaf3fd4b97b2aee146af877a232b5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-05 08:56:52",
-      "update_date": "2020-12-24 09:09:49",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1309507.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
           ]
         }
       ]

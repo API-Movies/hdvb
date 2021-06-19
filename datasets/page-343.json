@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "title_ru": "Неверные",
+      "title_en": "Gli infedeli (The Players)",
+      "year": 2020,
+      "kinopoisk_id": 1263788,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-18 21:44:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Девушка-воскресенье",
+      "title_en": "Sunday Girl",
+      "year": 2019,
+      "kinopoisk_id": 1373678,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-18 09:09:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Обратный рейс",
+      "title_en": "Dead Heading",
+      "year": 2018,
+      "kinopoisk_id": 1086363,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-18 09:08:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Наследие лжи",
+      "title_en": "Legacy of Lies",
+      "year": 2020,
+      "kinopoisk_id": 1201533,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-17 22:55:01",
+      "block": [
+        "RU",
+        "UA",
+        "EU"
+      ],
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "DVDRip"
+    },
+    {
       "title_ru": "Бугимен",
       "title_en": "Achoura",
       "year": 2020,
@@ -209,56 +265,41 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Опасная связь",
-      "title_en": "Fatal Affair",
-      "year": 2020,
-      "kinopoisk_id": 1309709,
-      "type": "movie",
+      "title_ru": "Инстинкт",
+      "title_en": "Instinct",
+      "year": 2018,
+      "kinopoisk_id": 907800,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "7e43a0d7547d02cd1f67ba9ded7609535a1c182e4b9cc36cd894f1b05f28a63e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-16 21:22:01",
+      "added_date": "2019-07-01 16:16:38",
+      "update_date": "2019-08-26 13:52:00",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Неуклюжая",
-      "title_en": "La Maladroite",
-      "year": 2019,
-      "kinopoisk_id": 1323080,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-16 15:08:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTVRip"
-    },
-    {
-      "title_ru": "Донор",
-      "title_en": "Donor",
-      "year": 2020,
-      "kinopoisk_id": 1195947,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-16 15:07:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Место",
-      "title_en": "Accommodations",
-      "year": 2020,
-      "kinopoisk_id": 1035956,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-16 15:06:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/907800.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Сакральные игры",
@@ -889,45 +930,6 @@
       "serial_episodes": [
         {
           "season_number": 6,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Джессика Джонс",
-      "title_en": "Jessica Jones",
-      "year": 2015,
-      "kinopoisk_id": 817508,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "3cd2f9bb7be882439902b0ec5cbb99df34f44c26a8f1c320b92adadefcb2de76",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-22 17:03:33",
-      "update_date": "2019-08-22 17:20:12",
-      "block": false,
-      "translator_id": 15,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/817508.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=128771",
-      "serial_episodes": [
-        {
-          "season_number": 3,
           "episodes_count": 13,
           "episodes": [
             1,

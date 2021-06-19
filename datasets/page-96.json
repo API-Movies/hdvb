@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Райский лагерь",
+      "title_en": "Eden",
+      "year": 2020,
+      "kinopoisk_id": 1275674,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-19 20:19:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Голубой слонёнок 2",
+      "title_en": "The Blue Elephant 2",
+      "year": 2019,
+      "kinopoisk_id": 1275323,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-19 20:18:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Отрыв",
+      "title_en": "Party Hard",
+      "year": 2019,
+      "kinopoisk_id": 1310950,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-19 20:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ничто из нечто",
+      "title_en": "Nothing from Something",
+      "year": 2019,
+      "kinopoisk_id": 1054611,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-19 20:13:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Канун Нового года",
       "title_en": "Saehaejeonya",
       "year": 2021,
@@ -209,56 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Луз",
-      "title_en": "Luz",
-      "year": 2019,
-      "kinopoisk_id": 1194171,
-      "type": "movie",
+      "title_ru": "Ночная смена",
+      "title_en": "The Night Shift",
+      "year": 2014,
+      "kinopoisk_id": 716703,
+      "world_art_id": null,
+      "translator": "IVI",
+      "token": "723b68b678767dc608d7846162220f99b7a52c8993708634e7cc614caabd0c18",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-19 05:17:01",
+      "added_date": "2021-01-15 18:08:03",
+      "update_date": "2021-01-15 18:08:44",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Счастливые полсотни",
-      "title_en": "Lucky Fifty",
-      "year": 2019,
-      "kinopoisk_id": 1132426,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-19 05:15:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Проклятье в свадебном платье",
-      "title_en": "Hot Mess in a Wedding Dress",
-      "year": 2019,
-      "kinopoisk_id": 1166311,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-19 05:14:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "По наклонной",
-      "title_en": "Cherry",
-      "year": 2021,
-      "kinopoisk_id": 1245501,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-18 22:08:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
+      "translator_id": 132,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/716703.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Ночная смена",
@@ -1226,86 +1260,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Леденящие душу приключения Сабрины",
-      "title_en": "Chilling Adventures of Sabrina",
-      "year": 2018,
-      "kinopoisk_id": 1108352,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "0371cc4615674fd22e67eca6b0fa2a0acb931ffc4e80a371ac4a03d15989eb5c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-27 12:22:47",
-      "update_date": "2021-01-14 15:35:18",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1108352.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Дикий штат",
+      "title_en": "L'état sauvage / Savage State",
+      "year": 2019,
+      "kinopoisk_id": 1207558,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-30 23:11:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Косарь",
+      "title_en": "Haymaker",
+      "year": 2021,
+      "kinopoisk_id": 1066505,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-30 23:09:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ниже нуля",
+      "title_en": "Bajocero",
+      "year": 2021,
+      "kinopoisk_id": 1244319,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-30 23:08:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Палмер",
+      "title_en": "Palmer",
+      "year": 2021,
+      "kinopoisk_id": 1202296,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-30 20:10:02",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Гарри Поттер: История магии",
       "title_en": "Harry Potter: A History of Magic",
       "year": 2017,
@@ -209,56 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Дьявол в деталях",
-      "title_en": "The Little Things",
-      "year": 2021,
-      "kinopoisk_id": 1290490,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-29 21:52:01",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Небесный огонь",
-      "title_en": "Skyfire",
+      "title_ru": "Первобытный",
+      "title_en": "Primal",
       "year": 2019,
-      "kinopoisk_id": 1209427,
-      "type": "movie",
+      "kinopoisk_id": 1263399,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "d84590b936b90d5ea5803919aa6b3611c1a9b6618baecd4ce409e1244813e198",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-29 19:40:02",
+      "added_date": "2020-11-04 18:55:04",
+      "update_date": "2020-11-04 18:55:51",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Оставленные",
-      "title_en": "Left Behind",
-      "year": 2014,
-      "kinopoisk_id": 714061,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-29 16:16:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Мой народ, моя родина",
-      "title_en": "Wo he wo de jia ziang",
-      "year": 2020,
-      "kinopoisk_id": 1387714,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-29 14:27:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1263399.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Игра теней",
@@ -1073,38 +1109,6 @@
       "translator_id": 33,
       "quality": "WEB-DL",
       "poster": "https://st.kp.yandex.net/images/film_big/1199020.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Зачистка",
-      "title_en": "Cleaning Up",
-      "year": 2019,
-      "kinopoisk_id": 1178523,
-      "world_art_id": null,
-      "translator": "HDrezka Studio",
-      "token": "611fc8e37a874f93fe551df05ac9c2eece448c4506566b432a62534eaef96d66",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-03 16:48:20",
-      "update_date": "2020-11-03 16:49:08",
-      "block": false,
-      "translator_id": 33,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1178523.jpg",
       "trailer": "",
       "serial_episodes": [
         {

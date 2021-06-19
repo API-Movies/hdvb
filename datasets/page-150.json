@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Первый румянец / Плюс один",
+      "title_en": "First Blush / Plus One",
+      "year": 2019,
+      "kinopoisk_id": 7629464,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-03 01:14:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "100 дней на жизнь",
+      "title_en": "100 Days to Live",
+      "year": 2021,
+      "kinopoisk_id": 1302140,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-03 01:12:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дэвид Боуи: История человека со звезд",
+      "title_en": "Stardust",
+      "year": 2020,
+      "kinopoisk_id": 1245538,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-02 21:52:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Милосердие",
+      "title_en": "Mercy",
+      "year": 2020,
+      "kinopoisk_id": 1391681,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-02 15:21:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Обещание ведьмы",
       "title_en": "Rokuroku",
       "year": 2017,
@@ -209,56 +261,59 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Безумный шляпник",
-      "title_en": "The Mad Hatter",
-      "year": 2021,
-      "kinopoisk_id": 1289873,
-      "type": "movie",
+      "title_ru": "Ведьмы Ист-Энда",
+      "title_en": "Witches of East End",
+      "year": 2013,
+      "kinopoisk_id": 694393,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "e0df5e5989b2ded4790d3f0221fe262233345f0e4e8a5bcf417376fa03855329",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-01 21:27:02",
+      "added_date": "2020-11-09 00:22:49",
+      "update_date": "2020-11-09 00:29:43",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Операция Боевой Топор",
-      "title_en": "Operation Battleaxe",
-      "year": 2020,
-      "kinopoisk_id": 78679657,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-01 21:26:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Похищение в раю",
-      "title_en": "Kidnapped in Paradise / Kidnapped",
-      "year": 2021,
-      "kinopoisk_id": 1419103,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-01 21:25:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Фуга",
-      "title_en": "Fugue",
-      "year": 2018,
-      "kinopoisk_id": 1139453,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-01 21:24:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/694393.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Люди будущего",
@@ -1174,34 +1229,6 @@
         },
         {
           "season_number": 2,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рецепты семейного счастья",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 54634564,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "bb16ff344b7b35ef18d04d09ab94932b77a8c5d41c9925a7612523765abcfd42",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-06 12:01:00",
-      "update_date": "2020-11-07 11:12:12",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/54634564.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 2,
           "episodes": [
             1,

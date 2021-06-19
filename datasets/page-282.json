@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Вызов",
+      "title_en": "One Hour Outcall",
+      "year": 2019,
+      "kinopoisk_id": 1013898,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-16 21:48:05",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Желание на единорога",
+      "title_en": "Wish Upon A Unicorn",
+      "year": 2020,
+      "kinopoisk_id": 1292704,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-16 18:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дьявол всегда здесь",
+      "title_en": "The Devil All the Time",
+      "year": 2020,
+      "kinopoisk_id": 1072788,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-16 18:31:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Парамедик",
+      "title_en": "The Paramedic (El practicante)",
+      "year": 2020,
+      "kinopoisk_id": 1312073,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-16 18:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Уловка  .44",
       "title_en": "Catch .44",
       "year": 2011,
@@ -209,56 +261,34 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Наблюдающий",
-      "title_en": "Watching",
-      "year": 2019,
-      "kinopoisk_id": 1242908,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-14 22:31:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Слабо открыть глаза?",
-      "title_en": "I Dare You to Open Your Eyes",
-      "year": 2018,
-      "kinopoisk_id": 1203433,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-14 22:29:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Корпорация",
-      "title_en": "Corporate",
-      "year": 2017,
-      "kinopoisk_id": 960049,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-14 22:27:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Психопат",
-      "title_en": "Dead End 3 / Psychopath",
+      "title_ru": "Время уходить, время возвращаться",
+      "title_en": "",
       "year": 2020,
-      "kinopoisk_id": 915664,
-      "type": "movie",
+      "kinopoisk_id": 95068065,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "84d3479518be7b4860e2458f8415ce97a115063fcbb4cdfd552ce98fd41a56f6",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-14 22:26:01",
+      "added_date": "2020-05-18 13:52:27",
+      "update_date": "2020-05-18 13:52:27",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/95068065.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Живем сегодняшним днем",
@@ -1255,100 +1285,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "В лучшем мире",
-      "title_en": "The Good Place",
-      "year": 2016,
-      "kinopoisk_id": 977493,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "b4fb6f7e61ac558c5f913f16631c270a5bdce1eee5eb904ac18d64d21bdb2527",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-17 00:17:11",
-      "update_date": "2020-05-17 00:17:11",
-      "block": false,
-      "translator_id": 126,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/977493.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135061",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

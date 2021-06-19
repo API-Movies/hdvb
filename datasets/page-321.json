@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Бекки",
+      "title_en": "Becky",
+      "year": 2020,
+      "kinopoisk_id": 1263384,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-09 02:46:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Тесная связь",
+      "title_en": "Raabta",
+      "year": 2017,
+      "kinopoisk_id": 969429,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-08 16:53:01",
+      "block": false,
+      "translator": "SDI Media",
+      "translator_id": 60,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Будка поцелуев 2",
+      "title_en": "The Kissing Booth 2",
+      "year": 2020,
+      "kinopoisk_id": 1237316,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-08 16:20:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Загадки Маунт Хайдэвей: Бывшие и неприятности",
+      "title_en": "Mount Hideaway Mysteries: Exes and Oh No's",
+      "year": 2020,
+      "kinopoisk_id": 1238886,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-08 14:41:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Бессмертный герой",
       "title_en": "Sekai kara kibo ga kietanara",
       "year": 2019,
@@ -209,56 +261,66 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Старая дева",
-      "title_en": "Spinster",
-      "year": 2020,
-      "kinopoisk_id": 1151246,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-07 17:55:01",
-      "block": false,
+      "title_ru": "Убийство на пляже",
+      "title_en": "Broadchurch",
+      "year": 2013,
+      "kinopoisk_id": 736182,
+      "world_art_id": null,
       "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Тёмная бездна",
-      "title_en": "Black Water: Abyss",
-      "year": 2020,
-      "kinopoisk_id": 1275268,
-      "type": "movie",
+      "token": "1da1fc7bc718256e85c7cec9f6e05b8d730ede14b9e626424edd5463e17f4002",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-07 17:53:01",
+      "added_date": "2020-01-21 16:17:15",
+      "update_date": "2020-01-21 16:17:15",
       "block": false,
-      "translator": "многоголосый закадровый",
       "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Таинственный сад",
-      "title_en": "The Secret Garden",
-      "year": 2020,
-      "kinopoisk_id": 737900,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-07 16:40:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сделано в Италии",
-      "title_en": "Made in Italy",
-      "year": 2020,
-      "kinopoisk_id": 1207701,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-07 16:32:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/736182.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Дублинские убийства",
@@ -1216,48 +1278,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Звёздный путь: Короткометражки",
-      "title_en": "Star Trek: Short Treks",
-      "year": 2018,
-      "kinopoisk_id": 1198462,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "a2ec828a41b8fcd622a77ad0ca90aa90a174765d9c0e419484c28a362adaa8cf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-14 17:41:25",
-      "update_date": "2020-01-14 17:41:25",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1198462.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Будь, что будет!",
+      "title_en": "Send It!",
+      "year": 2021,
+      "kinopoisk_id": 1198814,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-02 12:29:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Долой оковы",
+      "title_en": "Unchained",
+      "year": 2021,
+      "kinopoisk_id": 1295519,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-02 12:28:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Восхождение сэра Лонгботтома",
+      "title_en": "The Rise of Sir Longbottom",
+      "year": 2021,
+      "kinopoisk_id": 1221348,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-02 12:27:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Она была женой помощника шерифа",
+      "title_en": "She Was the Deputy's Wife",
+      "year": 2021,
+      "kinopoisk_id": 1255539,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-02 12:26:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Мексиканская луна",
       "title_en": "Mexican Moon",
       "year": 2021,
@@ -209,56 +261,38 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Сквозь слёзы я притворяюсь кошкой",
-      "title_en": "Nakitai Watashi wa Neko wo Kaburu",
-      "year": 2020,
-      "kinopoisk_id": 1338545,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-01 13:15:01",
-      "block": false,
-      "translator": "Flarrow Films",
-      "translator_id": 172,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Без жалости",
-      "title_en": "Without Remorse",
+      "title_ru": "Леонардо",
+      "title_en": "Leonardo",
       "year": 2021,
-      "kinopoisk_id": 252651,
-      "type": "movie",
+      "kinopoisk_id": 1330386,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "88580cf091fbfd2a001c150e48a7bad7f64332280645da4ee2ee75a45f332b58",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-01 07:55:01",
+      "added_date": "2021-03-24 09:04:20",
+      "update_date": "2021-03-24 14:34:10",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Трубопровод",
-      "title_en": "Pipeline",
-      "year": 2021,
-      "kinopoisk_id": 1093189,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-01 07:54:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Перси",
-      "title_en": "Percy / Percy Vs Goliath",
-      "year": 2021,
-      "kinopoisk_id": 1190266,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-01 07:52:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1330386.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Формула 1: Гонять, чтобы выживать",
@@ -1856,36 +1890,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кто поймал букет невесты",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 7890560,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "bb607f6be75ae1cc8b4e4447e476d13314975f64490bf0715e60246536ed672e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-19 18:40:04",
-      "update_date": "2021-03-22 22:06:07",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/7890560.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            1,
-            2,
-            2
           ]
         }
       ]

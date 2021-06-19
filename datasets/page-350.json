@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Бог грома",
+      "title_en": "Mortal",
+      "year": 2020,
+      "kinopoisk_id": 979779,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-13 18:57:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Аквамен",
+      "title_en": "Aquaman",
+      "year": 2018,
+      "kinopoisk_id": 470178,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-13 18:56:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Чужая ненависть",
+      "title_en": "The Hate U Give",
+      "year": 2018,
+      "kinopoisk_id": 1049279,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-13 18:53:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Хроники Нарнии: Лев, колдунья и волшебный шкаф",
+      "title_en": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "year": 2005,
+      "kinopoisk_id": 48162,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-13 18:52:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Фаворитка",
       "title_en": "The Favourite",
       "year": 2018,
@@ -209,56 +261,32 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Тренер",
+      "title_ru": "12 часов",
       "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 981230,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-13 00:24:01",
-      "block": false,
+      "year": 2019,
+      "kinopoisk_id": 1269616,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "16fe680dc902064f46ba5f2ca883bbf66360ab7cb92e67c808aa74369432baf1",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-06-02 22:54:17",
+      "update_date": "2019-06-02 23:45:17",
+      "block": false,
       "translator_id": 92,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Трансформеры: Эпоха истребления",
-      "title_en": "Transformers: Age of Extinction",
-      "year": 2014,
-      "kinopoisk_id": 651857,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-13 00:23:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Трансформеры: Последний рыцарь",
-      "title_en": "Transformers: The Last Knight",
-      "year": 2017,
-      "kinopoisk_id": 811609,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-13 00:22:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Трансформеры 3: Тёмная сторона Луны",
-      "title_en": "Transformers: Dark of the Moon",
-      "year": 2011,
-      "kinopoisk_id": 452899,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-13 00:21:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1269616.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Падение Ордена",
@@ -907,42 +935,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Что, если",
-      "title_en": "What/If",
-      "year": 2019,
-      "kinopoisk_id": 1187937,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "0a9cd0e19d926d8d6cf0ab9cb57758e2787b81a50764adf5eb76b544f2bcc477",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-05-25 12:01:13",
-      "update_date": "2019-05-25 12:18:51",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1187937.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

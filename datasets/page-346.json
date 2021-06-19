@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Трансформеры: Месть падших",
+      "title_en": "Transformers: Revenge of the Fallen",
+      "year": 2009,
+      "kinopoisk_id": 373391,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-15 03:15:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Трансформеры",
+      "title_en": "Transformers",
+      "year": 2007,
+      "kinopoisk_id": 81288,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-15 03:14:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Тор",
+      "title_en": "Thor",
+      "year": 2011,
+      "kinopoisk_id": 258941,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-15 03:13:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Темный рыцарь: Возрождение легенды",
+      "title_en": "The Dark Knight Rises",
+      "year": 2012,
+      "kinopoisk_id": 437410,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-15 03:12:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Так близко к горизонту",
       "title_en": "Dem Horizont so nah",
       "year": 2019,
@@ -209,56 +261,67 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Зови меня своим именем",
-      "title_en": "Call Me by Your Name",
+      "title_ru": "Лемони Сникет: 33 несчастья",
+      "title_en": "A Series of Unfortunate Events",
       "year": 2017,
-      "kinopoisk_id": 979148,
-      "type": "movie",
+      "kinopoisk_id": 930544,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "ec1e04bcf42193dcb53d0fb9c88289a704e759b8dad09a228c8e622f45dbb517",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-15 02:55:02",
+      "added_date": "2019-08-08 12:15:50",
+      "update_date": "2019-08-08 18:03:23",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Живая сталь",
-      "title_en": "Real Steel",
-      "year": 2011,
-      "kinopoisk_id": 88198,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-15 02:54:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Джуманджи: Зов джунглей",
-      "title_en": "Jumanji: Welcome to the Jungle",
-      "year": 2017,
-      "kinopoisk_id": 695609,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-15 02:53:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Двойной форсаж",
-      "title_en": "2 Fast 2 Furious",
-      "year": 2003,
-      "kinopoisk_id": 323,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-15 02:52:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/930544.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=136239",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
       "title_ru": "«У» значит убийцы",
@@ -1091,38 +1154,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Благие знамения",
-      "title_en": "Good Omens",
-      "year": 2019,
-      "kinopoisk_id": 585727,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "b1085e3e96340d3601261b9273a84f7bd0f6078fa7b7b1f8897a37364fadeee6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-24 20:02:39",
-      "update_date": "2019-07-24 20:03:46",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/585727.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

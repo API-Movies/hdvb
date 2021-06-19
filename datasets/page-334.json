@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Птицы без перьев",
+      "title_en": "Birds without Feathers",
+      "year": 2018,
+      "kinopoisk_id": 1098384,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-26 16:11:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Шоу собаки и пони",
+      "title_en": "A Dog &amp; Pony Show",
+      "year": 2018,
+      "kinopoisk_id": 866555,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-26 16:10:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Близняшки",
+      "title_en": "Ni une ni deux",
+      "year": 2019,
+      "kinopoisk_id": 1156433,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-26 01:09:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Призраки войны",
+      "title_en": "Ghosts of War",
+      "year": 2020,
+      "kinopoisk_id": 1039883,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-26 01:08:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Цветы зла",
       "title_en": "Aku no Hana",
       "year": 2019,
@@ -209,56 +261,133 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Шазам!",
-      "title_en": "Shazam!",
-      "year": 2019,
-      "kinopoisk_id": 840372,
-      "type": "movie",
+      "title_ru": "Игра престолов",
+      "title_en": "Game of Thrones",
+      "year": 2011,
+      "kinopoisk_id": 464963,
+      "world_art_id": null,
+      "translator": "Украинский",
+      "token": "3a781b295a5c0eaff4a167f6cb60b2f5549321fe01bec09ee2a1f89316bce9da",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-24 22:38:01",
+      "added_date": "2019-11-04 17:13:19",
+      "update_date": "2019-11-04 17:13:19",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Человек-паук: Возвращение домой",
-      "title_en": "Spider-Man: Homecoming",
-      "year": 2017,
-      "kinopoisk_id": 690593,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-24 22:37:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Холоп",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1183582,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-24 22:36:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Темный рыцарь",
-      "title_en": "The Dark Knight",
-      "year": 2008,
-      "kinopoisk_id": 111543,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-24 22:35:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 101,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/464963.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=141135",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 7,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Джек Райан",
@@ -1113,42 +1242,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Соболезную вашей утрате",
-      "title_en": "Sorry for Your Loss",
-      "year": 2018,
-      "kinopoisk_id": 1114060,
-      "world_art_id": null,
-      "translator": "IdeaFilm",
-      "token": "87955b1fc54bbae45a3e3883be573f00bcb0c80b937993afc10f3a0d28549724",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-31 12:13:30",
-      "update_date": "2019-10-31 12:13:30",
-      "block": false,
-      "translator_id": 35,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1114060.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

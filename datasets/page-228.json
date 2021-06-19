@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "3 дня на прощание",
+      "title_en": "3 Days to Go",
+      "year": 2019,
+      "kinopoisk_id": 1209682,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-12 14:47:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Черный, черный человек",
+      "title_en": "A Dark, Dark Man",
+      "year": 2019,
+      "kinopoisk_id": 1316549,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-12 14:45:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мгновения в космическом пространстве",
+      "title_en": "Moments in Spacetime",
+      "year": 2020,
+      "kinopoisk_id": 1291344,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-12 14:42:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Южный терминал",
+      "title_en": "South Terminal / Terminal Sud",
+      "year": 2019,
+      "kinopoisk_id": 1263645,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-12 14:41:05",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Уборщица",
       "title_en": "The Cleaning Lady",
       "year": 2018,
@@ -209,56 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Тёмная пропасть",
-      "title_en": "The Dark Divide",
+      "title_ru": "Мафия",
+      "title_en": "Mafia",
       "year": 2020,
-      "kinopoisk_id": 1150738,
-      "type": "movie",
+      "kinopoisk_id": 12531976,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "d147f982636109a084d1707e8a8c8970691db4cccd762d16c07abed9e5273510",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-11 14:20:01",
+      "added_date": "2020-08-01 12:16:45",
+      "update_date": "2020-08-08 16:35:32",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Автор, Звезда и Смотритель",
-      "title_en": "The Author, The Star, and The Keeper",
-      "year": 2020,
-      "kinopoisk_id": 1222817,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-11 14:18:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ещё сегодня",
-      "title_en": "Still Today",
-      "year": 2020,
-      "kinopoisk_id": 1262118,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-11 14:16:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мимесис Носферату",
-      "title_en": "Mimesis Nosferatu",
-      "year": 2018,
-      "kinopoisk_id": 1038002,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-11 14:15:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/12531976.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Каали",
@@ -1213,41 +1247,6 @@
             1,
             2,
             3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Давай знакомиться",
-      "title_en": "Hello Ladies",
-      "year": 2013,
-      "kinopoisk_id": 707006,
-      "world_art_id": null,
-      "translator": "Amedia",
-      "token": "0f45c50d33f90aa753d346438d8a1416910d6767825697ec4d576ded237f40cc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-07 02:47:55",
-      "update_date": "2020-08-07 02:55:43",
-      "block": false,
-      "translator_id": 7,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/707006.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
           ]
         }
       ]

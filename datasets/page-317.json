@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Подмена",
+      "title_en": "Takeover",
+      "year": 2020,
+      "kinopoisk_id": 1280998,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-12 02:54:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Охота",
+      "title_en": "The Hunt",
+      "year": 2020,
+      "kinopoisk_id": 1122129,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-11 22:13:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Пёрл",
+      "title_en": "The Rose / La rosa / Pearl",
+      "year": 2020,
+      "kinopoisk_id": 1379935,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-11 20:38:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Под давлением",
+      "title_en": "Pressure",
+      "year": 2020,
+      "kinopoisk_id": 486611,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-11 20:35:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Подонок",
       "title_en": "Gutterbug",
       "year": 2019,
@@ -209,56 +261,45 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Падение Лондона",
-      "title_en": "London Has Fallen",
-      "year": 2015,
-      "kinopoisk_id": 806977,
-      "type": "movie",
+      "title_ru": "Власть в ночном городе",
+      "title_en": "Power",
+      "year": 2014,
+      "kinopoisk_id": 818782,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "cd43da6ab82bb6481f00d02c5d9d705192cd6b5cf7e39f289a55d8fb22b1e217",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-11 06:16:02",
+      "added_date": "2020-02-09 19:39:59",
+      "update_date": "2020-02-09 19:39:59",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Няня",
-      "title_en": "The Turning",
-      "year": 2020,
-      "kinopoisk_id": 1111229,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-11 06:15:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Ночной клерк",
-      "title_en": "The Night Clerk",
-      "year": 2020,
-      "kinopoisk_id": 1148374,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-11 06:14:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Кома",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 933208,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-11 06:13:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "HDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/818782.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 6,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        }
+      ]
     },
     {
       "title_ru": "В постели",
@@ -979,38 +1020,6 @@
       "translator_id": 77,
       "quality": "WEB-DL",
       "poster": "https://st.kp.yandex.net/images/film_big/800962.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Убийство в заливе",
-      "title_en": "The Bay",
-      "year": 2019,
-      "kinopoisk_id": 1190317,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "cde5632050cb6551a878f63ca9d388f298f101c013839c585d4ddc1d14f077ab",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-03 21:54:43",
-      "update_date": "2020-02-03 21:54:43",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1190317.jpg",
       "trailer": "",
       "serial_episodes": [
         {

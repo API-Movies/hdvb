@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Сквозь слёзы я притворяюсь кошкой",
+      "title_en": "Nakitai Watashi wa Neko wo Kaburu",
+      "year": 2020,
+      "kinopoisk_id": 1338545,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-01 13:15:01",
+      "block": false,
+      "translator": "Flarrow Films",
+      "translator_id": 172,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Без жалости",
+      "title_en": "Without Remorse",
+      "year": 2021,
+      "kinopoisk_id": 252651,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-01 07:55:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Трубопровод",
+      "title_en": "Pipeline",
+      "year": 2021,
+      "kinopoisk_id": 1093189,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-01 07:54:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Перси",
+      "title_en": "Percy / Percy Vs Goliath",
+      "year": 2021,
+      "kinopoisk_id": 1190266,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-01 07:52:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Золотая рука",
       "title_en": "Golden Arm",
       "year": 2021,
@@ -209,56 +261,34 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "И настала ночь",
-      "title_en": "Night Has Come",
-      "year": 2019,
-      "kinopoisk_id": 1315190,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-29 23:00:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Не забывай дышать",
-      "title_en": "Ne pozabi dihati",
-      "year": 2019,
-      "kinopoisk_id": 1172657,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-29 22:59:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Страсть Хавьера",
-      "title_en": "La pasión de Javier",
-      "year": 2019,
-      "kinopoisk_id": 1296441,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-29 22:58:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "В мгновение ока",
-      "title_en": "De la noche a la mañana",
+      "title_ru": "Кто поймал букет невесты",
+      "title_en": "",
       "year": 2020,
-      "kinopoisk_id": 1347342,
-      "type": "movie",
+      "kinopoisk_id": 7890560,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "bb607f6be75ae1cc8b4e4447e476d13314975f64490bf0715e60246536ed672e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-29 22:57:01",
+      "added_date": "2021-03-19 18:40:04",
+      "update_date": "2021-03-22 22:06:07",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/7890560.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            1,
+            2,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Тайны следствия",
@@ -1640,36 +1670,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "В тихом омуте",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 45668051,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "ac15e1c27ec01d60e0a5b837edb6f9353ffb139fa8aedd23b68853078a370d20",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-20 20:34:58",
-      "update_date": "2021-03-20 20:37:41",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/45668051.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

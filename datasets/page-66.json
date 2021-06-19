@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Крик",
+      "title_en": "Scream",
+      "year": 1996,
+      "kinopoisk_id": 1807,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-16 14:35:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Кавалерия",
+      "title_en": "12 Strong",
+      "year": 2018,
+      "kinopoisk_id": 462849,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-16 14:34:01",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Большой вес имеет значение",
+      "title_en": "Weightier Matters",
+      "year": 2019,
+      "kinopoisk_id": 1194367,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-16 12:13:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Среди камней",
+      "title_en": "Us Among the Stones",
+      "year": 2019,
+      "kinopoisk_id": 1019770,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-16 12:12:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Сара Штейн: Шалом Берлин, Шалом Тель-Авив",
       "title_en": "Sara Stein: Shalom Berlin, Shalom Tel Aviv",
       "year": 2020,
@@ -209,56 +261,82 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "ЗОЖ",
-      "title_en": "Sweat",
-      "year": 2020,
-      "kinopoisk_id": 1387201,
-      "type": "movie",
+      "title_ru": "Сайнфелд",
+      "title_en": "Seinfeld",
+      "year": 1989,
+      "kinopoisk_id": 277627,
+      "world_art_id": null,
+      "translator": "Sony Turbo",
+      "token": "f814002d1729ac73bc52aa52c12dcc8c2a0c22b78bdda779b2ab33cc5cf09355",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-16 04:56:01",
+      "added_date": "2021-02-21 11:05:10",
+      "update_date": "2021-02-21 11:07:20",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Никто",
-      "title_en": "Nobody",
-      "year": 2021,
-      "kinopoisk_id": 1309596,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-16 04:55:05",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "100% Волк",
-      "title_en": "100% Wolf",
-      "year": 2020,
-      "kinopoisk_id": 1204003,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-16 04:54:01",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Шел четвертый год войны...",
-      "title_en": "",
-      "year": 1983,
-      "kinopoisk_id": 43782,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-15 23:25:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DLRip"
+      "translator_id": 64,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/277627.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 23,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Двойная ложь",
@@ -1051,40 +1129,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Интернат",
-      "title_en": "El Internado: Las Cumbres",
-      "year": 2021,
-      "kinopoisk_id": 1348831,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "08f96874bf5b4631e22d46fd32ad198e5b5c81d4df31d8635faa67279bcb6326",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-20 08:59:05",
-      "update_date": "2021-02-20 09:00:07",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1348831.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

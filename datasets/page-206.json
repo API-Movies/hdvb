@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Королева утреннего спокойствия",
+      "title_en": "Queen of the Morning Calm",
+      "year": 2020,
+      "kinopoisk_id": 1212900,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-06 15:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Луксор",
+      "title_en": "Luxor /  Louxor",
+      "year": 2020,
+      "kinopoisk_id": 1253521,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-06 15:04:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Фея-крёстная",
+      "title_en": "Godmothered",
+      "year": 2020,
+      "kinopoisk_id": 1346530,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-06 15:02:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Море деревьев",
+      "title_en": "The Sea of Trees",
+      "year": 2015,
+      "kinopoisk_id": 820035,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-06 10:58:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Напугай меня",
       "title_en": "Scare Me",
       "year": 2020,
@@ -209,56 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Бесплатный обед",
-      "title_en": "Free Lunch Express",
-      "year": 2020,
-      "kinopoisk_id": 1388811,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-05 18:38:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мускул",
-      "title_en": "Muscle",
+      "title_ru": "Дар",
+      "title_en": "Atiye",
       "year": 2019,
-      "kinopoisk_id": 1179013,
-      "type": "movie",
+      "kinopoisk_id": 1253036,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "566852afe3445490548860323010e6fa034b0084ca2112334c443c1b7b9d536b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-05 18:37:02",
+      "added_date": "2020-09-02 23:30:46",
+      "update_date": "2020-09-02 23:32:19",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Звук металла",
-      "title_en": "Sound of Metal",
-      "year": 2020,
-      "kinopoisk_id": 957883,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-05 18:36:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Уондер",
-      "title_en": "Wander",
-      "year": 2020,
-      "kinopoisk_id": 1235421,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-05 18:34:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 15,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1253036.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Затерянные в стране Оз",
@@ -1098,50 +1132,6 @@
       "serial_episodes": [
         {
           "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Переростки",
-      "title_en": "The Inbetweeners",
-      "year": 2008,
-      "kinopoisk_id": 414999,
-      "world_art_id": null,
-      "translator": "2x2",
-      "token": "82ae4ffbd161c9e716d1744fdd8fafd925fec6e99ced9e4b0a27c0941af4cc83",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-01 21:52:34",
-      "update_date": "2020-09-01 21:54:23",
-      "block": false,
-      "translator_id": 1,
-      "quality": "SATRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/414999.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
           "episodes_count": 6,
           "episodes": [
             1,

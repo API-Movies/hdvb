@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Как приручить дракона 2",
+      "title_en": "How to Train Your Dragon 2",
+      "year": 2014,
+      "kinopoisk_id": 512883,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-12 06:13:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Как приручить дракона",
+      "title_en": "How to Train Your Dragon",
+      "year": 2010,
+      "kinopoisk_id": 280172,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-12 06:12:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "История игрушек 4",
+      "title_en": "Toy Story 4",
+      "year": 2019,
+      "kinopoisk_id": 846824,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-12 06:11:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Ирландец",
+      "title_en": "The Irishman",
+      "year": 2019,
+      "kinopoisk_id": 462305,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-12 06:10:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Зелёная книга",
       "title_en": "Green Book",
       "year": 2018,
@@ -209,56 +261,43 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Алита: Боевой ангел",
-      "title_en": "Alita: Battle Angel",
-      "year": 2019,
-      "kinopoisk_id": 88173,
-      "type": "movie",
+      "title_ru": "Импровизация",
+      "title_en": "",
+      "year": 2016,
+      "kinopoisk_id": 1047767,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "698527d4405f419a53dcab31c0afc84d76da602ceef660d73ecd52a045057a10",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-12 04:45:01",
+      "added_date": "2018-11-28 14:14:33",
+      "update_date": "2018-11-28 21:03:11",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Академия вампиров",
-      "title_en": "Vampire Academy",
-      "year": 2014,
-      "kinopoisk_id": 535429,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-12 04:44:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "1+1",
-      "title_en": "Intouchables",
-      "year": 2011,
-      "kinopoisk_id": 535341,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-12 04:43:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Тройная граница",
-      "title_en": "Triple Frontier",
-      "year": 2019,
-      "kinopoisk_id": 470464,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-11 02:29:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1047767.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Где логика?",
@@ -981,33 +1020,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Всеамериканский",
-      "title_en": "All American",
-      "year": 2018,
-      "kinopoisk_id": 1117951,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "cd7156229cf2d9649a96046aa115c76c48a9d68891a65d37963bee36da7d432e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-10-15 12:39:28",
-      "update_date": "2018-10-15 12:39:28",
-      "block": false,
-      "translator_id": 48,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1117951.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 1,
-          "episodes": [
-            1
           ]
         }
       ]

@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Проклятие Рапунцель",
+      "title_en": "Rapunzels Fluch",
+      "year": 2020,
+      "kinopoisk_id": 1284152,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-24 01:21:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Блаженство",
+      "title_en": "Bliss",
+      "year": 2017,
+      "kinopoisk_id": 1043353,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-24 01:20:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Перед финалом",
+      "title_en": "Before the After",
+      "year": 2018,
+      "kinopoisk_id": 1084250,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-24 01:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "В кругах",
+      "title_en": "In Circles",
+      "year": 2016,
+      "kinopoisk_id": 806698,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-24 01:16:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Раскрываясь перед тобой",
       "title_en": "Letting You Know Me",
       "year": 2018,
@@ -209,56 +261,38 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Внуки для новичков",
-      "title_en": "Enkel für Anfänger",
-      "year": 2020,
-      "kinopoisk_id": 1263777,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-23 00:22:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Пенальти",
-      "title_en": "Penalty",
-      "year": 2019,
-      "kinopoisk_id": 1278191,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-23 00:20:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Тень отца",
-      "title_en": "A Sombra do Pai",
+      "title_ru": "Охотник",
+      "title_en": "Il cacciatore",
       "year": 2018,
-      "kinopoisk_id": 1076390,
-      "type": "movie",
+      "kinopoisk_id": 1142166,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "31dd98d2dd19b3f9db59759e5f26af8c2be8bc917613dabc30638148172e5467",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-23 00:19:01",
+      "added_date": "2020-03-30 19:13:05",
+      "update_date": "2020-03-30 19:13:05",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Посмотри на птиц",
-      "title_en": "Bozkir Kuslara Bak Kuslara",
-      "year": 2019,
-      "kinopoisk_id": 1191505,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-23 00:18:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1142166.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Прежде чем умрём",
@@ -1061,42 +1095,6 @@
             22,
             23,
             24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Звёздный путь: Пикар",
-      "title_en": "Star Trek: Picard",
-      "year": 2020,
-      "kinopoisk_id": 1178022,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "175f083c0fb0eb196aba6289e99551add1383e2ebfc5ffbdc42002771983fa83",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-26 20:15:16",
-      "update_date": "2020-03-26 20:15:16",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1178022.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

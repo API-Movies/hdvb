@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Виртуальный снайпер",
+      "title_en": "Virtual sniper",
+      "year": 2020,
+      "kinopoisk_id": 895050578,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-04 14:42:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Душа",
+      "title_en": "Ji hun",
+      "year": 2021,
+      "kinopoisk_id": 2003751,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-04 14:40:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Космический полёт",
+      "title_en": "Rymdresan",
+      "year": 2020,
+      "kinopoisk_id": 13078824,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-04 14:39:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Загадка Яана Нейманда",
+      "title_en": "Põrgu Jaan",
+      "year": 2020,
+      "kinopoisk_id": 1148572,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-04 14:37:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Встреча",
       "title_en": "Meeting",
       "year": 2020,
@@ -209,56 +261,37 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Никудышный Краут-рок",
-      "title_en": "Warmed-Over Krautrock",
-      "year": 2020,
-      "kinopoisk_id": 921271,
-      "type": "movie",
+      "title_ru": "Тёмные начала",
+      "title_en": "His Dark Materials",
+      "year": 2019,
+      "kinopoisk_id": 1159922,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "a58eb0f8b2fbae86e9587a9c2a3bb27163363d531249eb5c0c1ee91e73966328",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-03 21:08:02",
+      "added_date": "2020-11-09 11:57:20",
+      "update_date": "2020-12-21 08:18:01",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Софи Джонс",
-      "title_en": "Sophie Jones",
-      "year": 2020,
-      "kinopoisk_id": 1166458,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-03 21:07:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Лили рядом",
-      "title_en": "Lily Is Here",
-      "year": 2021,
-      "kinopoisk_id": 1166295,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-03 21:05:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Любовь на карантине",
-      "title_en": "Finding Love in Quarantine",
-      "year": 2021,
-      "kinopoisk_id": 1389187,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-03 21:04:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1159922.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Критический возраст",
@@ -1501,33 +1534,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Гранд тур",
-      "title_en": "The Grand Tour",
-      "year": 2016,
-      "kinopoisk_id": 982730,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "b8da337543ee8b7ec4a7f0e37d75f5c6cd2db3b2d137951c36baf75b9bac13e4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-19 11:07:52",
-      "update_date": "2020-12-19 11:08:34",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/982730.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 1,
-          "episodes": [
-            2
           ]
         }
       ]

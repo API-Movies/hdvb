@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Студент года 2",
+      "title_en": "Student of the Year 2",
+      "year": 2019,
+      "kinopoisk_id": 1048248,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-11 10:14:02",
+      "block": false,
+      "translator": "SDI Media",
+      "translator_id": 60,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Возвращение домой",
+      "title_en": "Coming Home",
+      "year": 2017,
+      "kinopoisk_id": 985266,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-10 20:02:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Торсон и Танга (Моя очаровательная дикарка)",
+      "title_en": "Torzón y Tanga (Mi adorable salvaje)",
+      "year": 2017,
+      "kinopoisk_id": 1152119,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-10 20:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ночная смена",
+      "title_en": "The Graveyard Gang",
+      "year": 2018,
+      "kinopoisk_id": 4413440,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-10 19:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Готика Теннесси",
       "title_en": "Tennessee Gothic",
       "year": 2019,
@@ -209,56 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Любовница-убийца моего мужа",
-      "title_en": "My Husband's Killer Girlfriend / Just My Husband's Killer Girlfriend",
-      "year": 2021,
-      "kinopoisk_id": 14501740,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-09 23:30:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Почтальон",
-      "title_en": "Cartero / Postman",
+      "title_ru": "Коронер",
+      "title_en": "Coroner",
       "year": 2019,
-      "kinopoisk_id": 1323046,
-      "type": "movie",
+      "kinopoisk_id": 1190069,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "e81326f97f6d2a3d1f1cc705cc9437159353edeaf843cad93101b6e037ff5c6e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-09 23:27:01",
+      "added_date": "2021-02-04 11:42:12",
+      "update_date": "2021-04-08 12:50:21",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Рецепт обольщения",
-      "title_en": "A Recipe for Seduction",
-      "year": 2020,
-      "kinopoisk_id": 4297137,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-09 23:26:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Рождественский обмен",
-      "title_en": "A Christmas Exchange",
-      "year": 2020,
-      "kinopoisk_id": 1409139,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-09 23:22:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1190069.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Шальные деньги",
@@ -2050,40 +2086,6 @@
       "translator_id": 82,
       "quality": "WEB-DL",
       "poster": "https://st.kp.yandex.net/images/film_big/1303839.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "DOTA: Кровь дракона",
-      "title_en": "Dota: Dragon's Blood",
-      "year": 2021,
-      "kinopoisk_id": 4364733,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "52cd41cbbbb7be751d3d5193ed6857e4eeb31167c2f1fcdcf6ff00e51c3d0382",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-05 19:16:46",
-      "update_date": "2021-04-05 19:17:37",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4364733.jpg",
       "trailer": "",
       "serial_episodes": [
         {

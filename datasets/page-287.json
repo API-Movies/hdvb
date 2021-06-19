@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Пуффы",
+      "title_en": "Puffs: Filmed Live Off Broadway",
+      "year": 2018,
+      "kinopoisk_id": 1264031,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-11 08:06:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Полные карманы",
+      "title_en": "Pocket Full of Game",
+      "year": 2020,
+      "kinopoisk_id": 1355082,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-11 08:04:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Супер пожарные",
+      "title_en": "Super Bomberos",
+      "year": 2019,
+      "kinopoisk_id": 1236369,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-11 08:03:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пустые дни",
+      "title_en": "Dias Vazios / Empty Days",
+      "year": 2018,
+      "kinopoisk_id": 1186059,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-11 08:02:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Барбара",
       "title_en": "Barbara Reimagined",
       "year": 2019,
@@ -209,56 +261,36 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Беспощадная риелторша / Риелтор",
-      "title_en": "Ruthless Realtor / The Realtor",
-      "year": 2020,
-      "kinopoisk_id": 1331316,
-      "type": "movie",
+      "title_ru": "Исповедь",
+      "title_en": "A Confession",
+      "year": 2019,
+      "kinopoisk_id": 1200704,
+      "world_art_id": null,
+      "translator": "True Dubbing Studio",
+      "token": "36e4c98965c7a24bc91a0e629652aede413e5073074cd9b5442a8ef50b296713",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-10 04:17:01",
+      "added_date": "2020-05-12 23:05:59",
+      "update_date": "2020-05-12 23:05:59",
       "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Секреты в лесу / Вне зоны доступа",
-      "title_en": "Secrets In The Woods / Off the Grid",
-      "year": 2020,
-      "kinopoisk_id": 1368785,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-10 04:15:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Cекреты женского общества",
-      "title_en": "Sorority Secrets",
-      "year": 2020,
-      "kinopoisk_id": 1346466,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-10 04:14:04",
-      "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Милашки",
-      "title_en": "Mignonnes",
-      "year": 2020,
-      "kinopoisk_id": 1211462,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-10 04:13:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "WEB-DL"
+      "translator_id": 134,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1200704.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Рапунцель: Новая история",
@@ -1066,64 +1098,6 @@
         },
         {
           "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Грейс и Фрэнки",
-      "title_en": "Grace and Frankie",
-      "year": 2015,
-      "kinopoisk_id": 891629,
-      "world_art_id": null,
-      "translator": "ViruseProject",
-      "token": "c2e8063e67ae4c9e53e20cce5f5635764579b2410d0a4d33f4d6535023809953",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-11 23:37:18",
-      "update_date": "2020-05-11 23:37:18",
-      "block": false,
-      "translator_id": 72,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/891629.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
           "episodes_count": 13,
           "episodes": [
             1,

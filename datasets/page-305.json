@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Кое-что неизменно",
+      "title_en": "Irgendwas bleibt immer",
+      "year": 2019,
+      "kinopoisk_id": 1288910,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-25 17:12:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Энтони",
+      "title_en": "Anthony",
+      "year": 2020,
+      "kinopoisk_id": 1396739,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-25 17:07:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Анни - жизнь продолжается",
+      "title_en": "Annie - kopfüber ins Leben",
+      "year": 2020,
+      "kinopoisk_id": 1347499,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-25 17:05:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Встреча выпускников 2: Свадьба",
+      "title_en": "Die Hochzeit / Klassentreffen - Die Hochzeit",
+      "year": 2020,
+      "kinopoisk_id": 1289415,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-25 17:04:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Смертельная зависть",
       "title_en": "Dead Envy",
       "year": 2018,
@@ -209,56 +261,41 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Проклятие Рапунцель",
-      "title_en": "Rapunzels Fluch",
+      "title_ru": "Заступники",
+      "title_en": "",
       "year": 2020,
-      "kinopoisk_id": 1284152,
-      "type": "movie",
+      "kinopoisk_id": 1108899,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "72ea52ed398a90e88df4fb9a9b1eb88484b84fc5605745f56a686286e55a1603",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-24 01:21:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Блаженство",
-      "title_en": "Bliss",
-      "year": 2017,
-      "kinopoisk_id": 1043353,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-24 01:20:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Перед финалом",
-      "title_en": "Before the After",
-      "year": 2018,
-      "kinopoisk_id": 1084250,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-24 01:19:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "В кругах",
-      "title_en": "In Circles",
-      "year": 2016,
-      "kinopoisk_id": 806698,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-24 01:16:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "added_date": "2020-04-03 03:17:20",
+      "update_date": "2020-04-03 03:17:20",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1108899.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Патриот",
@@ -1046,40 +1083,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Охотник",
-      "title_en": "Il cacciatore",
-      "year": 2018,
-      "kinopoisk_id": 1142166,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "31dd98d2dd19b3f9db59759e5f26af8c2be8bc917613dabc30638148172e5467",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-30 19:13:05",
-      "update_date": "2020-03-30 19:13:05",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1142166.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

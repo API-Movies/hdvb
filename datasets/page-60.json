@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "",
+      "title_en": "Ein Sommer auf Elba",
+      "year": 2021,
+      "kinopoisk_id": 4292814,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-21 23:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ток-ку вернулся",
+      "title_en": "Deokgu ijeu baek",
+      "year": 2021,
+      "kinopoisk_id": 4336727,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-21 22:59:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "На площадку",
+      "title_en": "Calltime",
+      "year": 2021,
+      "kinopoisk_id": 1382620,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-21 22:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Обмен телами",
+      "title_en": "Body Swap",
+      "year": 2019,
+      "kinopoisk_id": 1140511,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-21 22:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Случайность",
       "title_en": "Artless",
       "year": 2019,
@@ -209,56 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Триггер",
-      "title_en": "86 Melrose Avenue",
-      "year": 2020,
-      "kinopoisk_id": 1300241,
-      "type": "movie",
+      "title_ru": "Происхождение",
+      "title_en": "Origin",
+      "year": 2018,
+      "kinopoisk_id": 1158100,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "2ba700e674c408dcf77f6d42017212f4c1c9d0f5e19302a219907716eeea8518",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-21 12:24:01",
+      "added_date": "2021-03-02 20:43:15",
+      "update_date": "2021-03-02 20:44:18",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Пара из будущего",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1405926,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-21 09:43:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Маша",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1162783,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-21 09:42:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Наркопицца",
-      "title_en": "The Pizza Joint",
-      "year": 2021,
-      "kinopoisk_id": 913193,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-20 23:33:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1158100.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Мозаика",
@@ -1123,38 +1159,6 @@
       "serial_episodes": [
         {
           "season_number": 4,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "По дороге с Норманом Ридусом",
-      "title_en": "Ride with Norman Reedus",
-      "year": 2016,
-      "kinopoisk_id": 986620,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "1648b76585349b54af768119514dec94fdd09db05d804eae2acbc22ef6685cb7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-01 17:30:39",
-      "update_date": "2021-03-01 17:31:39",
-      "block": false,
-      "translator_id": 48,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/986620.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
           "episodes_count": 6,
           "episodes": [
             1,

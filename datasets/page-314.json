@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "У кровати",
+      "title_en": "Around the Bed",
+      "year": 2020,
+      "kinopoisk_id": 45654634,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-14 23:57:05",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Лётчица Гунджан Саксена",
+      "title_en": "Gunjan Saxena: The Kargil Girl",
+      "year": 2020,
+      "kinopoisk_id": 1264749,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-14 23:55:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Жаклин и Джилли",
+      "title_en": "Jacqueline and Jilly",
+      "year": 2019,
+      "kinopoisk_id": 1236462,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-14 23:54:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Проклятие Вальбурга",
+      "title_en": "The Curse of Valburga",
+      "year": 2020,
+      "kinopoisk_id": 1299507,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-14 23:53:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Сквозь тёмное зеркало",
       "title_en": "Through a Dark Mirror",
       "year": 2020,
@@ -209,56 +261,33 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Явление",
-      "title_en": "The Happening",
-      "year": 2008,
-      "kinopoisk_id": 279600,
-      "type": "movie",
+      "title_ru": "Война миров",
+      "title_en": "The War of the Worlds",
+      "year": 2019,
+      "kinopoisk_id": 1135437,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "e93a8b06a6b5ae2b14069e5d7acf0de905126e878b60d5de946cd8c778e0cebb",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-14 10:31:01",
+      "added_date": "2020-02-20 19:28:47",
+      "update_date": "2020-02-20 19:28:47",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Хищные птицы: Потрясающая история Харли Квинн",
-      "title_en": "Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn",
-      "year": 2020,
-      "kinopoisk_id": 1111004,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-14 10:30:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Форсаж 6",
-      "title_en": "Furious 6",
-      "year": 2013,
-      "kinopoisk_id": 594736,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-14 10:29:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Сумерки",
-      "title_en": "Twilight",
-      "year": 2008,
-      "kinopoisk_id": 401177,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-14 10:28:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1135437.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Мыслить как преступник",
@@ -914,45 +943,6 @@
             12,
             13,
             14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Американская семейка",
-      "title_en": "Modern Family",
-      "year": 2009,
-      "kinopoisk_id": 472329,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "fbee01831fe33fffef7dc19d969c890e28c2c5f6f61c305ef6a622f89d818edf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-16 21:45:52",
-      "update_date": "2020-02-16 21:45:52",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/472329.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=106625",
-      "serial_episodes": [
-        {
-          "season_number": 11,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

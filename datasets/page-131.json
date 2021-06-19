@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Вкуснятина",
+      "title_en": "Yummy",
+      "year": 2020,
+      "kinopoisk_id": 1309571,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-18 07:20:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Дикая парочка",
+      "title_en": "Wild Mountain Thyme",
+      "year": 2020,
+      "kinopoisk_id": 1262046,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-18 07:18:02",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Солнечные дети",
+      "title_en": "Khorshid",
+      "year": 2020,
+      "kinopoisk_id": 1346992,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-18 07:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Рыбка-кузовок",
+      "title_en": "Trunkfish",
+      "year": 2021,
+      "kinopoisk_id": 1166262,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-17 14:15:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Путь",
       "title_en": "The Process",
       "year": 2020,
@@ -209,56 +261,43 @@
       "quality": "HDTV"
     },
     {
-      "title_ru": "Небо для птиц",
-      "title_en": "Sky of birds",
-      "year": 2021,
-      "kinopoisk_id": 56756795,
-      "type": "movie",
+      "title_ru": "В надежде на спасение",
+      "title_en": "Saving Hope",
+      "year": 2012,
+      "kinopoisk_id": 664638,
+      "world_art_id": null,
+      "translator": "Novamedia",
+      "token": "7b656ed16410e8d12ff91fb9d7f5f6ed05baad127d1c83b37fcbf1ff09018ccb",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-16 18:09:01",
+      "added_date": "2020-11-30 21:00:02",
+      "update_date": "2020-11-30 21:03:09",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Меняющий лица: пробуждение от кошмара",
-      "title_en": "Face changer: Awakening from a nightmare",
-      "year": 2020,
-      "kinopoisk_id": 89658874,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 18:07:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Хило 2",
-      "title_en": "Hilo 2",
-      "year": 2021,
-      "kinopoisk_id": 4308872,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 18:06:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Газлайтинг",
-      "title_en": "Gaslighting",
-      "year": 2021,
-      "kinopoisk_id": 13924976,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 18:05:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 51,
+      "quality": "WEB-DLRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/664638.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Кузей Гюней",
@@ -1049,59 +1088,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Доминион",
-      "title_en": "Dominion",
-      "year": 2014,
-      "kinopoisk_id": 784289,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "d318a5e85f0e49b62793fca98b833bbfb1e631119b07d310955bd01bbf00d87c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-29 17:29:40",
-      "update_date": "2020-11-29 17:37:15",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/784289.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

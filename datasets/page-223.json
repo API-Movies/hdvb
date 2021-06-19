@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Страна грёз",
+      "title_en": "Dreamland",
+      "year": 2019,
+      "kinopoisk_id": 1076555,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-18 18:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Рука помощи",
+      "title_en": "One Little Finger",
+      "year": 2019,
+      "kinopoisk_id": 978181,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-18 18:23:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Проклятый дом 4",
+      "title_en": "Playhouse",
+      "year": 2020,
+      "kinopoisk_id": 1223966,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-18 18:22:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сельский Оракул",
+      "title_en": "Rustic Oracle",
+      "year": 2020,
+      "kinopoisk_id": 1143736,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-18 18:20:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Прощание со Сталиным",
       "title_en": "State Funeral",
       "year": 2020,
@@ -209,56 +261,36 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Во имя земли",
-      "title_en": "In the Name of the Land / Au nom de la terre / Nel nome della terra",
-      "year": 2019,
-      "kinopoisk_id": 1280734,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-16 23:50:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Гадюшник",
-      "title_en": "Shithouse",
+      "title_ru": "Маленькие пташки",
+      "title_en": "Little Birds",
       "year": 2020,
-      "kinopoisk_id": 1341631,
-      "type": "movie",
+      "kinopoisk_id": 1272748,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "7b8e5de4f3c006c362e05cc0e7fbc760d004e11f04ebed6c35923d8e2bc0519f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-16 18:49:02",
+      "added_date": "2020-08-05 09:06:53",
+      "update_date": "2020-08-13 11:35:40",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Холостяцкий клуб",
-      "title_en": "Divorce Club",
-      "year": 2020,
-      "kinopoisk_id": 1210184,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-16 18:48:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Тонка линия",
-      "title_en": "The Thin Line",
-      "year": 2019,
-      "kinopoisk_id": 773078,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-16 18:45:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1272748.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Инес души моей",
@@ -1040,37 +1072,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "BBC: Чудеса Солнечной системы",
-      "title_en": "Wonders of the Solar System",
-      "year": 2010,
-      "kinopoisk_id": 573738,
-      "world_art_id": null,
-      "translator": "одноголосый закадровый",
-      "token": "c98415d9bf400475a6750401a40e4556ae567bd1e41fe16e7a298e74a2cca9e6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-12 09:15:30",
-      "update_date": "2020-08-12 09:16:21",
-      "block": false,
-      "translator_id": 93,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/573738.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
           ]
         }
       ]

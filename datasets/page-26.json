@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Я сумасшедший",
+      "title_en": "Em La Cua Em",
+      "year": 2021,
+      "kinopoisk_id": 13830964,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-24 23:09:01",
+      "block": false,
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Американский Барсук",
+      "title_en": "American Badger",
+      "year": 2021,
+      "kinopoisk_id": 1394261,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-24 23:07:01",
+      "block": false,
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "15 фактов, которые вы не знали о бигфуте",
+      "title_en": "The VICE Guide to Bigfoot",
+      "year": 2021,
+      "kinopoisk_id": 1344166,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-24 23:06:01",
+      "block": false,
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Убийцы с коробкой игрушек",
+      "title_en": "Toy Box Killers",
+      "year": 2021,
+      "kinopoisk_id": 1221288,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-24 21:17:01",
+      "block": false,
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Зубная фея 3",
       "title_en": "Toothfairy 3 / Tooth Fairy: The Last Extraction",
       "year": 2021,
@@ -209,56 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Муна",
-      "title_en": "Muna",
+      "title_ru": "Любовь. Смерть. Роботы",
+      "title_en": "Love, Death &amp; Robots",
       "year": 2019,
-      "kinopoisk_id": 1265018,
-      "type": "movie",
+      "kinopoisk_id": 1228254,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "212a7c2bd0c887d5091e9e2961d2bb351dcd6983daeca047650b447a687b29f1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-23 11:33:01",
+      "added_date": "2021-05-15 10:56:42",
+      "update_date": "2021-05-15 10:58:30",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Руки за голову",
-      "title_en": "Mão na Cabeça",
-      "year": 2019,
-      "kinopoisk_id": 1282009,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-23 11:32:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Город кулаков",
-      "title_en": "Knuckle City",
-      "year": 2019,
-      "kinopoisk_id": 1167390,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-23 11:31:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Жизнь",
-      "title_en": "Jiyan",
-      "year": 2019,
-      "kinopoisk_id": 1300999,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-23 11:30:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1228254.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Преследуемые призраками",
@@ -1317,42 +1351,6 @@
             10
           ]
         },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Майянцы",
-      "title_en": "Mayans M.C.",
-      "year": 2018,
-      "kinopoisk_id": 1008307,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "d7fb0fc70f2da89d4e3d3653ed2df0c9f4258063d8bde23455f703e4810bd7e2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-17 21:46:47",
-      "update_date": "2021-05-13 04:28:13",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1008307.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=151771",
-      "serial_episodes": [
         {
           "season_number": 3,
           "episodes_count": 10,

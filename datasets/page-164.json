@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Неоткрытая страна",
+      "title_en": "The Undiscovered Country",
+      "year": 2019,
+      "kinopoisk_id": 1015962,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-18 19:56:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Макате должна продать",
+      "title_en": "Makate Must Sell",
+      "year": 2020,
+      "kinopoisk_id": 10332008,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-18 19:55:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Лихорадочные сны",
+      "title_en": "Fever Dreams Movie",
+      "year": 2019,
+      "kinopoisk_id": 1319520,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-18 19:54:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Наказание",
+      "title_en": "Probable Cause / Detention",
+      "year": 2020,
+      "kinopoisk_id": 1298853,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-18 19:52:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Этот безумный мир",
       "title_en": "A tor bella monaca non piove mai",
       "year": 2019,
@@ -209,56 +261,42 @@
       "quality": "WEB-DLRip"
     },
     {
-      "title_ru": "Очень русские друзья",
-      "title_en": "Ziemlich russische Freunde",
-      "year": 2020,
-      "kinopoisk_id": 2000010,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-16 23:51:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Вакуум",
-      "title_en": "Vakuum",
+      "title_ru": "Город, в котором меня нет",
+      "title_en": "Boku dake ga inai machi",
       "year": 2017,
-      "kinopoisk_id": 1034603,
-      "type": "movie",
+      "kinopoisk_id": 1071385,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "9b11a82163c0f8ed623c5212614a58d108776b3fd1e1af60eef5addcdbc958d7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-16 23:48:01",
+      "added_date": "2020-10-22 01:23:41",
+      "update_date": "2020-10-22 01:26:56",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сайдлинг Хилл",
-      "title_en": "The Sideling Hill",
-      "year": 2020,
-      "kinopoisk_id": 1061257,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-16 23:43:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "",
-      "title_en": "Scappo a casa",
-      "year": 2020,
-      "kinopoisk_id": 1191854,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-16 23:42:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 15,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1071385.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Железный лес",
@@ -1031,38 +1069,6 @@
         },
         {
           "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Третий день",
-      "title_en": "The Third Day",
-      "year": 2020,
-      "kinopoisk_id": 1273699,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "cac648ba2ea4f1942b2b21eb1a7314e46d5aaf27cfe417303b4ada760e365a71",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-16 08:27:13",
-      "update_date": "2020-10-21 09:07:44",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1273699.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 6,
           "episodes": [
             1,

@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Кислород",
+      "title_en": "Oxygène",
+      "year": 2021,
+      "kinopoisk_id": 1053302,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-17 13:11:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Замыкание",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1162915,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-17 13:01:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Рисунки дождем",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 1046909,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-17 09:30:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Разборки",
+      "title_en": "Rumble",
+      "year": 2018,
+      "kinopoisk_id": 856503,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-17 09:29:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Пила: Спираль",
       "title_en": "Spiral: From the Book of Saw",
       "year": 2021,
@@ -209,56 +261,34 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Хранители времени: Сокровища Пиратской бухты",
-      "title_en": "Timecrafters: The Treasure of Pirate's Cove",
+      "title_ru": "За все заплачено",
+      "title_en": "",
       "year": 2021,
-      "kinopoisk_id": 826916,
-      "type": "movie",
+      "kinopoisk_id": 4395226,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "82ae2bc662af25f40cbaf2244c09e292cd0413fa721766c0bc73a6bf1722bf6a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-16 06:39:01",
+      "added_date": "2021-04-25 12:23:44",
+      "update_date": "2021-04-25 12:29:59",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Страшный дом",
-      "title_en": "Das schaurige Haus",
-      "year": 2020,
-      "kinopoisk_id": 1239981,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-16 06:38:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Северный Голливуд",
-      "title_en": "North Hollywood",
-      "year": 2021,
-      "kinopoisk_id": 1315984,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-16 06:36:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Восток",
-      "title_en": "De Oost",
-      "year": 2021,
-      "kinopoisk_id": 1244537,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-16 06:35:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4395226.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Некрасивая",
@@ -1074,50 +1104,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Хадсон и Рекс",
-      "title_en": "Hudson &amp; Rex",
-      "year": 2019,
-      "kinopoisk_id": 1200318,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "1f0f20e91a9e2059eafacf870e46ae0d8dac9a47c92571a31436287485d90fb9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-08 09:24:30",
-      "update_date": "2021-04-23 08:28:03",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1200318.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            14,
-            15,
-            15,
-            16
           ]
         }
       ]

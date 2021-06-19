@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Ночь Возмездия",
+      "title_en": "Nemesis",
+      "year": 2019,
+      "kinopoisk_id": 1248747,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-06 15:10:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Ночной конвой",
+      "title_en": "Police",
+      "year": 2020,
+      "kinopoisk_id": 1245632,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-06 13:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Диттэ и Луиза",
+      "title_en": "Ditte &amp; Louise",
+      "year": 2018,
+      "kinopoisk_id": 1175862,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-06 13:45:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Аналитический паралич",
+      "title_en": "Analysis Paralysis",
+      "year": 2018,
+      "kinopoisk_id": 1130521,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-06 13:44:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Куда ты, туда и я",
       "title_en": "J'irai où tu iras / I'll Go Where You Go",
       "year": 2019,
@@ -209,56 +261,42 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Притворись моим женихом",
-      "title_en": "Narzeczony na niby",
-      "year": 2018,
-      "kinopoisk_id": 1096422,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-05 21:04:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Богоматерь Нила",
-      "title_en": "Notre-Dame du Nil",
-      "year": 2019,
-      "kinopoisk_id": 1232333,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-05 21:03:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Обмен",
-      "title_en": "Switched",
+      "title_ru": "Акушерка",
+      "title_en": "",
       "year": 2020,
-      "kinopoisk_id": 1162497,
-      "type": "movie",
+      "kinopoisk_id": 78566453,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "388270a2518ce338666ce191b00f578c6fba2d157353a00118b8d879261fad1b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-05 21:02:02",
+      "added_date": "2020-05-07 02:06:09",
+      "update_date": "2020-05-07 02:06:09",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мулан",
-      "title_en": "Mulan",
-      "year": 2020,
-      "kinopoisk_id": 918722,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-05 21:01:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/78566453.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Доктор Хэрроу",
@@ -1219,36 +1257,6 @@
       "translator_id": 92,
       "quality": "WEB-DL",
       "poster": "https://st.kp.yandex.net/images/film_big/776427.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чужие дети",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 4556763,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "0fb530e5fc3ea9f859b4718b476f849e6f7b75c73b21081b6ede28a944b7ad48",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-04 17:36:40",
-      "update_date": "2020-05-04 17:36:40",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4556763.jpg",
       "trailer": "",
       "serial_episodes": [
         {

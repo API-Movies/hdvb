@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Корпорация &quot;Пекло&quot;",
+      "title_en": "Brimstone Incorporated",
+      "year": 2021,
+      "kinopoisk_id": 1442510,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-07 20:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кровавый дух",
+      "title_en": "Blood Spirit",
+      "year": 2020,
+      "kinopoisk_id": 1235233,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-07 19:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Плохой Бен: Пандемия",
+      "title_en": "Bad Ben: Pandemic",
+      "year": 2020,
+      "kinopoisk_id": 1412951,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-07 19:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Экстремо",
+      "title_en": "Xtremo",
+      "year": 2021,
+      "kinopoisk_id": 1344030,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-07 19:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Предостережение",
       "title_en": "Caveat",
       "year": 2020,
@@ -209,56 +261,79 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Собака на сене",
-      "title_en": "",
-      "year": 1977,
-      "kinopoisk_id": 77206,
-      "type": "movie",
+      "title_ru": "Бойтесь ходячих мертвецов",
+      "title_en": "Fear the Walking Dead",
+      "year": 2015,
+      "kinopoisk_id": 846892,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "e015fb7582bfe2da6656d08cbee493971f3b8796d5a6a0e6c053ce08d40a5f60",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-06 11:49:01",
+      "added_date": "2020-10-11 16:56:13",
+      "update_date": "2021-06-07 22:15:51",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/846892.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=122984",
+      "serial_episodes": [
+        {
+          "season_number": 6,
+          "episodes_count": 17,
+          "episodes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Комета",
-      "title_en": "",
-      "year": 1983,
-      "kinopoisk_id": 44875,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-06 11:45:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "DVDRip"
-    },
-    {
-      "title_ru": "",
-      "title_en": "Baba Yega: The Movie",
-      "year": 2018,
-      "kinopoisk_id": 1138687,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-06 00:07:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Путешествие с семьей Кандасами",
-      "title_en": "Trippin' with the Kandasamys",
+      "title_ru": "Пакт",
+      "title_en": "The Pact",
       "year": 2021,
-      "kinopoisk_id": 4467561,
-      "type": "movie",
+      "kinopoisk_id": 1415366,
+      "world_art_id": null,
+      "translator": "Novamedia",
+      "token": "e0a33a5d204c40416202250f121c5cb3bbfee906c425bac8f30272e201cdd621",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-06 00:05:01",
+      "added_date": "2021-05-20 21:41:59",
+      "update_date": "2021-06-07 21:37:31",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 51,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1415366.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Одно лето и вся жизнь",
@@ -1217,74 +1292,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Макс Ангер",
-      "title_en": "Max Anger - With One Eye Open",
-      "year": 2021,
-      "kinopoisk_id": 4458257,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "b699516a4112006437c5a825d15d4e3179eda9dfc6f013ecd5190014fe1bd301",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-06-06 11:13:33",
-      "update_date": "2021-06-06 13:52:59",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4458257.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Невидимка Зеро",
-      "title_en": "Zero",
-      "year": 2021,
-      "kinopoisk_id": 1450147,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "39eef316130b7af4c18c89e11aaef4f7aa0a24bcc248697d5c16939ef4861b61",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-06-06 11:43:16",
-      "update_date": "2021-06-06 11:43:41",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1450147.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

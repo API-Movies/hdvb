@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Чудо святой Анны",
+      "title_en": "Miracle at St. Anna",
+      "year": 2008,
+      "kinopoisk_id": 385236,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 21:08:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Один в темноте 2",
+      "title_en": "Alone in the Dark II",
+      "year": 2008,
+      "kinopoisk_id": 273553,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 21:07:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Танго Чарли",
+      "title_en": "Tango Charlie",
+      "year": 2005,
+      "kinopoisk_id": 90877,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 21:06:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Герои Энвелла: Выйти из игры",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1219260,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 19:19:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Под твоей кроватью",
       "title_en": "Under Your Bed / Anda yua beddo",
       "year": 2019,
@@ -209,56 +261,36 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "9 раз Лейла",
-      "title_en": "9 Kere Leyla",
-      "year": 2020,
-      "kinopoisk_id": 1347960,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-11 00:30:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Пусть говорят",
-      "title_en": "Let Them All Talk",
-      "year": 2020,
-      "kinopoisk_id": 1293172,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-10 22:03:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Декретный отрыв",
-      "title_en": "Alles is zoals het zou moeten zijn",
-      "year": 2020,
-      "kinopoisk_id": 1229272,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-10 20:28:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Стендап по дружбе",
-      "title_en": "Standing Up for Sunny",
+      "title_ru": "Цветение",
+      "title_en": "Bloom",
       "year": 2019,
-      "kinopoisk_id": 799742,
-      "type": "movie",
+      "kinopoisk_id": 1189480,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "78cc9e6d1b9bd86e254107cd2b7ca2b1a1dc3de58bb17385099ebfd17fd58574",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-10 20:27:02",
+      "added_date": "2020-09-08 19:31:20",
+      "update_date": "2020-09-08 19:32:32",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 15,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1189480.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Цветение",
@@ -1065,35 +1097,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Плотина",
-      "title_en": "Baraj",
-      "year": 2020,
-      "kinopoisk_id": 1341038,
-      "world_art_id": null,
-      "translator": "двухголосый закадровый",
-      "token": "cd04f60eb314c1e4d126acdd95d293ebc2db7b63f2c310642b86315419d1dd08",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-07 20:26:49",
-      "update_date": "2020-09-07 20:27:36",
-      "block": false,
-      "translator_id": 81,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1341038.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
           ]
         }
       ]

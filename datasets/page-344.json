@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Опасная связь",
+      "title_en": "Fatal Affair",
+      "year": 2020,
+      "kinopoisk_id": 1309709,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-16 21:22:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Неуклюжая",
+      "title_en": "La Maladroite",
+      "year": 2019,
+      "kinopoisk_id": 1323080,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-16 15:08:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTVRip"
+    },
+    {
+      "title_ru": "Донор",
+      "title_en": "Donor",
+      "year": 2020,
+      "kinopoisk_id": 1195947,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-16 15:07:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Место",
+      "title_en": "Accommodations",
+      "year": 2020,
+      "kinopoisk_id": 1035956,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-16 15:06:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Всего одна минута",
       "title_en": "Appena un minuto",
       "year": 2019,
@@ -209,56 +261,43 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Клементин",
-      "title_en": "Clementine",
-      "year": 2020,
-      "kinopoisk_id": 1113780,
-      "type": "movie",
+      "title_ru": "Джессика Джонс",
+      "title_en": "Jessica Jones",
+      "year": 2015,
+      "kinopoisk_id": 817508,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "3cd2f9bb7be882439902b0ec5cbb99df34f44c26a8f1c320b92adadefcb2de76",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-15 21:58:01",
+      "added_date": "2019-08-22 17:03:33",
+      "update_date": "2019-08-22 17:20:12",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Понимание",
-      "title_en": "Getting It",
-      "year": 2020,
-      "kinopoisk_id": 1196394,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-15 21:56:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Еноты-убийцы 2: Мрачное рождество во мраке",
-      "title_en": "Killer Raccoons 2: Dark Christmas in the Dark",
-      "year": 2020,
-      "kinopoisk_id": 1143007,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-15 21:54:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дикая жизнь в пригороде",
-      "title_en": "Suburban Wildlife",
-      "year": 2019,
-      "kinopoisk_id": 1092755,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-15 21:53:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 15,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/817508.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=128771",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Вероника Марс",
@@ -916,39 +955,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чернобыль",
-      "title_en": "Chernobyl",
-      "year": 2019,
-      "kinopoisk_id": 1227803,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "038d2211430de0dc796aa0ed6093dc0d1b70dc2201c73bb407a7698ab73eab9f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-20 17:23:43",
-      "update_date": "2019-08-20 17:25:16",
-      "block": [
-        "RU"
-      ],
-      "translator_id": 15,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1227803.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
           ]
         }
       ]

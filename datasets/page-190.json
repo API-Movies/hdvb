@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Пустой человек",
+      "title_en": "The Empty Man",
+      "year": 2020,
+      "kinopoisk_id": 992507,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-23 15:06:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Герои и трусы",
+      "title_en": "Heroes and Cowards",
+      "year": 2019,
+      "kinopoisk_id": 1213661,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-23 15:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Убойные выходные",
+      "title_en": "GetAWAY",
+      "year": 2020,
+      "kinopoisk_id": 1211531,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-23 15:04:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Полночное небо",
+      "title_en": "The Midnight Sky",
+      "year": 2020,
+      "kinopoisk_id": 1281449,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-23 14:18:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Карантинные истории",
       "title_en": "Relatos con-fin-a-dos",
       "year": 2020,
@@ -209,56 +261,42 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Обратная связь",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1331265,
-      "type": "movie",
+      "title_ru": "Комната 104",
+      "title_en": "Room 104",
+      "year": 2017,
+      "kinopoisk_id": 1007679,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "3b3f491124d97a4061f0ed33887f365ecea00156160236db1e8a41d3b79c05a9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-22 16:08:02",
+      "added_date": "2020-09-19 11:38:06",
+      "update_date": "2020-09-19 11:39:20",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Незнакомый гость",
-      "title_en": "Unknown Visitor",
-      "year": 2019,
-      "kinopoisk_id": 1319288,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-22 16:07:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Бог войны Чжао Цзылун",
-      "title_en": "God of War: Zhao Zilong",
-      "year": 2020,
-      "kinopoisk_id": 13575948,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-22 16:04:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сверхразвитые",
-      "title_en": "Enhanced",
-      "year": 2019,
-      "kinopoisk_id": 1222901,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-22 16:02:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1007679.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Сестра Рэтчед",
@@ -1363,44 +1401,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Блэйд",
-      "title_en": "Blade: The Series",
-      "year": 2006,
-      "kinopoisk_id": 258474,
-      "world_art_id": null,
-      "translator": "HTB",
-      "token": "c092cc148b09cfe890f3d2749aa4c1e2f6ce055f5167659d3eaa5fdf48794a21",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-17 19:55:10",
-      "update_date": "2020-09-17 19:59:22",
-      "block": false,
-      "translator_id": 34,
-      "quality": "CAMRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/258474.jpg",
-      "trailer": "https://kp.cdn.yandex.net/258474/kinopoisk.ru-Blade-The-Series-44196.flv",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

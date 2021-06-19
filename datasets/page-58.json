@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Смертельная игра",
+      "title_en": "Headgame",
+      "year": 2018,
+      "kinopoisk_id": 911425,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-23 20:26:01",
+      "block": false,
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Я весь твой",
+      "title_en": "Je suis à vous tout de suite",
+      "year": 2015,
+      "kinopoisk_id": 880223,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-23 20:25:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Гонки по-итальянски",
+      "title_en": "Rosso Mille Miglia",
+      "year": 2015,
+      "kinopoisk_id": 841730,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-23 20:24:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Ловцы забытых голосов",
+      "title_en": "Hoshi o ou kodomo",
+      "year": 2011,
+      "kinopoisk_id": 581102,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-23 20:23:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "В краю крови и меда",
       "title_en": "In the Land of Blood and Honey",
       "year": 2011,
@@ -209,56 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Никогда не целуй мужчину в рождественском свитере",
-      "title_en": "Never Kiss a Man in a Christmas Sweater",
-      "year": 2020,
-      "kinopoisk_id": 1434455,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-22 21:38:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Похищение в Уппсале",
-      "title_en": "Uppsalakidnappningen",
-      "year": 2018,
-      "kinopoisk_id": 1182313,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-22 21:37:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Брошенный",
-      "title_en": "Nasumice",
-      "year": 2018,
-      "kinopoisk_id": 826388,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-22 21:36:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Авель",
-      "title_en": "Aewol",
+      "title_ru": "Выход",
+      "title_en": "Exit",
       "year": 2019,
-      "kinopoisk_id": 1291212,
-      "type": "movie",
+      "kinopoisk_id": 1229579,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "e3d095a861d8a60af80cc48c3d8a8ccd5e807e65ea9b091b9185f1e01cfe5b37",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-22 21:35:01",
+      "added_date": "2021-03-06 07:53:39",
+      "update_date": "2021-03-06 17:54:58",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1229579.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Ванда/Вижн",
@@ -1310,38 +1346,6 @@
       "translator_id": 82,
       "quality": "WEB-DL",
       "poster": "https://st.kp.yandex.net/images/film_big/1189826.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Лагерь «Коралл»: Юные годы Губки Боба",
-      "title_en": "Kamp Koral: SpongeBob\\'s Under Years",
-      "year": 2021,
-      "kinopoisk_id": 1322159,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "62ff50beecb0e570128e7246ba3d576a179f404bdf9282bf4037540a4e0fc783",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-04 17:21:01",
-      "update_date": "2021-03-04 17:22:25",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1322159.jpg",
       "trailer": "",
       "serial_episodes": [
         {

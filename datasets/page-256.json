@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Я тебя найду",
+      "title_en": "Odnajde cie",
+      "year": 2018,
+      "kinopoisk_id": 1165993,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-15 00:10:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Карьеристка",
+      "title_en": "Kobieta sukcesu",
+      "year": 2018,
+      "kinopoisk_id": 1098205,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-15 00:09:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пылающие сердца / Джимми Джонс",
+      "title_en": "Jimmy Jones",
+      "year": 2018,
+      "kinopoisk_id": 708180,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-15 00:08:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Чёрный кот",
+      "title_en": "POE 4: The Black Cat",
+      "year": 2020,
+      "kinopoisk_id": 1017185,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-15 00:07:04",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Всё под контролем",
       "title_en": "Totally Under Control",
       "year": 2020,
@@ -209,56 +261,36 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Героические неудачники",
-      "title_en": "La odisea de los giles",
-      "year": 2019,
-      "kinopoisk_id": 1271004,
-      "type": "movie",
+      "title_ru": "Чистота",
+      "title_en": "Pure",
+      "year": 2017,
+      "kinopoisk_id": 1115521,
+      "world_art_id": null,
+      "translator": "Novamedia",
+      "token": "ea238bbb777bac63a65f8a84391578a52e185d7a56a7142b7f9a4a51a1108128",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-13 08:44:01",
+      "added_date": "2020-07-01 22:03:05",
+      "update_date": "2020-07-01 22:03:05",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Час очищения",
-      "title_en": "The Cleansing Hour / The Devil's Hour",
-      "year": 2019,
-      "kinopoisk_id": 1159690,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-13 08:43:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "",
-      "title_en": "D'un monde à l'autre",
-      "year": 2019,
-      "kinopoisk_id": 1164508,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-13 00:57:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Отчаянные меры",
-      "title_en": "Times &amp; Measures",
-      "year": 2020,
-      "kinopoisk_id": 1419811,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-13 00:56:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 51,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1115521.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Гринлиф",
@@ -1184,38 +1216,6 @@
       "translator_id": 43,
       "quality": "WEB-DL",
       "poster": "https://st.kp.yandex.net/images/film_big/1100408.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Миллениум",
-      "title_en": "Millennium",
-      "year": 2010,
-      "kinopoisk_id": 672397,
-      "world_art_id": null,
-      "translator": "Русский Репортаж",
-      "token": "104444cbda4b0cf894b7213d17f94fa2cbd3fae3c6db083bb4fdd96d19649b54",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-30 01:20:01",
-      "update_date": "2020-06-30 01:20:01",
-      "block": false,
-      "translator_id": 147,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/672397.jpg",
       "trailer": "",
       "serial_episodes": [
         {

@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "И настала ночь",
+      "title_en": "Night Has Come",
+      "year": 2019,
+      "kinopoisk_id": 1315190,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-29 23:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Не забывай дышать",
+      "title_en": "Ne pozabi dihati",
+      "year": 2019,
+      "kinopoisk_id": 1172657,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-29 22:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Страсть Хавьера",
+      "title_en": "La pasión de Javier",
+      "year": 2019,
+      "kinopoisk_id": 1296441,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-29 22:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "В мгновение ока",
+      "title_en": "De la noche a la mañana",
+      "year": 2020,
+      "kinopoisk_id": 1347342,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-29 22:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Синий, болезненный и хрупкий",
       "title_en": "Aokute Itakute Moroi",
       "year": 2020,
@@ -209,56 +261,34 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Красная маска смерти",
-      "title_en": "The Red Mask of Death",
-      "year": 2018,
-      "kinopoisk_id": 943821,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-29 01:41:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "На высоте",
-      "title_en": "Slay",
-      "year": 2021,
-      "kinopoisk_id": 14033300,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-29 01:37:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мистер Недоразумение",
-      "title_en": "Mr. Misunderstanding",
+      "title_ru": "В тихом омуте",
+      "title_en": "",
       "year": 2020,
-      "kinopoisk_id": 1113722,
-      "type": "movie",
+      "kinopoisk_id": 45668051,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "ac15e1c27ec01d60e0a5b837edb6f9353ffb139fa8aedd23b68853078a370d20",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-29 01:36:01",
+      "added_date": "2021-03-20 20:34:58",
+      "update_date": "2021-03-20 20:37:41",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Жизнь как концерт",
-      "title_en": "Leif in Concert",
-      "year": 2019,
-      "kinopoisk_id": 1282934,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-29 01:35:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/45668051.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Человек-муравей",
@@ -1233,38 +1263,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Би: Начало",
-      "title_en": "B: The Beginning",
-      "year": 2018,
-      "kinopoisk_id": 1107878,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "702b910f179f1e3ebb730c64a71db27a3f96150d82cc518a979a07e3b725b554",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-19 18:53:50",
-      "update_date": "2021-03-19 18:54:37",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1107878.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

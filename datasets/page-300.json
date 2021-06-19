@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Портреты Андреа Палмер",
+      "title_en": "Portraits of Andrea Palmer",
+      "year": 2018,
+      "kinopoisk_id": 1183852,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-29 14:29:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Коммандос-ниндзя",
+      "title_en": "Commando Ninja",
+      "year": 2018,
+      "kinopoisk_id": 1223868,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-29 14:23:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Смех",
+      "title_en": "Le Rire",
+      "year": 2020,
+      "kinopoisk_id": 1133548,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-29 14:18:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Счастливое лицо",
+      "title_en": "Happy Face",
+      "year": 2020,
+      "kinopoisk_id": 45546455,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-29 14:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "",
       "title_en": "È per il tuo bene",
       "year": 2020,
@@ -209,56 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Новые мутанты",
-      "title_en": "The New Mutants",
+      "title_ru": "И немного волшебства.Таинственный Город",
+      "title_en": "Just Add Magic: Mystery City",
       "year": 2020,
-      "kinopoisk_id": 910085,
-      "type": "movie",
+      "kinopoisk_id": 1340661,
+      "world_art_id": null,
+      "translator": "Пифагор",
+      "token": "d3c1437e9427f20485cfdaf5bb945827c8441366b88f62a4d180a91acf6d51a6",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-28 17:31:01",
+      "added_date": "2020-04-17 16:41:42",
+      "update_date": "2020-04-17 16:41:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Красотка в ударе",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1291182,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-28 17:30:02",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Переход",
-      "title_en": "Pass Over",
-      "year": 2018,
-      "kinopoisk_id": 1112154,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-28 00:31:02",
-      "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Saattokeikka",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 988127,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-28 00:30:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 124,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1340661.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Скрытые вещи",
@@ -943,36 +979,6 @@
             16,
             17,
             18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Прикуп",
-      "title_en": "The Take",
-      "year": 2009,
-      "kinopoisk_id": 487211,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "e6ab39632a8803940691e83738c8b1a1964592c1ee8b85d61b9e56decc70e46b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-15 12:58:50",
-      "update_date": "2020-04-15 12:58:50",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/487211.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Лебедь",
+      "title_en": "Cygnus",
+      "year": 2017,
+      "kinopoisk_id": 919330,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-01 14:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Воскресенье",
+      "title_en": "Domingo",
+      "year": 2018,
+      "kinopoisk_id": 1193180,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-01 14:49:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Двойная Загадка",
+      "title_en": "Double Riddle",
+      "year": 2018,
+      "kinopoisk_id": 1279650,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-01 14:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Травка",
+      "title_en": "Grass",
+      "year": 2017,
+      "kinopoisk_id": 970652,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-01 14:47:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Исла Бланка",
       "title_en": "Isla Blanca",
       "year": 2020,
@@ -209,56 +261,42 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Предатель",
-      "title_en": "Betrayed",
-      "year": 2018,
-      "kinopoisk_id": 1066284,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-01 08:05:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Таинственный сад",
-      "title_en": "The Secret Garden",
+      "title_ru": "Незнакомец",
+      "title_en": "The Stranger",
       "year": 2020,
-      "kinopoisk_id": 737900,
-      "type": "movie",
+      "kinopoisk_id": 1313231,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "7806378a919445dd7114f425e1e0edf39fdfb65a7757f9aae3f963ad2cf754b1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-01 08:04:02",
+      "added_date": "2020-04-24 22:29:26",
+      "update_date": "2020-04-24 22:29:26",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Вай мама джан",
-      "title_en": "Vay mama jan / Վայ մամա ջան",
-      "year": 2020,
-      "kinopoisk_id": 36648653,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-01 01:00:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Соле",
-      "title_en": "Sole",
-      "year": 2019,
-      "kinopoisk_id": 1233134,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-01 00:58:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "TS",
+      "poster": "https://st.kp.yandex.net/images/film_big/1313231.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Банды Лондона",
@@ -1301,44 +1339,6 @@
             20,
             21,
             22
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Выжить",
-      "title_en": "Survive",
-      "year": 2020,
-      "kinopoisk_id": 1320777,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "d53e48c8166bacf8d71d16760cb4fc133dd2e2f99c4d71f8210c6d61f6b614fe",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-22 22:53:00",
-      "update_date": "2020-04-22 22:53:00",
-      "block": false,
-      "translator_id": 14,
-      "quality": "TS",
-      "poster": "https://st.kp.yandex.net/images/film_big/1320777.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

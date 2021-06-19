@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Зови меня своим именем",
+      "title_en": "Call Me by Your Name",
+      "year": 2017,
+      "kinopoisk_id": 979148,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-15 02:55:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Живая сталь",
+      "title_en": "Real Steel",
+      "year": 2011,
+      "kinopoisk_id": 88198,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-15 02:54:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Джуманджи: Зов джунглей",
+      "title_en": "Jumanji: Welcome to the Jungle",
+      "year": 2017,
+      "kinopoisk_id": 695609,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-15 02:53:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Двойной форсаж",
+      "title_en": "2 Fast 2 Furious",
+      "year": 2003,
+      "kinopoisk_id": 323,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-15 02:52:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Грань будущего",
       "title_en": "Edge of Tomorrow",
       "year": 2014,
@@ -209,56 +261,36 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Мастера любви",
-      "title_en": "Masters of Love",
-      "year": 2020,
-      "kinopoisk_id": 1193752,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-14 18:38:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Авиарежим",
-      "title_en": "Modalità aereo",
-      "year": 2020,
-      "kinopoisk_id": 1188520,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-14 18:37:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мой выпускной год",
-      "title_en": "My Senior Year",
-      "year": 2020,
-      "kinopoisk_id": 785862,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-14 18:36:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Жажда",
-      "title_en": "Þorsti / Thirst",
+      "title_ru": "Благие знамения",
+      "title_en": "Good Omens",
       "year": 2019,
-      "kinopoisk_id": 1313479,
-      "type": "movie",
+      "kinopoisk_id": 585727,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "b1085e3e96340d3601261b9273a84f7bd0f6078fa7b7b1f8897a37364fadeee6",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-14 18:35:02",
+      "added_date": "2019-07-24 20:02:39",
+      "update_date": "2019-07-24 20:03:46",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/585727.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Вероника Марс",
@@ -1365,39 +1397,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Грязные деньги",
-      "title_en": "Dark Mon£y",
-      "year": 2019,
-      "kinopoisk_id": 1213642,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "5426d8da90d0634ba3eae91d3dcec936d3210debf70ac915b9e297958e122a49",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-09 16:54:51",
-      "update_date": "2019-07-09 16:54:54",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1213642.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Мой дом",
+      "title_en": "The Arbors",
+      "year": 2020,
+      "kinopoisk_id": 1065081,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-28 07:27:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "В утиль",
+      "title_en": "Spiked",
+      "year": 2021,
+      "kinopoisk_id": 1287291,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-28 07:26:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Магазинные воришки всего мира",
+      "title_en": "Shoplifters of the World",
+      "year": 2021,
+      "kinopoisk_id": 667931,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-28 07:25:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Старость в радость",
+      "title_en": "Senior Moment",
+      "year": 2021,
+      "kinopoisk_id": 1038800,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-28 07:21:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Как стать звездой",
       "title_en": "Jak zostać gwiazdą",
       "year": 2020,
@@ -209,56 +261,34 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Рождество трех медвежат",
-      "title_en": "The Three Bears and the Perfect Gift",
-      "year": 2019,
-      "kinopoisk_id": 1144627,
-      "type": "movie",
+      "title_ru": "Сразу после сотворения мира",
+      "title_en": "",
+      "year": 2013,
+      "kinopoisk_id": 815231,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "8d986eb7cb6f7ec13fae30f674e719edffd81067d986c34580057fb1c0970220",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-27 09:07:01",
+      "added_date": "2021-01-26 23:25:01",
+      "update_date": "2021-01-26 23:26:23",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Европа",
-      "title_en": "Europa",
-      "year": 1991,
-      "kinopoisk_id": 15151,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-27 00:28:01",
-      "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Спартанец",
-      "title_en": "Spartan",
-      "year": 2004,
-      "kinopoisk_id": 2974,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-27 00:27:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Сценарий жизни",
-      "title_en": "The Script of Life",
-      "year": 2019,
-      "kinopoisk_id": 1173222,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-27 00:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/815231.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "С небес на землю",
@@ -987,118 +1017,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Тюрьма «ОZ»",
-      "title_en": "Oz",
-      "year": 1997,
-      "kinopoisk_id": 258070,
-      "world_art_id": null,
-      "translator": "Novafilm",
-      "token": "e8f4db9d2121c65ede598f676dd932cfa62536bc80555cc718d730f2e9930ee4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-25 15:26:13",
-      "update_date": "2021-01-26 17:04:09",
-      "block": false,
-      "translator_id": 50,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/258070.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

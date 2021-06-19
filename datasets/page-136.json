@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Достать девчонку",
+      "title_en": "Get the Girl",
+      "year": 2017,
+      "kinopoisk_id": 846465,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 11:20:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Девушка на краю",
+      "title_en": "Girl on the Edge",
+      "year": 2015,
+      "kinopoisk_id": 841535,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 11:19:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Синий демон",
+      "title_en": "Ao oni",
+      "year": 2014,
+      "kinopoisk_id": 841367,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 11:18:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "1/1",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 825385,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 11:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "The Devil Complex",
       "title_en": "",
       "year": 2016,
@@ -209,56 +261,34 @@
       "quality": "DVDRip"
     },
     {
-      "title_ru": "Раздумье",
-      "title_en": "AfterThought",
-      "year": 2007,
-      "kinopoisk_id": 178126,
-      "type": "movie",
+      "title_ru": "Соучастник",
+      "title_en": "Collateral",
+      "year": 2018,
+      "kinopoisk_id": 1045404,
+      "world_art_id": null,
+      "translator": "Newstudio",
+      "token": "3d0185fb83173ed72c953045c06672b45735fb43dcc501c3c58c4fe31836cc5e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-16 11:00:01",
+      "added_date": "2020-11-23 19:26:47",
+      "update_date": "2020-11-23 19:28:23",
       "block": false,
-      "translator": "одноголосый закадровый",
-      "translator_id": 93,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Атака зомби в кожаных штанах",
-      "title_en": "Attack of the Lederhosen Zombies",
-      "year": 2016,
-      "kinopoisk_id": 864697,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 09:35:02",
-      "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Спящий гигант",
-      "title_en": "Sleeping Giant",
-      "year": 2015,
-      "kinopoisk_id": 844063,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 09:34:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "И явился Дьявол",
-      "title_en": "Ahí va el diablo",
-      "year": 2012,
-      "kinopoisk_id": 648606,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 09:33:02",
-      "block": false,
-      "translator": "одноголосый закадровый",
-      "translator_id": 93,
-      "quality": "HDRip"
+      "translator_id": 48,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1045404.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Гуль",
@@ -1269,38 +1299,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "(Не)удачный выбор",
-      "title_en": "Mismatched",
-      "year": 2020,
-      "kinopoisk_id": 1417276,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "eb90fb57ce94d29f748398b028f33495f06b8fc9e12928aa21f3cf03c8e6a1a3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-21 08:28:09",
-      "update_date": "2020-11-22 08:12:36",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1417276.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

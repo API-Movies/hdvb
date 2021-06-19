@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Звук острова Блок",
+      "title_en": "The Block Island Sound",
+      "year": 2020,
+      "kinopoisk_id": 1180777,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-11 15:53:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Веселые Расплюевские дни",
+      "title_en": "",
+      "year": 1966,
+      "kinopoisk_id": 45756,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-11 09:55:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "День города",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1402921,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-11 09:13:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Поворот не туда: Наследие",
+      "title_en": "Wrong Turn: The Foundation",
+      "year": 2021,
+      "kinopoisk_id": 1200179,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-11 07:53:03",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Помни о Свете",
       "title_en": "Remember the Light",
       "year": 2020,
@@ -209,56 +261,34 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Кровь на короне",
-      "title_en": "Just Noise / Blood on the Crown",
-      "year": 2021,
-      "kinopoisk_id": 1302874,
-      "type": "movie",
+      "title_ru": "18-летний олигарх",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 79040498,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "512534d054ad2995eba20bbc867e56b2d29f23309aa1ad7e96c7f8cd2a5a499c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-10 15:11:02",
+      "added_date": "2021-01-02 16:57:13",
+      "update_date": "2021-01-02 16:57:45",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Братья по крови: гражданская война",
-      "title_en": "Blood Brothers / Blood Brothers: Civil War",
-      "year": 2021,
-      "kinopoisk_id": 1395869,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-10 15:10:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Проклятая",
-      "title_en": "The New Daughter",
-      "year": 2009,
-      "kinopoisk_id": 397637,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-10 10:23:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Шерлок Холмс: Игра теней",
-      "title_en": "Sherlock Holmes: A Game of Shadows",
-      "year": 2011,
-      "kinopoisk_id": 474953,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-10 10:07:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
+      "translator_id": 92,
+      "quality": "HDTVRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/79040498.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Эмили в Париже",
@@ -1144,40 +1174,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Алиса в Пограничье",
-      "title_en": "Alice in Borderland (Imawa no Kuni no Arisu)",
-      "year": 2020,
-      "kinopoisk_id": 1293403,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "bbbc9830250720c5c402e25013e32c5a1e2cf9d053c70bc85907da56fc83aca7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-11 09:33:24",
-      "update_date": "2020-12-31 09:18:28",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1293403.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

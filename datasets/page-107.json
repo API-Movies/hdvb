@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Четвёртая стена",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1377934,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-10 09:07:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Про бизнесмена Фому",
+      "title_en": "",
+      "year": 1993,
+      "kinopoisk_id": 40965,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-09 19:37:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Персона",
+      "title_en": "Persona",
+      "year": 1966,
+      "kinopoisk_id": 79506,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-09 19:35:02",
+      "block": false,
+      "translator": "СВ-Дубль",
+      "translator_id": 166,
+      "quality": "BDRemux"
+    },
+    {
+      "title_ru": "Айсберг",
+      "title_en": "Titanic II",
+      "year": 2010,
+      "kinopoisk_id": 512769,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-09 19:34:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Билли Айлиш: Слегка размытый мир",
       "title_en": "Billie Eilish: The World\\'s a Little Blurry",
       "year": 2021,
@@ -209,56 +261,132 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Серая болезнь",
-      "title_en": "",
-      "year": 1966,
-      "kinopoisk_id": 43680,
-      "type": "movie",
+      "title_ru": "Блудливая Калифорния",
+      "title_en": "Californication",
+      "year": 2007,
+      "kinopoisk_id": 394375,
+      "world_art_id": null,
+      "translator": "Novafilm",
+      "token": "248ee9874cdee97978cf689f545f4dcd09a3ad8239ec035e32a45094d348a958",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-09 13:15:02",
+      "added_date": "2020-12-30 12:00:58",
+      "update_date": "2020-12-30 12:24:17",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "DVDRip"
-    },
-    {
-      "title_ru": "Мандерлей",
-      "title_en": "Manderlay",
-      "year": 2005,
-      "kinopoisk_id": 22597,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-09 13:14:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ва-банк",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1335582,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-09 12:21:02",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Люс",
-      "title_en": "Luce",
-      "year": 2019,
-      "kinopoisk_id": 1103625,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-09 11:58:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 50,
+      "quality": "BluRay",
+      "poster": "https://st.kp.yandex.net/images/film_big/394375.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=7743",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 7,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Блудливая Калифорния",
@@ -1041,36 +1169,6 @@
             9,
             10,
             11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Шанс на любовь",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 1173413,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "aef6f1d62027e866d88b3cb786545449a22299e0a2116e6c97f74f17bdb69edf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-29 22:58:47",
-      "update_date": "2020-12-29 23:03:00",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1173413.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Гостевой дом",
+      "title_en": "Guest House",
+      "year": 2020,
+      "kinopoisk_id": 1254412,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-04 19:00:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Думаю, как всё закончить",
+      "title_en": "I'm Thinking of Ending Things",
+      "year": 2020,
+      "kinopoisk_id": 1219852,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-04 18:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Анти-короновирус",
+      "title_en": "Anti Corona Virus / Anti Coronavirus",
+      "year": 2020,
+      "kinopoisk_id": 1359289,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-04 18:47:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Девушка с браслетом",
+      "title_en": "La fille au bracelet",
+      "year": 2019,
+      "kinopoisk_id": 1328104,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-04 18:46:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Почти человек",
       "title_en": "Almost Human",
       "year": 2020,
@@ -209,56 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Жираф",
-      "title_en": "Giraffe",
-      "year": 2019,
-      "kinopoisk_id": 1190587,
-      "type": "movie",
+      "title_ru": "Эти глаза напротив",
+      "title_en": "",
+      "year": 2015,
+      "kinopoisk_id": 840923,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "359a25f0633b8f6b2b0df43d54e9b9ffeb6cc2cf47ca79cb7f78b60eee3ee416",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-03 19:49:02",
+      "added_date": "2020-05-01 23:23:33",
+      "update_date": "2020-05-01 23:23:33",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Технобосс",
-      "title_en": "Technoboss",
-      "year": 2019,
-      "kinopoisk_id": 1222287,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-03 19:48:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Первая любовь",
-      "title_en": "First Love",
-      "year": 2019,
-      "kinopoisk_id": 944134,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-03 19:47:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сестринство",
-      "title_en": "Sisterhood / Shisutâfuddo",
-      "year": 2019,
-      "kinopoisk_id": 56756745,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-03 19:44:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/840923.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Голливуд",
@@ -1341,38 +1375,6 @@
             13,
             14,
             15
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ошибка 404",
-      "title_en": "Code 404",
-      "year": 2020,
-      "kinopoisk_id": 1221530,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "aede0f2d00f1e1c27dc53c1488545305c6baa3b4820704d3d38465950ca44dbd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-29 23:32:48",
-      "update_date": "2020-04-29 23:32:48",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1221530.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

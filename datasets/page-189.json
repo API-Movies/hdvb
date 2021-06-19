@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Всю мою жизнь",
+      "title_en": "All My Life",
+      "year": 2020,
+      "kinopoisk_id": 1304220,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-25 16:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дядя Дятел",
+      "title_en": "Uncle Peckerhead",
+      "year": 2020,
+      "kinopoisk_id": 1344413,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-25 12:50:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мы можем стать героями",
+      "title_en": "We Can Be Heroes",
+      "year": 2020,
+      "kinopoisk_id": 1301023,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-25 12:49:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Смертельный декабрь",
+      "title_en": "Deathcember",
+      "year": 2020,
+      "kinopoisk_id": 1213851,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-25 12:48:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Рождество в Блу Ридж Маунтин",
       "title_en": "A Blue Ridge Mountain Christmas",
       "year": 2019,
@@ -209,56 +261,46 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Пустой человек",
-      "title_en": "The Empty Man",
+      "title_ru": "Я псих, но это нормально",
+      "title_en": "Saikojiman gwaenchanha",
       "year": 2020,
-      "kinopoisk_id": 992507,
-      "type": "movie",
+      "kinopoisk_id": 1312095,
+      "world_art_id": null,
+      "translator": "STEPonee",
+      "token": "7978d818a94d723e8d614eb3e420ebcc14105f568aa314d282ce456fad0e666e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-23 15:06:01",
+      "added_date": "2020-09-22 17:56:20",
+      "update_date": "2020-09-22 18:11:06",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Герои и трусы",
-      "title_en": "Heroes and Cowards",
-      "year": 2019,
-      "kinopoisk_id": 1213661,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-23 15:05:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Убойные выходные",
-      "title_en": "GetAWAY",
-      "year": 2020,
-      "kinopoisk_id": 1211531,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-23 15:04:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Полночное небо",
-      "title_en": "The Midnight Sky",
-      "year": 2020,
-      "kinopoisk_id": 1281449,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-23 14:18:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 65,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1312095.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Призраки",
@@ -1189,44 +1231,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Комната 104",
-      "title_en": "Room 104",
-      "year": 2017,
-      "kinopoisk_id": 1007679,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "3b3f491124d97a4061f0ed33887f365ecea00156160236db1e8a41d3b79c05a9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-19 11:38:06",
-      "update_date": "2020-09-19 11:39:20",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1007679.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

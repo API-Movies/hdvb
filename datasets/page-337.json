@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Доктор Стрэндж",
+      "title_en": "Doctor Strange",
+      "year": 2016,
+      "kinopoisk_id": 409600,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-23 14:12:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Девушка с татуировкой дракона",
+      "title_en": "The Girl with the Dragon Tattoo",
+      "year": 2011,
+      "kinopoisk_id": 491724,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-23 14:11:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Гарри Поттер и философский камень",
+      "title_en": "Harry Potter and the Sorcerer's Stone",
+      "year": 2001,
+      "kinopoisk_id": 689,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-23 14:10:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Гарри Поттер и Принц-полукровка",
+      "title_en": "Harry Potter and the Half-Blood Prince",
+      "year": 2009,
+      "kinopoisk_id": 89515,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-23 14:09:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Гарри Поттер и Орден Феникса",
       "title_en": "Harry Potter and the Order of the Phoenix",
       "year": 2007,
@@ -209,56 +261,34 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Это главное",
-      "title_en": "It's Major",
-      "year": 2020,
-      "kinopoisk_id": 1231229,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-22 21:50:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Лайвскрим",
-      "title_en": "Livescream",
-      "year": 2018,
-      "kinopoisk_id": 1127161,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-22 17:29:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Эверест",
-      "title_en": "Abominable",
+      "title_ru": "Бабочки и птицы",
+      "title_en": "",
       "year": 2019,
-      "kinopoisk_id": 1044976,
-      "type": "movie",
+      "kinopoisk_id": 1280638,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "d4ef74af903d1e131463a6449923ac93853469531c96d147be0ccba9da938b3f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-22 15:07:01",
+      "added_date": "2019-10-16 13:18:22",
+      "update_date": "2019-10-16 13:18:22",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Человек-паук",
-      "title_en": "Spider-Man",
-      "year": 2002,
-      "kinopoisk_id": 838,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-22 15:06:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1280638.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Секта",
@@ -1082,41 +1112,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Воспитывая Диона",
-      "title_en": "Raising Dion",
-      "year": 2019,
-      "kinopoisk_id": 1113115,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "a10e65a6a5bafe06cc5e794609b8911d571640f786b5330c0e1723271f6f163b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-04 22:13:55",
-      "update_date": "2019-10-04 22:13:55",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1113115.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
           ]
         }
       ]

@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Day of Days",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 861011,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-08 02:40:00",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Посредник",
+      "title_en": "The Fixer",
+      "year": 2016,
+      "kinopoisk_id": 828240,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-08 02:39:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "The Unattainable Story",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 810956,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-08 02:38:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "XX",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 807777,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-08 02:37:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Juggernaut",
       "title_en": "",
       "year": 2017,
@@ -209,56 +261,54 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Хандра",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1199541,
-      "type": "movie",
+      "title_ru": "Нетипичный",
+      "title_en": "Atypical",
+      "year": 2017,
+      "kinopoisk_id": 1046641,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "fdb535e59206a21e6a7b4033b75f5715a8cf5ab71ebe38c9cdca1e1c005216a1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-07 17:14:01",
+      "added_date": "2020-06-18 22:38:52",
+      "update_date": "2020-06-18 22:38:52",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Захват",
-      "title_en": "Seized / Rizk",
-      "year": 2020,
-      "kinopoisk_id": 1064514,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-07 17:11:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Истории квартала 3",
-      "title_en": "Tales from the Hood 3",
-      "year": 2020,
-      "kinopoisk_id": 1331740,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-07 17:09:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Проклятье Одри Эрншоу",
-      "title_en": "The Curse of Audrey Earnshaw",
-      "year": 2020,
-      "kinopoisk_id": 1191643,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-07 17:08:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1046641.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Схаувендам 12",
@@ -1509,42 +1559,6 @@
             5,
             6,
             7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "С любовью, Виктор",
-      "title_en": "Love, Victor",
-      "year": 2020,
-      "kinopoisk_id": 1301090,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "8b4fe14187a6b608e2c6ca783e259b5dc908e10b0cfe53b3b11e642e63c3ff25",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-17 18:44:24",
-      "update_date": "2020-06-17 18:44:24",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1301090.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

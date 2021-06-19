@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Слежка",
+      "title_en": "Stakeout",
+      "year": 2021,
+      "kinopoisk_id": 1241279,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-22 09:24:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Рай",
+      "title_en": "Paradise",
+      "year": 2019,
+      "kinopoisk_id": 1248861,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-22 09:23:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кошмар перед Днём святого Валентина",
+      "title_en": "Galentine's Day Nightmare",
+      "year": 2021,
+      "kinopoisk_id": 1426132,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-22 09:22:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Драка ярости",
+      "title_en": "Fight of Fury",
+      "year": 2020,
+      "kinopoisk_id": 1375053,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-22 09:21:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Спрятаться негде: Режиссёрская версия",
       "title_en": "Bunnyman: Grindhouse Edition",
       "year": 2019,
@@ -209,56 +261,42 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Айнбо. Сердце Амазонии",
-      "title_en": "AINBO: Spirit of the Amazon",
-      "year": 2021,
-      "kinopoisk_id": 1113699,
-      "type": "movie",
+      "title_ru": "Робинзон Крузо",
+      "title_en": "Crusoe",
+      "year": 2008,
+      "kinopoisk_id": 412371,
+      "world_art_id": null,
+      "translator": "Велес",
+      "token": "d2c21115c6e15f44b74f90e1c1da6f6f8bcc95d0b95d0c49ddc3a92fb08ca5e3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-21 18:01:01",
+      "added_date": "2020-12-07 19:26:16",
+      "update_date": "2020-12-07 19:27:03",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Волшебный город",
-      "title_en": "Magic Town",
-      "year": 2021,
-      "kinopoisk_id": 80860560,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-21 18:00:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дикие травы",
-      "title_en": "Qiao mai feng zhang",
-      "year": 2020,
-      "kinopoisk_id": 1252535,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-21 17:59:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Детектив по телефону",
-      "title_en": "The Landline Detective",
-      "year": 2020,
-      "kinopoisk_id": 1125048,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-21 17:58:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 159,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/412371.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Бессонница",
@@ -1617,42 +1655,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чёрно-белая семёрка",
-      "title_en": "Dark 7 White",
-      "year": 2020,
-      "kinopoisk_id": 1428860,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "6cd5c6e04297701cf9b7adce341e3af9d3fd092d3a9759bd7b8fcbb3b3dc3f45",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-27 16:46:24",
-      "update_date": "2020-12-06 13:08:51",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1428860.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

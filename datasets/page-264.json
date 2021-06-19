@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Хандра",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1199541,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-07 17:14:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Захват",
+      "title_en": "Seized / Rizk",
+      "year": 2020,
+      "kinopoisk_id": 1064514,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-07 17:11:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Истории квартала 3",
+      "title_en": "Tales from the Hood 3",
+      "year": 2020,
+      "kinopoisk_id": 1331740,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-07 17:09:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Проклятье Одри Эрншоу",
+      "title_en": "The Curse of Audrey Earnshaw",
+      "year": 2020,
+      "kinopoisk_id": 1191643,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-07 17:08:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Чёрный ящик",
       "title_en": "Black Box",
       "year": 2020,
@@ -209,56 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Интервью с монстрами ... и снежным человеком",
-      "title_en": "Interviewing Monsters and Bigfoot / Interviewing Monsters",
+      "title_ru": "С любовью, Виктор",
+      "title_en": "Love, Victor",
       "year": 2020,
-      "kinopoisk_id": 1074354,
-      "type": "movie",
+      "kinopoisk_id": 1301090,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "8b4fe14187a6b608e2c6ca783e259b5dc908e10b0cfe53b3b11e642e63c3ff25",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-06 21:48:02",
+      "added_date": "2020-06-17 18:44:24",
+      "update_date": "2020-06-17 18:44:24",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мисс Белый Свет / Белый свет",
-      "title_en": "Ms. White Light / White Light",
-      "year": 2020,
-      "kinopoisk_id": 1056567,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-06 21:45:03",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Город головорезов",
-      "title_en": "Cut Throat City",
-      "year": 2020,
-      "kinopoisk_id": 1111258,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-06 21:44:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Герои не умирают",
-      "title_en": "Heroes Don't Die / Les héros ne meurent jamais",
-      "year": 2019,
-      "kinopoisk_id": 1198127,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-06 19:35:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1301090.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Зона дискомфорта",
@@ -1194,45 +1230,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Розуэлл, Нью-Мексико",
-      "title_en": "Roswell, New Mexico",
-      "year": 2019,
-      "kinopoisk_id": 1113649,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "f3ddb8e5257a682284399d32626fefaea2e08c42f382272677338ac38edec5a5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-16 13:51:02",
-      "update_date": "2020-06-16 13:51:02",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1113649.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

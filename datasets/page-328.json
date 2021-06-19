@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Капитан Голливуд",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1311540,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-01 10:37:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Махинаторы",
+      "title_en": "Schemers",
+      "year": 2020,
+      "kinopoisk_id": 1006259,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-31 23:20:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Шутки в сторону",
+      "title_en": "Seriously Single",
+      "year": 2020,
+      "kinopoisk_id": 1392013,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-31 22:14:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Чёрный - цвет королей",
+      "title_en": "Black Is King",
+      "year": 2020,
+      "kinopoisk_id": 1390874,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-31 22:13:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Воображаемая реальность",
       "title_en": "Valley of the Gods",
       "year": 2020,
@@ -209,56 +261,37 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "То чего я не понимаю",
-      "title_en": "Thing I Don't Get / Fünf Dinge, die ich nicht verstehe",
-      "year": 2018,
-      "kinopoisk_id": 1255620,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-30 13:49:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Моя семья в беспорядке",
-      "title_en": "La mia famiglia a soqquadro",
-      "year": 2017,
-      "kinopoisk_id": 938797,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-30 13:47:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Милеа: звуки прошлого от Дилана",
-      "title_en": "Milea / Milea: Suara dari Dilan",
-      "year": 2020,
-      "kinopoisk_id": 1318521,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-30 13:46:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Старший брат",
-      "title_en": "Moothon",
+      "title_ru": "Миссис Флетчер",
+      "title_en": "Mrs. Fletcher",
       "year": 2019,
-      "kinopoisk_id": 1072462,
-      "type": "movie",
+      "kinopoisk_id": 1118647,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "5848da3b71b2a26fd98944c96266d65de19308f9f2b10d800c3371efeb4d004c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-30 13:45:01",
+      "added_date": "2019-12-09 11:42:49",
+      "update_date": "2019-12-09 11:42:49",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1118647.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Вампирские войны",
@@ -979,40 +1012,6 @@
       "serial_episodes": [
         {
           "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Великолепные Медичи",
-      "title_en": "Medici: The Magnificent",
-      "year": 2018,
-      "kinopoisk_id": 1115149,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "6cfa854c720bd1c30ba8a5405e1b29a5296109ef67fef9fa7336d5ab3c5434e3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-05 11:16:58",
-      "update_date": "2019-12-05 11:16:58",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1115149.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
           "episodes_count": 8,
           "episodes": [
             1,

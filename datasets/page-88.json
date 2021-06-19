@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Рождество трех медвежат",
+      "title_en": "The Three Bears and the Perfect Gift",
+      "year": 2019,
+      "kinopoisk_id": 1144627,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-27 09:07:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Европа",
+      "title_en": "Europa",
+      "year": 1991,
+      "kinopoisk_id": 15151,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-27 00:28:01",
+      "block": false,
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Спартанец",
+      "title_en": "Spartan",
+      "year": 2004,
+      "kinopoisk_id": 2974,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-27 00:27:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Сценарий жизни",
+      "title_en": "The Script of Life",
+      "year": 2019,
+      "kinopoisk_id": 1173222,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-27 00:20:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Место что надо",
       "title_en": "The Place Just Right",
       "year": 2019,
@@ -209,56 +261,116 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Буги",
-      "title_en": "Boogie",
-      "year": 2021,
-      "kinopoisk_id": 1300829,
-      "type": "movie",
+      "title_ru": "Тюрьма «ОZ»",
+      "title_en": "Oz",
+      "year": 1997,
+      "kinopoisk_id": 258070,
+      "world_art_id": null,
+      "translator": "Novafilm",
+      "token": "e8f4db9d2121c65ede598f676dd932cfa62536bc80555cc718d730f2e9930ee4",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-26 18:35:01",
+      "added_date": "2021-01-25 15:26:13",
+      "update_date": "2021-01-26 17:04:09",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Медовый месяц",
-      "title_en": "The Honeymoon Phase",
-      "year": 2020,
-      "kinopoisk_id": 1072015,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-26 18:17:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Щенячья школа",
-      "title_en": "Pick of the Litter",
-      "year": 2018,
-      "kinopoisk_id": 978306,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-26 18:16:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Тени",
-      "title_en": "Shadows",
-      "year": 2020,
-      "kinopoisk_id": 1318071,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-26 16:17:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 50,
+      "quality": "DVDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/258070.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Расследование",
@@ -1185,40 +1297,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Поверьте Вере",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 5465554,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "be2472246953a0b1f9bde11b580da0b3fb3a5b90b55b2f2f69480786963c7d9c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-24 16:37:43",
-      "update_date": "2021-01-24 16:38:03",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/5465554.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

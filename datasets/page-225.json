@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Экстремальная работа",
+      "title_en": "Geukhanjikeop",
+      "year": 2019,
+      "kinopoisk_id": 1108600,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-15 14:45:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "После расставания",
+      "title_en": "Happily Never After",
+      "year": 2020,
+      "kinopoisk_id": 1013913,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-15 01:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Разговор в спальне",
+      "title_en": "Bedroom Story",
+      "year": 2020,
+      "kinopoisk_id": 13410380,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-15 01:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Резилиенс и Утраченные Самоцветы",
+      "title_en": "Resilience and the Lost Gems",
+      "year": 2019,
+      "kinopoisk_id": 1190491,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-15 01:30:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Авария",
       "title_en": "Wreck",
       "year": 2020,
@@ -209,56 +261,36 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Мистер Джангл и рождественское путешествие",
-      "title_en": "Jingle Jangle: A Christmas Journey",
+      "title_ru": "Лагерь Альбанта",
+      "title_en": "Campamento Albanta",
       "year": 2020,
-      "kinopoisk_id": 1208645,
-      "type": "movie",
+      "kinopoisk_id": 1348066,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "69740349fc6e57b9dd2d199139d70f913a91416b40e8c761618bf7eeba835ade",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-13 22:38:02",
+      "added_date": "2020-07-28 09:50:18",
+      "update_date": "2020-08-11 09:02:52",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Слушай",
-      "title_en": "Listen",
-      "year": 2020,
-      "kinopoisk_id": 1236732,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-13 15:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Непокорный",
-      "title_en": "Adanga Maru",
-      "year": 2018,
-      "kinopoisk_id": 1127089,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-13 15:18:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Голубой Голливуд",
-      "title_en": "Blue Hollywood",
-      "year": 2017,
-      "kinopoisk_id": 976057,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-13 15:17:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1348066.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Амнезия",
@@ -1082,48 +1114,6 @@
             7,
             8,
             9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Итхэвон класс",
-      "title_en": "Itaewon keullasseu",
-      "year": 2020,
-      "kinopoisk_id": 1256366,
-      "world_art_id": null,
-      "translator": "многоголосый закадровый",
-      "token": "44ef5e5e6694cf85d2c3aa6be42ddcf19960a8c9ed53605b3898fd829d2fbaea",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-10 03:19:41",
-      "update_date": "2020-08-10 03:20:39",
-      "block": false,
-      "translator_id": 89,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1256366.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
           ]
         }
       ]

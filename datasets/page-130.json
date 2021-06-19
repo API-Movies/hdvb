@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Одноклассницы и тайна пиратского золота",
+      "title_en": "St Trinian\\'s 2: The Legend of Fritton\\'s Gold",
+      "year": 2009,
+      "kinopoisk_id": 409222,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-18 11:06:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Вудсток",
+      "title_en": "Woodstock",
+      "year": 1970,
+      "kinopoisk_id": 11102,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-18 10:59:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Кровавая баня в старшей школе 2",
+      "title_en": "Joshi kosei boryoku kyoshitsu 2",
+      "year": 2013,
+      "kinopoisk_id": 7867026,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-18 09:56:02",
+      "block": false,
+      "translator": "одноголосый закадровый",
+      "translator_id": 93,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Кровавая баня в старшей школе",
+      "title_en": "Joshi kosei boryoku kyoshitsu",
+      "year": 2012,
+      "kinopoisk_id": 1263033,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-18 09:55:02",
+      "block": false,
+      "translator": "одноголосый закадровый",
+      "translator_id": 93,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Кровавая баня в старшей школе 2",
       "title_en": "Joshi kosei boryoku kyoshitsu 2",
       "year": 2013,
@@ -209,56 +261,52 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Вкуснятина",
-      "title_en": "Yummy",
-      "year": 2020,
-      "kinopoisk_id": 1309571,
-      "type": "movie",
+      "title_ru": "Рождение мафии: Нью-Йорк",
+      "title_en": "The Making of the Mob",
+      "year": 2015,
+      "kinopoisk_id": 910068,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "e0d3c342f7e07b3153163414c91b5bc6835e79d9b19a502f2d94860aaa2be804",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-18 07:20:01",
+      "added_date": "2020-12-02 02:00:15",
+      "update_date": "2020-12-02 02:00:58",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Дикая парочка",
-      "title_en": "Wild Mountain Thyme",
-      "year": 2020,
-      "kinopoisk_id": 1262046,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-18 07:18:02",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Солнечные дети",
-      "title_en": "Khorshid",
-      "year": 2020,
-      "kinopoisk_id": 1346992,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-18 07:17:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Рыбка-кузовок",
-      "title_en": "Trunkfish",
-      "year": 2021,
-      "kinopoisk_id": 1166262,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-17 14:15:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/910068.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Фарго",
@@ -1415,45 +1463,6 @@
             16,
             17,
             18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "В надежде на спасение",
-      "title_en": "Saving Hope",
-      "year": 2012,
-      "kinopoisk_id": 664638,
-      "world_art_id": null,
-      "translator": "Novamedia",
-      "token": "7b656ed16410e8d12ff91fb9d7f5f6ed05baad127d1c83b37fcbf1ff09018ccb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-30 21:00:02",
-      "update_date": "2020-11-30 21:03:09",
-      "block": false,
-      "translator_id": 51,
-      "quality": "WEB-DLRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/664638.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

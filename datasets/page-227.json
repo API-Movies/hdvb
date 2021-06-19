@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Чёрный колодец",
+      "title_en": "Kaali Khuhi",
+      "year": 2020,
+      "kinopoisk_id": 1292164,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-13 13:34:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Приговорённая к смерти",
+      "title_en": "Left for Dead",
+      "year": 2018,
+      "kinopoisk_id": 1205082,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-13 13:33:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "История Марии",
+      "title_en": "Maria's Tale",
+      "year": 2018,
+      "kinopoisk_id": 1195910,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-13 13:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "На краю ринга",
+      "title_en": "Ringside",
+      "year": 2019,
+      "kinopoisk_id": 1237982,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-13 13:31:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Гренландия",
       "title_en": "Greenland",
       "year": 2020,
@@ -209,56 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "3 дня на прощание",
-      "title_en": "3 Days to Go",
+      "title_ru": "Братство",
+      "title_en": "Irmandade",
       "year": 2019,
-      "kinopoisk_id": 1209682,
-      "type": "movie",
+      "kinopoisk_id": 1236345,
+      "world_art_id": null,
+      "translator": "IdeaFilm",
+      "token": "89f76a7a66704853eda97b35a35c5a7494e2992db876242e59fc58d6edc39576",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-12 14:47:01",
+      "added_date": "2020-08-08 21:27:56",
+      "update_date": "2020-08-08 21:34:15",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Черный, черный человек",
-      "title_en": "A Dark, Dark Man",
-      "year": 2019,
-      "kinopoisk_id": 1316549,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-12 14:45:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мгновения в космическом пространстве",
-      "title_en": "Moments in Spacetime",
-      "year": 2020,
-      "kinopoisk_id": 1291344,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-12 14:42:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Южный терминал",
-      "title_en": "South Terminal / Terminal Sud",
-      "year": 2019,
-      "kinopoisk_id": 1263645,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-12 14:41:05",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 35,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1236345.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Необщительный босс",
@@ -1215,40 +1249,6 @@
       "translator_id": 115,
       "quality": "WEB-DL",
       "poster": "https://st.kp.yandex.net/images/film_big/1209697.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мафия",
-      "title_en": "Mafia",
-      "year": 2020,
-      "kinopoisk_id": 12531976,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "d147f982636109a084d1707e8a8c8970691db4cccd762d16c07abed9e5273510",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-01 12:16:45",
-      "update_date": "2020-08-08 16:35:32",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/12531976.jpg",
       "trailer": "",
       "serial_episodes": [
         {

@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Thibaan и BNK48: от всего сердца",
+      "title_en": "Thibaan × BNK48",
+      "year": 2020,
+      "kinopoisk_id": 1403898,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-20 10:59:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Клеймо",
+      "title_en": "The Stigma / O Estigma",
+      "year": 2018,
+      "kinopoisk_id": 1397866,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-20 10:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Малек",
+      "title_en": "Malek",
+      "year": 2019,
+      "kinopoisk_id": 1150510,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-20 10:54:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Привет, Чарли",
+      "title_en": "Hello Charlie",
+      "year": 2021,
+      "kinopoisk_id": 4397136,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-20 10:53:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Адвокат",
       "title_en": "Adwokat",
       "year": 2019,
@@ -209,56 +261,46 @@
       "quality": ""
     },
     {
-      "title_ru": "",
-      "title_en": "",
-      "year": 0,
-      "kinopoisk_id": null,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "1970-01-01 03:00:00",
-      "block": false,
-      "translator": "",
-      "translator_id": 0,
-      "quality": ""
-    },
-    {
-      "title_ru": "Бывшая",
+      "title_ru": "В плену у прошлого",
       "title_en": "",
       "year": 2021,
-      "kinopoisk_id": 1313593,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-19 12:54:01",
-      "block": false,
+      "kinopoisk_id": 54648655,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "e804cb10661d818ca84769f179b9d014b29a6ebf73909cd07f9c84a4b591bf49",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-16 19:14:42",
+      "update_date": "2021-02-27 00:32:49",
+      "block": false,
       "translator_id": 92,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Дикарка",
-      "title_en": "Woman in the Woods",
-      "year": 2020,
-      "kinopoisk_id": 1319183,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-19 09:30:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Прайм-тайм",
-      "title_en": "Prime Time",
-      "year": 2021,
-      "kinopoisk_id": 1334741,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-19 09:29:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/54648655.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Гримм",
@@ -1784,42 +1826,6 @@
             9,
             10,
             11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Навсегда",
-      "title_en": "For Life",
-      "year": 2020,
-      "kinopoisk_id": 1263575,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "fca60c26427c6ce9b527e995f7399236855ae2349a3f457f387fc736027292dd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-19 19:18:13",
-      "update_date": "2021-02-25 14:29:10",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1263575.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

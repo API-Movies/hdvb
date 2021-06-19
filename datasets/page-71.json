@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Сойти с ума",
+      "title_en": "Driven Crazy",
+      "year": 2019,
+      "kinopoisk_id": 1213594,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-11 23:48:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Чёрное озеро",
+      "title_en": "Black Lake",
+      "year": 2020,
+      "kinopoisk_id": 1083424,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-11 23:47:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Семейка монстров",
+      "title_en": "Petit vampire",
+      "year": 2020,
+      "kinopoisk_id": 1111403,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-11 23:46:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Лазарус",
+      "title_en": "Lazarus",
+      "year": 2021,
+      "kinopoisk_id": 988670,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-11 23:45:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Второй мир",
       "title_en": "Alt Space",
       "year": 2020,
@@ -209,56 +261,47 @@
       "quality": "BluRay"
     },
     {
-      "title_ru": "Несносный дед .5",
-      "title_en": "Bad Grandpa .5",
-      "year": 2014,
-      "kinopoisk_id": 840295,
-      "type": "movie",
+      "title_ru": "Жизнь на Марсе",
+      "title_en": "Life on Mars",
+      "year": 2008,
+      "kinopoisk_id": 302061,
+      "world_art_id": null,
+      "translator": "Первый канал",
+      "token": "8fbaed95a965fda9e97022ebc56917bb58155b146ae23c0ee2ad987dedf162ac",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-11 21:11:01",
+      "added_date": "2021-02-15 18:52:47",
+      "update_date": "2021-02-15 18:53:56",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Облако 9",
-      "title_en": "Cloud 9",
-      "year": 2014,
-      "kinopoisk_id": 744897,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-11 21:09:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Рукопашный бой",
-      "title_en": "Tapped Out",
-      "year": 2014,
-      "kinopoisk_id": 702875,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-11 21:08:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Мэри и Марта",
-      "title_en": "Mary and Martha",
-      "year": 2013,
-      "kinopoisk_id": 693966,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-11 21:07:01",
-      "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "BluRay"
+      "translator_id": 94,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/302061.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 17,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Пинки и Брейн",
@@ -1197,42 +1240,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Путешественники",
-      "title_en": "Travelers",
-      "year": 2016,
-      "kinopoisk_id": 998777,
-      "world_art_id": null,
-      "translator": "АРК ТВ",
-      "token": "0aaf698f80a2754b0b8dbcf27cc7ec3ba8fde8ded06c52af6ceaf010953e1dc6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-14 18:37:47",
-      "update_date": "2021-02-14 18:41:03",
-      "block": false,
-      "translator_id": 77,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/998777.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

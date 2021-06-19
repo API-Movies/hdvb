@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Рождественский доктор",
+      "title_en": "The Christmas Doctor",
+      "year": 2020,
+      "kinopoisk_id": 1445225,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-25 23:42:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Двадцать четыре на семь: Келли Слейтер",
+      "title_en": "24/7: Kelly Slater",
+      "year": 2019,
+      "kinopoisk_id": 11503166,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-25 23:41:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Лихорадка",
+      "title_en": "A Febre",
+      "year": 2019,
+      "kinopoisk_id": 1291208,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-25 23:40:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Второй Шанс",
+      "title_en": "A Second Chance",
+      "year": 2019,
+      "kinopoisk_id": 1266317,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-25 23:37:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Всегда скучаю по тебе",
       "title_en": "Always Miss You / Xia yi ren: qian ren",
       "year": 2019,
@@ -209,56 +261,65 @@
       "quality": "HDTV"
     },
     {
-      "title_ru": "Реабилитация выходного дня",
-      "title_en": "The Weekend Fix",
-      "year": 2020,
-      "kinopoisk_id": 1438000,
-      "type": "movie",
+      "title_ru": "Трансформеры",
+      "title_en": "Transformers: Animated",
+      "year": 2007,
+      "kinopoisk_id": 400004,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "84ca8f2e6ae151cad8a75e98c4c870c23a583b5d64078d94ecd02c384da872fc",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-24 23:24:01",
+      "added_date": "2020-08-21 03:37:43",
+      "update_date": "2020-08-21 03:41:21",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Самый лучший подарок на Рождество",
-      "title_en": "The Greatest Gift Ever Given",
-      "year": 2020,
-      "kinopoisk_id": 1316322,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-24 23:22:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Красный Хэтчбек",
-      "title_en": "Hatchbak Ghermez / The Red Hatchback",
-      "year": 2019,
-      "kinopoisk_id": 11393360,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-24 23:21:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Цыганская Королева",
-      "title_en": "Gipsy Queen",
-      "year": 2019,
-      "kinopoisk_id": 1060387,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-24 23:15:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/400004.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Трансформеры",
@@ -1112,38 +1173,6 @@
       "serial_episodes": [
         {
           "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Искусство преступления",
-      "title_en": "L\\'art du crime",
-      "year": 2017,
-      "kinopoisk_id": 1113109,
-      "world_art_id": null,
-      "translator": "GreenРай Studio",
-      "token": "a5410a4066a8204c71f51ce76c0b5eee2758831f2e11349c17cc7b5c2ddbb0a2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-19 23:49:45",
-      "update_date": "2020-08-19 23:50:42",
-      "block": false,
-      "translator_id": 143,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1113109.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 6,
           "episodes": [
             1,

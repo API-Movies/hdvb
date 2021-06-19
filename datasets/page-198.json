@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Кто влюбился - тот проиграл",
+      "title_en": "El Que Se Enamora Pierde",
+      "year": 2019,
+      "kinopoisk_id": 1230045,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-13 13:22:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сказочное рождество",
+      "title_en": "Christmas Ever After",
+      "year": 2020,
+      "kinopoisk_id": 1443858,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-13 13:20:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Преступный человек",
+      "title_en": "The Criminal Man",
+      "year": 2019,
+      "kinopoisk_id": 1244898,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-13 13:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Частицы",
+      "title_en": "Les particules",
+      "year": 2019,
+      "kinopoisk_id": 1143345,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-13 13:15:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Разлом",
       "title_en": "Trhlina",
       "year": 2019,
@@ -209,56 +261,42 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Птица в клетке",
-      "title_en": "Songbird",
-      "year": 2020,
-      "kinopoisk_id": 1390863,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-12 01:41:01",
-      "block": false,
+      "title_ru": "Мир боевых искусств",
+      "title_en": "Wu dong qian kun",
+      "year": 2018,
+      "kinopoisk_id": 1188573,
+      "world_art_id": null,
       "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дикарь",
-      "title_en": "Savage",
-      "year": 2019,
-      "kinopoisk_id": 1204109,
-      "type": "movie",
+      "token": "1295dac9c9fa7261e24fdfa0292fdbfa5b01867d9c4f91fed943cf2ae9aa388e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-12 01:40:02",
+      "added_date": "2020-09-10 17:38:23",
+      "update_date": "2020-09-10 17:48:01",
       "block": false,
-      "translator": "многоголосый закадровый",
       "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Я — твоя женщина",
-      "title_en": "I'm Your Woman",
-      "year": 2020,
-      "kinopoisk_id": 1262088,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-12 01:36:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Не кликай",
-      "title_en": "Don't Click",
-      "year": 2020,
-      "kinopoisk_id": 1261875,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-12 01:34:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1188573.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Рисующий ветер",
@@ -1128,36 +1166,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Смерть на языке цветов",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1322672,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "7dd0eccbd70c2f554db826832bb4fdaf0599f06d1c1a54d575c22297a3887e99",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-09 13:52:58",
-      "update_date": "2020-09-09 13:53:40",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1322672.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

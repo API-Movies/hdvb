@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Жизненная история",
+      "title_en": "Realna prica",
+      "year": 2019,
+      "kinopoisk_id": 1311743,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-04 00:35:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Макоки: любовь до гроба",
+      "title_en": "Makoki: Un Amor de Muerte",
+      "year": 2019,
+      "kinopoisk_id": 1188900,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-04 00:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Убийство в Сен-Поль-де-Вансе",
+      "title_en": "Le prix de la vérité",
+      "year": 2017,
+      "kinopoisk_id": 1116924,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-04 00:33:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Тень женщины-детектива",
+      "title_en": "Lady Detective Shadow",
+      "year": 2018,
+      "kinopoisk_id": 1149463,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-04 00:31:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Остров лжи",
       "title_en": "La isla de las mentiras",
       "year": 2020,
@@ -209,56 +261,45 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Будь, что будет!",
-      "title_en": "Send It!",
-      "year": 2021,
-      "kinopoisk_id": 1198814,
-      "type": "movie",
+      "title_ru": "Супермаркет",
+      "title_en": "Superstore",
+      "year": 2015,
+      "kinopoisk_id": 901421,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "dab0ce4fb851eda661a40bc89ba935ac873a6944e8253936049f787e2db15279",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-02 12:29:01",
+      "added_date": "2020-10-30 16:14:28",
+      "update_date": "2021-03-26 13:32:34",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Долой оковы",
-      "title_en": "Unchained",
-      "year": 2021,
-      "kinopoisk_id": 1295519,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-02 12:28:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Восхождение сэра Лонгботтома",
-      "title_en": "The Rise of Sir Longbottom",
-      "year": 2021,
-      "kinopoisk_id": 1221348,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-02 12:27:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Она была женой помощника шерифа",
-      "title_en": "She Was the Deputy's Wife",
-      "year": 2021,
-      "kinopoisk_id": 1255539,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-02 12:26:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/901421.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=127783",
+      "serial_episodes": [
+        {
+          "season_number": 6,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Рокко Скьявоне",
@@ -1086,40 +1127,6 @@
             5,
             6,
             7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Леонардо",
-      "title_en": "Leonardo",
-      "year": 2021,
-      "kinopoisk_id": 1330386,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "88580cf091fbfd2a001c150e48a7bad7f64332280645da4ee2ee75a45f332b58",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-24 09:04:20",
-      "update_date": "2021-03-24 14:34:10",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1330386.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

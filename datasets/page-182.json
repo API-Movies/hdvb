@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Игрок",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 4298771,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-01 11:12:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вдова",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 999460,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-01 09:23:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пикси",
+      "title_en": "Pixie",
+      "year": 2020,
+      "kinopoisk_id": 1296668,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-01 04:47:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Девушка, подающая надежды",
+      "title_en": "Promising Young Woman",
+      "year": 2020,
+      "kinopoisk_id": 1236567,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-01 04:46:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "DVDScr"
+    },
+    {
       "title_ru": "Земля кочевников",
       "title_en": "Nomadland",
       "year": 2020,
@@ -209,56 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Инфецированая плоть",
-      "title_en": "Flesh Contagium",
-      "year": 2020,
-      "kinopoisk_id": 1416221,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-31 02:26:01",
-      "block": false,
+      "title_ru": "Татау",
+      "title_en": "Tatau",
+      "year": 2015,
+      "kinopoisk_id": 905069,
+      "world_art_id": null,
       "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Забавы куклы убийцы",
-      "title_en": "Doll Murder Spree",
-      "year": 2020,
-      "kinopoisk_id": 857920,
-      "type": "movie",
+      "token": "b3c8ccd9d7d39d0f3cfa1327c01165523be828b304379b83a58cd50c7ecb3703",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-31 02:24:01",
+      "added_date": "2020-10-01 16:41:13",
+      "update_date": "2020-10-01 16:43:14",
       "block": false,
-      "translator": "многоголосый закадровый",
       "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Проклятье сирены",
-      "title_en": "Witches of the Water",
-      "year": 2019,
-      "kinopoisk_id": 1264373,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-31 01:02:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "История о рыцаре",
-      "title_en": "Tale of wuxia",
-      "year": 2020,
-      "kinopoisk_id": 56567864,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-31 01:01:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/905069.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Ищейка",
@@ -1435,42 +1469,6 @@
           "episodes": [
             1,
             2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Куколка",
-      "title_en": "Dollface",
-      "year": 2019,
-      "kinopoisk_id": 1101983,
-      "world_art_id": null,
-      "translator": "Кириллица",
-      "token": "abffd2ed86e771e5de686cef9b057e9c8b1c8cf9a1befc6e0ff0ad25300fba43",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-29 02:43:48",
-      "update_date": "2020-09-29 02:45:41",
-      "block": false,
-      "translator_id": 123,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1101983.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

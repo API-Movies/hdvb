@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Земля кочевников",
+      "title_en": "Nomadland",
+      "year": 2020,
+      "kinopoisk_id": 1238506,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-28 13:09:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Стандарт",
+      "title_en": "Estándar",
+      "year": 2020,
+      "kinopoisk_id": 1317364,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-28 13:08:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Рождественский ужин",
+      "title_en": "Cooking Up Christmas",
+      "year": 2020,
+      "kinopoisk_id": 1417606,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-28 13:06:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Она написала Рождество",
+      "title_en": "Christmas She Wrote",
+      "year": 2020,
+      "kinopoisk_id": 1441409,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-28 13:03:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
       "title_ru": "Женский кровавый спорт",
       "title_en": "Girl Blood Sport",
       "year": 2019,
@@ -209,56 +261,63 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Слойка",
-      "title_en": "Turnover",
-      "year": 2019,
-      "kinopoisk_id": 820205,
-      "type": "movie",
+      "title_ru": "Истсайдеры",
+      "title_en": "Eastsiders",
+      "year": 2012,
+      "kinopoisk_id": 839974,
+      "world_art_id": null,
+      "translator": "GoldTeam",
+      "token": "ed1a3de6cbe7d8dd222f1faabdb84f3bbf09abaf523f3cc87abd9f82a5b80237",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-27 19:59:01",
+      "added_date": "2020-09-25 21:26:52",
+      "update_date": "2020-09-25 21:27:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сводная сестра",
-      "title_en": "Polsestra",
-      "year": 2020,
-      "kinopoisk_id": 1273374,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-27 19:58:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Гостиница к Рождеству",
-      "title_en": "Inn Love by Christmas / Inn for Christmas / A Kiss for Christmas",
-      "year": 2020,
-      "kinopoisk_id": 1345150,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-27 19:57:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Макабр",
-      "title_en": "Macabro",
-      "year": 2020,
-      "kinopoisk_id": 1274011,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-27 19:54:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 141,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/839974.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Фалько",
@@ -1204,50 +1263,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Лунный свет, нарисованный облаками",
-      "title_en": "Gureumi geurin dalbit",
-      "year": 2016,
-      "kinopoisk_id": 981103,
-      "world_art_id": null,
-      "translator": "Мобильное телевидение",
-      "token": "27e3e3e5e1e8f4008bb7b74f29e1e6ed08fc6e6ef7a123ff5f1d958b311eb2d4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-24 22:53:48",
-      "update_date": "2020-09-24 22:56:38",
-      "block": false,
-      "translator_id": 133,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/981103.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
           ]
         }
       ]

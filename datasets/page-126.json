@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Айнбо. Сердце Амазонии",
+      "title_en": "AINBO: Spirit of the Amazon",
+      "year": 2021,
+      "kinopoisk_id": 1113699,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-21 18:01:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Волшебный город",
+      "title_en": "Magic Town",
+      "year": 2021,
+      "kinopoisk_id": 80860560,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-21 18:00:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дикие травы",
+      "title_en": "Qiao mai feng zhang",
+      "year": 2020,
+      "kinopoisk_id": 1252535,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-21 17:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Детектив по телефону",
+      "title_en": "The Landline Detective",
+      "year": 2020,
+      "kinopoisk_id": 1125048,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-21 17:58:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Маркэм",
       "title_en": "Markham",
       "year": 2020,
@@ -209,56 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Святая",
-      "title_en": "Divine / Der Große Andere / Der göttliche Andere",
+      "title_ru": "Чёрно-белая семёрка",
+      "title_en": "Dark 7 White",
       "year": 2020,
-      "kinopoisk_id": 1293402,
-      "type": "movie",
+      "kinopoisk_id": 1428860,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "6cd5c6e04297701cf9b7adce341e3af9d3fd092d3a9759bd7b8fcbb3b3dc3f45",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-21 09:30:01",
+      "added_date": "2020-11-27 16:46:24",
+      "update_date": "2020-12-06 13:08:51",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мёртвая частота",
-      "title_en": "Dead Air",
-      "year": 2021,
-      "kinopoisk_id": 1378050,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-21 09:29:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сожги всё",
-      "title_en": "Burn It All",
-      "year": 2021,
-      "kinopoisk_id": 1201729,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-21 09:27:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Тямбара стриптиз",
-      "title_en": "Oppai Chanbara",
-      "year": 2008,
-      "kinopoisk_id": 576440,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-21 08:48:01",
-      "block": false,
-      "translator": "одноголосый закадровый",
-      "translator_id": 93,
-      "quality": "DVDRip"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1428860.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Воин",
@@ -1527,38 +1563,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Магнус",
-      "title_en": "Magnus",
-      "year": 2019,
-      "kinopoisk_id": 1155378,
-      "world_art_id": null,
-      "translator": "Игмар",
-      "token": "d241113da3afa2419219a2d7844aadee38363983594421a52035977373e94f74",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-05 19:47:43",
-      "update_date": "2020-12-05 19:49:04",
-      "block": false,
-      "translator_id": 160,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1155378.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

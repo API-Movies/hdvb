@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "В утробе",
+      "title_en": "In Utero",
+      "year": 2019,
+      "kinopoisk_id": 1067550,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-26 16:53:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "",
+      "title_en": "Hüvasti, NSVL",
+      "year": 2019,
+      "kinopoisk_id": 1224438,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-26 16:52:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сладостный Кошмар на Хэллоуин",
+      "title_en": "Halloween Candymare",
+      "year": 2019,
+      "kinopoisk_id": 11084764,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-26 16:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Бабулины мальчики",
+      "title_en": "Grandma Boyz",
+      "year": 2019,
+      "kinopoisk_id": 1189895,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-26 16:47:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Печь",
       "title_en": "The Furnace",
       "year": 2020,
@@ -209,56 +261,35 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Замок и ключ 2: Последствия",
-      "title_en": "Lock &amp; Key 2: The Fallout",
-      "year": 2019,
-      "kinopoisk_id": 1400403,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-26 00:06:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "День города",
+      "title_ru": "Алиса",
       "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1402921,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-25 17:25:02",
-      "block": false,
+      "year": 2020,
+      "kinopoisk_id": 1345602,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "2e00729eddfceea2ca267a5f87fdfcae9e8b9768248af56273552520ca71fb3e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-30 18:40:31",
+      "update_date": "2020-10-30 18:41:15",
+      "block": false,
       "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Вчерашний день остался в прошлом",
-      "title_en": "Yesterday went with Yesterda",
-      "year": 2019,
-      "kinopoisk_id": 7545044,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-25 17:24:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Акулий вирус",
-      "title_en": "Virus Shark",
-      "year": 2021,
-      "kinopoisk_id": 13785940,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-25 17:23:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1345602.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Отель Элеон",
@@ -1152,55 +1183,6 @@
             16,
             17,
             18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Арчер",
-      "title_en": "Archer",
-      "year": 2009,
-      "kinopoisk_id": 491547,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "f52de2fb0168e865f529884cf1a63de2a59a8ca30a57c6f6f864bc825e5a5381",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-06-02 00:15:17",
-      "update_date": "2020-10-29 13:57:21",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/491547.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=21736",
-      "serial_episodes": [
-        {
-          "season_number": 10,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        },
-        {
-          "season_number": 11,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Интрижка",
+      "title_en": "Hooking Up",
+      "year": 2020,
+      "kinopoisk_id": 1245589,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-01 20:57:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Наследие Скайуокера",
+      "title_en": "The Skywalker Legacy",
+      "year": 2020,
+      "kinopoisk_id": 1366392,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-01 20:27:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Виктор и Селия",
+      "title_en": "Victor et Célia",
+      "year": 2019,
+      "kinopoisk_id": 1200701,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-01 20:26:05",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Прослушивание",
+      "title_en": "Das Vorspiel / The Audition / L'Audition",
+      "year": 2019,
+      "kinopoisk_id": 1172057,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-01 15:36:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "DVDRip"
+    },
+    {
       "title_ru": "Моффи",
       "title_en": "Moffie",
       "year": 2019,
@@ -209,56 +261,34 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Капитан Голливуд",
-      "title_en": "",
+      "title_ru": "Рестлинг-шоу от &quot;All Elite Wrestling&quot;",
+      "title_en": "All Elite Wrestling: Dynamite",
       "year": 2019,
-      "kinopoisk_id": 1311540,
-      "type": "movie",
+      "kinopoisk_id": 1289010,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "5d919df1fb90631f4784db0004beff1a6d9ab153b0cbc005604fe63903542c96",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-01 10:37:02",
+      "added_date": "2019-12-16 10:47:09",
+      "update_date": "2019-12-16 10:47:09",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Махинаторы",
-      "title_en": "Schemers",
-      "year": 2020,
-      "kinopoisk_id": 1006259,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-31 23:20:02",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Шутки в сторону",
-      "title_en": "Seriously Single",
-      "year": 2020,
-      "kinopoisk_id": 1392013,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-31 22:14:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Чёрный - цвет королей",
-      "title_en": "Black Is King",
-      "year": 2020,
-      "kinopoisk_id": 1390874,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-31 22:13:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1289010.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Джокер",
@@ -1020,39 +1050,6 @@
       "serial_episodes": [
         {
           "season_number": 6,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Миссис Флетчер",
-      "title_en": "Mrs. Fletcher",
-      "year": 2019,
-      "kinopoisk_id": 1118647,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "5848da3b71b2a26fd98944c96266d65de19308f9f2b10d800c3371efeb4d004c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-09 11:42:49",
-      "update_date": "2019-12-09 11:42:49",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1118647.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 7,
           "episodes": [
             1,

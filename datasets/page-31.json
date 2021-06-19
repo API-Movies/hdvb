@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Без Грэйс",
+      "title_en": "Without Grace",
+      "year": 2021,
+      "kinopoisk_id": 901203,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-19 14:31:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Новый порядок",
+      "title_en": "Nuevo orden",
+      "year": 2020,
+      "kinopoisk_id": 1390940,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-19 14:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Лодочница",
+      "title_en": "La botera",
+      "year": 2019,
+      "kinopoisk_id": 1376174,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-19 14:29:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ферри",
+      "title_en": "Ferry",
+      "year": 2021,
+      "kinopoisk_id": 14217100,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-19 14:28:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Дом 616 на Уилфорд-Лейн",
       "title_en": "616 Wilford Lane",
       "year": 2021,
@@ -209,56 +261,32 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Куклы-убийцы Чёрного солнца",
-      "title_en": "Sikkfukks: The Black Sun Snuff Dolls",
-      "year": 2019,
-      "kinopoisk_id": 1224930,
-      "type": "movie",
+      "title_ru": "Marvel Studios: Assembled",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4384124,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "2fadaf078d17a7ae9fec0bfadd49446352b30b6f54f31964b77687a3bbb0e63d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-18 00:43:01",
+      "added_date": "2021-03-12 19:30:32",
+      "update_date": "2021-04-30 22:21:45",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Розовый туман",
-      "title_en": "Pink Opaque",
-      "year": 2020,
-      "kinopoisk_id": 1283684,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-18 00:42:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Атмосфера в офисе",
-      "title_en": "Office Air",
-      "year": 2020,
-      "kinopoisk_id": 1089218,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-18 00:41:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "",
-      "title_en": "La preuve scientifique de l'existence de Dieu",
-      "year": 2019,
-      "kinopoisk_id": 1235269,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-18 00:40:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4384124.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Харлан Кобен. Невиновен",
@@ -1026,96 +1054,6 @@
             16,
             16,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Тьма",
-      "title_en": "Dark",
-      "year": 2017,
-      "kinopoisk_id": 1032606,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "ad5f293c1807e63cb606a835b3499ab8779b93fc5dd70f237751b3206a3e98c0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-26 16:43:45",
-      "update_date": "2021-04-28 15:27:54",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1032606.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=144547",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            1,
-            2,
-            2,
-            3,
-            3,
-            4,
-            4,
-            5,
-            5,
-            6,
-            6,
-            7,
-            7,
-            8,
-            8,
-            9,
-            9,
-            10,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            1,
-            2,
-            2,
-            3,
-            3,
-            4,
-            4,
-            5,
-            5,
-            6,
-            6,
-            7,
-            7,
-            8,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            1,
-            2,
-            2,
-            3,
-            3,
-            4,
-            4,
-            5,
-            5,
-            6,
-            6,
-            7,
-            7,
-            8,
-            8
           ]
         }
       ]

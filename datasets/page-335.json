@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Шазам!",
+      "title_en": "Shazam!",
+      "year": 2019,
+      "kinopoisk_id": 840372,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 22:38:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Человек-паук: Возвращение домой",
+      "title_en": "Spider-Man: Homecoming",
+      "year": 2017,
+      "kinopoisk_id": 690593,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 22:37:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Холоп",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1183582,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 22:36:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Темный рыцарь",
+      "title_en": "The Dark Knight",
+      "year": 2008,
+      "kinopoisk_id": 111543,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 22:35:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Сумерки. Сага. Рассвет: Часть 2",
       "title_en": "The Twilight Saga: Breaking Dawn - Part 2",
       "year": 2012,
@@ -209,56 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "После моего ухода",
-      "title_en": "The Day After I'm Gone",
-      "year": 2019,
-      "kinopoisk_id": 1220978,
-      "type": "movie",
+      "title_ru": "Соболезную вашей утрате",
+      "title_en": "Sorry for Your Loss",
+      "year": 2018,
+      "kinopoisk_id": 1114060,
+      "world_art_id": null,
+      "translator": "IdeaFilm",
+      "token": "87955b1fc54bbae45a3e3883be573f00bcb0c80b937993afc10f3a0d28549724",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-24 12:04:01",
+      "added_date": "2019-10-31 12:13:30",
+      "update_date": "2019-10-31 12:13:30",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ода страсти",
-      "title_en": "Ode to Passion",
-      "year": 2020,
-      "kinopoisk_id": 1081368,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-24 12:03:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Одной ногой на том свете",
-      "title_en": "Nearly Departed",
-      "year": 2019,
-      "kinopoisk_id": 1021041,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-24 12:02:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сделано в Бангладеш",
-      "title_en": "Made in Bangladesh",
-      "year": 2019,
-      "kinopoisk_id": 1164819,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-24 12:00:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 35,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1114060.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Паранормальный Веллингтон",
@@ -1027,40 +1063,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мосгаз. Новое дело майора Черкасова",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 145125415,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "dec0df1cec50006879e40480d30f207adcd0da8424449921475508f3300b0a74",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-24 17:56:50",
-      "update_date": "2019-10-24 17:56:50",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DLRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/145125415.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

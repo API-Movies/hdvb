@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Ириша, дочь короля эльфов",
+      "title_en": "Mawangui ttal Irisya",
+      "year": 2019,
+      "kinopoisk_id": 1295478,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-02 14:36:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Привет и прощай",
+      "title_en": "Hello &amp; Goodbye",
+      "year": 2018,
+      "kinopoisk_id": 789222,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-02 14:35:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "На тридцать лет старше",
+      "title_en": "El doble más quince",
+      "year": 2019,
+      "kinopoisk_id": 1169596,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-02 14:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дульсинея",
+      "title_en": "Dulcinea",
+      "year": 2018,
+      "kinopoisk_id": 4436673,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-02 14:33:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Отправление",
       "title_en": "Departure",
       "year": 2019,
@@ -209,56 +261,62 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Последний монолог",
-      "title_en": "Last Call / Dominion",
-      "year": 2020,
-      "kinopoisk_id": 808875,
-      "type": "movie",
+      "title_ru": "Люцифер",
+      "title_en": "Lucifer",
+      "year": 2015,
+      "kinopoisk_id": 893621,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "24eb308add4d30b82cdfce4840cfef4324450762b8ebea981350886775d7f05b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-01 23:40:01",
+      "added_date": "2019-08-25 14:48:19",
+      "update_date": "2021-05-29 09:45:08",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Обед в Америке",
-      "title_en": "Dinner in America",
-      "year": 2020,
-      "kinopoisk_id": 1198460,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-01 23:39:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Помогите, я уменьшил своих родителей!",
-      "title_en": "Hilfe, ich hab meine Eltern geschrumpft",
-      "year": 2018,
-      "kinopoisk_id": 1071904,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-01 23:38:01",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Служу отечеству!",
-      "title_en": "National Interest Ultimate Loyalty",
-      "year": 2021,
-      "kinopoisk_id": 46748546,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-01 23:26:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/893621.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&trailer_id=120980",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Luther",
@@ -1305,40 +1363,6 @@
             7,
             7,
             8,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "8 способов любить",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 4375661,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "4f74f97bb9e34dafdeaf02895a367f3001d61b4e176c74b8347b41af2b7b74b7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-06 21:02:51",
-      "update_date": "2021-05-27 20:55:32",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4375661.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
             8
           ]
         }

@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Только для взрослых",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1338060,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-08 19:23:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "SATRip"
+    },
+    {
+      "title_ru": "Чёрный круг",
+      "title_en": "Svart Cirkel",
+      "year": 2018,
+      "kinopoisk_id": 980607,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-08 16:23:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Поездка на озеро Гарда",
+      "title_en": "Endlich Gardasee!",
+      "year": 2018,
+      "kinopoisk_id": 1103412,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-08 16:22:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Сопротивление: История Ю Гван-сун",
+      "title_en": "Hanggeo: Yoo Gwan-soon iyagi / A Resistance",
+      "year": 2019,
+      "kinopoisk_id": 1216727,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-08 16:21:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Сиам Сквер / Площадь Сиам",
       "title_en": "Siam Square",
       "year": 2017,
@@ -209,56 +261,54 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Атлант",
-      "title_en": "Atlas",
-      "year": 2018,
-      "kinopoisk_id": 968689,
-      "type": "movie",
+      "title_ru": "Профессор Т.",
+      "title_en": "Professor T.",
+      "year": 2017,
+      "kinopoisk_id": 1209807,
+      "world_art_id": null,
+      "translator": "ViruseProject",
+      "token": "86827253250f9ac1954e870742ef2f6d2d70ec72b5817f12477d04131a93abdc",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-07 23:10:01",
+      "added_date": "2020-05-09 23:15:57",
+      "update_date": "2020-05-09 23:15:57",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "100 килограммов звезд",
-      "title_en": "100 kilos d'étoiles",
-      "year": 2019,
-      "kinopoisk_id": 1122311,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-07 23:08:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "После. Глава 2",
-      "title_en": "After We Collided",
-      "year": 2020,
-      "kinopoisk_id": 1281638,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-07 23:07:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Маленькая страна",
-      "title_en": "Small Country: An African Childhood / Petit pays",
-      "year": 2020,
-      "kinopoisk_id": 1237235,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-07 23:05:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 72,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1209807.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Диггстаун",
@@ -994,58 +1044,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мертв для меня",
-      "title_en": "Dead to Me",
-      "year": 2019,
-      "kinopoisk_id": 1171979,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "fcf3d51a8359fc4a6e66f2dac9898b695ba1200328d500ae6887caeb79999dfa",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-08 22:02:12",
-      "update_date": "2020-05-08 22:02:12",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1171979.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

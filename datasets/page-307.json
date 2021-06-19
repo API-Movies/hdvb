@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Внуки для новичков",
+      "title_en": "Enkel für Anfänger",
+      "year": 2020,
+      "kinopoisk_id": 1263777,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-23 00:22:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Пенальти",
+      "title_en": "Penalty",
+      "year": 2019,
+      "kinopoisk_id": 1278191,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-23 00:20:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Тень отца",
+      "title_en": "A Sombra do Pai",
+      "year": 2018,
+      "kinopoisk_id": 1076390,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-23 00:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Посмотри на птиц",
+      "title_en": "Bozkir Kuslara Bak Kuslara",
+      "year": 2019,
+      "kinopoisk_id": 1191505,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-23 00:18:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Химические сердца",
       "title_en": "Chemical Hearts",
       "year": 2020,
@@ -209,56 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Стальной дождь 2: Саммит",
-      "title_en": "Gangcheolbi 2: jeongsanghoedam",
+      "title_ru": "Звёздный путь: Пикар",
+      "title_en": "Star Trek: Picard",
       "year": 2020,
-      "kinopoisk_id": 1275452,
-      "type": "movie",
+      "kinopoisk_id": 1178022,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "175f083c0fb0eb196aba6289e99551add1383e2ebfc5ffbdc42002771983fa83",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-22 21:33:02",
+      "added_date": "2020-03-26 20:15:16",
+      "update_date": "2020-03-26 20:15:16",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Берлин, Александерплац",
-      "title_en": "Berlin Alexanderplatz",
-      "year": 2020,
-      "kinopoisk_id": 1038423,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-22 21:32:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Ужасные джунгли",
-      "title_en": "Terrible jungle",
-      "year": 2020,
-      "kinopoisk_id": 1286246,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-22 21:30:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Дед, привет!",
-      "title_en": "Ilosia aikoja, Mielensäpahoittaja",
-      "year": 2018,
-      "kinopoisk_id": 1042605,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-22 20:58:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1178022.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Стамптаун",
@@ -1136,38 +1172,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Джона с острова Тонга",
-      "title_en": "Jonah from Tonga",
-      "year": 2014,
-      "kinopoisk_id": 818949,
-      "world_art_id": null,
-      "translator": "АРК ТВ",
-      "token": "0c70a49d52f32ddeaac1f102d37d8d7ba0e18b1103a70e7f4e7c8cc10f2e95a0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-22 08:10:09",
-      "update_date": "2020-03-22 08:10:09",
-      "block": false,
-      "translator_id": 77,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/818949.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

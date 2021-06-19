@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Знатная пьянка",
+      "title_en": "Proper Binge",
+      "year": 2017,
+      "kinopoisk_id": 709299,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-27 23:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Как первая рюмка",
+      "title_en": "Cheotjancheoreom",
+      "year": 2019,
+      "kinopoisk_id": 1289031,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-27 23:49:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Слэйт",
+      "title_en": "Seulleiteu",
+      "year": 2020,
+      "kinopoisk_id": 1445146,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-27 23:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Окна в мир",
+      "title_en": "Windows on the World",
+      "year": 2019,
+      "kinopoisk_id": 1054785,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-27 23:46:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "ВЕСЬ МИР НА ПЛЕЧАХ",
       "title_en": "Il Mondo Sulle Spalle",
       "year": 2019,
@@ -209,56 +261,42 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Первый сигнал",
-      "title_en": "First Signal",
-      "year": 2021,
-      "kinopoisk_id": 1122359,
-      "type": "movie",
+      "title_ru": "Би: Начало",
+      "title_en": "B: The Beginning",
+      "year": 2018,
+      "kinopoisk_id": 1107878,
+      "world_art_id": null,
+      "translator": "KANSAI",
+      "token": "cf0e253c8a66948d461801b2a0d8c72367f1120a857a0e9d9fcb581349b98a05",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-27 11:33:01",
+      "added_date": "2021-03-18 18:06:08",
+      "update_date": "2021-03-18 18:06:58",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Бухта",
-      "title_en": "Escape to the Cove",
-      "year": 2021,
-      "kinopoisk_id": 1402226,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-27 11:32:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Отчаянный ход",
-      "title_en": "The Last Full Measure",
-      "year": 2019,
-      "kinopoisk_id": 820701,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-27 09:43:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "После Чернобыля",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 667893,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-27 09:42:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
+      "translator_id": 40,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1107878.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Наша девочка",
@@ -1266,43 +1304,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Расследования Мердока",
-      "title_en": "Murdoch Mysteries",
-      "year": 2008,
-      "kinopoisk_id": 431247,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "1b96516960f2e92d5e33817223cc6585ac3564b2dcf3e063ca654aab3ab20322",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-05 20:51:22",
-      "update_date": "2021-03-16 12:36:27",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/431247.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=20567",
-      "serial_episodes": [
-        {
-          "season_number": 14,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
           ]
         }
       ]

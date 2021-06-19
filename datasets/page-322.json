@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Старая дева",
+      "title_en": "Spinster",
+      "year": 2020,
+      "kinopoisk_id": 1151246,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-07 17:55:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Тёмная бездна",
+      "title_en": "Black Water: Abyss",
+      "year": 2020,
+      "kinopoisk_id": 1275268,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-07 17:53:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Таинственный сад",
+      "title_en": "The Secret Garden",
+      "year": 2020,
+      "kinopoisk_id": 737900,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-07 16:40:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сделано в Италии",
+      "title_en": "Made in Italy",
+      "year": 2020,
+      "kinopoisk_id": 1207701,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-07 16:32:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "В ожидании варваров",
       "title_en": "Waiting for the Barbarians",
       "year": 2020,
@@ -209,56 +261,46 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Тьма поджидает",
-      "title_en": "Darkness Waits",
-      "year": 2020,
-      "kinopoisk_id": 56266755,
-      "type": "movie",
+      "title_ru": "Звёздный путь: Короткометражки",
+      "title_en": "Star Trek: Short Treks",
+      "year": 2018,
+      "kinopoisk_id": 1198462,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "a2ec828a41b8fcd622a77ad0ca90aa90a174765d9c0e419484c28a362adaa8cf",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-06 21:56:01",
+      "added_date": "2020-01-14 17:41:25",
+      "update_date": "2020-01-14 17:41:25",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Соблазн",
-      "title_en": "Cruel Fixation",
-      "year": 2020,
-      "kinopoisk_id": 1264362,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-06 21:54:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Рождественский купон",
-      "title_en": "Christmas Coupon",
-      "year": 2020,
-      "kinopoisk_id": 1256668,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-06 21:52:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Перемещение",
-      "title_en": "Shifter",
-      "year": 2020,
-      "kinopoisk_id": 1343954,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-06 19:26:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1198462.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Медицинская полиция",
@@ -1055,35 +1097,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дракула",
-      "title_en": "Dracula",
-      "year": 2020,
-      "kinopoisk_id": 1202266,
-      "world_art_id": null,
-      "translator": "Невафильм",
-      "token": "a7115908a1f230507795010084f8cff208baf3d1456f0dd754a0f3e74e8088a0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-06 09:50:35",
-      "update_date": "2020-01-06 09:50:35",
-      "block": false,
-      "translator_id": 90,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1202266.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
           ]
         }
       ]

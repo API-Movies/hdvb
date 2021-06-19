@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Все мертвецы",
+      "title_en": "Todos os Mortos",
+      "year": 2020,
+      "kinopoisk_id": 1181025,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-16 19:42:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Супернова",
+      "title_en": "Supernova",
+      "year": 2020,
+      "kinopoisk_id": 1317850,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-16 19:41:02",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Трафик",
+      "title_en": "Crisis",
+      "year": 2021,
+      "kinopoisk_id": 1237488,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-16 19:40:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "День курка",
+      "title_en": "Boss Level",
+      "year": 2020,
+      "kinopoisk_id": 1101569,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-16 19:39:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Ясновидящая",
       "title_en": "",
       "year": 2009,
@@ -209,56 +261,84 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "",
-      "title_en": "",
-      "year": 0,
-      "kinopoisk_id": null,
-      "type": "movie",
+      "title_ru": "Звёздный путь: Дискавери",
+      "title_en": "Star Trek: Discovery",
+      "year": 2017,
+      "kinopoisk_id": 977754,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "933586b575b9c640948941402cc7d31fa460cef3f627400d573e1b28ae2b0abb",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "1970-01-01 03:00:00",
+      "added_date": "2020-10-15 22:44:03",
+      "update_date": "2021-01-09 18:41:44",
       "block": false,
-      "translator": "",
-      "translator_id": 0,
-      "quality": ""
-    },
-    {
-      "title_ru": "",
-      "title_en": "",
-      "year": 0,
-      "kinopoisk_id": null,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "1970-01-01 03:00:00",
-      "block": false,
-      "translator": "",
-      "translator_id": 0,
-      "quality": ""
-    },
-    {
-      "title_ru": "",
-      "title_en": "",
-      "year": 0,
-      "kinopoisk_id": null,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "1970-01-01 03:00:00",
-      "block": false,
-      "translator": "",
-      "translator_id": 0,
-      "quality": ""
-    },
-    {
-      "title_ru": "Доверие",
-      "title_en": "Trust",
-      "year": 2021,
-      "kinopoisk_id": 1332745,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-14 19:41:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/977754.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Все ненавидят Криса",
@@ -1572,40 +1652,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Алиса в Пограничье",
-      "title_en": "Alice in Borderland (Imawa no Kuni no Arisu)",
-      "year": 2020,
-      "kinopoisk_id": 1293403,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "a13fec570e31f23248c5ed1b010c976e294b65896133f11c8f389d1853e6d8d0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-13 22:33:00",
-      "update_date": "2021-01-07 23:04:11",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1293403.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

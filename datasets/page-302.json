@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Стены памяти",
+      "title_en": "Les murs du souvenir",
+      "year": 2019,
+      "kinopoisk_id": 1264105,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-27 23:24:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Мост забытых влюбленных",
+      "title_en": "Le pont des oubliés",
+      "year": 2019,
+      "kinopoisk_id": 1297390,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-27 23:23:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Куриный забег",
+      "title_en": "Elleville Elfrid",
+      "year": 2020,
+      "kinopoisk_id": 1230200,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-27 23:22:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Взлёты и падения: отбросы",
+      "title_en": "High &amp; Low: The Worst",
+      "year": 2019,
+      "kinopoisk_id": 1320551,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-27 23:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "В ловушке: День ужаса",
       "title_en": "Entrapped: a day of terror",
       "year": 2019,
@@ -209,56 +261,60 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Перезагрузка",
-      "title_en": "ReRUN",
-      "year": 2018,
-      "kinopoisk_id": 879780,
-      "type": "movie",
+      "title_ru": "Подпольная империя",
+      "title_en": "Boardwalk Empire",
+      "year": 2010,
+      "kinopoisk_id": 474779,
+      "world_art_id": null,
+      "translator": "Первый канал",
+      "token": "9c56fbc68ae98a2bac8898b38cb3d8590eed71ac7d978d41ec599a420d6e8c63",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-26 20:44:02",
+      "added_date": "2020-04-11 22:51:12",
+      "update_date": "2020-04-11 22:51:12",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Выкуп",
-      "title_en": "Redemption / Resgate",
-      "year": 2019,
-      "kinopoisk_id": 1256003,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-26 20:43:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Турецкий Геркулес",
-      "title_en": "Cep Herkülü: Naim Süleymanoglu",
-      "year": 2020,
-      "kinopoisk_id": 1227819,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-26 20:41:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Микель",
-      "title_en": "Mihkel",
-      "year": 2020,
-      "kinopoisk_id": 877259,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-26 20:39:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 94,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/474779.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Небо в цвету!",
@@ -1141,52 +1197,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Резидент",
-      "title_en": "The Resident",
-      "year": 2018,
-      "kinopoisk_id": 1013917,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "13a66dccc604b12e4e1b1e299cb38bcf582e471ad9249014ba95b3e223d2a7ef",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-08 13:51:43",
-      "update_date": "2020-04-08 13:51:43",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1013917.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
           ]
         }
       ]

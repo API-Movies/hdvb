@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Собака-Бомба",
+      "title_en": "Perro Bomba",
+      "year": 2019,
+      "kinopoisk_id": 1198886,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-25 17:27:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Рай - новая жизнь",
+      "title_en": "Paradise - Una nuova vita",
+      "year": 2019,
+      "kinopoisk_id": 1255317,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-25 17:26:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Папа-ютубер",
+      "title_en": "Papá Youtuber",
+      "year": 2019,
+      "kinopoisk_id": 1264292,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-25 17:25:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вне времени",
+      "title_en": "Out of Time",
+      "year": 2019,
+      "kinopoisk_id": 7682204,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-25 17:24:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Однажды в Сад Хилл",
       "title_en": "Once Upon a Time in Sad Hill",
       "year": 2019,
@@ -209,56 +261,41 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Я сумасшедший",
-      "title_en": "Em La Cua Em",
+      "title_ru": "Великий север",
+      "title_en": "The Great North",
       "year": 2021,
-      "kinopoisk_id": 13830964,
-      "type": "movie",
+      "kinopoisk_id": 1202423,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "804b70d152452c8a19a0ac7b326cd629bd03a733e6cb0a8cfd1760e83a19b182",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-24 23:09:01",
+      "added_date": "2021-01-04 11:36:41",
+      "update_date": "2021-05-17 10:34:49",
       "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Американский Барсук",
-      "title_en": "American Badger",
-      "year": 2021,
-      "kinopoisk_id": 1394261,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-24 23:07:01",
-      "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "15 фактов, которые вы не знали о бигфуте",
-      "title_en": "The VICE Guide to Bigfoot",
-      "year": 2021,
-      "kinopoisk_id": 1344166,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-24 23:06:01",
-      "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Убийцы с коробкой игрушек",
-      "title_en": "Toy Box Killers",
-      "year": 2021,
-      "kinopoisk_id": 1221288,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-24 21:17:01",
-      "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1202423.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Гриффины",
@@ -1086,40 +1123,6 @@
       "serial_episodes": [
         {
           "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Любовь. Смерть. Роботы",
-      "title_en": "Love, Death &amp; Robots",
-      "year": 2019,
-      "kinopoisk_id": 1228254,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "212a7c2bd0c887d5091e9e2961d2bb351dcd6983daeca047650b447a687b29f1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-15 10:56:42",
-      "update_date": "2021-05-15 10:58:30",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1228254.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
           "episodes_count": 8,
           "episodes": [
             1,

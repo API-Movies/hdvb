@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Девятаев",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1249213,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-05 00:36:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Разлука",
+      "title_en": "Separation",
+      "year": 2021,
+      "kinopoisk_id": 1210811,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-05 00:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "У меня свидание с весной",
+      "title_en": "Nawa bomnaleui yaksok",
+      "year": 2018,
+      "kinopoisk_id": 1111691,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-05 00:33:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Земля кочевников",
+      "title_en": "Nomadland",
+      "year": 2020,
+      "kinopoisk_id": 1238506,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-05 00:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Три женщины",
       "title_en": "Respect / 3 Women",
       "year": 2020,
@@ -209,56 +261,56 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Жизненная история",
-      "title_en": "Realna prica",
+      "title_ru": "Формула 1: Гонять, чтобы выживать",
+      "title_en": "Formula 1: Drive to Survive",
       "year": 2019,
-      "kinopoisk_id": 1311743,
-      "type": "movie",
+      "kinopoisk_id": 1240162,
+      "world_art_id": null,
+      "translator": "Пифагор",
+      "token": "441b544675c23c8af8cf6db44d786c9a2138efe2cf2ed38962223e9a38c8b0cf",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-04 00:35:01",
+      "added_date": "2020-03-03 12:15:20",
+      "update_date": "2021-03-28 00:02:46",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Макоки: любовь до гроба",
-      "title_en": "Makoki: Un Amor de Muerte",
-      "year": 2019,
-      "kinopoisk_id": 1188900,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-04 00:34:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Убийство в Сен-Поль-де-Вансе",
-      "title_en": "Le prix de la vérité",
-      "year": 2017,
-      "kinopoisk_id": 1116924,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-04 00:33:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Тень женщины-детектива",
-      "title_en": "Lady Detective Shadow",
-      "year": 2018,
-      "kinopoisk_id": 1149463,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-04 00:31:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 124,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1240162.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Роллерша",
@@ -1123,47 +1175,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Супермаркет",
-      "title_en": "Superstore",
-      "year": 2015,
-      "kinopoisk_id": 901421,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "dab0ce4fb851eda661a40bc89ba935ac873a6944e8253936049f787e2db15279",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-30 16:14:28",
-      "update_date": "2021-03-26 13:32:34",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/901421.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=127783",
-      "serial_episodes": [
-        {
-          "season_number": 6,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
           ]
         }
       ]

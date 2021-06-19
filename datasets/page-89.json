@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Буги",
+      "title_en": "Boogie",
+      "year": 2021,
+      "kinopoisk_id": 1300829,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-26 18:35:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Медовый месяц",
+      "title_en": "The Honeymoon Phase",
+      "year": 2020,
+      "kinopoisk_id": 1072015,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-26 18:17:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Щенячья школа",
+      "title_en": "Pick of the Litter",
+      "year": 2018,
+      "kinopoisk_id": 978306,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-26 18:16:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Тени",
+      "title_en": "Shadows",
+      "year": 2020,
+      "kinopoisk_id": 1318071,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-26 16:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "DVD 2",
       "title_en": "DVD 2",
       "year": 2019,
@@ -209,56 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Инициация 21",
-      "title_en": "Initiation 21 / On the Run",
+      "title_ru": "Поверьте Вере",
+      "title_en": "",
       "year": 2019,
-      "kinopoisk_id": 996346,
-      "type": "movie",
+      "kinopoisk_id": 5465554,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "be2472246953a0b1f9bde11b580da0b3fb3a5b90b55b2f2f69480786963c7d9c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-25 15:31:01",
+      "added_date": "2021-01-24 16:37:43",
+      "update_date": "2021-01-24 16:38:03",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Случайное рождественское чудо",
-      "title_en": "Christmas by Chance",
-      "year": 2020,
-      "kinopoisk_id": 1380679,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-25 15:30:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Упокоенные души",
-      "title_en": "Canto dos Ossos",
-      "year": 2020,
-      "kinopoisk_id": 11762546,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-25 15:29:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Арус Мерах",
-      "title_en": "Arus Merah",
-      "year": 2020,
-      "kinopoisk_id": 14270524,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-25 15:26:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/5465554.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Трендонутые",
@@ -1131,42 +1165,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Звездный путь: Нижние палубы",
-      "title_en": "Star Trek: Lower Decks",
-      "year": 2020,
-      "kinopoisk_id": 1209195,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "3731da1af550c05db693e0692fc0c691fc6faeac7bdcd25f323051a58b4d7cbe",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-23 12:42:58",
-      "update_date": "2021-01-23 12:43:43",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1209195.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

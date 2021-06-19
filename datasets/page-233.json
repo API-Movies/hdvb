@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Элис и Иза",
+      "title_en": "Alice &amp; Iza",
+      "year": 2018,
+      "kinopoisk_id": 1178131,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-08 21:10:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Зона отдыха",
+      "title_en": "Rest Area",
+      "year": 2020,
+      "kinopoisk_id": 13370916,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-08 19:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Убийства на Таити",
+      "title_en": "Meurtres à Tahiti",
+      "year": 2020,
+      "kinopoisk_id": 1323030,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-08 19:56:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Разногласия",
+      "title_en": "Méprises",
+      "year": 2018,
+      "kinopoisk_id": 6662126,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-08 19:40:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "У папы нет плана",
       "title_en": "Wenn nicht, dann jetzt / Papa hat keinen Plan",
       "year": 2019,
@@ -209,56 +261,50 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Кошмар в галерее Кей",
-      "title_en": "The Horror at Gallery Kay",
-      "year": 2018,
-      "kinopoisk_id": 1070457,
-      "type": "movie",
+      "title_ru": "Убей меня, исцели меня",
+      "title_en": "Kilmi, hilmi",
+      "year": 2015,
+      "kinopoisk_id": 885737,
+      "world_art_id": null,
+      "translator": "Профессиональный (двухголосый)",
+      "token": "7a43d32a89ceeaab0e75a67cd4fefbbbfb18d94b22a76441beae86260b236a3c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-07 14:48:01",
+      "added_date": "2020-08-03 09:38:47",
+      "update_date": "2020-08-03 09:39:21",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Потерянный влог Руби Рил",
-      "title_en": "The Lost Vlog of Ruby Real",
-      "year": 2020,
-      "kinopoisk_id": 1411346,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-07 14:47:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Убийства с помпонами",
-      "title_en": "Ruthless Renegade / The Pom Pom Murders",
-      "year": 2020,
-      "kinopoisk_id": 1388822,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-07 14:46:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Семейка Бигфутов",
-      "title_en": "Bigfoot Family",
-      "year": 2020,
-      "kinopoisk_id": 1371715,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-07 14:44:02",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
+      "translator_id": 162,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/885737.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Королева сердец",
@@ -1459,34 +1505,6 @@
             22,
             23,
             24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кома",
-      "title_en": "Coma",
-      "year": 2012,
-      "kinopoisk_id": 690529,
-      "world_art_id": null,
-      "translator": "ТВ-3",
-      "token": "c53528cbd169f0a27b40e7ec4b1a0fe97660e3e3f8b55bd9f952cf1c36878c7d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-01 19:08:38",
-      "update_date": "2020-08-01 19:10:10",
-      "block": false,
-      "translator_id": 100,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/690529.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
           ]
         }
       ]

@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Любовь на двухсторонней улице",
+      "title_en": "Love on A Two Way Street",
+      "year": 2020,
+      "kinopoisk_id": 4401689,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-13 02:40:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Киномеханик",
+      "title_en": "El proyeccionista",
+      "year": 2019,
+      "kinopoisk_id": 1146530,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-13 02:39:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Записная книжка Томи",
+      "title_en": "El Cuaderno de Tomy",
+      "year": 2020,
+      "kinopoisk_id": 1450105,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-13 02:37:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вина",
+      "title_en": "Denzura",
+      "year": 2019,
+      "kinopoisk_id": 1393125,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-13 02:36:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Дейвион",
       "title_en": "Dayveon",
       "year": 2017,
@@ -209,56 +261,32 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Сойти с ума",
-      "title_en": "Driven Crazy",
-      "year": 2019,
-      "kinopoisk_id": 1213594,
-      "type": "movie",
+      "title_ru": "Звездный крейсер «Галактика»",
+      "title_en": "Battlestar Galactica",
+      "year": 2003,
+      "kinopoisk_id": 229162,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "ef6a01ac1d6ca5402436cbde2fb624d7ed4784e200d901cc22fdebb76a29fb8e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-11 23:48:02",
+      "added_date": "2021-02-16 22:26:52",
+      "update_date": "2021-02-16 22:28:39",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Чёрное озеро",
-      "title_en": "Black Lake",
-      "year": 2020,
-      "kinopoisk_id": 1083424,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-11 23:47:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Семейка монстров",
-      "title_en": "Petit vampire",
-      "year": 2020,
-      "kinopoisk_id": 1111403,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-11 23:46:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Лазарус",
-      "title_en": "Lazarus",
-      "year": 2021,
-      "kinopoisk_id": 988670,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-11 23:45:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/229162.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Звездные врата: ЗВ-1",
@@ -1577,49 +1605,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Жизнь на Марсе",
-      "title_en": "Life on Mars",
-      "year": 2008,
-      "kinopoisk_id": 302061,
-      "world_art_id": null,
-      "translator": "Первый канал",
-      "token": "8fbaed95a965fda9e97022ebc56917bb58155b146ae23c0ee2ad987dedf162ac",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-15 18:52:47",
-      "update_date": "2021-02-15 18:53:56",
-      "block": false,
-      "translator_id": 94,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/302061.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 17,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17
           ]
         }
       ]

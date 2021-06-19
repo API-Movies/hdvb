@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Серая болезнь",
+      "title_en": "",
+      "year": 1966,
+      "kinopoisk_id": 43680,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-09 13:15:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Мандерлей",
+      "title_en": "Manderlay",
+      "year": 2005,
+      "kinopoisk_id": 22597,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-09 13:14:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ва-банк",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1335582,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-09 12:21:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Люс",
+      "title_en": "Luce",
+      "year": 2019,
+      "kinopoisk_id": 1103625,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-09 11:58:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Гуан",
       "title_en": "Guang",
       "year": 2018,
@@ -209,56 +261,34 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Площадь Побед",
-      "title_en": "Place des Victoires",
-      "year": 2019,
-      "kinopoisk_id": 1246241,
-      "type": "movie",
+      "title_ru": "Шанс на любовь",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 1173413,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "aef6f1d62027e866d88b3cb786545449a22299e0a2116e6c97f74f17bdb69edf",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-08 23:33:02",
+      "added_date": "2020-12-29 22:58:47",
+      "update_date": "2020-12-29 23:03:00",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "За стеной",
-      "title_en": "Bricked",
-      "year": 2019,
-      "kinopoisk_id": 1200314,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-08 23:32:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Кровь Драго",
-      "title_en": "Blood of Drago",
-      "year": 2019,
-      "kinopoisk_id": 1072650,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-08 23:31:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Флэшвуд",
-      "title_en": "Flashwood",
-      "year": 2020,
-      "kinopoisk_id": 1351659,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-08 23:29:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1173413.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Земля ночью в цвете",
@@ -1071,45 +1101,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Константин",
-      "title_en": "Constantine",
-      "year": 2014,
-      "kinopoisk_id": 822704,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "41f928a368f5c20a5e30dd92efd26d5820e3124713864cd7aea9dcf69db2368d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-28 14:44:17",
-      "update_date": "2020-12-28 14:50:37",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/822704.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

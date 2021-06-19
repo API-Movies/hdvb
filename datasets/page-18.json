@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Последний монолог",
+      "title_en": "Last Call / Dominion",
+      "year": 2020,
+      "kinopoisk_id": 808875,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-01 23:40:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Обед в Америке",
+      "title_en": "Dinner in America",
+      "year": 2020,
+      "kinopoisk_id": 1198460,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-01 23:39:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Помогите, я уменьшил своих родителей!",
+      "title_en": "Hilfe, ich hab meine Eltern geschrumpft",
+      "year": 2018,
+      "kinopoisk_id": 1071904,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-01 23:38:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Служу отечеству!",
+      "title_en": "National Interest Ultimate Loyalty",
+      "year": 2021,
+      "kinopoisk_id": 46748546,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-01 23:26:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Однажды я пытался умереть",
       "title_en": "Ichido Shinde Mita",
       "year": 2020,
@@ -209,56 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Хищники",
-      "title_en": "Endangered Species",
+      "title_ru": "8 способов любить",
+      "title_en": "",
       "year": 2021,
-      "kinopoisk_id": 4419513,
-      "type": "movie",
+      "kinopoisk_id": 4375661,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "4f74f97bb9e34dafdeaf02895a367f3001d61b4e176c74b8347b41af2b7b74b7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-01 01:50:01",
+      "added_date": "2021-05-06 21:02:51",
+      "update_date": "2021-05-27 20:55:32",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Валентина",
-      "title_en": "Valentina",
-      "year": 2020,
-      "kinopoisk_id": 1312572,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-31 23:21:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Окно в море",
-      "title_en": "Una ventana al mar",
-      "year": 2019,
-      "kinopoisk_id": 1214988,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-31 23:19:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Хаос перед Рождеством",
-      "title_en": "Twas the Chaos before Christmas",
-      "year": 2019,
-      "kinopoisk_id": 1308292,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-31 23:18:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4375661.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Красная комната",
@@ -1288,47 +1322,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "ФБР",
-      "title_en": "FBI",
-      "year": 2018,
-      "kinopoisk_id": 1138889,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "5ecac4cbcfe20d70e6570764c039466086325159a996f2c9d50227def9a765f4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-19 08:26:00",
-      "update_date": "2021-05-27 09:52:38",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1138889.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
           ]
         }
       ]

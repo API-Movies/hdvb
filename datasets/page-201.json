@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "9 раз Лейла",
+      "title_en": "9 Kere Leyla",
+      "year": 2020,
+      "kinopoisk_id": 1347960,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 00:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пусть говорят",
+      "title_en": "Let Them All Talk",
+      "year": 2020,
+      "kinopoisk_id": 1293172,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-10 22:03:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Декретный отрыв",
+      "title_en": "Alles is zoals het zou moeten zijn",
+      "year": 2020,
+      "kinopoisk_id": 1229272,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-10 20:28:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Стендап по дружбе",
+      "title_en": "Standing Up for Sunny",
+      "year": 2019,
+      "kinopoisk_id": 799742,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-10 20:27:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Дикая парочка",
       "title_en": "Wild Mountain Thyme",
       "year": 2020,
@@ -209,56 +261,33 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Монстры, созданные человеком",
-      "title_en": "Monsters of Man",
+      "title_ru": "Плотина",
+      "title_en": "Baraj",
       "year": 2020,
-      "kinopoisk_id": 1037479,
-      "type": "movie",
+      "kinopoisk_id": 1341038,
+      "world_art_id": null,
+      "translator": "двухголосый закадровый",
+      "token": "cd04f60eb314c1e4d126acdd95d293ebc2db7b63f2c310642b86315419d1dd08",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-10 01:03:01",
+      "added_date": "2020-09-07 20:26:49",
+      "update_date": "2020-09-07 20:27:36",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Виктория",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1438350,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-09 23:39:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дорогое рождество",
-      "title_en": "Dear Christmas",
-      "year": 2020,
-      "kinopoisk_id": 1404572,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-09 14:15:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Профессор Томпсон",
-      "title_en": "Professor Thompson",
-      "year": 2019,
-      "kinopoisk_id": 963054,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-09 14:14:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 81,
+      "quality": "WEBRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1341038.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Мистер Бин",
@@ -1572,38 +1601,6 @@
             24,
             25,
             26
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Она же Грэйс",
-      "title_en": "Alias Grace",
-      "year": 2017,
-      "kinopoisk_id": 463366,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "702c415c2658f0b64bacf27e10e7100ab49a92fd0a8f178c61307d45ec0a32d0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-22 17:18:32",
-      "update_date": "2020-09-06 21:11:20",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/463366.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

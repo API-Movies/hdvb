@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Глазок",
+      "title_en": "Fisheye",
+      "year": 2020,
+      "kinopoisk_id": 1256231,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-03 17:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Драма Драма",
+      "title_en": "Drama Drama",
+      "year": 2021,
+      "kinopoisk_id": 889015,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-03 17:31:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Армия мертвецов",
+      "title_en": "Army of the Dead",
+      "year": 2021,
+      "kinopoisk_id": 428683,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-03 12:35:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Чернобыль",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1249198,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-03 09:25:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Лес самоубийц",
       "title_en": "Jukai Mura",
       "year": 2021,
@@ -209,56 +261,39 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Ириша, дочь короля эльфов",
-      "title_en": "Mawangui ttal Irisya",
-      "year": 2019,
-      "kinopoisk_id": 1295478,
-      "type": "movie",
+      "title_ru": "Зовите повитуху",
+      "title_en": "Call the Midwife",
+      "year": 2012,
+      "kinopoisk_id": 664424,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "e47ee6d4e76745e504eb8a4d1cc953b3cfee2dac61858740fed900f2d4a58e10",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-02 14:36:01",
+      "added_date": "2020-12-27 00:38:15",
+      "update_date": "2021-05-31 11:31:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Привет и прощай",
-      "title_en": "Hello &amp; Goodbye",
-      "year": 2018,
-      "kinopoisk_id": 789222,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-02 14:35:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "На тридцать лет старше",
-      "title_en": "El doble más quince",
-      "year": 2019,
-      "kinopoisk_id": 1169596,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-02 14:34:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дульсинея",
-      "title_en": "Dulcinea",
-      "year": 2018,
-      "kinopoisk_id": 4436673,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-02 14:33:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/664424.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 10,
+          "episodes_count": 9,
+          "episodes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Мейр из Исттауна",
@@ -1345,64 +1380,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Люцифер",
-      "title_en": "Lucifer",
-      "year": 2015,
-      "kinopoisk_id": 893621,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "24eb308add4d30b82cdfce4840cfef4324450762b8ebea981350886775d7f05b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-25 14:48:19",
-      "update_date": "2021-05-29 09:45:08",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/893621.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&trailer_id=120980",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
           ]
         }
       ]
