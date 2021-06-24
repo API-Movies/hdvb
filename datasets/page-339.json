@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "title_ru": "Ничего не знающие",
+      "title_en": "Know Nothins",
+      "year": 2018,
+      "kinopoisk_id": 1018788,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 23:35:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Долгое прощание",
+      "title_en": "Long Goodbye",
+      "year": 2018,
+      "kinopoisk_id": 1084851,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 23:34:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Театр",
+      "title_en": "Gekijo / Theater",
+      "year": 2020,
+      "kinopoisk_id": 1282686,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 23:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Шазам!",
+      "title_en": "Shazam!",
+      "year": 2019,
+      "kinopoisk_id": 840372,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 22:38:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Человек-паук: Возвращение домой",
+      "title_en": "Spider-Man: Homecoming",
+      "year": 2017,
+      "kinopoisk_id": 690593,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 22:37:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Холоп",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1183582,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 22:36:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Темный рыцарь",
+      "title_en": "The Dark Knight",
+      "year": 2008,
+      "kinopoisk_id": 111543,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 22:35:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Сумерки. Сага. Рассвет: Часть 2",
+      "title_en": "The Twilight Saga: Breaking Dawn - Part 2",
+      "year": 2012,
+      "kinopoisk_id": 527662,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 22:34:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Стражи Галактики. Часть 2",
+      "title_en": "Guardians of the Galaxy Vol. 2",
+      "year": 2017,
+      "kinopoisk_id": 841263,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 22:33:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Становление",
       "title_en": "Becoming",
       "year": 2020,
@@ -144,121 +261,177 @@
       "quality": "HDTV"
     },
     {
-      "title_ru": "Мужчине живётся трудно: С возвращением, Тора-сан! / Жаль что ты не с нами, ТОра-сан",
-      "title_en": "Tora-san, Wish You Were Here / Otoko wa tsurai yo 50: Okaeri Tora-san",
+      "title_ru": "Воспитывая Диона",
+      "title_en": "Raising Dion",
       "year": 2019,
-      "kinopoisk_id": 1282525,
-      "type": "movie",
+      "kinopoisk_id": 1113115,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "a10e65a6a5bafe06cc5e794609b8911d571640f786b5330c0e1723271f6f163b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-24 12:13:02",
+      "added_date": "2019-10-04 22:13:55",
+      "update_date": "2019-10-04 22:13:55",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1113115.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Романтическая кукла",
-      "title_en": "Romance Doll / Romansu doru",
-      "year": 2020,
-      "kinopoisk_id": 1301760,
-      "type": "movie",
+      "title_ru": "Легкий как перышко",
+      "title_en": "Light as a Feather",
+      "year": 2018,
+      "kinopoisk_id": 1173528,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "8947024d21ad41d05fc9337bc198f3d0f480896455c8dcfd8ce29cf3443e4a68",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-24 12:10:02",
+      "added_date": "2019-10-04 21:03:44",
+      "update_date": "2019-10-04 21:03:44",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1173528.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Бесплодные усилия любви",
-      "title_en": "Love's Labour's Lost",
-      "year": 2017,
-      "kinopoisk_id": 1157801,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-24 12:07:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "После моего ухода",
-      "title_en": "The Day After I'm Gone",
+      "title_ru": "Вылет",
+      "title_en": "Departure",
       "year": 2019,
-      "kinopoisk_id": 1220978,
-      "type": "movie",
+      "kinopoisk_id": 1211836,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "fca373948b33da000153643586fdc66bf2779df2ecffafcf709324ae50b7dc23",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-24 12:04:01",
+      "added_date": "2019-10-04 16:56:39",
+      "update_date": "2019-10-04 16:56:39",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1211836.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Ода страсти",
-      "title_en": "Ode to Passion",
-      "year": 2020,
-      "kinopoisk_id": 1081368,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-24 12:03:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Одной ногой на том свете",
-      "title_en": "Nearly Departed",
+      "title_ru": "Екатерина Великая",
+      "title_en": "Catherine the Great",
       "year": 2019,
-      "kinopoisk_id": 1021041,
-      "type": "movie",
+      "kinopoisk_id": 1115126,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "71be14964a55586d85c85ea5e642f1543f954289da709c699ccc13bb91f67761",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-24 12:02:01",
+      "added_date": "2019-10-04 16:50:20",
+      "update_date": "2019-10-04 16:50:20",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1115126.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Сделано в Бангладеш",
-      "title_en": "Made in Bangladesh",
-      "year": 2019,
-      "kinopoisk_id": 1164819,
-      "type": "movie",
+      "title_ru": "Голиаф",
+      "title_en": "Goliath",
+      "year": 2016,
+      "kinopoisk_id": 927245,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "2fada2171430732571a3af6654a864ba6abd99ee2cd327e4a2d3c23fdbdf12d1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-24 12:00:01",
+      "added_date": "2019-10-04 16:38:19",
+      "update_date": "2019-10-04 16:38:19",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Последняя молитва",
-      "title_en": "One Last Prayer",
-      "year": 2020,
-      "kinopoisk_id": 985784,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-24 11:59:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Доза счастья",
-      "title_en": "A Dose of Happiness",
-      "year": 2019,
-      "kinopoisk_id": 1263772,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-23 22:14:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/927245.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=134983",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Путь",
@@ -1036,186 +1209,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "По ту сторону изгороди",
-      "title_en": "Over the Garden Wall",
-      "year": 2014,
-      "kinopoisk_id": 841914,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "1531f349101d1a5632a2aa4f080cd300ab0a5d5e7717e33502168d74ba4c69e2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-09-28 07:39:43",
-      "update_date": "2019-09-28 07:39:43",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/841914.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=114612",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кровавый бард",
-      "title_en": "Bard of Blood",
-      "year": 2019,
-      "kinopoisk_id": 1177880,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "b36c511a15de528a7ef2ce68727ce8178f8d6363f981d785db9b88c4ec958b7c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-09-27 23:52:31",
-      "update_date": "2019-09-27 23:52:31",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1177880.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Аванпост",
-      "title_en": "The Outpost",
-      "year": 2018,
-      "kinopoisk_id": 1138406,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "62d92ce774729529c0bff254410c771641af0812e951953c61e6ee291b0dfc3c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-09-27 14:30:14",
-      "update_date": "2019-09-27 14:30:14",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1138406.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=150604",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Форс-мажоры",
-      "title_en": "Suits",
-      "year": 2011,
-      "kinopoisk_id": 557806,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "c11f30ff4ba285892366d0a59362c97911f6833ec9254c9b4fb8b6ac60212c46",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-09-26 15:21:39",
-      "update_date": "2019-09-26 15:21:39",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/557806.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=115606",
-      "serial_episodes": [
-        {
-          "season_number": 9,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Четыре свадьбы и одни похороны",
-      "title_en": "Four Weddings and a Funeral",
-      "year": 2019,
-      "kinopoisk_id": 1103815,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "72caa2beecd8ff28e918dac35b0848a2d18e364157ad1307ac073092c977f901",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-31 16:42:34",
-      "update_date": "2019-09-23 22:28:34",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1103815.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]
