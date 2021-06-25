@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "title_ru": "Реликвия",
+      "title_en": "Relic",
+      "year": 2020,
+      "kinopoisk_id": 1198277,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-19 11:40:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Солнце в ночи",
+      "title_en": "The Sunlit Night",
+      "year": 2019,
+      "kinopoisk_id": 1167411,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-19 11:39:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Жизнь Раз",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1115833,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-19 11:38:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Шугалей 2",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1392589,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-19 08:53:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Перепало?",
+      "title_en": "T'as pécho?",
+      "year": 2020,
+      "kinopoisk_id": 1391217,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-18 23:32:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Затопленное небо",
+      "title_en": "Overwhelm the Sky",
+      "year": 2018,
+      "kinopoisk_id": 1040473,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-18 23:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Проклятие Провена",
+      "title_en": "La Malédiction de Provins",
+      "year": 2020,
+      "kinopoisk_id": 1311820,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-18 23:28:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Я не Чи Фео",
+      "title_en": "Chi Pheo Ngoai Truyen",
+      "year": 2017,
+      "kinopoisk_id": 1073289,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-18 23:26:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Битник",
       "title_en": "Beatnik",
       "year": 2017,
@@ -157,108 +261,451 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Антебеллум",
-      "title_en": "Antebellum",
-      "year": 2020,
-      "kinopoisk_id": 1261952,
-      "type": "movie",
+      "title_ru": "Человек в высоком замке",
+      "title_en": "The Man in the High Castle",
+      "year": 2015,
+      "kinopoisk_id": 882263,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "4715063485e2ec33fa18f09ec7452cf23fcf937b56b914a8cc6e5e6c3fbb7a2c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-18 15:28:01",
+      "added_date": "2020-05-17 22:45:41",
+      "update_date": "2020-05-17 22:45:41",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/882263.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Полное уничтожение",
-      "title_en": "Hard Kill / Open Source",
-      "year": 2020,
-      "kinopoisk_id": 1346708,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-18 09:02:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Личная утопия",
-      "title_en": "Youtopia",
-      "year": 2018,
-      "kinopoisk_id": 995153,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-17 22:53:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Буль и Билл 2",
-      "title_en": "Boule &amp; Bill 2",
-      "year": 2017,
-      "kinopoisk_id": 1009379,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-17 22:52:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Чистильщик",
-      "title_en": "Poolboy Nightmare",
-      "year": 2020,
-      "kinopoisk_id": 1403087,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-17 22:51:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Призрак глубины / Призрак из бездны",
-      "title_en": "Phantom from the Deep",
-      "year": 2018,
-      "kinopoisk_id": 1201140,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-17 22:50:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Темная ночь души",
-      "title_en": "Noite Escura da Alma",
+      "title_ru": "Рассвет",
+      "title_en": "Daybreak",
       "year": 2019,
-      "kinopoisk_id": 1279059,
-      "type": "movie",
+      "kinopoisk_id": 1214381,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "e366500136727843ddfc376ce776166df1399ac08ded8d4a15de3741051cc0d2",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-17 22:48:01",
+      "added_date": "2020-05-17 22:44:05",
+      "update_date": "2020-05-17 22:44:05",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1214381.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "До полуночи",
-      "title_en": "Until Midnight",
+      "title_ru": "Драйв",
+      "title_en": "",
       "year": 2018,
-      "kinopoisk_id": 67456656,
-      "type": "movie",
+      "kinopoisk_id": 975926,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "c51a6d8da2336264cbed92b6a75bc3984cab2930cf1cb7f353982419908429d5",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-17 22:47:02",
+      "added_date": "2020-05-17 19:27:59",
+      "update_date": "2020-05-17 19:27:59",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/975926.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Идеальный пациент",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1290978,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "3d2550fa66de2ab7d564bdfaffe7421a6f396fc10df071dd3fbfec39213797fa",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-17 17:14:24",
+      "update_date": "2020-05-17 17:14:24",
+      "block": false,
+      "translator_id": 92,
+      "quality": "HDTV",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1290978.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Динозавр",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 1006697,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "fd951458c58c7ef2d45ea386ebfb3c3fcb1c8b71d0c435850769d1c40053a477",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-17 17:12:03",
+      "update_date": "2020-05-17 17:12:03",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1006697.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Великая",
+      "title_en": "The Great",
+      "year": 2020,
+      "kinopoisk_id": 666955,
+      "world_art_id": null,
+      "translator": "Greb&Creative",
+      "token": "6d41a465355610a0032130f4f308ee29d3e5bf261db638464838663fad32fcde",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-17 17:04:55",
+      "update_date": "2020-05-17 17:04:55",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 140,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/666955.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ещё четыре шота, пожалуйста",
+      "title_en": "Four More Shots Please",
+      "year": 2019,
+      "kinopoisk_id": 1144278,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "5d2d4d43773b255d34b64e5ebadd8b6892e4a7ef1ad1a6de22272c7948774d31",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-17 15:50:28",
+      "update_date": "2020-05-17 15:50:28",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1144278.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Стыд. Италия",
+      "title_en": "SKAM Italia",
+      "year": 2018,
+      "kinopoisk_id": 1142549,
+      "world_art_id": null,
+      "translator": "GoldTeam",
+      "token": "51f965de778cfe95762618335c8cb4fc96ee9aec17eac70bd7455ccc0c6a3bc4",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-17 14:04:32",
+      "update_date": "2020-05-17 14:04:32",
+      "block": false,
+      "translator_id": 141,
+      "quality": "WEBRip",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1142549.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Шекспир и Хэтэуэй: Частные детективы",
+      "title_en": "Shakespeare &amp; Hathaway: Private Investigators",
+      "year": 2018,
+      "kinopoisk_id": 1115322,
+      "world_art_id": null,
+      "translator": "Профессиональный (многоголосый)",
+      "token": "90aed1e76f1634fd9df8e0e2f833a773ba3675c8db95b9e74a5ca98a57ee3e5e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-17 12:01:20",
+      "update_date": "2020-05-17 12:01:20",
+      "block": false,
+      "translator_id": 126,
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1115322.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Алёша",
@@ -1035,292 +1482,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Как избежать наказания за убийство",
-      "title_en": "How to Get Away with Murder",
-      "year": 2014,
-      "kinopoisk_id": 804876,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "50b71ad9a3708ac6f83071c22ab926926ed4d67a0cbb493fea9f805de658bc20",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 21:47:07",
-      "update_date": "2020-05-16 21:47:07",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/804876.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=106964",
-      "serial_episodes": [
-        {
-          "season_number": 6,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            11,
-            12,
-            13,
-            14,
-            15
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сантос Дюмон",
-      "title_en": "Santos Dumont",
-      "year": 2019,
-      "kinopoisk_id": 1266723,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "37c4d2712bbb70fd59512210a91b832c685f5acffa1c4ce516ae7e8b451089bd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 21:32:13",
-      "update_date": "2020-05-16 21:32:13",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1266723.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Стыд. Италия",
-      "title_en": "SKAM Italia",
-      "year": 2018,
-      "kinopoisk_id": 1142549,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "41b9d680a51a734a23173d2d02052e382e3ddb9c91498bd5a773334c895cfbd3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 19:16:33",
-      "update_date": "2020-05-16 19:16:33",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1142549.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Смерть в объективе",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1330040,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "b5bef0ec9939ea69ef27c155c8f2705f116efae2b465394e78bc58f0d74717ee",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 17:51:28",
-      "update_date": "2020-05-16 17:51:28",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1330040.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Северное сияние. Когда мёртвые возвращаются. Фильм седьмой",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1291205,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "62a40e945b1a01ca6d3802b0cd96264bfb43580f2d24991a460430801e08be03",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 17:11:53",
-      "update_date": "2020-05-16 17:11:53",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1291205.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Северное сияние. Проклятье пустынных болот. Фильм шестой",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1291204,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "223f179ffee4611c5661e4b8dcd6e008177d72c7dca8cf9eb615282878c299a2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 17:10:57",
-      "update_date": "2020-05-16 17:10:57",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1291204.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Северное сияние. О чем молчат русалки. Фильм пятый",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1209186,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "0c62b700142c42ff2ed1d1b322ee73c7fd92bf641e884798f5f054e85b951769",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 15:53:47",
-      "update_date": "2020-05-16 15:53:47",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1209186.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Северное сияние. Следы смерти. Фильм четвертый",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1209185,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "716554d898eb10672f21877fd2f1a2bbc021604b28d2fbd00f4cad7fab0dc3dc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 14:59:13",
-      "update_date": "2020-05-16 14:59:13",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1209185.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Северное сияние. Шорох крыльев. Фильм третий",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1209184,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "c3be0c067504feda39d4cfedabf5615c20121ae60e222956b3aae5d18f6611c9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 14:57:44",
-      "update_date": "2020-05-16 14:57:44",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1209184.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
           ]
         }
       ]
