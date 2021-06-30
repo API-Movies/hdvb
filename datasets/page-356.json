@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Мария из Карито",
+      "title_en": "Maria do Caritó",
+      "year": 2020,
+      "kinopoisk_id": 1282827,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-14 01:36:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Продолжатель",
+      "title_en": "Protégé",
+      "year": 2020,
+      "kinopoisk_id": 1316818,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-14 00:49:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Те, кто могут",
+      "title_en": "Those Who Can't",
+      "year": 2019,
+      "kinopoisk_id": 1186473,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-14 00:47:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Конец путешествия, начало мира",
       "title_en": "To the Ends of the Earth / Tabi no Owari Sekai no Hajimari",
       "year": 2019,
@@ -225,43 +264,44 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Пятьдесят оттенков серого",
-      "title_en": "Fifty Shades of Grey",
-      "year": 2015,
-      "kinopoisk_id": 688832,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-13 19:06:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Первому игроку приготовиться",
-      "title_en": "Ready Player One",
+      "title_ru": "Синичка",
+      "title_en": "",
       "year": 2018,
-      "kinopoisk_id": 538225,
-      "type": "movie",
+      "kinopoisk_id": 1209745,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "d266aa4f0a60450b89a96e403063d3cb35b65f117fd99d71fe56add0bfb03014",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-13 19:05:01",
+      "added_date": "2018-12-01 12:23:00",
+      "update_date": "2018-12-01 13:52:20",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Паразиты",
-      "title_en": "Gisaengchung",
-      "year": 2019,
-      "kinopoisk_id": 1043758,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-13 19:04:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1209745.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Британия",
@@ -988,35 +1028,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Шучу",
-      "title_en": "Kidding",
-      "year": 2018,
-      "kinopoisk_id": 1161788,
-      "world_art_id": null,
-      "translator": "Украинский",
-      "token": "ee2c77a3ae56fc92e2f1fe54bda115811befb80b9fce0e280891517b6bd28d58",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-10-15 13:07:02",
-      "update_date": "2018-10-15 13:07:02",
-      "block": false,
-      "translator_id": 101,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1161788.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=150032",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
           ]
         }
       ]

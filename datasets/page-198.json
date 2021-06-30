@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Ночь, когда они постучались",
+      "title_en": "The Night They Knocked",
+      "year": 2020,
+      "kinopoisk_id": 1142172,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-22 16:24:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Обскура",
+      "title_en": "Obscura",
+      "year": 2017,
+      "kinopoisk_id": 864190,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-22 16:23:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Может быть, завтра",
+      "title_en": "Maybe Tomorrow",
+      "year": 2020,
+      "kinopoisk_id": 13056394,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-22 16:21:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Я — Элизабет Смарт",
       "title_en": "I Am Elizabeth Smart",
       "year": 2017,
@@ -222,43 +261,56 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Плохие дети отправляются в ад 2",
-      "title_en": "Bad Kids of Crestview Academy",
-      "year": 2017,
-      "kinopoisk_id": 808600,
-      "type": "movie",
+      "title_ru": "Жаркие улочки",
+      "title_en": "Hot Streets",
+      "year": 2016,
+      "kinopoisk_id": 1112912,
+      "world_art_id": null,
+      "translator": "2x2",
+      "token": "320a2c2063b0cc15a9b492bae893184d2bae48d9940e0d21374783d38aed3b04",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-21 03:04:01",
+      "added_date": "2020-09-13 10:04:10",
+      "update_date": "2020-09-13 10:06:06",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Современные нравы",
-      "title_en": "Modern Persuasion",
-      "year": 2020,
-      "kinopoisk_id": 684046,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-20 15:34:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Убойная пижамная вечеринка",
-      "title_en": "Slaughterhouse Slumber Party",
-      "year": 2020,
-      "kinopoisk_id": 1292667,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-20 15:33:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 1,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1112912.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Нетакая",
@@ -1287,45 +1339,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ведьмак",
-      "title_en": "Wiedzmin",
-      "year": 2002,
-      "kinopoisk_id": 416830,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "f8f0fb69ff947efe44fbd95bfcb24a9f5322c4f38bc06c0d35d8639515ec64db",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-12 10:47:19",
-      "update_date": "2020-09-12 10:50:09",
-      "block": false,
-      "translator_id": 126,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/416830.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

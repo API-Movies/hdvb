@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Без причин",
+      "title_en": "No Reasons",
+      "year": 2021,
+      "kinopoisk_id": 794580,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-12 05:13:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мое вскрытие",
+      "title_en": "My Autopsy",
+      "year": 2021,
+      "kinopoisk_id": 1216619,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-12 05:12:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Бетонная Саванна",
+      "title_en": "Concrete_savanna",
+      "year": 2021,
+      "kinopoisk_id": 1419129,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-12 05:11:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Перекрёсток бастарда",
       "title_en": "Bastard's Crossing",
       "year": 2021,
@@ -223,42 +262,41 @@
     },
     {
       "title_ru": "Жертва",
-      "title_en": "Sacrifice",
-      "year": 2021,
-      "kinopoisk_id": 1246210,
-      "type": "movie",
+      "title_en": "Prey",
+      "year": 2014,
+      "kinopoisk_id": 819763,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "acb823215d656ed4f712e9e133019f434938c86b988a825eb39276b4d47a8998",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-11 04:18:02",
+      "added_date": "2020-11-13 16:08:23",
+      "update_date": "2020-11-13 16:10:33",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Легенда долины Фолл-Крик",
-      "title_en": "Legend of Fall Creek",
-      "year": 2021,
-      "kinopoisk_id": 1395967,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-11 04:17:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Срок действия",
-      "title_en": "Expiry",
-      "year": 2021,
-      "kinopoisk_id": 1065720,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-11 04:16:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 60,
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/819763.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Команда",
@@ -1322,38 +1360,6 @@
             50,
             51,
             52
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Трикстер",
-      "title_en": "Trickster",
-      "year": 2020,
-      "kinopoisk_id": 1320893,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "a832512e3c31350394a83c1fd7820d6456b71b68d28312ce76fdf611adf2abcd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-08 16:14:51",
-      "update_date": "2020-11-12 12:22:52",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1320893.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

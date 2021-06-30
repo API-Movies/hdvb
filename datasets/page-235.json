@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Прошлое",
+      "title_en": "The Bygone",
+      "year": 2019,
+      "kinopoisk_id": 1039457,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-12 18:51:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Морг",
+      "title_en": "Morgue",
+      "year": 2020,
+      "kinopoisk_id": 1306639,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-12 16:36:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Атлантида",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1301687,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-12 15:04:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Линия горизонта",
       "title_en": "Horizon Line",
       "year": 2020,
@@ -222,43 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Неукротимые шлемы",
-      "title_en": "Cascos indomables / Helmet Heads",
-      "year": 2018,
-      "kinopoisk_id": 1197729,
-      "type": "movie",
+      "title_ru": "Неслучайная встреча",
+      "title_en": "",
+      "year": 2014,
+      "kinopoisk_id": 815133,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "406e4837b5b18b39bc90bd919c240be46ca26ce574322d5a3da33078dac5adb9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-12 00:13:02",
+      "added_date": "2020-08-04 00:46:53",
+      "update_date": "2020-08-04 00:48:07",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Кафе на продажу",
-      "title_en": "Cafe on Sale",
-      "year": 2020,
-      "kinopoisk_id": 12251652,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-12 00:11:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Рождество дома",
-      "title_en": "A Welcome Home Christmas",
-      "year": 2020,
-      "kinopoisk_id": 1405334,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-11 23:59:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/815133.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Степные волки",
@@ -1310,48 +1344,6 @@
         },
         {
           "season_number": 2,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Гоблин",
-      "title_en": "Dokkaebi",
-      "year": 2016,
-      "kinopoisk_id": 996611,
-      "world_art_id": null,
-      "translator": "Мобильное телевидение",
-      "token": "795824c211d6bacb915ead4d0686bb052bf66afb9cf4f1ee0334d5c8ee71002f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-02 23:20:25",
-      "update_date": "2020-08-02 23:21:10",
-      "block": false,
-      "translator_id": 133,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/996611.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 16,
           "episodes": [
             1,

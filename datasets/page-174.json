@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Айвар",
+      "title_en": "Ajvar",
+      "year": 2019,
+      "kinopoisk_id": 1066762,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-15 23:27:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Охота на Санту",
+      "title_en": "Fatman",
+      "year": 2020,
+      "kinopoisk_id": 1331675,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-15 21:19:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Одна ночь в Майами",
+      "title_en": "One Night in Miami",
+      "year": 2020,
+      "kinopoisk_id": 1343590,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-15 21:14:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Говард и Королевство хаоса",
       "title_en": "Howard Lovecraft and the Kingdom of Madness",
       "year": 2018,
@@ -222,43 +261,74 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Избавиться от трупака Неда",
-      "title_en": "The Disposal of Dead Ned",
-      "year": 2019,
-      "kinopoisk_id": 11492580,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-14 14:14:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Вернуть бывшую",
-      "title_en": "Recuperando a mi Ex",
-      "year": 2018,
-      "kinopoisk_id": 1022900,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-14 14:12:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Неопознанные лица 2",
-      "title_en": "Na Maloom Afraad 2",
+      "title_ru": "Тетрадь мести",
+      "title_en": "Boksunoteu",
       "year": 2017,
-      "kinopoisk_id": 1061655,
-      "type": "movie",
+      "kinopoisk_id": 1047639,
+      "world_art_id": null,
+      "translator": "STEPonee",
+      "token": "4f29a60c0bd749df6a59bc0486ccc65a62eb2c56ade458b5aec90da28ea65e6c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-14 14:11:01",
+      "added_date": "2020-10-14 23:27:55",
+      "update_date": "2020-10-14 23:29:46",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 65,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1047639.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 22,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Шампейн, Иллинойс",
@@ -1080,50 +1150,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "187 Детройт",
-      "title_en": "Detroit 1-8-7",
-      "year": 2010,
-      "kinopoisk_id": 493199,
-      "world_art_id": null,
-      "translator": "Fox Crime",
-      "token": "89d4a5980bb8beb4d5016d93a41161aaadd8916c0a83dabbcf4f76f849914753",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-13 20:12:52",
-      "update_date": "2020-10-13 20:15:40",
-      "block": false,
-      "translator_id": 184,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/493199.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
           ]
         }
       ]

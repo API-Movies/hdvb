@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Три попытки",
+      "title_en": "Thre3bound",
+      "year": 2019,
+      "kinopoisk_id": 872631,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-06 17:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Выгульщик собак",
+      "title_en": "The Dog Walker",
+      "year": 2019,
+      "kinopoisk_id": 1052557,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-06 17:31:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Транжира",
+      "title_en": "Prodigal",
+      "year": 2019,
+      "kinopoisk_id": 1235418,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-06 17:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Дьявол между ног",
       "title_en": "El Diablo entre las Piernas",
       "year": 2019,
@@ -222,43 +261,46 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Вайолет Эвергарден. Фильм",
-      "title_en": "Violet Evergarden: The Movie",
-      "year": 2020,
-      "kinopoisk_id": 1199636,
-      "type": "movie",
+      "title_ru": "Врач Ё-хан",
+      "title_en": "Uisa Yohan",
+      "year": 2019,
+      "kinopoisk_id": 1255126,
+      "world_art_id": null,
+      "translator": "SoftBox",
+      "token": "53afd1439d11619fee9de84acbfe77887331050d33300f63bdb79832ed254d37",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-05 19:46:01",
+      "added_date": "2021-02-02 22:11:52",
+      "update_date": "2021-02-02 22:13:03",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Всё ради Джексона",
-      "title_en": "Anything for Jackson",
-      "year": 2020,
-      "kinopoisk_id": 1368294,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-05 10:12:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Я – Пепито",
-      "title_en": "Yo soy Pepito",
-      "year": 2018,
-      "kinopoisk_id": 931309,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-05 04:28:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 106,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1255126.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Общественная мораль",
@@ -1097,42 +1139,6 @@
         },
         {
           "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кровь и нефть",
-      "title_en": "Blood and Oil",
-      "year": 2015,
-      "kinopoisk_id": 900740,
-      "world_art_id": null,
-      "translator": "Amedia",
-      "token": "ab87be6fefd9c3f3d48c8e4f99848c21f94a476265bc78810bcd6ded2674acf6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-01 22:40:04",
-      "update_date": "2021-02-01 22:41:51",
-      "block": false,
-      "translator_id": 7,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/900740.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 10,
           "episodes": [
             1,

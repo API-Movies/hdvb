@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Редвилль",
+      "title_en": "Redville",
+      "year": 2020,
+      "kinopoisk_id": 1350014,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-25 10:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Взлёты и падения",
+      "title_en": "Peaks and Valleys",
+      "year": 2019,
+      "kinopoisk_id": 995795,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-25 10:16:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Счастливчик",
+      "title_en": "Lucky One",
+      "year": 2019,
+      "kinopoisk_id": 1247615,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-25 10:15:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Музыка во мне",
       "title_en": "La Musiquita por Dentro",
       "year": 2019,
@@ -222,43 +261,36 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Увиденное и услышанное",
-      "title_en": "Things Heard &amp; Seen",
-      "year": 2021,
-      "kinopoisk_id": 1302438,
-      "type": "movie",
+      "title_ru": "Тайны Броукенвуда",
+      "title_en": "The Brokenwood Mysteries",
+      "year": 2014,
+      "kinopoisk_id": 841729,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "f65a241da656323f3dbb181031114d7edc05a2abc41825fcbdbd78521e249d4f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-24 00:37:01",
+      "added_date": "2021-04-06 14:37:23",
+      "update_date": "2021-05-03 21:53:36",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Мьюзик",
-      "title_en": "Music",
-      "year": 2021,
-      "kinopoisk_id": 1088265,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-23 21:23:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Серебряный лес",
-      "title_en": "La forêt d'argent",
-      "year": 2019,
-      "kinopoisk_id": 1298774,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-23 11:47:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/841729.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 7,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "По долгу службы",
@@ -1169,40 +1201,6 @@
           "episodes": [
             1,
             2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Харлан Кобен. Невиновен",
-      "title_en": "El inocente",
-      "year": 2021,
-      "kinopoisk_id": 1311241,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "ba8da3445caa872bb20d4830d2fbdd9437f14f58139a88131cb155954582a138",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-30 12:38:25",
-      "update_date": "2021-04-30 20:56:31",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1311241.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

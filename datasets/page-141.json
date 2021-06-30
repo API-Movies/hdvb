@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Ликвидатор",
+      "title_en": "Xin li zui zhi cheng shi zhi guang",
+      "year": 2017,
+      "kinopoisk_id": 1045604,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 12:08:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Парень как Джэйк",
+      "title_en": "A Kid Like Jake",
+      "year": 2018,
+      "kinopoisk_id": 1045405,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 12:07:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Оборотень",
+      "title_en": "Werewolf",
+      "year": 2016,
+      "kinopoisk_id": 1044881,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 12:06:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Хынбу",
       "title_en": "Heungbu",
       "year": 2018,
@@ -222,43 +261,50 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Slugterra: Into the Shadows",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 994527,
-      "type": "movie",
+      "title_ru": "Сверхъестественное",
+      "title_en": "Supernatural",
+      "year": 2005,
+      "kinopoisk_id": 178707,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "f9b2eb0545914699ce5517d6765c4ad504f8fb6ba14608682980cf8e2681daf3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-16 11:49:02",
+      "added_date": "2020-02-08 17:44:15",
+      "update_date": "2020-11-21 08:29:39",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Тонкая материя",
-      "title_en": "Soft Matter",
-      "year": 2018,
-      "kinopoisk_id": 993478,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 11:48:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Большие малыши",
-      "title_en": "Adult Babies",
-      "year": 2017,
-      "kinopoisk_id": 992577,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 11:47:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/178707.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=9018",
+      "serial_episodes": [
+        {
+          "season_number": 15,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Земля-616",
@@ -1045,36 +1091,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Что останется после тебя?",
-      "title_en": "What Remains",
-      "year": 2013,
-      "kinopoisk_id": 778987,
-      "world_art_id": null,
-      "translator": "Agatha Studdio",
-      "token": "cd4f91656c9cbc766a9ebb58711c37f5f7863b5c2fc6d42705025718dcdf14a2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-20 01:34:17",
-      "update_date": "2020-11-20 01:36:18",
-      "block": false,
-      "translator_id": 2,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/778987.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

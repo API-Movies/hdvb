@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Плохие дети отправляются в ад 2",
+      "title_en": "Bad Kids of Crestview Academy",
+      "year": 2017,
+      "kinopoisk_id": 808600,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-21 03:04:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Современные нравы",
+      "title_en": "Modern Persuasion",
+      "year": 2020,
+      "kinopoisk_id": 684046,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-20 15:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Убойная пижамная вечеринка",
+      "title_en": "Slaughterhouse Slumber Party",
+      "year": 2020,
+      "kinopoisk_id": 1292667,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-20 15:33:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Сестра жениха",
       "title_en": "The Pleasure of Your Presence",
       "year": 2020,
@@ -222,43 +261,43 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Бокас",
-      "title_en": "Bocas",
-      "year": 2019,
-      "kinopoisk_id": 1194203,
-      "type": "movie",
+      "title_ru": "Ведьмак",
+      "title_en": "Wiedzmin",
+      "year": 2002,
+      "kinopoisk_id": 416830,
+      "world_art_id": null,
+      "translator": "Профессиональный (многоголосый)",
+      "token": "f8f0fb69ff947efe44fbd95bfcb24a9f5322c4f38bc06c0d35d8639515ec64db",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-19 21:00:01",
+      "added_date": "2020-09-12 10:47:19",
+      "update_date": "2020-09-12 10:50:09",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Станция «Сеул»",
-      "title_en": "Seoulyeok",
-      "year": 2016,
-      "kinopoisk_id": 844014,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-19 15:50:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Праздник любви",
-      "title_en": "Feast of Love",
-      "year": 2007,
-      "kinopoisk_id": 258693,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-19 15:48:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
+      "translator_id": 126,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/416830.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Смертельное влечение",
@@ -1922,78 +1961,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Звонарь",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1216724,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "53c111506aa38509215b75b14c031feb545512418cb46043d5906b356a51768f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-18 01:29:18",
-      "update_date": "2020-09-11 08:30:07",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1216724.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 24,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
           ]
         }
       ]

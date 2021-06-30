@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Отправление / Незаконченное дело",
+      "title_en": "Chulguk / Unfinished",
+      "year": 2018,
+      "kinopoisk_id": 1199660,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-21 23:25:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Путь",
+      "title_en": "The Way Station / Dao cua dan ngu cu",
+      "year": 2017,
+      "kinopoisk_id": 6959074,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-21 23:23:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Суррогатная мать для звезды",
+      "title_en": "Secret Life of a Celebrity Surrogate / The Surrogate",
+      "year": 2020,
+      "kinopoisk_id": 1328222,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-21 23:20:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Целуй, дубина!",
       "title_en": "Pup-o, ma!",
       "year": 2018,
@@ -222,43 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Обратная сторона тени",
-      "title_en": "Eiri",
-      "year": 2019,
-      "kinopoisk_id": 1316567,
-      "type": "movie",
+      "title_ru": "Драйв",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 975926,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "c51a6d8da2336264cbed92b6a75bc3984cab2930cf1cb7f353982419908429d5",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-20 22:34:01",
+      "added_date": "2020-05-17 19:27:59",
+      "update_date": "2020-05-17 19:27:59",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Осторожно, мать",
-      "title_en": "Beware of Mom",
-      "year": 2020,
-      "kinopoisk_id": 1400548,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-20 22:33:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Марионетка",
-      "title_en": "Marionette",
-      "year": 2020,
-      "kinopoisk_id": 1166326,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-20 20:45:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/975926.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Идеальный пациент",
@@ -1400,42 +1434,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Стыд. Италия",
-      "title_en": "SKAM Italia",
-      "year": 2018,
-      "kinopoisk_id": 1142549,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "41b9d680a51a734a23173d2d02052e382e3ddb9c91498bd5a773334c895cfbd3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 19:16:33",
-      "update_date": "2020-05-16 19:16:33",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1142549.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Эл Ай Ти в кино",
+      "title_en": "LIT the Movie",
+      "year": 2020,
+      "kinopoisk_id": 1367981,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-18 17:53:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ветеринары",
+      "title_en": "Les vétos",
+      "year": 2019,
+      "kinopoisk_id": 1195437,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-18 17:52:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Неделимые",
+      "title_en": "Asunder, One Flesh Divided",
+      "year": 2020,
+      "kinopoisk_id": 8337620,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-18 17:51:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Большой мир",
       "title_en": "Un monde plus grand",
       "year": 2019,
@@ -222,43 +261,53 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Переполох в Гималаях",
-      "title_en": "Lissi und der wilde Kaiser",
-      "year": 2007,
-      "kinopoisk_id": 265493,
-      "type": "movie",
+      "title_ru": "Стрелок",
+      "title_en": "",
+      "year": 2012,
+      "kinopoisk_id": 677722,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "b6613f45b4422e0823ef656d4e7ad02cded27d8a16a5a22e3fd76467e6bb059c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-17 15:49:01",
+      "added_date": "2021-01-06 13:42:10",
+      "update_date": "2021-01-06 13:43:21",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Горькие годы",
-      "title_en": "Gli anni amari",
-      "year": 2019,
-      "kinopoisk_id": 1220737,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-17 15:35:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "DVDRip"
-    },
-    {
-      "title_ru": "Кража Кубка Мира",
-      "title_en": "World Cup Heist",
-      "year": 2020,
-      "kinopoisk_id": 4297115,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-17 15:33:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/677722.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Убийства по пятницам-2",
@@ -1751,78 +1800,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Птицы без крыльев",
-      "title_en": "Kanatsiz Kuslar",
-      "year": 2017,
-      "kinopoisk_id": 1047889,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "097397c7758cc036f6c006fd77c269df0e77bf99f3cafe8024b422d8c7bd06be",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-05 11:54:20",
-      "update_date": "2021-01-05 11:55:22",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1047889.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 46,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46
           ]
         }
       ]

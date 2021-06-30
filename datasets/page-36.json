@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Внук",
+      "title_en": "Sardar Ka Grandson",
+      "year": 2021,
+      "kinopoisk_id": 1318894,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-22 05:53:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кабарете",
+      "title_en": "Cabarete",
+      "year": 2019,
+      "kinopoisk_id": 67735381,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-22 05:52:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Соловей: Мелодия жизни",
+      "title_en": "Nightingale: A Melody of Life",
+      "year": 2021,
+      "kinopoisk_id": 1342693,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-22 05:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Риам: Боевой Ангел",
       "title_en": "E Riam Sing",
       "year": 2020,
@@ -222,43 +261,34 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Я не твоя мама",
-      "title_en": "No soy tu mami",
-      "year": 2019,
-      "kinopoisk_id": 1229244,
-      "type": "movie",
+      "title_ru": "Некрасивая",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1435469,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "fd0da28bc2a27391b3dec3dc7b8ad648531941b4c0b01b74e48eb985b81b2c5b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-21 03:26:01",
+      "added_date": "2021-04-24 19:29:50",
+      "update_date": "2021-04-25 12:22:33",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Чёрт возьми, Пятница!",
-      "title_en": "Good Grief It's Friday",
-      "year": 2021,
-      "kinopoisk_id": 10916458,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-21 03:25:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Любимый сын",
-      "title_en": "Favorite Son",
-      "year": 2021,
-      "kinopoisk_id": 4441188,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-21 03:23:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1435469.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            1,
+            2,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Алиса против правил",
@@ -1088,42 +1118,6 @@
             15,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Резерфорд-Фоллз",
-      "title_en": "Rutherford Falls",
-      "year": 2021,
-      "kinopoisk_id": 1406561,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "b77e1d418fc60f6e5a9619f2e43036b94d061546d07993d95c117091ee77fda7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-22 21:18:16",
-      "update_date": "2021-04-23 08:18:26",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1406561.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

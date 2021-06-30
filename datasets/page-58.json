@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Тьма: Монстры за поворотом",
+      "title_en": "Shortcut",
+      "year": 2020,
+      "kinopoisk_id": 1217509,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-29 22:49:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Руфус: Хроники волшебной страны",
+      "title_en": "Adventures of Rufus: the Fantastic Pet",
+      "year": 2020,
+      "kinopoisk_id": 1256065,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-29 22:48:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Летнее приключение",
+      "title_en": "Technicolour Daydream (Summer Daydream)",
+      "year": 2021,
+      "kinopoisk_id": 4940526,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-29 13:36:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Увиденное и услышанное",
       "title_en": "Things Heard &amp; Seen",
       "year": 2021,
@@ -222,43 +261,63 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Тихие воды",
-      "title_en": "Still The Water",
-      "year": 2020,
-      "kinopoisk_id": 1280901,
-      "type": "movie",
+      "title_ru": "Блудный сын",
+      "title_en": "Prodigal Son",
+      "year": 2019,
+      "kinopoisk_id": 1263501,
+      "world_art_id": null,
+      "translator": "Novamedia",
+      "token": "9a710f2c0bce8f0206a79e2670f0f1c07623cb99de36a902c2da7ddde668a93c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-28 01:32:01",
+      "added_date": "2021-01-13 10:04:33",
+      "update_date": "2021-03-12 13:13:22",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Убей, похорони, победи",
-      "title_en": "Murder Bury Win",
-      "year": 2020,
-      "kinopoisk_id": 1165832,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-28 01:31:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Общество справедливости: Вторая мировая война",
-      "title_en": "Justice Society: World War II",
-      "year": 2021,
-      "kinopoisk_id": 4321846,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-28 01:30:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 51,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1263501.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Марокканская мафия",
@@ -1432,98 +1491,6 @@
             18,
             19,
             20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Гоморра",
-      "title_en": "Gomorra: La serie",
-      "year": 2014,
-      "kinopoisk_id": 820540,
-      "world_art_id": null,
-      "translator": "Premier",
-      "token": "9f586ac9492fe165ae49d1f60ae2d2d3703542398fb64cc148d47ba7cd0cea38",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-10 20:31:55",
-      "update_date": "2021-03-10 20:32:59",
-      "block": false,
-      "translator_id": 203,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/820540.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

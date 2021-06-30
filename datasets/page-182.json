@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Благородство навсегда",
+      "title_en": "Chivalrous Forever",
+      "year": 2020,
+      "kinopoisk_id": 45365786,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-07 23:10:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Аспид",
+      "title_en": "The Serpent",
+      "year": 2020,
+      "kinopoisk_id": 1073736,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-07 23:08:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Фрагменты женщины",
+      "title_en": "Pieces of a Woman",
+      "year": 2020,
+      "kinopoisk_id": 1319100,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-07 23:07:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Наперегонки со временем",
       "title_en": "Chu bao",
       "year": 2020,
@@ -222,43 +261,34 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Все ждут Рождества 2: Люси и магический кристалл",
-      "title_en": "Julemandens datter 2",
+      "title_ru": "#трудовыебудни",
+      "title_en": "Adult Material",
       "year": 2020,
-      "kinopoisk_id": 1292938,
-      "type": "movie",
+      "kinopoisk_id": 1236341,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "29a37d9bcf9290ae59504e0ff87040793756bdada8e7186946af0bed68bc2e0a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-06 19:06:01",
+      "added_date": "2020-10-06 18:54:15",
+      "update_date": "2020-10-06 18:55:23",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Американская мечта",
-      "title_en": "American Dream",
-      "year": 2021,
-      "kinopoisk_id": 602963,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-06 19:05:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Алгоритм: Блаженство",
-      "title_en": "Algorithm: Bliss",
-      "year": 2021,
-      "kinopoisk_id": 800776,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-06 19:04:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1236341.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Отель последней надежды",
@@ -1337,48 +1367,6 @@
             18,
             19,
             20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Влюбиться в Сун-джон",
-      "title_en": "Sunjeonge banhada",
-      "year": 2015,
-      "kinopoisk_id": 900049,
-      "world_art_id": null,
-      "translator": "Мобильное телевидение",
-      "token": "41733d42ecae97f87633e24c72d843443df52833b3045b481530d5febd19c27b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-04 09:26:55",
-      "update_date": "2020-10-04 09:27:52",
-      "block": false,
-      "translator_id": 133,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/900049.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
           ]
         }
       ]

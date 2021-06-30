@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Кровавые машины",
+      "title_en": "Blood Machines",
+      "year": 2019,
+      "kinopoisk_id": 1178053,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-09 02:55:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "К звёздам",
+      "title_en": "Ad Astra",
+      "year": 2019,
+      "kinopoisk_id": 768561,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-09 02:54:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Капитан Голливуд",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1311540,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-09 02:53:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Игры с огнём",
       "title_en": "Playing with Fire",
       "year": 2019,
@@ -222,43 +261,39 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Средь горных скал",
-      "title_en": "Among Mountain Crags",
+      "title_ru": "Девчонка не промах",
+      "title_en": "High Score Girl",
       "year": 2018,
-      "kinopoisk_id": 1098213,
-      "type": "movie",
+      "kinopoisk_id": 1224112,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "b26e90c7275c4990a852c2a1567295dff62e8490b73459cd4b3c8bfaf4dd480b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-07 23:53:02",
+      "added_date": "2019-12-22 15:27:33",
+      "update_date": "2019-12-22 15:27:33",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "В дальних краях",
-      "title_en": "Far Away Places",
-      "year": 2020,
-      "kinopoisk_id": 1027499,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-07 23:51:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Макс Перезагрузка и Бластеры Пустоты",
-      "title_en": "Max Reload and the Nether Blasters",
-      "year": 2020,
-      "kinopoisk_id": 1085390,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-07 21:51:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1224112.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Ведьмак",
@@ -955,40 +990,6 @@
             7,
             8,
             9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Переломный момент",
-      "title_en": "La faille",
-      "year": 2019,
-      "kinopoisk_id": 112,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "e23f1eb0e5d807e82b2c50315944380c0733109ceb0b21a37509359af7a5c461",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-17 22:04:50",
-      "update_date": "2019-12-17 22:04:50",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/112.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

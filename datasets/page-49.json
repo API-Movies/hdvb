@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Это Митси! Бал-маскарад",
+      "title_en": "It's Mitzy!: The Masquerade Ball!",
+      "year": 2019,
+      "kinopoisk_id": 1318247,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-09 15:43:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Спуститься, чтобы подняться",
+      "title_en": "Down 2 Come Up",
+      "year": 2019,
+      "kinopoisk_id": 4392923,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-09 15:42:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Трус умирает",
+      "title_en": "Cowards May Die",
+      "year": 2019,
+      "kinopoisk_id": 1318901,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-09 15:41:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Родом из Иерусалима, но всё еще жив",
       "title_en": "Born in Jerusalem and Still Alive",
       "year": 2019,
@@ -222,43 +261,40 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "У матросов нет вопросов",
-      "title_en": "",
-      "year": 1981,
-      "kinopoisk_id": 42474,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-08 18:55:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Позывной «Карим»",
-      "title_en": "Karim",
+      "title_ru": "Роллерша",
+      "title_en": "Derby Girl",
       "year": 2020,
-      "kinopoisk_id": 1304244,
-      "type": "movie",
+      "kinopoisk_id": 1327336,
+      "world_art_id": null,
+      "translator": "Novamedia",
+      "token": "f1ae0b7240e382bcac3142aa037b9d8c3f7ad4963f31f1cf9bcb4046c1c80617",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-08 18:54:01",
+      "added_date": "2021-03-28 00:00:44",
+      "update_date": "2021-03-28 00:01:16",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Зоя",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1289029,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-08 18:49:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEBRip"
+      "translator_id": 51,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1327336.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Хождение по мукам",
@@ -1128,34 +1164,6 @@
             13,
             14,
             15
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рокко Скьявоне",
-      "title_en": "Rocco Schiavone",
-      "year": 2016,
-      "kinopoisk_id": 1227553,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "482b78da286643981f681fe6e21918c7e30e41ffeb0caa0d74a4660dfcbcdbf9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-21 09:08:03",
-      "update_date": "2021-03-26 07:52:42",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1227553.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
           ]
         }
       ]

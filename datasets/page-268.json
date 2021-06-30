@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Чемпионы",
+      "title_en": "Campeones",
+      "year": 2018,
+      "kinopoisk_id": 1147255,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-09 17:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Оборотень",
+      "title_en": "The Wolf of Snow Hollow",
+      "year": 2020,
+      "kinopoisk_id": 1312918,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-09 17:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Плохой президент",
+      "title_en": "Bad President",
+      "year": 2020,
+      "kinopoisk_id": 1292500,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-09 17:49:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Куратор",
       "title_en": "",
       "year": 2020,
@@ -222,43 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Ложь",
-      "title_en": "The Lie",
+      "title_ru": "Первые",
+      "title_en": "The First",
       "year": 2018,
-      "kinopoisk_id": 1112558,
-      "type": "movie",
+      "kinopoisk_id": 1177463,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "2165d9197dfba5002995f84058649f76e2be9d24a630dc466ea88f742c886672",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-08 14:42:01",
+      "added_date": "2020-06-15 21:27:41",
+      "update_date": "2020-06-15 21:27:41",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Секреты команды чирлидеров",
-      "title_en": "Cheer Squad Secrets",
-      "year": 2020,
-      "kinopoisk_id": 1322943,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-08 14:39:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Антебеллум",
-      "title_en": "Antebellum",
-      "year": 2020,
-      "kinopoisk_id": 1261952,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-08 13:30:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 60,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/1177463.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Всё ещё мертвы",
@@ -1244,99 +1278,6 @@
         },
         {
           "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "13 причин почему",
-      "title_en": "13 Reasons Why",
-      "year": 2017,
-      "kinopoisk_id": 582358,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "17358e0f9e4d82c0730e6472f470bf5a2d3aa0d3c45daec90aa3e835bf5a00ed",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-13 21:04:31",
-      "update_date": "2020-06-13 21:04:31",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/582358.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=139986",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
           "episodes_count": 10,
           "episodes": [
             1,

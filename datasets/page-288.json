@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Личная утопия",
+      "title_en": "Youtopia",
+      "year": 2018,
+      "kinopoisk_id": 995153,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-17 22:53:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Буль и Билл 2",
+      "title_en": "Boule &amp; Bill 2",
+      "year": 2017,
+      "kinopoisk_id": 1009379,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-17 22:52:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Чистильщик",
+      "title_en": "Poolboy Nightmare",
+      "year": 2020,
+      "kinopoisk_id": 1403087,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-17 22:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
       "title_ru": "Призрак глубины / Призрак из бездны",
       "title_en": "Phantom from the Deep",
       "year": 2018,
@@ -222,43 +261,35 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Пока Дьявол не позовёт: Глава 2",
-      "title_en": "Sebelum Iblis Menjemput: Ayat Dua",
-      "year": 2020,
-      "kinopoisk_id": 1294448,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-17 11:39:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Поезд в Пусан 2: Полуостров",
-      "title_en": "Bando",
-      "year": 2020,
-      "kinopoisk_id": 1183571,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-17 09:50:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Вивариум",
-      "title_en": "Vivarium",
+      "title_ru": "Темные Истории",
+      "title_en": "Dark Stories",
       "year": 2019,
-      "kinopoisk_id": 1118663,
-      "type": "movie",
+      "kinopoisk_id": 1229955,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "3e0f4522657b90d78775f1e36df8f2046b78bffd67b2b3dd00130cdf0cc5771b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-17 09:43:02",
+      "added_date": "2020-05-14 20:20:46",
+      "update_date": "2020-05-14 20:20:46",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1229955.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Выстрел",
@@ -1376,45 +1407,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Навсегда",
-      "title_en": "For Life",
-      "year": 2020,
-      "kinopoisk_id": 1263575,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "abbfdd08553e98b8523f06aaf285865e21ad1f94bea60114f3f9fe7a157533c0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-13 14:59:22",
-      "update_date": "2020-05-13 14:59:22",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1263575.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

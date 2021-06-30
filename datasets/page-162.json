@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Перемещение",
+      "title_en": "Transference",
+      "year": 2020,
+      "kinopoisk_id": 1265073,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-29 07:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сан",
+      "title_en": "Sun",
+      "year": 2019,
+      "kinopoisk_id": 1058325,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-29 07:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пингвин Блум",
+      "title_en": "Penguin Bloom",
+      "year": 2020,
+      "kinopoisk_id": 1272738,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-29 07:29:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Молодое вино",
       "title_en": "",
       "year": 2020,
@@ -222,43 +261,36 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Рия",
-      "title_en": "R.I.A. / Override",
-      "year": 2021,
-      "kinopoisk_id": 1202504,
-      "type": "movie",
+      "title_ru": "Варвары",
+      "title_en": "Barbaren (Barbarians)",
+      "year": 2020,
+      "kinopoisk_id": 1314843,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "82b45b09d32a0c2eb3281e479afe7ad4459d2c1b94a02dc59c8c36edb0343990",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-28 01:20:01",
+      "added_date": "2020-10-24 09:28:54",
+      "update_date": "2020-10-27 09:48:09",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Худший кошмар родителей / В сексуальном рабстве",
-      "title_en": "A Parent's Worst Nightmare / Trafficked",
-      "year": 2021,
-      "kinopoisk_id": 973531,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-28 01:17:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Точка Кипения",
-      "title_en": "Simmer",
-      "year": 2021,
-      "kinopoisk_id": 1204229,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-28 01:15:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1314843.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Человек-паук",
@@ -1120,38 +1152,6 @@
         },
         {
           "season_number": 8,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "The Investigation",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1200321,
-      "world_art_id": null,
-      "translator": "Novamedia",
-      "token": "b75ab91696f430eef5da555c3669d4e169389bc97b8ec3920eaa94b6fa7c1902",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-04 09:19:23",
-      "update_date": "2020-10-26 12:10:38",
-      "block": false,
-      "translator_id": 51,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1200321.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 6,
           "episodes": [
             1,

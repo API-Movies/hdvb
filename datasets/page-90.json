@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Холостяцкая резня",
+      "title_en": "Slashlorette Party",
+      "year": 2020,
+      "kinopoisk_id": 1286116,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-01 16:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Не надо меня спасать",
+      "title_en": "Nareul guhaji maseyo",
+      "year": 2020,
+      "kinopoisk_id": 1395857,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-01 16:16:00",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Убийство в лесу",
+      "title_en": "Murder in the Woods",
+      "year": 2017,
+      "kinopoisk_id": 1006196,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-01 16:15:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Семейство Лэндри: Скрытая жемчужина",
       "title_en": "V.C. Andrews' Landry Family / V.C. Andrews' Hidden Jewel",
       "year": 2021,
@@ -222,43 +261,34 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Хот-доги из свидетелей",
-      "title_en": "Witness Infection",
-      "year": 2021,
-      "kinopoisk_id": 1201544,
-      "type": "movie",
+      "title_ru": "С небес на землю",
+      "title_en": "",
+      "year": 2015,
+      "kinopoisk_id": 893543,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "fcb415c537fe87484c28693981f30e12e71c80b5356dcf3fa7631cc8411691ca",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-01 02:35:02",
+      "added_date": "2021-01-26 23:24:10",
+      "update_date": "2021-01-26 23:25:08",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Засуха",
-      "title_en": "The Dry",
-      "year": 2021,
-      "kinopoisk_id": 1217828,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-01 02:34:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Богородица Сан-Хуана: четыре столетия чудес",
-      "title_en": "Our Lady of San Juan, Four Centuries of Miracles / Virgen de San Juan",
-      "year": 2021,
-      "kinopoisk_id": 1254416,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-01 02:32:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/893543.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Призрак уездного театра",
@@ -1069,41 +1099,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Расследование",
-      "title_en": "The Investigation",
-      "year": 2019,
-      "kinopoisk_id": 1229883,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "305b018681949da68edeef1c2cb31a047fdc6b2247b5c55ff2a8ea41d186854f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-18 21:28:12",
-      "update_date": "2021-01-26 15:56:46",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1229883.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
           ]
         }
       ]

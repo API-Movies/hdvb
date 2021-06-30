@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "По следам козы",
+      "title_en": "Get the Goat",
+      "year": 2021,
+      "kinopoisk_id": 14111726,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-20 03:21:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Исход",
+      "title_en": "Exodus",
+      "year": 2021,
+      "kinopoisk_id": 1140301,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-20 03:18:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Отец четверых и викинги",
+      "title_en": "Far til fire &amp; vikingerne",
+      "year": 2020,
+      "kinopoisk_id": 1419997,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-20 03:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Свадьбы не будет!",
       "title_en": "Es ist zu deinem Besten",
       "year": 2020,
@@ -222,43 +261,36 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Просыпается кошмар",
-      "title_en": "A Nightmare Wakes",
-      "year": 2020,
-      "kinopoisk_id": 1210068,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-19 20:03:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Бывшая",
-      "title_en": "",
+      "title_ru": "Пули",
+      "title_en": "Bullets",
       "year": 2021,
-      "kinopoisk_id": 1313593,
-      "type": "movie",
+      "kinopoisk_id": 1449602,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "6e017671ea2e1e7a8c41aef4ae0cafffff7129db60ef6c4ae18df3de217b99b4",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-19 18:25:02",
+      "added_date": "2021-01-09 11:22:31",
+      "update_date": "2021-01-09 11:23:12",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Правила геймера",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1049652,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-19 11:03:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "HDTV"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1449602.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Последний министр",
@@ -1462,55 +1494,6 @@
       "serial_episodes": [
         {
           "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Обычная женщина",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1108686,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "b182fab3b336b7819fdde8c65635bc38852e99f41bb5cfe66a45055ee6f685f5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-11-02 21:15:24",
-      "update_date": "2021-01-07 15:55:00",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1108686.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        },
-        {
-          "season_number": 2,
           "episodes_count": 8,
           "episodes": [
             1,

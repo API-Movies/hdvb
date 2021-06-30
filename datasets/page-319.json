@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Рождественское обещание",
+      "title_en": "The Mistletoe Promise",
+      "year": 2016,
+      "kinopoisk_id": 996051,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-18 15:11:03",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сердце дракона: Возмездие",
+      "title_en": "Dragonheart Vengeance",
+      "year": 2020,
+      "kinopoisk_id": 1235291,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-18 08:53:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Агент Ева",
+      "title_en": "Ava",
+      "year": 2020,
+      "kinopoisk_id": 1189368,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-18 00:52:03",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Клаустрофобы: Квест в Москве",
       "title_en": "Follow Me",
       "year": 2020,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Смерть идёт по пятам",
-      "title_en": "Death Follows",
-      "year": 2020,
-      "kinopoisk_id": 1014982,
-      "type": "movie",
+      "title_ru": "Расскажи мне сказку",
+      "title_en": "Tell Me a Story",
+      "year": 2018,
+      "kinopoisk_id": 1177920,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "be1fc2dbe94938dccc0ab9fa95587bea024b2fe258af5375a25124885b80f174",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-17 00:22:02",
+      "added_date": "2020-02-10 22:35:59",
+      "update_date": "2020-02-10 22:35:59",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Охотники на упырей",
-      "title_en": "Ghoul Catchers",
-      "year": 2019,
-      "kinopoisk_id": 1299940,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-17 00:21:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Прощание",
-      "title_en": "Khuda Haafiz",
-      "year": 2020,
-      "kinopoisk_id": 1097019,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-17 00:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1177920.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Безмолвный свидетель",
@@ -993,42 +1029,6 @@
       "serial_episodes": [
         {
           "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Безмолвный свидетель",
-      "title_en": "Silent Witness",
-      "year": 1996,
-      "kinopoisk_id": 397295,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "928fbce725deadf9d90c44c53eda06e16671e152bf4ac8e52152175f2ddffe93",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-06 15:12:31",
-      "update_date": "2020-02-06 15:12:31",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/397295.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 23,
           "episodes_count": 10,
           "episodes": [
             1,

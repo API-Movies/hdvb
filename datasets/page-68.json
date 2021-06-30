@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Отравленная кровь",
+      "title_en": "Tainted Blood",
+      "year": 2020,
+      "kinopoisk_id": 1423465,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-21 12:38:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Заговор &quot;Марихуана&quot;",
+      "title_en": "The Marijuana Conspiracy",
+      "year": 2020,
+      "kinopoisk_id": 1237097,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-21 12:37:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Эффект Кармы",
+      "title_en": "The Karma Effect",
+      "year": 2020,
+      "kinopoisk_id": 1449571,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-21 12:36:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Шаги",
       "title_en": "Steps",
       "year": 2021,
@@ -222,43 +261,57 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Праведные злодеи",
-      "title_en": "Righteous Villains",
-      "year": 2020,
-      "kinopoisk_id": 1335238,
-      "type": "movie",
+      "title_ru": "Атланта",
+      "title_en": "Atlanta",
+      "year": 2016,
+      "kinopoisk_id": 882408,
+      "world_art_id": null,
+      "translator": "Fox",
+      "token": "07ff95c16cee2170e7625bccff37d7b7e270f8f5fdecc7fae608ef60a17ccdb0",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-20 19:50:01",
+      "added_date": "2021-02-22 16:46:35",
+      "update_date": "2021-02-22 16:48:17",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Обычный ребёнок",
-      "title_en": "Just a Child",
-      "year": 2019,
-      "kinopoisk_id": 9312704,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-20 19:49:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Вкус рисового цветка",
-      "title_en": "Mi hua zhi wei",
-      "year": 2017,
-      "kinopoisk_id": 1051789,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-20 18:13:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 26,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/882408.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Байки из склепа",
@@ -1405,34 +1458,6 @@
             21,
             22,
             23
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Двойная ложь",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1112553,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "c2513853ed93cd6e573abab69d86eb1b8b4c6fe1f8b0f999c3711e33a16e1b2e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-21 09:59:10",
-      "update_date": "2021-02-21 10:00:28",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1112553.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
           ]
         }
       ]

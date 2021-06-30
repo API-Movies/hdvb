@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Тайна Коко",
+      "title_en": "Coco",
+      "year": 2017,
+      "kinopoisk_id": 679486,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-22 14:58:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Суперсемейка 2",
+      "title_en": "The Incredibles 2",
+      "year": 2018,
+      "kinopoisk_id": 839650,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-22 14:57:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Сумерки. Сага. Рассвет: Часть 1",
+      "title_en": "The Twilight Saga: Breaking Dawn - Part 1",
+      "year": 2011,
+      "kinopoisk_id": 432424,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-22 14:56:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Русалка на суше",
       "title_en": "Mermaid Down",
       "year": 2019,
@@ -222,43 +261,45 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Годзилла 2: Король монстров",
-      "title_en": "Godzilla: King of Monsters",
-      "year": 2019,
-      "kinopoisk_id": 840045,
-      "type": "movie",
+      "title_ru": "Рассказ служанки",
+      "title_en": "The Handmaid's Tale",
+      "year": 2017,
+      "kinopoisk_id": 1007426,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "ba9ab930ab4a872efc7870bd431b66c67956d4520e2651039c6a98cda0c1e54d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-22 14:38:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Гарри Поттер и Дары Смерти: Часть II",
-      "title_en": "Harry Potter and the Deathly Hallows: Part 2",
-      "year": 2011,
-      "kinopoisk_id": 407636,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-22 14:37:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Гарри Поттер и Дары Смерти: Часть I",
-      "title_en": "Harry Potter and the Deathly Hallows: Part 1",
-      "year": 2010,
-      "kinopoisk_id": 276762,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-22 14:36:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "added_date": "2019-08-23 01:47:27",
+      "update_date": "2019-08-23 01:56:27",
+      "block": [
+        "RU"
+      ],
+      "translator_id": 15,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1007426.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140263",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Плащ и Кинжал",
@@ -928,38 +969,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Благие знамения",
-      "title_en": "Good Omens",
-      "year": 2019,
-      "kinopoisk_id": 585727,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "573e0a2fbd44d72e2a4b92d6e97e17cbb92e49f257e79c6fcc295a89062cab3b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-20 19:37:29",
-      "update_date": "2019-08-20 19:39:08",
-      "block": false,
-      "translator_id": 15,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/585727.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

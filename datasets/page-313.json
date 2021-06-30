@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Просто черный",
+      "title_en": "Tout simplement noir",
+      "year": 2020,
+      "kinopoisk_id": 1276473,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-24 20:15:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Инопланетный код",
+      "title_en": "Alien Code",
+      "year": 2017,
+      "kinopoisk_id": 962558,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-24 16:42:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Принцесса Лебедь: Королевская свадьба",
+      "title_en": "The Swan Princess: A Royal Wedding",
+      "year": 2020,
+      "kinopoisk_id": 1395371,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-24 15:12:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Колибри",
       "title_en": "House of Hummingbird / Beol-sae",
       "year": 2018,
@@ -222,43 +261,34 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Восемь сотен / Восемьсот",
-      "title_en": "Ba bai / The Eight Hundred",
-      "year": 2020,
-      "kinopoisk_id": 1118110,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-23 20:20:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "На скейте по Америке",
-      "title_en": "Shred America",
-      "year": 2018,
-      "kinopoisk_id": 67655676,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-23 16:46:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Ре-эволюция",
-      "title_en": "Reevolution",
+      "title_ru": "Грешница",
+      "title_en": "The Sinner",
       "year": 2017,
-      "kinopoisk_id": 849524,
-      "type": "movie",
+      "kinopoisk_id": 1004780,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "cbc93b23b86e234fe19a232e4618fe93448f1948dc83b694c6abbd0b6a745fa5",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-23 16:44:01",
+      "added_date": "2020-03-05 08:41:34",
+      "update_date": "2020-03-05 08:41:34",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1004780.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Чужак",
@@ -921,40 +951,6 @@
             7,
             8,
             9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Моя гениальная подруга",
-      "title_en": "L'amica geniale / My Brilliant Friend",
-      "year": 2018,
-      "kinopoisk_id": 1176172,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "f754f103c48e86cc3af249c0a3006c4f2e35543cb46df34309f171e4935b808b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-03 22:13:54",
-      "update_date": "2020-03-03 22:13:54",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1176172.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

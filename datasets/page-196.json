@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Восхождение",
+      "title_en": "The Climb",
+      "year": 2019,
+      "kinopoisk_id": 1168534,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-25 16:59:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Последняя смена",
+      "title_en": "The Last Shift",
+      "year": 2020,
+      "kinopoisk_id": 1284490,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-25 16:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Призраки фермы Грэйди",
+      "title_en": "The Haunting of Grady Farm",
+      "year": 2019,
+      "kinopoisk_id": 936935,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-25 16:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Штамм 100",
       "title_en": "Strain 100",
       "year": 2020,
@@ -222,43 +261,39 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "На грани",
-      "title_en": "Wit's End",
+      "title_ru": "Всё или ничего: Тоттенхэм Хотспур",
+      "title_en": "All or Nothing: Tottenham Hotspur",
       "year": 2020,
-      "kinopoisk_id": 1407591,
-      "type": "movie",
+      "kinopoisk_id": 11188556,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "3f43adec1cb69448dc61bc456dc026c6405a2db32412614eb94eb38813256432",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-23 15:29:01",
+      "added_date": "2020-09-01 08:41:37",
+      "update_date": "2020-09-15 08:48:29",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Шепчуший",
-      "title_en": "The Surreal Project",
-      "year": 2019,
-      "kinopoisk_id": 1181623,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-23 15:27:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Любовные чары",
-      "title_en": "Loves Spell",
-      "year": 2020,
-      "kinopoisk_id": 1396214,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-23 15:26:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/11188556.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Дети улиц",
@@ -973,34 +1008,6 @@
       "translator_id": 92,
       "quality": "WEBRip",
       "poster": "https://st.kp.yandex.net/images/film_big/703022.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Наказание без преступления",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1402897,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "07b114e9f9706235eb43f05a4bd185bf39c6c59ae063d489b2e82df91b570657",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-12 19:28:16",
-      "update_date": "2020-09-14 10:10:40",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1402897.jpg",
       "trailer": "",
       "serial_episodes": [
         {

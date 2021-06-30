@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Элеонора",
+      "title_en": "Éléonore",
+      "year": 2020,
+      "kinopoisk_id": 1188366,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-27 01:20:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Обратные дороги",
+      "title_en": "Back Roads",
+      "year": 2018,
+      "kinopoisk_id": 581481,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-26 22:10:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Самый счастливый сезон",
+      "title_en": "Happiest Season",
+      "year": 2020,
+      "kinopoisk_id": 1165045,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-26 21:07:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Дэвид Боуи: История человека со звезд",
       "title_en": "Stardust",
       "year": 2020,
@@ -222,43 +261,54 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Мэгс и Джули едут в путешествие",
-      "title_en": "Mags and Julie Go on a Road Trip",
-      "year": 2020,
-      "kinopoisk_id": 1274158,
-      "type": "movie",
+      "title_ru": "Полиция Парадайз",
+      "title_en": "Paradise PD",
+      "year": 2018,
+      "kinopoisk_id": 1159296,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "21046121db9853649879b8f7a2c1b68ce57d674dc20876fa0d53d3f0025516b2",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-25 16:32:02",
+      "added_date": "2020-08-15 21:05:12",
+      "update_date": "2020-08-15 21:06:31",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Человек в лесу",
-      "title_en": "The Man in the Woods",
-      "year": 2020,
-      "kinopoisk_id": 1113360,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-25 16:31:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мама, мама, мама",
-      "title_en": "Mamá, mamá, mamá",
-      "year": 2020,
-      "kinopoisk_id": 1352409,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-25 15:42:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1159296.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Влюбленная ведьма",
@@ -1592,38 +1642,6 @@
             5,
             6,
             7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ограбление века",
-      "title_en": "El robo del siglo (The Heist of the Century)",
-      "year": 2020,
-      "kinopoisk_id": 1302575,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "e4ca1ba30a2cfa3f46c0c436b4cc3623cd043f8324fc9aeabda67bb6520867aa",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-14 19:56:07",
-      "update_date": "2020-08-14 20:06:22",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1302575.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

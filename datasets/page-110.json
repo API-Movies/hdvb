@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Энола Холмс",
+      "title_en": "Enola Holmes",
+      "year": 2020,
+      "kinopoisk_id": 1266428,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 19:53:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Хантер Киллер",
+      "title_en": "Hunter Killer",
+      "year": 2018,
+      "kinopoisk_id": 589787,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 19:52:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Т-34",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 930878,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 19:51:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Смертельная битва 2: Истребление",
       "title_en": "Mortal Kombat: Annihilation",
       "year": 1997,
@@ -222,43 +261,28 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Разделитель",
-      "title_en": "The Divide",
-      "year": 2011,
-      "kinopoisk_id": null,
-      "type": "movie",
+      "title_ru": "Кукольный дом",
+      "title_en": "Dollhouse",
+      "year": 2009,
+      "kinopoisk_id": 412341,
+      "world_art_id": null,
+      "translator": "одноголосый закадровый",
+      "token": "b80fe2d0ad1252070c29fde50a0089f590252005ce50466445a989523af9c912",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "1970-01-01 03:00:00",
+      "added_date": "2020-12-30 10:38:39",
+      "update_date": "2020-12-30 10:39:15",
       "block": false,
-      "translator": "",
-      "translator_id": 0,
-      "quality": ""
-    },
-    {
-      "title_ru": "Аксель",
-      "title_en": "A.X.L.",
-      "year": 2018,
-      "kinopoisk_id": 989641,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-12 19:39:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Познай страх",
-      "title_en": "Know Fear",
-      "year": 2021,
-      "kinopoisk_id": 1338595,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-12 19:38:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 93,
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/412341.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 0
+        }
+      ]
     },
     {
       "title_ru": "Майти Буш",
@@ -1049,63 +1073,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Откровенность",
-      "title_en": "Bebaakee",
-      "year": 2020,
-      "kinopoisk_id": 1404833,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "05ea582b5e21dded0a5cefc75b4ede051bf001bd007da8ce707ece0a660cbe5d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-17 20:12:31",
-      "update_date": "2020-12-29 13:50:08",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1404833.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 31,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "БЕДНЫЕ ДЕТИ",
+      "title_en": "Blue Kids",
+      "year": 2017,
+      "kinopoisk_id": 1003586,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-01 20:41:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мой парень — пророк",
+      "title_en": "Anthem of a Teenage Prophet",
+      "year": 2018,
+      "kinopoisk_id": 1003660,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-01 20:39:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Три пинты пива и раввин",
+      "title_en": "Three Pints and a Rabbi",
+      "year": 2021,
+      "kinopoisk_id": 1303645,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-01 20:39:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "В огонь и в воду",
       "title_en": "Kanojo",
       "year": 2021,
@@ -222,43 +261,40 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Мой учитель-осьминог",
-      "title_en": "My Octopus Teacher",
-      "year": 2020,
-      "kinopoisk_id": 1405676,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-30 14:56:01",
-      "block": false,
-      "translator": "одноголосый закадровый",
-      "translator_id": 93,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Год, который изменил Землю",
-      "title_en": "Das Jahr, das unsere Erde veränderte",
+      "title_ru": "Мечты на льду",
+      "title_en": "Zero Chill",
       "year": 2021,
-      "kinopoisk_id": 14372240,
-      "type": "movie",
+      "kinopoisk_id": 1368038,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "6cdfb3edd9f23de9d3929ccdb514d7a452f8dffe310f3027c6bf33bdff33db38",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-30 14:29:01",
+      "added_date": "2021-03-16 12:26:33",
+      "update_date": "2021-03-16 12:28:57",
       "block": false,
-      "translator": "HDrezka Studio",
-      "translator_id": 33,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Поворотники",
-      "title_en": "Blinkers",
-      "year": 2019,
-      "kinopoisk_id": 1171396,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-30 14:26:01",
-      "block": false,
-      "translator": "одноголосый закадровый",
-      "translator_id": 93,
-      "quality": "HDTVRip"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1368038.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Мечты на льду",
@@ -1052,44 +1088,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Красная дверь",
-      "title_en": "La porta rossa",
-      "year": 2017,
-      "kinopoisk_id": 1110987,
-      "world_art_id": null,
-      "translator": "ShowJet",
-      "token": "81f0e1794a7fdc2fe4a853d4e6544ed07ae80cfe7e03ee59644b827ce857590f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-28 21:42:20",
-      "update_date": "2021-03-13 15:38:53",
-      "block": false,
-      "translator_id": 125,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1110987.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

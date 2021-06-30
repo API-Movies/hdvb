@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Дорожки",
+      "title_en": "Tracks",
+      "year": 2020,
+      "kinopoisk_id": 1022809,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-19 00:41:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Побег: Головоломка страха",
+      "title_en": "Escape: Puzzle of Fear",
+      "year": 2020,
+      "kinopoisk_id": 1063690,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-18 23:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Демоны внутри меня",
+      "title_en": "Jade's Asylum / Demons Inside Me",
+      "year": 2019,
+      "kinopoisk_id": 1200807,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-18 23:18:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Человек в маске клоуна",
       "title_en": "Clownface",
       "year": 2020,
@@ -222,43 +261,43 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Рождественское обещание",
-      "title_en": "The Mistletoe Promise",
-      "year": 2016,
-      "kinopoisk_id": 996051,
-      "type": "movie",
+      "title_ru": "Явление",
+      "title_en": "Emergence",
+      "year": 2019,
+      "kinopoisk_id": 1246237,
+      "world_art_id": null,
+      "translator": "Кириллица",
+      "token": "73c5551f3e3727322ff67cfffa6b28397df9d43efbc5eab36053d571244f2be7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-18 15:11:03",
+      "added_date": "2020-02-14 10:42:46",
+      "update_date": "2020-02-14 10:42:46",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сердце дракона: Возмездие",
-      "title_en": "Dragonheart Vengeance",
-      "year": 2020,
-      "kinopoisk_id": 1235291,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-18 08:53:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Агент Ева",
-      "title_en": "Ava",
-      "year": 2020,
-      "kinopoisk_id": 1189368,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-18 00:52:03",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 123,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1246237.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Доктор, доктор",
@@ -1077,42 +1116,6 @@
             7,
             8,
             9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Расскажи мне сказку",
-      "title_en": "Tell Me a Story",
-      "year": 2018,
-      "kinopoisk_id": 1177920,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "be1fc2dbe94938dccc0ab9fa95587bea024b2fe258af5375a25124885b80f174",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-10 22:35:59",
-      "update_date": "2020-02-10 22:35:59",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1177920.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

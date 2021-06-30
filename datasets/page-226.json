@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Все оттенки Токио",
+      "title_en": "Lost Girls and Love Hotels",
+      "year": 2020,
+      "kinopoisk_id": 455623,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-24 09:01:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Здравствуй, папа, Новый год!",
+      "title_en": "Daddy\\'s Home",
+      "year": 2015,
+      "kinopoisk_id": 484428,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-24 02:51:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Мистер Одиночка",
+      "title_en": "Mr Lonesome",
+      "year": 2019,
+      "kinopoisk_id": 1291089,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-23 22:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Долли Партон: Рождество на площади",
       "title_en": "Dolly Parton's Christmas on the Square",
       "year": 2020,
@@ -222,43 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Похить меня!",
-      "title_en": "Kidnap Me",
-      "year": 2017,
-      "kinopoisk_id": 854837,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-23 05:34:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ctrl+Alt+Хэллоуин",
-      "title_en": "Ctrl+Alt+Trick/Treat",
-      "year": 2020,
-      "kinopoisk_id": 13374176,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-23 05:32:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Карнавал горя",
-      "title_en": "Carnival of Sorrows",
+      "title_ru": "Мисс Шерлок",
+      "title_en": "Miss Sherlock",
       "year": 2018,
-      "kinopoisk_id": 839166,
-      "type": "movie",
+      "kinopoisk_id": 1112719,
+      "world_art_id": null,
+      "translator": "IdeaFilm",
+      "token": "c9d77c5bd24b22d9d299681a4b52c100976a99236037b8033c65f3f47ae1b070",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-23 05:30:01",
+      "added_date": "2020-08-12 23:41:25",
+      "update_date": "2020-08-12 23:47:35",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 35,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1112719.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "День Д",
@@ -1044,45 +1078,6 @@
             12,
             13,
             14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Голубка",
-      "title_en": "Guvercin",
-      "year": 2019,
-      "kinopoisk_id": 1316421,
-      "world_art_id": null,
-      "translator": "одноголосый закадровый",
-      "token": "70572d8f00ae397b571b309aa9a5ab54145491fc69778c1149d7f31b9530cf08",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-12 05:00:41",
-      "update_date": "2020-08-12 05:04:38",
-      "block": false,
-      "translator_id": 93,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1316421.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

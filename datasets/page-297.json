@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Человек, который удивил всех",
+      "title_en": "The Man Who Surprised Everyone",
+      "year": 2018,
+      "kinopoisk_id": 1176159,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-08 09:22:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Молот",
+      "title_en": "The Hammer / Heart, Baby",
+      "year": 2017,
+      "kinopoisk_id": 954916,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-07 23:20:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Прорыв мутантов / Мутантский взрыв",
+      "title_en": "Mutant Blast",
+      "year": 2018,
+      "kinopoisk_id": 781776,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-07 23:18:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Он наблюдает",
       "title_en": "'He's Watching' / Old Flames / A Focus to Kill",
       "year": 2018,
@@ -222,43 +261,34 @@
       "quality": "SATRip"
     },
     {
-      "title_ru": "Человек, место, время и снова человек",
-      "title_en": "Ingan, gonggan, sigan geurigo ingan",
-      "year": 2018,
-      "kinopoisk_id": 1045287,
-      "type": "movie",
+      "title_ru": "Сильнее огня",
+      "title_en": "",
+      "year": 2007,
+      "kinopoisk_id": 299041,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "e0fb5c1bbbfa807f03bacd3bdbc5926d20da7c25326dfab3b29f83e1d4a019db",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-06 20:45:01",
+      "added_date": "2020-04-27 23:59:56",
+      "update_date": "2020-04-27 23:59:56",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Бродячие орлы",
-      "title_en": "Aquile Randagie",
-      "year": 2019,
-      "kinopoisk_id": 1179879,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-06 18:40:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "DVDRip"
-    },
-    {
-      "title_ru": "План",
-      "title_en": "El plan",
-      "year": 2019,
-      "kinopoisk_id": 1236784,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-06 18:39:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 92,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/299041.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Страшные сказки",
@@ -1061,42 +1091,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Допрос",
-      "title_en": "Interrogation",
-      "year": 2020,
-      "kinopoisk_id": 1232285,
-      "world_art_id": null,
-      "translator": "Novamedia",
-      "token": "1b4e638a39dc8b34a5fd3d9f88a89ba3aeee35a625c7855bb8b2f1ab49297b2a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-26 11:05:40",
-      "update_date": "2020-04-26 11:05:40",
-      "block": false,
-      "translator_id": 51,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/1232285.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

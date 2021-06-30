@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Зов Лондона",
+      "title_en": "The Big Ugly / London Calling",
+      "year": 2020,
+      "kinopoisk_id": 1219746,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 21:31:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Разыскивается",
+      "title_en": "Target Number One / Most Wanted",
+      "year": 2020,
+      "kinopoisk_id": 583532,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 21:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Подношение шторму",
+      "title_en": "Ofrenda a la tormenta",
+      "year": 2020,
+      "kinopoisk_id": 1146258,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-24 21:29:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Амулет",
       "title_en": "Amulet / Outside",
       "year": 2020,
@@ -222,43 +261,38 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Одарённая",
-      "title_en": "Gifted",
+      "title_ru": "Легион",
+      "title_en": "Legion",
       "year": 2017,
-      "kinopoisk_id": 929348,
-      "type": "movie",
+      "kinopoisk_id": 939002,
+      "world_art_id": null,
+      "translator": "HamsterStudio",
+      "token": "fa7098b9ad73610c2bd32e9fee36407089ca915433b87a0800babdc1ae9578c8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-23 14:21:01",
+      "added_date": "2019-09-02 20:05:44",
+      "update_date": "2019-09-02 20:08:05",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Начало",
-      "title_en": "Inception",
-      "year": 2010,
-      "kinopoisk_id": 447301,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-23 14:20:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Найти и уничтожить",
-      "title_en": "Search and Destroy",
-      "year": 2020,
-      "kinopoisk_id": 1347143,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-23 14:19:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 32,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/939002.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=134382",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Гипердвигатель (Гипердрайв)",
@@ -929,40 +963,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Пацаны",
-      "title_en": "The Boys",
-      "year": 2019,
-      "kinopoisk_id": 460586,
-      "world_art_id": null,
-      "translator": "HamsterStudio",
-      "token": "8e677af62778a8cd03c676d210f67c8873f2e43af3f62303a67cc9bd258b4e9f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-31 02:25:48",
-      "update_date": "2019-08-31 02:26:35",
-      "block": false,
-      "translator_id": 32,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/460586.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

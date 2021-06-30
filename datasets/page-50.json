@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "У матросов нет вопросов",
+      "title_en": "",
+      "year": 1981,
+      "kinopoisk_id": 42474,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-08 18:55:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Позывной «Карим»",
+      "title_en": "Karim",
+      "year": 2020,
+      "kinopoisk_id": 1304244,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-08 18:54:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Зоя",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1289029,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-08 18:49:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Фетровый роман",
       "title_en": "",
       "year": 2018,
@@ -222,43 +261,32 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Ночная смена",
-      "title_en": "Night Shift",
-      "year": 2021,
-      "kinopoisk_id": 989605,
-      "type": "movie",
+      "title_ru": "Рокко Скьявоне",
+      "title_en": "Rocco Schiavone",
+      "year": 2016,
+      "kinopoisk_id": 1227553,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "482b78da286643981f681fe6e21918c7e30e41ffeb0caa0d74a4660dfcbcdbf9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-07 02:15:01",
+      "added_date": "2021-03-21 09:08:03",
+      "update_date": "2021-03-26 07:52:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Я, мама, моя мать и я",
-      "title_en": "Moi, maman, ma mère et moi",
-      "year": 2018,
-      "kinopoisk_id": 1069408,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-07 02:14:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "И с тех пор я сошла с ума",
-      "title_en": "Depois a Louca Sou Eu / And They Say I Am the Crazy One",
-      "year": 2019,
-      "kinopoisk_id": 1307092,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-07 02:13:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1227553.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Парадайз-Сити",
@@ -1092,59 +1120,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Формула 1: Гонять, чтобы выживать",
-      "title_en": "Formula 1: Drive to Survive",
-      "year": 2019,
-      "kinopoisk_id": 1240162,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "540352e4584998d5be87321cd8021895ec9bf62ed0f9e617946cfa0f8ba55c2e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-04 19:27:43",
-      "update_date": "2021-03-24 07:32:43",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1240162.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            10
           ]
         }
       ]

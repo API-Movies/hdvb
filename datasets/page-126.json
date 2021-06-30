@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Звездный рубеж",
+      "title_en": "Cosmic Sin",
+      "year": 2021,
+      "kinopoisk_id": 1347194,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-02 01:05:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Неблагоприятный",
+      "title_en": "Adverse",
+      "year": 2020,
+      "kinopoisk_id": 1165161,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-02 01:04:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Отвязная юность",
+      "title_en": "Big Time Adolescence",
+      "year": 2019,
+      "kinopoisk_id": 1166942,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-28 16:20:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Белая снежинка",
       "title_en": "Little White Snowflake",
       "year": 2020,
@@ -222,43 +261,37 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Социальная сеть",
-      "title_en": "The Social Network",
-      "year": 2010,
-      "kinopoisk_id": 427198,
-      "type": "movie",
+      "title_ru": "Шифр",
+      "title_en": "Cypher",
+      "year": 2020,
+      "kinopoisk_id": 1123370,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "96d7702b7d0df4321191d625a1a1feaf36ab275d7c2f9ce172e5d8bfea94e4c9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-28 05:10:01",
+      "added_date": "2020-12-10 09:14:17",
+      "update_date": "2020-12-10 09:15:01",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Собаки не носят штанов",
-      "title_en": "Koirat eivät käytä housuja",
-      "year": 2019,
-      "kinopoisk_id": 1200332,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-28 05:09:02",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Поймай меня, если сможешь",
-      "title_en": "Catch Me If You Can",
-      "year": 2002,
-      "kinopoisk_id": 324,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-28 05:08:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1123370.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Шерлок в России",
@@ -1177,48 +1210,6 @@
       "translator_id": 106,
       "quality": "HDTVRip",
       "poster": "https://st.kp.yandex.net/images/film_big/957244.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Романтическое приложение",
-      "title_en": "Romaenseuneun byeolchaekburok",
-      "year": 2019,
-      "kinopoisk_id": 1196967,
-      "world_art_id": null,
-      "translator": "Храм Дорам ТВ",
-      "token": "116e1cccb1e4f7381c57ef01d8b517b4c94edb80927e596a5a1191032826f527",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-08 22:19:57",
-      "update_date": "2020-12-08 22:20:46",
-      "block": false,
-      "translator_id": 158,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1196967.jpg",
       "trailer": "",
       "serial_episodes": [
         {

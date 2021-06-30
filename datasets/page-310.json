@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Под лежачий камень вода не течёт",
+      "title_en": "Salted fish lazy to turn over",
+      "year": 2020,
+      "kinopoisk_id": 43546756,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-27 21:41:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Фатальный план",
+      "title_en": "Tödliches Erwachen",
+      "year": 2019,
+      "kinopoisk_id": 1163694,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-27 21:39:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дар",
+      "title_en": "The Bestowal",
+      "year": 2018,
+      "kinopoisk_id": 1158326,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-27 21:38:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Псих Рокки",
       "title_en": "Rocky Mental",
       "year": 2017,
@@ -222,43 +261,38 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Подарок",
-      "title_en": "Wrapped",
-      "year": 2019,
-      "kinopoisk_id": 1188110,
-      "type": "movie",
+      "title_ru": "Бельвю",
+      "title_en": "Bellevue",
+      "year": 2017,
+      "kinopoisk_id": 1009722,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "4ca724910439eeacd9a24e07bd11a7a079aa37642103f16af3ceb06a47e5718d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-26 15:12:02",
+      "added_date": "2020-03-25 08:13:35",
+      "update_date": "2020-03-25 08:13:35",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Заключённый",
-      "title_en": "The Prisoner",
-      "year": 2020,
-      "kinopoisk_id": 7687653,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-26 15:11:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Спецотряд",
-      "title_en": "Crime Solving Special Squad",
-      "year": 2020,
-      "kinopoisk_id": 656678687,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-26 15:09:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1009722.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Охотники",
@@ -907,33 +941,6 @@
             3,
             4,
             5
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "54 часа",
-      "title_en": "Gladbeck",
-      "year": 2018,
-      "kinopoisk_id": 994917,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "a564af6e45ee6034aa818285a617abe3b5c03fcdd4d8d08f785fcb7ae41dfceb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-17 14:38:44",
-      "update_date": "2020-03-17 14:38:44",
-      "block": false,
-      "translator_id": 60,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/994917.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 1,
-          "episodes": [
-            1
           ]
         }
       ]

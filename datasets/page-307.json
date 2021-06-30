@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Черри возвращается",
+      "title_en": "Na nian xia tian ni qu le na li",
+      "year": 2016,
+      "kinopoisk_id": 1022656,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-29 22:40:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Приглашение",
+      "title_en": "Nimtoh",
+      "year": 2019,
+      "kinopoisk_id": 13543656,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-29 22:39:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Довод",
+      "title_en": "Tenet",
+      "year": 2020,
+      "kinopoisk_id": 1236063,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-29 22:36:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Магия зверя",
       "title_en": "Seules les bêtes",
       "year": 2019,
@@ -222,43 +261,119 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Человек без лица",
-      "title_en": "The Faceless Man",
-      "year": 2019,
-      "kinopoisk_id": 1136744,
-      "type": "movie",
+      "title_ru": "Особо тяжкие преступления",
+      "title_en": "Major Crimes",
+      "year": 2012,
+      "kinopoisk_id": 676333,
+      "world_art_id": null,
+      "translator": "DreamRecords",
+      "token": "5e08f011ae483bd64d78d25bb242723badb393001e0c608e8071269438ab22b8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-29 00:30:02",
+      "added_date": "2020-04-04 00:12:15",
+      "update_date": "2020-04-04 00:12:15",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Явление",
-      "title_en": "Fatima",
-      "year": 2020,
-      "kinopoisk_id": 686940,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-28 19:49:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Я — женщина",
-      "title_en": "I Am Woman",
-      "year": 2019,
-      "kinopoisk_id": 1211319,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-28 19:33:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 22,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/676333.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 19,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 19,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 23,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Бумажный дом",
@@ -1043,49 +1158,6 @@
           "episodes": [
             1,
             2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Новый человек",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1097467,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "84c63741a2e29bae62b8a56ad76cacebc57e36c76394f1505c40ce6a166fc220",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-31 23:53:00",
-      "update_date": "2020-03-31 23:53:00",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1097467.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 17,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17
           ]
         }
       ]

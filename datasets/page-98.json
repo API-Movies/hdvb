@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Падение Эмбер",
+      "title_en": "Amber's Descent",
+      "year": 2021,
+      "kinopoisk_id": 1172942,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-25 02:57:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Снега больше не будет",
+      "title_en": "Śniegu już nigdy nie będzie",
+      "year": 2020,
+      "kinopoisk_id": 1226786,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-25 02:55:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Хребет дьявола",
+      "title_en": "The Devil Below",
+      "year": 2021,
+      "kinopoisk_id": 1134989,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-25 02:53:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Четверо детей и чудище / Сэм: Песочный эльф",
       "title_en": "Four Kids and It",
       "year": 2020,
@@ -222,43 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Базар жок, Мексика!",
-      "title_en": "",
+      "title_ru": "Фьорды Мальборо Саунд",
+      "title_en": "The Sounds",
       "year": 2020,
-      "kinopoisk_id": 1348099,
-      "type": "movie",
+      "kinopoisk_id": 1309526,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "3c993301f412290a2bb1d0d552386f202669baedf8d2959c45ae07c2c5607cc9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-24 07:56:01",
+      "added_date": "2021-01-16 21:57:20",
+      "update_date": "2021-01-16 22:02:26",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "SATRip"
-    },
-    {
-      "title_ru": "Толмен. Демон леса",
-      "title_en": "The Toll",
-      "year": 2021,
-      "kinopoisk_id": 1209425,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-23 23:56:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Война фараона",
-      "title_en": "Hamlet Pheroun / Pharaoh's War",
-      "year": 2021,
-      "kinopoisk_id": 1280332,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-23 23:53:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1309526.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "От заката до рассвета",
@@ -1286,50 +1320,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Трансформеры: Война за Кибертрон",
-      "title_en": "Transformers: War for Cybertron",
-      "year": 2020,
-      "kinopoisk_id": 1237959,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "e80ce220ac40b79c86fe800f267ce6ba6f1400f41d3cc56af7f9eec0eba0966c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-04 01:23:36",
-      "update_date": "2021-01-15 17:24:27",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1237959.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

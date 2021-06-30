@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Легенда о волках",
+      "title_en": "Wolfwalkers",
+      "year": 2020,
+      "kinopoisk_id": 958541,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 08:14:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Томирис",
+      "title_en": "Tomiris",
+      "year": 2019,
+      "kinopoisk_id": 1127372,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 08:13:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Тихоокеанский рубеж",
+      "title_en": "Pacific Rim",
+      "year": 2013,
+      "kinopoisk_id": 546915,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 08:12:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Тетрадь смерти",
       "title_en": "Death Note",
       "year": 2017,
@@ -222,43 +261,96 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Неистовый",
-      "title_en": "Unhinged",
-      "year": 2020,
-      "kinopoisk_id": 1264589,
-      "type": "movie",
+      "title_ru": "Настоящая кровь",
+      "title_en": "True Blood",
+      "year": 2008,
+      "kinopoisk_id": 415001,
+      "world_art_id": null,
+      "translator": "Fox Life",
+      "token": "abff557ca95c99df719190c1bf6bf544fd02c6d9e6b2cf384de7c5f18dc2a482",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-08 07:45:01",
+      "added_date": "2020-12-20 22:12:53",
+      "update_date": "2020-12-20 22:22:12",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Девушка, которая боялась дождя",
-      "title_en": "Fear of Rain",
-      "year": 2021,
-      "kinopoisk_id": 1249726,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-08 07:44:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Непригодный: Психология Дональда Трампа",
-      "title_en": "Unfit: The Psychology of Donald Trump",
-      "year": 2020,
-      "kinopoisk_id": 12304596,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-08 01:07:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 127,
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/415001.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Моя идеальная мама",
@@ -1459,37 +1551,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Эль Сид",
-      "title_en": "El Cid",
-      "year": 2020,
-      "kinopoisk_id": 1302234,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "b02e71c8ae71457b93365ebc4be06df91331689995aed8138227c1b36175f681",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-19 09:45:07",
-      "update_date": "2020-12-19 09:45:48",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1302234.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
           ]
         }
       ]

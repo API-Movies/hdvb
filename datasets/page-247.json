@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Грань времени",
+      "title_en": "Synchronic",
+      "year": 2020,
+      "kinopoisk_id": 1193013,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-02 12:53:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "ДНК",
+      "title_en": "ADN",
+      "year": 2020,
+      "kinopoisk_id": 1100738,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-02 12:52:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "&quot;Прощальная пьеса Мэдеи&quot; Тайлера Перри",
+      "title_en": "Tyler Perry's Madea's Farewell Play",
+      "year": 2020,
+      "kinopoisk_id": 1406211,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-02 12:51:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Молчать до конца",
       "title_en": "Totgeschwiegen",
       "year": 2019,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Пять женщин в конце",
-      "title_en": "Five Women in the End",
-      "year": 2019,
-      "kinopoisk_id": 1223031,
-      "type": "movie",
+      "title_ru": "Убийцы моего отца",
+      "title_en": "Ubice mog oca",
+      "year": 2016,
+      "kinopoisk_id": 1007892,
+      "world_art_id": null,
+      "translator": "ViruseProject",
+      "token": "f167059d5b71c51094791fac2aa1f1a69bbfe68749751ab56e3074588be17838",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-01 22:23:02",
+      "added_date": "2020-07-18 01:13:52",
+      "update_date": "2020-07-18 01:13:52",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Новый конец",
-      "title_en": "Ende Neu",
-      "year": 2018,
-      "kinopoisk_id": 1050082,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-01 22:21:03",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "И жила она в злости",
-      "title_en": "Angrily Ever After",
-      "year": 2019,
-      "kinopoisk_id": 1264503,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-01 22:20:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 72,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1007892.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Хекимоглу",
@@ -1053,40 +1089,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Грязный Джон",
-      "title_en": "Dirty John",
-      "year": 2018,
-      "kinopoisk_id": 1140184,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "1d639206b741e9e4ab881104a1028462e614561b52f023d8abe1a57ba047cf45",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-17 09:03:03",
-      "update_date": "2020-07-17 09:03:03",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1140184.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

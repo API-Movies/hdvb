@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Симфония плохих парней / Пацанская симфония",
+      "title_en": "Le yu",
+      "year": 2020,
+      "kinopoisk_id": 1189816,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-26 11:03:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пустота",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1007602,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-26 09:36:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Конец 2050",
+      "title_en": "Endgame 2050",
+      "year": 2020,
+      "kinopoisk_id": 12292428,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-26 00:37:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Возвращение короля Хуана Фейхуна",
       "title_en": "Return of the King Huang Feihong",
       "year": 2017,
@@ -222,43 +261,37 @@
       "quality": "WEB-DLRip"
     },
     {
-      "title_ru": "Осознание",
-      "title_en": "The Understanding",
-      "year": 2019,
-      "kinopoisk_id": 1266729,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-25 20:29:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Бог, какой ты придурок",
-      "title_en": "God, You're Such a Prick / Gott, du kannst ein Arsch sein",
+      "title_ru": "Код величия",
+      "title_en": "Greatness Code",
       "year": 2020,
-      "kinopoisk_id": 1332239,
-      "type": "movie",
+      "kinopoisk_id": 12615492,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "a05c9d08429d46467e89e333078c0f5f5069073cad08e78051647f747c5b0102",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-25 20:28:01",
+      "added_date": "2020-07-11 09:11:45",
+      "update_date": "2020-07-11 09:11:45",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Растворяться",
-      "title_en": "Dissolve",
-      "year": 2019,
-      "kinopoisk_id": 1299350,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-25 20:26:02",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/12615492.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
       "title_ru": "С волками жить",
@@ -1479,102 +1512,6 @@
             18,
             19,
             20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Волшебный школьный автобус",
-      "title_en": "The Magic School Bus",
-      "year": 1994,
-      "kinopoisk_id": 280134,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "867524ec62e782d9f3d366b596f5bd0575573c98b0cee8bbcf763db4247984d9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-09 15:28:45",
-      "update_date": "2020-07-09 15:28:45",
-      "block": false,
-      "translator_id": 82,
-      "quality": "SATRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/280134.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

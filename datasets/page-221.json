@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Корделия",
+      "title_en": "Cordelia",
+      "year": 2020,
+      "kinopoisk_id": 1280350,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-30 00:48:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Жалкие истории",
+      "title_en": "Historias lamentables",
+      "year": 2020,
+      "kinopoisk_id": 1328545,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-30 00:46:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Езда с сахарком",
+      "title_en": "Riding with Sugar",
+      "year": 2020,
+      "kinopoisk_id": 1211763,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-30 00:45:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Жизнь за год",
       "title_en": "Life in a Year",
       "year": 2020,
@@ -222,43 +261,48 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "В полночь в Магнолии",
-      "title_en": "Midnight at the Magnolia",
-      "year": 2020,
-      "kinopoisk_id": 1440395,
-      "type": "movie",
+      "title_ru": "Хулиганы и ботаны",
+      "title_en": "Freaks and Geeks",
+      "year": 1999,
+      "kinopoisk_id": 401639,
+      "world_art_id": null,
+      "translator": "DobleRec",
+      "token": "54aef8abda1c8cb48354c9131995a1967204721058617ef0ebba13cd85bf0f5e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-27 23:05:02",
+      "added_date": "2020-08-18 19:53:48",
+      "update_date": "2020-08-18 19:54:53",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Рождественский переворот",
-      "title_en": "A Wrestling Christmas Miracle",
-      "year": 2020,
-      "kinopoisk_id": 1344569,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-27 22:12:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Шоколадная устрица",
-      "title_en": "Chocolate Oyster",
-      "year": 2018,
-      "kinopoisk_id": 879281,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-27 22:11:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 148,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/401639.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Бальтазар",
@@ -1657,42 +1701,6 @@
             15,
             16,
             17
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Молодые охотницы за головами",
-      "title_en": "Teenage Bounty Hunters",
-      "year": 2020,
-      "kinopoisk_id": 1282762,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "42c4a82af1773e953c67bd5c037bf3e584cb2b5f4c90f3e6af80ad97c0ba8665",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-15 11:05:47",
-      "update_date": "2020-08-17 09:36:06",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1282762.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

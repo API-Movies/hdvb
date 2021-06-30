@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Подвиг",
+      "title_en": "Jin gang chuan",
+      "year": 2020,
+      "kinopoisk_id": 1417378,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-14 16:05:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дублерша",
+      "title_en": "The Stand In",
+      "year": 2020,
+      "kinopoisk_id": 1147374,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-14 16:02:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Непосредственно Каха!",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1345717,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-14 10:08:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Убийство в Вегасе",
       "title_en": "Magic Man",
       "year": 2010,
@@ -222,43 +261,35 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Невестка",
-      "title_en": "Belle fille",
-      "year": 2020,
-      "kinopoisk_id": 1304397,
-      "type": "movie",
+      "title_ru": "Дурная кровь",
+      "title_en": "The Bad Seed",
+      "year": 2018,
+      "kinopoisk_id": 1164744,
+      "world_art_id": null,
+      "translator": "WestFilm",
+      "token": "7a8c4a2cc648fec88edabb6b29eb04e6af4066fdbb1c2b3d655638aeda3debf1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-13 00:39:01",
+      "added_date": "2020-09-06 03:32:05",
+      "update_date": "2020-09-06 03:33:29",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Параллель",
-      "title_en": "Parallel",
-      "year": 2020,
-      "kinopoisk_id": 1017868,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-13 00:38:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Папина дочка",
-      "title_en": "Le prince oublié",
-      "year": 2020,
-      "kinopoisk_id": 1118223,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-12 21:51:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
+      "translator_id": 167,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1164744.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Помощники",
@@ -1036,42 +1067,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Страшные сказки: Город ангелов",
-      "title_en": "Penny Dreadful: City of Angels",
-      "year": 2020,
-      "kinopoisk_id": 1254206,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "0a56b100c4686a5f15d24cafca33048b0c3702d115d53dd8763585601efceda8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-01 15:09:09",
-      "update_date": "2020-09-05 20:44:52",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1254206.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

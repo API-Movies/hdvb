@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Плохие стихи",
+      "title_en": "Rossz versek",
+      "year": 2018,
+      "kinopoisk_id": 1079784,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-11 16:43:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Элли и Оби",
+      "title_en": "Allie &amp; Obie / Allie and Obie",
+      "year": 2018,
+      "kinopoisk_id": 879461,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-11 16:42:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кровные узы",
+      "title_en": "Blood Runs Thick",
+      "year": 2018,
+      "kinopoisk_id": 1010637,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-11 16:41:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Если я забуду",
       "title_en": "If I Forget",
       "year": 2017,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Академия монстров",
-      "title_en": "Cranston Academy: Monster Zone",
-      "year": 2020,
-      "kinopoisk_id": 1197918,
-      "type": "movie",
+      "title_ru": "Бюро",
+      "title_en": "Le Bureau des Légendes",
+      "year": 2015,
+      "kinopoisk_id": 891683,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "d4bf0ce3a82ee0b6ff7ed19fc5bbb5687c4cb73fdee95f5a262b05aa4cccadfa",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-10 18:00:02",
+      "added_date": "2020-05-05 17:40:20",
+      "update_date": "2020-05-05 17:40:20",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Няня. Королева проклятых",
-      "title_en": "The Babysitter: Killer Queen",
-      "year": 2020,
-      "kinopoisk_id": 1309718,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-10 17:59:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Печально известные",
-      "title_en": "Infamous",
-      "year": 2020,
-      "kinopoisk_id": 1236742,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-10 17:57:01",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/891683.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Мистер Булл",
@@ -1411,58 +1447,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Затерянные в космосе",
-      "title_en": "Lost in Space",
-      "year": 2018,
-      "kinopoisk_id": 993176,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "ed13c4b4c6cf7151cc3ae62219d774090c8f7f4b6cca04f95fef1d232de1576b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-03 00:21:26",
-      "update_date": "2020-05-03 00:21:26",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/993176.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=147584",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Подарок",
+      "title_en": "Wrapped",
+      "year": 2019,
+      "kinopoisk_id": 1188110,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-26 15:12:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Заключённый",
+      "title_en": "The Prisoner",
+      "year": 2020,
+      "kinopoisk_id": 7687653,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-26 15:11:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Спецотряд",
+      "title_en": "Crime Solving Special Squad",
+      "year": 2020,
+      "kinopoisk_id": 656678687,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-26 15:09:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Пребывание",
       "title_en": "Singsu",
       "year": 2018,
@@ -222,43 +261,31 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Дорогой дневник",
-      "title_en": "DieRy",
-      "year": 2020,
-      "kinopoisk_id": 1190576,
-      "type": "movie",
+      "title_ru": "54 часа",
+      "title_en": "Gladbeck",
+      "year": 2018,
+      "kinopoisk_id": 994917,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "a564af6e45ee6034aa818285a617abe3b5c03fcdd4d8d08f785fcb7ae41dfceb",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-25 17:50:01",
+      "added_date": "2020-03-17 14:38:44",
+      "update_date": "2020-03-17 14:38:44",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Горный царь",
-      "title_en": "Shan kui",
-      "year": 2020,
-      "kinopoisk_id": 135426534,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-25 17:27:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "В каждый выходной по свадьбе",
-      "title_en": "Wedding Every Weekend",
-      "year": 2020,
-      "kinopoisk_id": 1399247,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-25 17:24:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 60,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/994917.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 1,
+          "episodes": [
+            1
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Охотник за разумом",
@@ -1090,45 +1117,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чужак",
-      "title_en": "The Outsider",
-      "year": 2020,
-      "kinopoisk_id": 1162527,
-      "world_art_id": null,
-      "translator": "Кравец",
-      "token": "740372769e426e26c413f60548a8908dc7e8102c6d4a3d029d8d15118cfeda48",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-11 21:29:23",
-      "update_date": "2020-03-11 21:29:23",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 85,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1162527.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

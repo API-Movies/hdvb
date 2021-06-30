@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Тёмная тропа",
+      "title_en": "A Dark Path",
+      "year": 2020,
+      "kinopoisk_id": 1283019,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-01 00:43:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пробуди тень",
+      "title_en": "Awaken the Shadowman",
+      "year": 2017,
+      "kinopoisk_id": 929695,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-31 21:29:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Суперагент Маккей",
+      "title_en": "Superagente Makey",
+      "year": 2020,
+      "kinopoisk_id": 1271012,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-31 21:20:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Её зовут Си Лань",
       "title_en": "Her Name Is Xilan",
       "year": 2020,
@@ -222,43 +261,56 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Воронье гнездо",
-      "title_en": "Ravenstein",
-      "year": 2020,
-      "kinopoisk_id": 1392183,
-      "type": "movie",
+      "title_ru": "Бюро",
+      "title_en": "Le Bureau des Légendes",
+      "year": 2015,
+      "kinopoisk_id": 891683,
+      "world_art_id": null,
+      "translator": "Spike",
+      "token": "d07f0afaedc67941832c81b23ace8f707e99a2cbe657a58d8f9584dc9fa1c713",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-31 01:14:02",
+      "added_date": "2020-04-09 23:43:47",
+      "update_date": "2020-04-09 23:43:47",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Контактер",
-      "title_en": "Contactee",
-      "year": 2020,
-      "kinopoisk_id": 1051824,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-31 01:13:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Денежные отношения",
-      "title_en": "Cash Nexus",
-      "year": 2020,
-      "kinopoisk_id": 1156689,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-31 01:08:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 119,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/891683.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Удар крови OVA-4",
@@ -1126,50 +1178,6 @@
             5,
             6,
             7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Час",
-      "title_en": "The Hour",
-      "year": 2011,
-      "kinopoisk_id": 574433,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "9bb67584479d76216b0eed3fd3218e4e580655897f5aa74b17c0386c38a28576",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-05 16:21:21",
-      "update_date": "2020-04-05 16:21:21",
-      "block": false,
-      "translator_id": 126,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/574433.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

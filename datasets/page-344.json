@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Одарённая",
+      "title_en": "Gifted",
+      "year": 2017,
+      "kinopoisk_id": 929348,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-23 14:21:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Начало",
+      "title_en": "Inception",
+      "year": 2010,
+      "kinopoisk_id": 447301,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-23 14:20:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Найти и уничтожить",
+      "title_en": "Search and Destroy",
+      "year": 2020,
+      "kinopoisk_id": 1347143,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-23 14:19:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Меч короля Артура",
       "title_en": "King Arthur: Legend of the Sword",
       "year": 2017,
@@ -222,43 +261,38 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Тупик",
-      "title_en": "Standoff",
-      "year": 2015,
-      "kinopoisk_id": 841977,
-      "type": "movie",
+      "title_ru": "Пацаны",
+      "title_en": "The Boys",
+      "year": 2019,
+      "kinopoisk_id": 460586,
+      "world_art_id": null,
+      "translator": "HamsterStudio",
+      "token": "8e677af62778a8cd03c676d210f67c8873f2e43af3f62303a67cc9bd258b4e9f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-23 09:04:02",
+      "added_date": "2019-08-31 02:25:48",
+      "update_date": "2019-08-31 02:26:35",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Книжный магазин ужасов: жестянка страхов",
-      "title_en": "76 Horror Bookstore First Series - Tin of Fear",
-      "year": 2020,
-      "kinopoisk_id": 89736787,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-22 22:05:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Путешествие двух сердец",
-      "title_en": "Shiva 143",
-      "year": 2020,
-      "kinopoisk_id": 56755744,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-22 22:03:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 32,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/460586.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Люцифер",
@@ -898,40 +932,6 @@
       "serial_episodes": [
         {
           "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Легкий как перышко",
-      "title_en": "Light as a Feather",
-      "year": 2018,
-      "kinopoisk_id": 1173528,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "5455bb301cef4abe062f94ed2618eaf7ec5b6138dbbfaaab573b5f0fad68507e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-26 17:01:28",
-      "update_date": "2019-08-26 17:02:00",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1173528.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
           "episodes_count": 8,
           "episodes": [
             1,

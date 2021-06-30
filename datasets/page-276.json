@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Парни в группе",
+      "title_en": "The Boys in the Band",
+      "year": 2020,
+      "kinopoisk_id": 1258151,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-03 13:54:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Восстание андроидов",
+      "title_en": "Android Uprising",
+      "year": 2020,
+      "kinopoisk_id": 1410936,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-03 13:53:03",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Призрак",
+      "title_en": "The Haunted",
+      "year": 2018,
+      "kinopoisk_id": 895519,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-03 09:19:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Захват",
       "title_en": "Seized / Rizk",
       "year": 2020,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Дисфория",
-      "title_en": "Dysphoria / Disforia",
-      "year": 2018,
-      "kinopoisk_id": 1220267,
-      "type": "movie",
+      "title_ru": "Почти рай",
+      "title_en": "Almost Paradise",
+      "year": 2020,
+      "kinopoisk_id": 1320707,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "cf7154c6a3ce6e3ac6c676650790981766db085032a0db7f96f1f623265a27d0",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-02 13:45:02",
+      "added_date": "2020-06-02 17:31:39",
+      "update_date": "2020-06-02 17:31:39",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Когда Икар упал",
-      "title_en": "Icarus",
-      "year": 2018,
-      "kinopoisk_id": 1093802,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-02 13:43:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Маари 2",
-      "title_en": "Maari 2",
-      "year": 2018,
-      "kinopoisk_id": 1076237,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-02 13:42:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1320707.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Частные сыщики",
@@ -1708,57 +1744,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Убивая Еву",
-      "title_en": "Killing Eve",
-      "year": 2018,
-      "kinopoisk_id": 1046229,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "dbdc611aba711e8cecd79d4c2753d0f3c75b1e6f12651bf7100e890df955f0e9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-01 13:51:36",
-      "update_date": "2020-06-01 13:51:36",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1046229.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=148398",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

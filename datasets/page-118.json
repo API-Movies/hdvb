@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Неистовый",
+      "title_en": "Unhinged",
+      "year": 2020,
+      "kinopoisk_id": 1264589,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 07:45:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Девушка, которая боялась дождя",
+      "title_en": "Fear of Rain",
+      "year": 2021,
+      "kinopoisk_id": 1249726,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 07:44:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Непригодный: Психология Дональда Трампа",
+      "title_en": "Unfit: The Psychology of Donald Trump",
+      "year": 2020,
+      "kinopoisk_id": 12304596,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 01:07:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Встреча",
       "title_en": "Rendez-vous",
       "year": 2019,
@@ -222,43 +261,35 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Карантин Z",
-      "title_en": "Redcon-1",
-      "year": 2018,
-      "kinopoisk_id": 611798,
-      "type": "movie",
+      "title_ru": "Эль Сид",
+      "title_en": "El Cid",
+      "year": 2020,
+      "kinopoisk_id": 1302234,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "b02e71c8ae71457b93365ebc4be06df91331689995aed8138227c1b36175f681",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-06 22:02:02",
+      "added_date": "2020-12-19 09:45:07",
+      "update_date": "2020-12-19 09:45:48",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Изумление",
-      "title_en": "Mersal",
-      "year": 2017,
-      "kinopoisk_id": 1029301,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-06 18:17:02",
-      "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дым",
-      "title_en": "Smoke",
-      "year": 2018,
-      "kinopoisk_id": 7790712,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-06 14:28:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1302234.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Сезон беспокойных дев",
@@ -1127,42 +1158,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Доктор Шанс",
-      "title_en": "Chance",
-      "year": 2016,
-      "kinopoisk_id": 981281,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "99bfb6248dd534e13e1be9f9a9ba5c2420feabb42e8e0a8fc71075e5c9789df8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-18 18:27:08",
-      "update_date": "2020-12-18 18:28:35",
-      "block": false,
-      "translator_id": 48,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/981281.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

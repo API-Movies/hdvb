@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Иногда Всегда Никогда",
+      "title_en": "Sometimes Always Never",
+      "year": 2018,
+      "kinopoisk_id": 1080476,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-31 08:05:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Семейство Лэндри: Всё, что блестит",
+      "title_en": "V.C. Andrews' All That Glitters",
+      "year": 2021,
+      "kinopoisk_id": 1347651,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-31 00:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вверх по пятому шоссе",
+      "title_en": "Up The 5",
+      "year": 2019,
+      "kinopoisk_id": 56589055,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-31 00:16:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Спусти демонов с поводка",
       "title_en": "Unleashing the Demons",
       "year": 2019,
@@ -222,43 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Обследование",
-      "title_en": "Test Pattern",
+      "title_ru": "Трендонутые",
+      "title_en": "",
       "year": 2019,
-      "kinopoisk_id": 1256266,
-      "type": "movie",
+      "kinopoisk_id": 76856787,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "6dd6e5eb074cdddefcf73ac26b84f0dc3f91c306785b5b0eb63c311b9f588734",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-29 19:09:01",
+      "added_date": "2021-01-24 16:31:50",
+      "update_date": "2021-01-24 16:32:27",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мы будем юными и прекрасными",
-      "title_en": "Saremo giovani e bellissimi",
-      "year": 2019,
-      "kinopoisk_id": 1200253,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-29 19:08:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Илайяраджа",
-      "title_en": "Ilayaraja",
-      "year": 2019,
-      "kinopoisk_id": 1181896,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-29 19:07:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/76856787.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Входя в дом, оглянись",
@@ -1103,60 +1137,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рим",
-      "title_en": "Rome",
-      "year": 2005,
-      "kinopoisk_id": 257386,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "f2547d6f92ba8f733bcf11b19e9c976f85cb6d008c8243e6b038a413783bf424",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-23 04:08:32",
-      "update_date": "2021-01-23 04:28:34",
-      "block": false,
-      "translator_id": 43,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/257386.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

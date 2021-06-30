@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Норман",
+      "title_en": "Norman",
+      "year": 2021,
+      "kinopoisk_id": 863958,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-15 23:41:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Намасте, вахала!",
+      "title_en": "Namaste Wahala",
+      "year": 2020,
+      "kinopoisk_id": 1409579,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-15 23:40:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Иуда и чёрный мессия",
+      "title_en": "Judas and the Black Messiah",
+      "year": 2021,
+      "kinopoisk_id": 1239696,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-15 23:39:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Вера. Надежда. Любовь",
       "title_en": "Faith.Hope.Love",
       "year": 2021,
@@ -222,43 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Современная любовь",
-      "title_en": "Modern Love",
-      "year": 2021,
-      "kinopoisk_id": 807311,
-      "type": "movie",
+      "title_ru": "Иисус: Его жизнь",
+      "title_en": "Jesus: His Life",
+      "year": 2019,
+      "kinopoisk_id": 1236585,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "2e1d32ab12bed128a8eac130f407761d7f95a060df5f0c2645b5cf301457cb65",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-14 23:39:01",
+      "added_date": "2020-11-16 20:00:50",
+      "update_date": "2020-11-16 20:02:50",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Искра, буря, безумие",
-      "title_en": "Me You Madness",
-      "year": 2021,
-      "kinopoisk_id": 1236857,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-14 23:38:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Падшие",
-      "title_en": "Lapsis",
-      "year": 2020,
-      "kinopoisk_id": 1338925,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-14 23:37:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1236585.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Не с того поля ягодка",
@@ -1166,238 +1200,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Доктор Кто",
-      "title_en": "Doctor Who",
-      "year": 2005,
-      "kinopoisk_id": 252089,
-      "world_art_id": null,
-      "translator": "многоголосый закадровый",
-      "token": "399b4b87b20ee1e19efbc1f4a863b96e23fa18f66ec659894300218b05c12c5e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-14 19:25:48",
-      "update_date": "2020-11-16 15:11:28",
-      "block": false,
-      "translator_id": 89,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/252089.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "season_number": 7,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "season_number": 8,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 9,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 10,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 11,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
           ]
         }
       ]

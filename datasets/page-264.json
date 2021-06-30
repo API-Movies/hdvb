@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Художник",
+      "title_en": "Painter",
+      "year": 2020,
+      "kinopoisk_id": 1114480,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-13 23:33:03",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Это была Америка",
+      "title_en": "This Was America",
+      "year": 2020,
+      "kinopoisk_id": 1201946,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-13 23:29:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Криминальное прослушивание",
+      "title_en": "Criminal Audition",
+      "year": 2020,
+      "kinopoisk_id": 844862,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-13 23:28:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Смертельный уикенд / Опасное совпадение",
       "title_en": "Killer Weekend / Dangerous Match",
       "year": 2020,
@@ -222,43 +261,50 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Я - робот",
-      "title_en": "iBOT",
-      "year": 2020,
-      "kinopoisk_id": 1164890,
-      "type": "movie",
+      "title_ru": "Игра",
+      "title_en": "",
+      "year": 2011,
+      "kinopoisk_id": 586685,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "eb6aaa9faaa959db65abd25b7c70a1b66a0a46ad87b2e47992eca5715e4c5a9f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-12 21:01:02",
+      "added_date": "2020-06-21 16:51:52",
+      "update_date": "2020-06-21 16:51:52",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Звонок из подземелья",
-      "title_en": "The Call",
-      "year": 2020,
-      "kinopoisk_id": 1402910,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-12 20:58:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Погребальные байки",
-      "title_en": "The Mortuary Collection",
-      "year": 2020,
-      "kinopoisk_id": 1306643,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-12 20:57:02",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
+      "translator_id": 92,
+      "quality": "HDTV",
+      "poster": "https://www.kinopoisk.ru/images/film_big/586685.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Адвокат",
@@ -1549,38 +1595,6 @@
             5,
             6,
             7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Самое прекрасное",
-      "title_en": "Coisa Mais Linda (Girls From Ipanema)",
-      "year": 2019,
-      "kinopoisk_id": 1251073,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "4995f4936f99fa91c285a07ffaaade7c35b5c9517cbb163f6bb11e848758fce5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-19 19:30:18",
-      "update_date": "2020-06-19 19:30:18",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1251073.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

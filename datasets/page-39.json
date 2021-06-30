@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Отпуск",
+      "title_en": "Break",
+      "year": 2020,
+      "kinopoisk_id": 1320041,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-19 00:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Отдыхающие / Уикенд",
+      "title_en": "Weekenders",
+      "year": 2021,
+      "kinopoisk_id": 1437596,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-18 20:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Безумный шляпник",
+      "title_en": "The Mad Hatter",
+      "year": 2021,
+      "kinopoisk_id": 1289873,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-18 20:33:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Курьерша",
       "title_en": "Take Out Girl",
       "year": 2020,
@@ -222,43 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Истребитель демонов: Поезд «Бесконечный»",
-      "title_en": "Kimetsu no Yaiba: Mugen Ressha-Hen",
-      "year": 2020,
-      "kinopoisk_id": 1347949,
-      "type": "movie",
+      "title_ru": "Безумие в Уэйкфилде",
+      "title_en": "Wakefield",
+      "year": 2021,
+      "kinopoisk_id": 2000491,
+      "world_art_id": null,
+      "translator": "Zone Vision",
+      "token": "607542bc8c94cfe5daeae343386e14b71d317a24dec7c75a18de1b5f1ad0d541",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-17 23:47:01",
+      "added_date": "2021-04-04 08:34:55",
+      "update_date": "2021-04-16 22:32:54",
       "block": false,
-      "translator": "AniLibria",
-      "translator_id": 10,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Мечник",
-      "title_en": "Geomgaek",
-      "year": 2020,
-      "kinopoisk_id": 1045893,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-17 23:46:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Демонолог",
-      "title_en": "The Demonologist",
-      "year": 2019,
-      "kinopoisk_id": 1066685,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-17 23:29:01",
-      "block": false,
-      "translator": "HDrezka Studio",
-      "translator_id": 33,
-      "quality": "WEB-DL"
+      "translator_id": 120,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/2000491.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Форсаж: Шпионы-гонщики",
@@ -1356,58 +1390,6 @@
             19,
             20,
             21
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Пенниуорт",
-      "title_en": "Pennyworth",
-      "year": 2019,
-      "kinopoisk_id": 1142552,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "25b94da7a8ca8f32004e17390a7cd85e300efcd09a09423ef6fc7f12c8fe644b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-15 22:39:44",
-      "update_date": "2021-04-14 06:52:27",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1142552.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

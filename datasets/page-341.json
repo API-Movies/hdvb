@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Напарник",
+      "title_en": "WingMan",
+      "year": 2020,
+      "kinopoisk_id": 82358255,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-26 16:23:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вибрация",
+      "title_en": "Vibration",
+      "year": 2020,
+      "kinopoisk_id": 1351491,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-26 16:20:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Прибывшие из ниоткуда",
+      "title_en": "Parts Unknown",
+      "year": 2018,
+      "kinopoisk_id": 989728,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-26 16:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Принцесса и слепой кузнец",
       "title_en": "O zakletém králi a odvázném Martinovi",
       "year": 2020,
@@ -222,43 +261,46 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Неподъемное желание",
-      "title_en": "Da e / Heavy Craving",
-      "year": 2020,
-      "kinopoisk_id": 1316005,
-      "type": "movie",
+      "title_ru": "Бойтесь ходячих мертвецов",
+      "title_en": "Fear the Walking Dead",
+      "year": 2015,
+      "kinopoisk_id": 846892,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "3c72a11f3ce0c54f932beb02470e969ac70a419f30cc3e7a80dce222f0feb74c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-25 00:49:02",
+      "added_date": "2019-09-28 21:09:11",
+      "update_date": "2019-09-28 21:09:11",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Трудный путь домой",
-      "title_en": "Fucking My Way Back Home",
-      "year": 2020,
-      "kinopoisk_id": 932790,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-25 00:47:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Канадский сорт",
-      "title_en": "Canadian Strain",
-      "year": 2020,
-      "kinopoisk_id": 1180358,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-24 23:51:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/846892.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=122984",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Проповедник",
@@ -924,41 +966,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Клуб первых жён",
-      "title_en": "First Wives Club",
-      "year": 2019,
-      "kinopoisk_id": 7546362,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "2c68fbd7b80f8fb1cba56d2888789b6dc59bce0772d99e0beb2aab1b3cfbaee0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-09-20 20:07:23",
-      "update_date": "2019-09-21 13:01:46",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/7546362.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
           ]
         }
       ]

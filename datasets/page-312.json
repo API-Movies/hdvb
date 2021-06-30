@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Дорогой дневник",
+      "title_en": "DieRy",
+      "year": 2020,
+      "kinopoisk_id": 1190576,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-25 17:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Горный царь",
+      "title_en": "Shan kui",
+      "year": 2020,
+      "kinopoisk_id": 135426534,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-25 17:27:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "В каждый выходной по свадьбе",
+      "title_en": "Wedding Every Weekend",
+      "year": 2020,
+      "kinopoisk_id": 1399247,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-25 17:24:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Место для жизни",
       "title_en": "Pour vivre ici",
       "year": 2018,
@@ -222,43 +261,43 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Просто черный",
-      "title_en": "Tout simplement noir",
+      "title_ru": "Чужак",
+      "title_en": "The Outsider",
       "year": 2020,
-      "kinopoisk_id": 1276473,
-      "type": "movie",
+      "kinopoisk_id": 1162527,
+      "world_art_id": null,
+      "translator": "Кравец",
+      "token": "740372769e426e26c413f60548a8908dc7e8102c6d4a3d029d8d15118cfeda48",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-24 20:15:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Инопланетный код",
-      "title_en": "Alien Code",
-      "year": 2017,
-      "kinopoisk_id": 962558,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-24 16:42:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Принцесса Лебедь: Королевская свадьба",
-      "title_en": "The Swan Princess: A Royal Wedding",
-      "year": 2020,
-      "kinopoisk_id": 1395371,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-24 15:12:02",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
+      "added_date": "2020-03-11 21:29:23",
+      "update_date": "2020-03-11 21:29:23",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 85,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1162527.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "На районе",
@@ -966,36 +1005,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Грешница",
-      "title_en": "The Sinner",
-      "year": 2017,
-      "kinopoisk_id": 1004780,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "cbc93b23b86e234fe19a232e4618fe93448f1948dc83b694c6abbd0b6a745fa5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-05 08:41:34",
-      "update_date": "2020-03-05 08:41:34",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1004780.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Смерть идёт по пятам",
+      "title_en": "Death Follows",
+      "year": 2020,
+      "kinopoisk_id": 1014982,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-17 00:22:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Охотники на упырей",
+      "title_en": "Ghoul Catchers",
+      "year": 2019,
+      "kinopoisk_id": 1299940,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-17 00:21:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Прощание",
+      "title_en": "Khuda Haafiz",
+      "year": 2020,
+      "kinopoisk_id": 1097019,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-17 00:20:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Давно прошедшее",
       "title_en": "Long Gone By",
       "year": 2020,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Велосипедист",
-      "title_en": "Bikeman",
-      "year": 2020,
-      "kinopoisk_id": 1191673,
-      "type": "movie",
+      "title_ru": "Безмолвный свидетель",
+      "title_en": "Silent Witness",
+      "year": 1996,
+      "kinopoisk_id": 397295,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "928fbce725deadf9d90c44c53eda06e16671e152bf4ac8e52152175f2ddffe93",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-15 15:25:02",
+      "added_date": "2020-02-06 15:12:31",
+      "update_date": "2020-02-06 15:12:31",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Скалы на краю света",
-      "title_en": "End of the World Rocks",
-      "year": 2020,
-      "kinopoisk_id": 1171270,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-15 15:24:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Пи Нак",
-      "title_en": "Pee Nak",
-      "year": 2020,
-      "kinopoisk_id": 1247740,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-15 15:21:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/397295.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 23,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Призраки прошлого",
@@ -1003,36 +1039,6 @@
             16,
             17,
             18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Падение в мёртвые воды",
-      "title_en": "Deadwater Fell",
-      "year": 2020,
-      "kinopoisk_id": 1283882,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "7016481045d99eae30d74801995091d1d0c7e80140a7586f33ea2628872be4a8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-01 10:56:10",
-      "update_date": "2020-02-01 10:56:10",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1283882.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

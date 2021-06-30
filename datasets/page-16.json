@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Я здесь",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1263421,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-11 09:50:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Беглецы с острова",
+      "title_en": "Escapers From Island",
+      "year": 2020,
+      "kinopoisk_id": 34777652,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-11 01:44:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Дни и ночи в Ухане",
+      "title_en": "Wuhan ri ye",
+      "year": 2020,
+      "kinopoisk_id": 4318300,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-11 01:38:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Великий мастер механизмов",
       "title_en": "Best mechanism great master",
       "year": 2020,
@@ -222,43 +261,85 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Тяньцзиньские сказания: кукла смерти",
-      "title_en": "Tientsin Strange Tales: Murder in Dark City",
+      "title_ru": "Парижская полиция 1900",
+      "title_en": "Paris Police 1900",
       "year": 2021,
-      "kinopoisk_id": 9760567,
-      "type": "movie",
+      "kinopoisk_id": 1299841,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "d9117a5393532937fb96904487328fc8f2c767ebd4d9b8f08942ce6a3a5f0de8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-10 15:18:02",
+      "added_date": "2021-04-24 19:32:21",
+      "update_date": "2021-06-07 15:00:23",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1299841.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Стрега",
-      "title_en": "Strega",
-      "year": 2021,
-      "kinopoisk_id": 1138724,
-      "type": "movie",
+      "title_ru": "Викинги",
+      "title_en": "Vikings",
+      "year": 2013,
+      "kinopoisk_id": 682255,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "2ebd1987c482085cc03b506e3a9d522b2ac4c3bc375f8525eab2a143073ee874",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-10 15:16:01",
+      "added_date": "2020-02-06 10:54:40",
+      "update_date": "2021-06-07 13:46:14",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мой папа - пират",
-      "title_en": "Un Papá Pirata",
-      "year": 2019,
-      "kinopoisk_id": 1174188,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-10 15:15:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/682255.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=144647",
+      "serial_episodes": [
+        {
+          "season_number": 6,
+          "episodes_count": 21,
+          "episodes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Срок",
@@ -1195,93 +1276,6 @@
             7,
             8,
             9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Sweet Tooth: Мальчик с оленьими рогами",
-      "title_en": "Sweet Tooth",
-      "year": 2021,
-      "kinopoisk_id": 1396719,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "b853bc4eb7b48d3e88999a6457cb5d1fae8321ae754a830b69ea02e333b4018a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-06-05 10:58:26",
-      "update_date": "2021-06-05 10:59:29",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1396719.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Пожарная часть 19",
-      "title_en": "Station 19",
-      "year": 2018,
-      "kinopoisk_id": 1112969,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "c8d6867554310d12ff33d5a6ee7f988cec3c5acbe70166b8735cb0d05c8fb615",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-28 11:23:53",
-      "update_date": "2021-06-05 10:58:51",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1112969.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
           ]
         }
       ]

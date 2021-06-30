@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "План побега 2",
+      "title_en": "Escape Plan 2",
+      "year": 2018,
+      "kinopoisk_id": 1031219,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-15 03:04:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Первый мститель: Другая война",
+      "title_en": "Captain America: The Winter Soldier",
+      "year": 2014,
+      "kinopoisk_id": 676266,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-15 03:03:03",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Первый мститель",
+      "title_en": "Captain America: The First Avenger",
+      "year": 2011,
+      "kinopoisk_id": 160946,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-15 03:02:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Орудия смерти: Город костей",
       "title_en": "The Mortal Instruments: City of Bones",
       "year": 2013,
@@ -222,43 +261,35 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Деревня Инунаки",
-      "title_en": "Inunaki Mura / Howling Village",
-      "year": 2020,
-      "kinopoisk_id": 1297231,
-      "type": "movie",
+      "title_ru": "Плащ и Кинжал",
+      "title_en": "Cloak &amp; Dagger",
+      "year": 2018,
+      "kinopoisk_id": 978854,
+      "world_art_id": null,
+      "translator": "KosharaSerials",
+      "token": "46624d5de52f27ae969bba5a696a75efa21110ecc601d60d651a876024c98cf8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-14 22:21:01",
+      "added_date": "2019-04-12 12:56:06",
+      "update_date": "2019-04-27 01:18:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Папы",
-      "title_en": "Dads",
-      "year": 2020,
-      "kinopoisk_id": 1300224,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-14 22:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Де Голль",
-      "title_en": "De Gaulle",
-      "year": 2020,
-      "kinopoisk_id": 1297314,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-14 22:19:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 111,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/978854.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140183",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Мертвое озеро",
@@ -943,56 +974,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Султан моего сердца",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1111704,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "f8d2febd2b392b526a803c8ac0614f934355b62400560bd1a22e8e94a8280a89",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-01-08 22:42:18",
-      "update_date": "2019-02-02 15:22:34",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1111704.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 24,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24
           ]
         }
       ]

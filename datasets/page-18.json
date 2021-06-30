@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Miranda Veil",
+      "title_en": "Miranda Veil",
+      "year": 2020,
+      "kinopoisk_id": 1233721,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-10 01:46:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сестры",
+      "title_en": "Irmã",
+      "year": 2020,
+      "kinopoisk_id": 1375293,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-10 01:45:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вопль",
+      "title_en": "Holler",
+      "year": 2021,
+      "kinopoisk_id": 1114039,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-10 01:44:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Стелланомикон: Ужас будущего",
       "title_en": "Stellanomicon: Future Fear",
       "year": 2021,
@@ -222,43 +261,102 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Нечто большее",
-      "title_en": "Far More",
+      "title_ru": "Дом",
+      "title_en": "Dom",
       "year": 2021,
-      "kinopoisk_id": 1394677,
-      "type": "movie",
+      "kinopoisk_id": 4459857,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "0a476ec0f7772144f2284f88237bba7ed4cf34688ca49bb1f83e8ebb45a3855c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-08 21:57:02",
+      "added_date": "2021-06-04 09:38:44",
+      "update_date": "2021-06-04 12:36:48",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4459857.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Сёстры",
-      "title_en": "Cousins",
-      "year": 2021,
-      "kinopoisk_id": 1278004,
-      "type": "movie",
+      "title_ru": "Нэнси Дрю",
+      "title_en": "Nancy Drew",
+      "year": 2019,
+      "kinopoisk_id": 1264102,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "ca249f0eb33f725b53b79e065f6adc3b49b4f3ef4ab10d27256e3f3678f4bdf7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-08 21:56:01",
+      "added_date": "2020-03-05 08:37:50",
+      "update_date": "2021-06-04 09:57:08",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Пока не кончилась ночь",
-      "title_en": "Before the Night Is Over",
-      "year": 2020,
-      "kinopoisk_id": 1312409,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-08 21:55:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1264102.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Семьянин",
@@ -1422,78 +1520,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мейр из Исттауна",
-      "title_en": "Mare of Easttown",
-      "year": 2021,
-      "kinopoisk_id": 1254133,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "1abe89e0c01d011db89308f4b4fed30bdc67a006a6c66d2fe63ed3dbe4fc5b11",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-20 08:51:06",
-      "update_date": "2021-06-01 10:34:39",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1254133.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Обломки",
-      "title_en": "Debris",
-      "year": 2021,
-      "kinopoisk_id": 1347334,
-      "world_art_id": null,
-      "translator": "Кравец",
-      "token": "7f4ba735f319322361d70381cc0472799f31142fcb2d6303564f07e6df9d0f26",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-14 09:11:55",
-      "update_date": "2021-06-01 09:21:02",
-      "block": false,
-      "translator_id": 85,
-      "quality": "WEB-DL",
-      "poster": "https://img.imgilall.me/movies/franchise/4/4/2/4/9/0/0/0/0/0/610x900_44249.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

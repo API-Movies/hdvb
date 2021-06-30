@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Красный Чемодан",
+      "title_en": "Baggage Red",
+      "year": 2020,
+      "kinopoisk_id": 1303364,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-30 12:26:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Людвиг ван Бетховен",
+      "title_en": "Louis van Beethoven",
+      "year": 2020,
+      "kinopoisk_id": 1335370,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-29 20:51:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "SATRip"
+    },
+    {
+      "title_ru": "Температура замерзания",
+      "title_en": "Centigrade",
+      "year": 2020,
+      "kinopoisk_id": 1193097,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-29 19:37:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Эмма и Юлеманден: Охота за сердцем Королевы Эльфов",
       "title_en": "Emma &amp; Julemanden: Jagten på elverdronningens hjerte",
       "year": 2015,
@@ -222,43 +261,56 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "ДНК",
-      "title_en": "ADN",
-      "year": 2020,
-      "kinopoisk_id": 1100738,
-      "type": "movie",
+      "title_ru": "Президентский помощник",
+      "title_en": "Bojwagwan",
+      "year": 2019,
+      "kinopoisk_id": 1232576,
+      "world_art_id": null,
+      "translator": "двухголосый закадровый",
+      "token": "1d620bd03fc007113c04e5eed2f710ff274b555516f08b1d6a4e5111b7e48a3f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-29 15:07:02",
+      "added_date": "2020-09-22 00:35:33",
+      "update_date": "2020-09-22 00:47:12",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Все мои друзья мертвы",
-      "title_en": "Wszyscy moi przyjaciele nie zyja (All My Friends Are Dead)",
-      "year": 2020,
-      "kinopoisk_id": 13728990,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-29 15:06:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Маленькая страна",
-      "title_en": "Small Country: An African Childhood / Petit pays",
-      "year": 2020,
-      "kinopoisk_id": 1237235,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-29 10:07:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 81,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1232576.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Джо Пера говорит с вами",
@@ -1119,121 +1171,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мерлин",
-      "title_en": "Merlin",
-      "year": 2008,
-      "kinopoisk_id": 412375,
-      "world_art_id": null,
-      "translator": "ТВ-3",
-      "token": "6ddd111bcf611fe6760b77b3f93d9a35079f4c5cddd480d84a194ac52edd7b71",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-18 22:24:55",
-      "update_date": "2020-09-18 22:26:02",
-      "block": false,
-      "translator_id": 100,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/412375.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Мой другой дом",
+      "title_en": "Wo shi ma bu li",
+      "year": 2017,
+      "kinopoisk_id": 1045442,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-31 23:06:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Трэвис Тёрнер",
+      "title_en": "Travis Turner",
+      "year": 2021,
+      "kinopoisk_id": 1108028,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-31 16:10:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Блестки в голубой комнате",
+      "title_en": "Sequin in a Blue Room",
+      "year": 2019,
+      "kinopoisk_id": 1140777,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-31 16:09:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Огонь и дождь",
       "title_en": "Fire and Rain",
       "year": 2019,
@@ -222,43 +261,76 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Ничья земля",
-      "title_en": "Forbidden Trim",
-      "year": 2017,
-      "kinopoisk_id": 14526096,
-      "type": "movie",
+      "title_ru": "Мистер Булл",
+      "title_en": "Bull",
+      "year": 2016,
+      "kinopoisk_id": 1002684,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "9a4590d546c44895e6e51d55d8a6c36e20ae696ef6e2117caf3698d9831083ed",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-31 00:52:01",
+      "added_date": "2020-11-17 15:07:02",
+      "update_date": "2021-05-18 18:54:30",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1002684.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135509",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Человек-пакет",
-      "title_en": "Bagman",
+      "title_ru": "Невиновный",
+      "title_en": "Innocent",
       "year": 2018,
-      "kinopoisk_id": 995320,
-      "type": "movie",
+      "kinopoisk_id": 1007944,
+      "world_art_id": null,
+      "translator": "Contentica",
+      "token": "7368fa4a13cb232ca7a34328dd68b7128ac54efecaa60dab8d295de3fcfc793f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-31 00:51:02",
+      "added_date": "2021-05-18 11:43:01",
+      "update_date": "2021-05-18 11:43:54",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Семья получше",
-      "title_en": "A Better Family",
-      "year": 2018,
-      "kinopoisk_id": 2002212,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-31 00:50:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 129,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1007944.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Реинкарнация безработного",
@@ -1106,61 +1178,6 @@
             17,
             18,
             19
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Marvel Studios: В сборе",
-      "title_en": "Marvel Studios: Assembled",
-      "year": 2021,
-      "kinopoisk_id": 4384124,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "8202bc0ab29719a1ac724de70b121071260ea10501a5925c49b9507f2507eef4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-30 01:34:09",
-      "update_date": "2021-05-17 13:04:20",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4384124.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Флэш",
-      "title_en": "The Flash",
-      "year": 2014,
-      "kinopoisk_id": 817506,
-      "world_art_id": null,
-      "translator": "Кириллица",
-      "token": "640c34de28edca812cb05acc26cd418d2a5309f200413216b0b920fce657ac7a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-17 11:53:10",
-      "update_date": "2021-05-17 11:53:43",
-      "block": false,
-      "translator_id": 123,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/817506.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&trailer_id=107508",
-      "serial_episodes": [
-        {
-          "season_number": 7,
-          "episodes_count": 1,
-          "episodes": [
-            1
           ]
         }
       ]

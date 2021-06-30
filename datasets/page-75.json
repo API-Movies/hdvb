@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Мой брат – супергерой! / Мой брат гоняется за динозаврвми",
+      "title_en": "Mio fratello rincorre i dinosauri",
+      "year": 2019,
+      "kinopoisk_id": 1201049,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-15 18:00:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Это мы не проходили",
+      "title_en": "",
+      "year": 1975,
+      "kinopoisk_id": 42019,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-15 14:45:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Первый клон",
+      "title_en": "Seobok",
+      "year": 2021,
+      "kinopoisk_id": 1199659,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-15 13:05:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Спасите Колю!",
       "title_en": "",
       "year": 2021,
@@ -222,43 +261,60 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Овчарка-герой",
-      "title_en": "SHEPHERD: The Story of a Jewish Dog / Shepherd The Hero Dog",
-      "year": 2019,
-      "kinopoisk_id": 806545,
-      "type": "movie",
+      "title_ru": "Путешественники",
+      "title_en": "Travelers",
+      "year": 2016,
+      "kinopoisk_id": 998777,
+      "world_art_id": null,
+      "translator": "Кравец",
+      "token": "68aef975deb9817f7ffe500f6e4690c2f9763ddf244ec6e0702eda857377eeee",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-14 09:38:01",
+      "added_date": "2021-02-14 18:31:09",
+      "update_date": "2021-02-14 18:37:16",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Западный Мичиган",
-      "title_en": "West Michigan",
-      "year": 2021,
-      "kinopoisk_id": 1276777,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-14 05:59:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Баллада о Билли МакКре",
-      "title_en": "Red Mist",
-      "year": 2021,
-      "kinopoisk_id": 1266407,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-14 05:58:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 85,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/998777.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Ваша честь",
@@ -1396,38 +1452,6 @@
             52,
             53,
             54
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Не забудьте водителя",
-      "title_en": "Don\\'t Forget the Driver",
-      "year": 2019,
-      "kinopoisk_id": 1197974,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "e6acedfc3e2ccb88575b114618fcf7ee7c3000e659adc07b598c93e3e0255c2a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-13 18:10:15",
-      "update_date": "2021-02-13 18:11:56",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1197974.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

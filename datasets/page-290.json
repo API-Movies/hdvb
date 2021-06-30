@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Финальный Смех / Убийственная Шутка",
+      "title_en": "The Last Laugh / Killing Joke",
+      "year": 2020,
+      "kinopoisk_id": 1158008,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-15 21:31:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кошки против собак 3: Лапы, объединяйтесь",
+      "title_en": "Cats &amp; Dogs 3: Paws Unite",
+      "year": 2020,
+      "kinopoisk_id": 1393649,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-15 21:29:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Терапия для убийцы",
+      "title_en": "Killer Therapy",
+      "year": 2020,
+      "kinopoisk_id": 1194432,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-15 21:28:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Ферма страха",
       "title_en": "Fear Pharm",
       "year": 2020,
@@ -222,43 +261,40 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Беги в этой гонке",
-      "title_en": "Run the Race",
+      "title_ru": "Состояние союза",
+      "title_en": "State of the Union",
       "year": 2019,
-      "kinopoisk_id": 800301,
-      "type": "movie",
+      "kinopoisk_id": 1174219,
+      "world_art_id": null,
+      "translator": "Кириллица",
+      "token": "e26da0cf74051ce1f175f59a4bdf22494a15aae2c0175fd677a26eeeb1b94410",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-14 20:44:01",
+      "added_date": "2020-05-12 10:34:25",
+      "update_date": "2020-05-12 10:34:25",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Создатели страхов",
-      "title_en": "Definition of Fear",
-      "year": 2015,
-      "kinopoisk_id": 673228,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-14 20:43:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Вирус: Нулевой пациент",
-      "title_en": "Cabin Fever: Patient Zero",
-      "year": 2013,
-      "kinopoisk_id": 648337,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-14 20:42:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BDRip"
+      "translator_id": 123,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1174219.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Чистота",
@@ -1083,42 +1119,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Почему женщины убивают",
-      "title_en": "Why Women Kill",
-      "year": 2019,
-      "kinopoisk_id": 1197956,
-      "world_art_id": null,
-      "translator": "Amedia",
-      "token": "d6a5f2a9c592a7a4acf6f7ef4303484536d1463bc7c9eaaf5536237dd9446fc1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-11 00:22:56",
-      "update_date": "2020-05-11 00:22:56",
-      "block": false,
-      "translator_id": 7,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1197956.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

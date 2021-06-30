@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Лето'85",
+      "title_en": "Été 85",
+      "year": 2020,
+      "kinopoisk_id": 1275788,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-19 21:39:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Морг",
+      "title_en": "Morgue",
+      "year": 2020,
+      "kinopoisk_id": 1306639,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-19 21:38:02",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Элвис на колесах",
+      "title_en": "Rolling Elvis",
+      "year": 2020,
+      "kinopoisk_id": 940260,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-19 21:37:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Пляжники",
       "title_en": "Os Farofeiros",
       "year": 2018,
@@ -222,43 +261,43 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Пингвиненок Пороро: Большие гонки",
-      "title_en": "Pororo, the Racing Adventure",
-      "year": 2013,
-      "kinopoisk_id": 757549,
-      "type": "movie",
+      "title_ru": "Сельская госпожа",
+      "title_en": "Hanım Köylü",
+      "year": 2016,
+      "kinopoisk_id": 1046212,
+      "world_art_id": null,
+      "translator": "одноголосый закадровый",
+      "token": "8b69e502bb1c4bc47185a0bf7e43aa9591da97e9f2817f9b32d325eca43702a1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-18 01:24:01",
+      "added_date": "2020-06-30 21:37:51",
+      "update_date": "2020-06-30 21:37:51",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Шесть минут до полуночи",
-      "title_en": "Six Minutes to Midnight",
-      "year": 2020,
-      "kinopoisk_id": 1002605,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-18 00:07:01",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Повелитель драконов",
-      "title_en": "Dragon Rider",
-      "year": 2020,
-      "kinopoisk_id": 1080192,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-18 00:06:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 93,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1046212.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Потеряшки",
@@ -1015,58 +1054,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Турбозавры",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1320585,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "8d0a3c09daf5d81929fc3a6f75d1fb9f9a6d97914f3c26c67e437793c4dcae79",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-29 10:39:44",
-      "update_date": "2020-06-29 10:39:44",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1320585.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 26,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26
           ]
         }
       ]

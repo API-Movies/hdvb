@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Правда",
+      "title_en": "Truth",
+      "year": 2020,
+      "kinopoisk_id": 1050019,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-09 00:08:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Голос тишины",
+      "title_en": "Sorido eopsi",
+      "year": 2020,
+      "kinopoisk_id": 1271068,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-09 00:07:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "И пробудился грохочущий гром",
+      "title_en": "Set Roaring War",
+      "year": 2020,
+      "kinopoisk_id": 1418161,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-09 00:05:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Desire Path",
       "title_en": "",
       "year": 2020,
@@ -222,43 +261,42 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Магия-наоборот",
-      "title_en": "Upside-Down Magic",
-      "year": 2020,
-      "kinopoisk_id": 1299933,
-      "type": "movie",
+      "title_ru": "Турпакет",
+      "title_en": "Deo paekiji",
+      "year": 2017,
+      "kinopoisk_id": 1008373,
+      "world_art_id": null,
+      "translator": "GREEN TEA",
+      "token": "95bc79ca1bb023c65544fcb02c80f7e918e9ff097bf73a0c83c7f177a63921f4",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-08 17:40:01",
+      "added_date": "2020-07-29 00:34:21",
+      "update_date": "2020-07-29 00:38:19",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Русский рейд",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1272294,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-08 17:39:02",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Подарок от кота Боба",
-      "title_en": "A Christmas Gift from Bob",
-      "year": 2020,
-      "kinopoisk_id": 1338020,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-08 00:44:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 31,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1008373.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Королева кольца",
@@ -1132,55 +1170,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чудотворцы",
-      "title_en": "Miracle Workers",
-      "year": 2018,
-      "kinopoisk_id": 1111018,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "de966f3bdcb8da87b40940fc0082587f217234f5ae9bfae1f78eb9391cb4ae9b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-28 12:15:18",
-      "update_date": "2020-07-28 12:15:18",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1111018.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

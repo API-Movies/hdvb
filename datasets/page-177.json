@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Девять ночей",
+      "title_en": "Nine Nights",
+      "year": 2020,
+      "kinopoisk_id": 1119551,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-13 00:42:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сердце дома",
+      "title_en": "Heart of the Home",
+      "year": 2021,
+      "kinopoisk_id": 1132620,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-13 00:41:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Брайт-Хилл роуд",
+      "title_en": "Bright Hill Road",
+      "year": 2020,
+      "kinopoisk_id": 1248787,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-13 00:40:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Американский вор",
       "title_en": "American Thief",
       "year": 2020,
@@ -222,43 +261,34 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Гарабандаль: одному Богу известно",
-      "title_en": "Garabandal, solo Dios lo sabe / Garabandal: Only God Knows",
-      "year": 2018,
-      "kinopoisk_id": 8045170,
-      "type": "movie",
+      "title_ru": "Происшествие",
+      "title_en": "The Accident",
+      "year": 2019,
+      "kinopoisk_id": 1202199,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "2869e84e62480b17eb1574a5d152446c0b27a6441b177cccf72cff3e88a863f3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-12 01:07:01",
+      "added_date": "2020-10-11 12:03:11",
+      "update_date": "2020-10-11 12:04:15",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Элоди",
-      "title_en": "Elodie",
-      "year": 2020,
-      "kinopoisk_id": 1253182,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-12 01:05:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Рождество с близкими",
-      "title_en": "Christmas with the Darlings",
-      "year": 2020,
-      "kinopoisk_id": 4294062,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-12 01:03:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
+      "translator_id": 60,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1202199.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Потрёпанные",
@@ -1422,48 +1452,6 @@
             44,
             45,
             46
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Булатов",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 57875564,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "d114d1336329493b310177c98fd4fcce7a52b3a6fa730197ac45d7abc7c7f95d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-24 15:22:33",
-      "update_date": "2020-10-10 15:48:44",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/57875564.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
           ]
         }
       ]

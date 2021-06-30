@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Истребитель демонов: Поезд «Бесконечный»",
+      "title_en": "Kimetsu no Yaiba: Mugen Ressha-Hen",
+      "year": 2020,
+      "kinopoisk_id": 1347949,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-17 23:47:01",
+      "block": false,
+      "translator": "AniLibria",
+      "translator_id": 10,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Мечник",
+      "title_en": "Geomgaek",
+      "year": 2020,
+      "kinopoisk_id": 1045893,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-17 23:46:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Демонолог",
+      "title_en": "The Demonologist",
+      "year": 2019,
+      "kinopoisk_id": 1066685,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-17 23:29:01",
+      "block": false,
+      "translator": "HDrezka Studio",
+      "translator_id": 33,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Леди по имени Жизнь",
       "title_en": "This Lady Called Life",
       "year": 2020,
@@ -222,43 +261,56 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Мистер Выходной",
-      "title_en": "Mr. Weekend",
-      "year": 2020,
-      "kinopoisk_id": 1018834,
-      "type": "movie",
+      "title_ru": "Пенниуорт",
+      "title_en": "Pennyworth",
+      "year": 2019,
+      "kinopoisk_id": 1142552,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "25b94da7a8ca8f32004e17390a7cd85e300efcd09a09423ef6fc7f12c8fe644b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-16 06:50:01",
+      "added_date": "2020-12-15 22:39:44",
+      "update_date": "2021-04-14 06:52:27",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Эмбрион",
-      "title_en": "Embrión",
-      "year": 2020,
-      "kinopoisk_id": 1116011,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-16 06:49:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Тринадцатая сестра: Три убийственных дня",
-      "title_en": "13rd Sister: Three Deadly Days / Chi Muoi Ba 2: 3 Ngay Sinh Tu",
-      "year": 2020,
-      "kinopoisk_id": 4369388,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-16 06:48:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1142552.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Чисто английские убийства",
@@ -1106,38 +1158,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Хрустальное счастье",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 77000456,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "14802a3fa8669d3fc67d5689f9a146cb08334a46cdd9de61ad5c2612ce0bf2f0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-10 19:46:20",
-      "update_date": "2021-04-12 03:05:22",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/77000456.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            1,
-            2,
-            2,
-            3,
-            4
           ]
         }
       ]

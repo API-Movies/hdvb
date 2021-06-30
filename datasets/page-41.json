@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Мистер Выходной",
+      "title_en": "Mr. Weekend",
+      "year": 2020,
+      "kinopoisk_id": 1018834,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-16 06:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Эмбрион",
+      "title_en": "Embrión",
+      "year": 2020,
+      "kinopoisk_id": 1116011,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-16 06:49:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Тринадцатая сестра: Три убийственных дня",
+      "title_en": "13rd Sister: Three Deadly Days / Chi Muoi Ba 2: 3 Ngay Sinh Tu",
+      "year": 2020,
+      "kinopoisk_id": 4369388,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-16 06:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Прерванный контакт: история о полтергейсте",
       "title_en": "Broken Contact: A Poltergeist Story",
       "year": 2020,
@@ -222,43 +261,36 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Солнечная Сторона",
-      "title_en": "Sunny Side Up",
-      "year": 2017,
-      "kinopoisk_id": 903454,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-14 22:45:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Последний день Тельца",
-      "title_en": "L' Ultimo Giorno Del Toro",
-      "year": 2018,
-      "kinopoisk_id": 1296052,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-14 22:43:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "То, что доктор прописал",
-      "title_en": "Just What the Doctor Ordered",
+      "title_ru": "Хрустальное счастье",
+      "title_en": "",
       "year": 2021,
-      "kinopoisk_id": 4437990,
-      "type": "movie",
+      "kinopoisk_id": 77000456,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "14802a3fa8669d3fc67d5689f9a146cb08334a46cdd9de61ad5c2612ce0bf2f0",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-14 22:42:01",
+      "added_date": "2021-04-10 19:46:20",
+      "update_date": "2021-04-12 03:05:22",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/77000456.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            1,
+            2,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Дикарки",
@@ -1119,52 +1151,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мыслить как преступник",
-      "title_en": "Keurimineol maindeu",
-      "year": 2017,
-      "kinopoisk_id": 1033099,
-      "world_art_id": null,
-      "translator": "SoftBox",
-      "token": "428818d02f5d71fccb619c5dd4e7b3b32a31696599f8d24bd574f647c0794eb5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-10 11:10:52",
-      "update_date": "2021-04-10 11:12:26",
-      "block": false,
-      "translator_id": 106,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1033099.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
           ]
         }
       ]

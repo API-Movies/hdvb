@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Убийство в Коритауне",
+      "title_en": "Murder Death Koreatown",
+      "year": 2020,
+      "kinopoisk_id": 78674546,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-01 12:06:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Искупление",
+      "title_en": "Geula",
+      "year": 2020,
+      "kinopoisk_id": 1171870,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-01 12:04:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Шуба из медведя",
+      "title_en": "Futro z misia",
+      "year": 2020,
+      "kinopoisk_id": 1277253,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-01 12:02:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Игроки",
       "title_en": "Freej Al Taibeen",
       "year": 2020,
@@ -222,43 +261,40 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Положитесь на Пита",
-      "title_en": "Lean on Pete",
-      "year": 2017,
-      "kinopoisk_id": 991635,
-      "type": "movie",
+      "title_ru": "Лаймтаун",
+      "title_en": "Limetown",
+      "year": 2019,
+      "kinopoisk_id": 1207875,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "7ded03a487a86486c0149fad8e8e96a54332f62754f7dcc41191c762b545bbe5",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-31 05:08:01",
+      "added_date": "2019-11-14 07:58:54",
+      "update_date": "2019-11-14 07:58:54",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Неистовый",
-      "title_en": "Unhinged",
-      "year": 2020,
-      "kinopoisk_id": 1264589,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-30 22:44:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Жизнь с коронавирусом: Ответы на вопросы",
-      "title_en": "Déconfinement, vivre avec le virus: posez toutes vos questions!",
-      "year": 2020,
-      "kinopoisk_id": 46756856,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-30 14:13:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1207875.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Плебеи",
@@ -1109,40 +1145,6 @@
             18,
             19,
             20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Играть по-крупному",
-      "title_en": "Playing for Keeps",
-      "year": 2019,
-      "kinopoisk_id": 1172823,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "f1ef08d2664e14deafe1a57b8685e3b47c6390b6c0729c96d9577c980e070b1a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-05 00:33:25",
-      "update_date": "2019-11-05 00:33:25",
-      "block": false,
-      "translator_id": 15,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1172823.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

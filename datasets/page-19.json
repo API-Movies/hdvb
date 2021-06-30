@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Нечто большее",
+      "title_en": "Far More",
+      "year": 2021,
+      "kinopoisk_id": 1394677,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-08 21:57:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сёстры",
+      "title_en": "Cousins",
+      "year": 2021,
+      "kinopoisk_id": 1278004,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-08 21:56:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пока не кончилась ночь",
+      "title_en": "Before the Night Is Over",
+      "year": 2020,
+      "kinopoisk_id": 1312409,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-08 21:55:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Бафомет",
       "title_en": "Baphomet",
       "year": 2021,
@@ -222,43 +261,76 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Датч",
-      "title_en": "Dutch",
+      "title_ru": "Мейр из Исттауна",
+      "title_en": "Mare of Easttown",
       "year": 2021,
-      "kinopoisk_id": 1253038,
-      "type": "movie",
+      "kinopoisk_id": 1254133,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "1abe89e0c01d011db89308f4b4fed30bdc67a006a6c66d2fe63ed3dbe4fc5b11",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-07 00:34:01",
+      "added_date": "2021-04-20 08:51:06",
+      "update_date": "2021-06-01 10:34:39",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1254133.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Выбор Фредерика Фитцелла",
-      "title_en": "Flashback",
+      "title_ru": "Обломки",
+      "title_en": "Debris",
       "year": 2021,
-      "kinopoisk_id": 1158334,
-      "type": "movie",
+      "kinopoisk_id": 1347334,
+      "world_art_id": null,
+      "translator": "Кравец",
+      "token": "7f4ba735f319322361d70381cc0472799f31142fcb2d6303564f07e6df9d0f26",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-07 00:33:01",
+      "added_date": "2021-03-14 09:11:55",
+      "update_date": "2021-06-01 09:21:02",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Капля в море",
-      "title_en": "",
-      "year": 1973,
-      "kinopoisk_id": 44709,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-06 16:40:02",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "SATRip"
+      "translator_id": 85,
+      "quality": "WEB-DL",
+      "poster": "https://img.imgilall.me/movies/franchise/4/4/2/4/9/0/0/0/0/0/610x900_44249.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Люцифер",
@@ -1066,301 +1138,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Хороший доктор",
-      "title_en": "The Good Doctor",
-      "year": 2017,
-      "kinopoisk_id": 1011528,
-      "world_art_id": null,
-      "translator": "Кириллица",
-      "token": "a86135ad4ab4bab3e83a21ef73379f56cff83b5008da19dbd60ea746e73ad44c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-04 19:01:35",
-      "update_date": "2021-05-30 13:34:47",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 123,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1011528.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=144648",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Холостяк",
-      "title_en": "",
-      "year": 2013,
-      "kinopoisk_id": 840716,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "a418c64f52781e3753e622abd43ce8074a5b9c9b3fefd31bf3e67df2060a14c8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-01 21:34:55",
-      "update_date": "2021-05-30 13:15:24",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/840716.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 7,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 8,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Король Иоанн",
+      "title_en": "King John",
+      "year": 2017,
+      "kinopoisk_id": 45678538,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-21 19:22:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дания",
+      "title_en": "Denmark / One Way To Denmark",
+      "year": 2020,
+      "kinopoisk_id": 1073996,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-21 19:18:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вай",
+      "title_en": "Vai",
+      "year": 2019,
+      "kinopoisk_id": 1231376,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-21 19:16:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Американский террорист",
       "title_en": "American Terrorist",
       "year": 2020,
@@ -222,43 +261,39 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Трупоферма",
-      "title_en": "Body Farm",
-      "year": 2018,
-      "kinopoisk_id": 960955,
-      "type": "movie",
+      "title_ru": "Джетт",
+      "title_en": "Jett",
+      "year": 2019,
+      "kinopoisk_id": 1195990,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "1e34a30218f97db5acdea549a089433f0e3e4f43386a2b45519b5aeb6f804621",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-20 00:07:01",
+      "added_date": "2019-06-15 16:04:05",
+      "update_date": "2019-08-10 21:12:40",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Для Дженнифер",
-      "title_en": "For Jennifer",
-      "year": 2018,
-      "kinopoisk_id": 1057607,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-20 00:06:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Я написал это для тебя",
-      "title_en": "I Wrote This for You",
-      "year": 2018,
-      "kinopoisk_id": 1099744,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-20 00:05:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1195990.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Блеск",
@@ -1104,40 +1139,6 @@
       "translator_id": 115,
       "quality": "WEB-DL",
       "poster": "https://www.kinopoisk.ru/images/film_big/1178445.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Тёмная сеть",
-      "title_en": "Dark/Web",
-      "year": 2019,
-      "kinopoisk_id": 1008788,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "240a4c56ffcb90639f0e5a9e7779943a8845693f777471694f51372e23eef95e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-20 19:36:53",
-      "update_date": "2019-07-31 14:39:52",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1008788.jpg",
       "trailer": "",
       "serial_episodes": [
         {

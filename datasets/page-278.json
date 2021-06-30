@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Упс... 2: Земля на горизонте",
+      "title_en": "Two by Two. Overboard! / Ooops! The Adventure Continues",
+      "year": 2020,
+      "kinopoisk_id": 1400929,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-30 22:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Рабы любви",
+      "title_en": "Whipped / Bucin",
+      "year": 2020,
+      "kinopoisk_id": 1346631,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-30 22:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Спираль",
+      "title_en": "Spiral",
+      "year": 2019,
+      "kinopoisk_id": 1213815,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-30 22:49:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Ответ",
       "title_en": "The Answer",
       "year": 2018,
@@ -222,43 +261,44 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Под защитой мамки",
-      "title_en": "Hail Mary Country",
+      "title_ru": "Крайние меры",
+      "title_en": "Ek Thi Begum",
       "year": 2020,
-      "kinopoisk_id": 1004035,
-      "type": "movie",
+      "kinopoisk_id": 1372292,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "b6ac32a27a2744c38c62f41e056c6aa9a4115df47b14ce9e343597ba4c225bb4",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-29 13:33:01",
+      "added_date": "2020-05-30 09:20:07",
+      "update_date": "2020-05-30 09:20:07",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Стена",
-      "title_en": "Muralla",
-      "year": 2018,
-      "kinopoisk_id": 1178985,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-29 13:32:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Оседлай свою мечту",
-      "title_en": "Ride Your Dream",
-      "year": 2020,
-      "kinopoisk_id": 12759310,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-29 13:30:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1372292.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Космические войска",
@@ -1581,42 +1621,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Игры титанов",
-      "title_en": "The Titan Games",
-      "year": 2019,
-      "kinopoisk_id": 7967262,
-      "world_art_id": null,
-      "translator": "GoldTeam",
-      "token": "ca20d8ce8663c596c3184262cd9a0e57ffba142de62bddfffcd3302cf5b265fb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-28 08:27:17",
-      "update_date": "2020-05-28 08:27:17",
-      "block": false,
-      "translator_id": 141,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/7967262.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

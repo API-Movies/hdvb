@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Паранойя",
+      "title_en": "Paranoia",
+      "year": 2019,
+      "kinopoisk_id": 1387398,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-26 22:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "",
+      "title_en": "Tutto Il Giorno Davanti",
+      "year": 2020,
+      "kinopoisk_id": 1356483,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-26 22:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Лучшие друзья навсегда",
+      "title_en": "Friendship Never Dies",
+      "year": 2021,
+      "kinopoisk_id": 14372246,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-26 22:46:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "",
       "title_en": "Bar Joseph",
       "year": 2019,
@@ -222,43 +261,39 @@
       "quality": "BluRay"
     },
     {
-      "title_ru": "Великий Звэн",
-      "title_en": "De Grote Zwaen",
-      "year": 2015,
-      "kinopoisk_id": 911244,
-      "type": "movie",
+      "title_ru": "Ванда/Вижн",
+      "title_en": "WandaVision",
+      "year": 2021,
+      "kinopoisk_id": 1203040,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "346dbe4d403997097e900dffff08c2669312f3e09a5e8830dda6d0ae467b89f3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-25 23:07:01",
+      "added_date": "2021-01-16 10:45:21",
+      "update_date": "2021-03-06 08:26:03",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Одичавший",
-      "title_en": "Running Wild",
-      "year": 2016,
-      "kinopoisk_id": 904497,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-25 23:06:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "В поисках истины",
-      "title_en": "Cut to the Chase",
-      "year": 2016,
-      "kinopoisk_id": 904389,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-25 23:05:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BluRay"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1203040.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Акушерка",
@@ -1319,39 +1354,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Тихоокеанский рубеж: Тёмная зона",
-      "title_en": "Pacific Rim: The Black",
-      "year": 2021,
-      "kinopoisk_id": 1209845,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "2118c2dba2b5cf2001e99bc46c0426aafdd36617157a1dd699ca9fda66463b02",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-04 14:41:20",
-      "update_date": "2021-03-04 16:04:35",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1209845.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
           ]
         }
       ]

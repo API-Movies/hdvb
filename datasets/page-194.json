@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Хроники кенгуру",
+      "title_en": "Die Känguru-Chroniken",
+      "year": 2020,
+      "kinopoisk_id": 1213512,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-28 12:49:02",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Пираты по соседству",
+      "title_en": "De piraten van hiernaast",
+      "year": 2020,
+      "kinopoisk_id": 1289632,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-28 12:48:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Бараны",
+      "title_en": "Rams",
+      "year": 2020,
+      "kinopoisk_id": 1179488,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-28 01:00:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Идеальный",
       "title_en": "Perfect",
       "year": 2018,
@@ -222,43 +261,56 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Не выходи",
-      "title_en": "Don't Get Out",
-      "year": 2019,
-      "kinopoisk_id": 1337346,
-      "type": "movie",
+      "title_ru": "Рокко Скьявоне",
+      "title_en": "Rocco Schiavone",
+      "year": 2016,
+      "kinopoisk_id": 1227553,
+      "world_art_id": null,
+      "translator": "ViruseProject",
+      "token": "28a6dcc48b92d2056952b0546076d4a6377e228c199c471c80bd2cef71a8acac",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-27 07:29:02",
+      "added_date": "2020-09-17 17:25:25",
+      "update_date": "2020-09-17 17:34:53",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "А.К. против А.К.",
-      "title_en": "AK vs AK",
-      "year": 2020,
-      "kinopoisk_id": 2003706,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-27 07:27:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Душа",
-      "title_en": "Soul",
-      "year": 2020,
-      "kinopoisk_id": 775273,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-26 19:15:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 72,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1227553.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "В ловушке",
@@ -1050,45 +1102,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Крэнфорд",
-      "title_en": "Cranford",
-      "year": 2007,
-      "kinopoisk_id": 412471,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "7c72274bac37c76cd97e9b98d67c211c5e005c2ee3b3c4db162a0c1e659603f0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-16 14:59:46",
-      "update_date": "2020-09-16 15:00:37",
-      "block": false,
-      "translator_id": 126,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/412471.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Король Лев",
+      "title_en": "The Lion King",
+      "year": 2019,
+      "kinopoisk_id": 1005878,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-10-11 12:45:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Катастрофа",
+      "title_en": "Blue Ruin",
+      "year": 2013,
+      "kinopoisk_id": 702878,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-10-11 09:46:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Он никогда не умирал",
+      "title_en": "He Never Died",
+      "year": 2015,
+      "kinopoisk_id": 710513,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-10-11 09:45:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Наступит ночь",
       "title_en": "Night Will Fall",
       "year": 2014,
@@ -220,45 +259,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "HDTV"
-    },
-    {
-      "title_ru": "Э.М.И. 333 дня",
-      "title_en": "E.M.P. 333 Days",
-      "year": 2018,
-      "kinopoisk_id": 1275206,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-10-10 23:04:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сыны Дании",
-      "title_en": "Danmarks sønner",
-      "year": 2019,
-      "kinopoisk_id": 1230388,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-10-10 23:03:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Война в Анголе",
-      "title_en": "Angola the war",
-      "year": 2017,
-      "kinopoisk_id": 7967672,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-10-10 23:01:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
     }
   ]
 }

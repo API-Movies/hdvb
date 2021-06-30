@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Гномы в деле!",
+      "title_en": "Die Heinzels - Rückkehr der Heinzelmännchen",
+      "year": 2020,
+      "kinopoisk_id": 1200972,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-14 08:29:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Женская драка",
+      "title_en": "Chick Fight",
+      "year": 2020,
+      "kinopoisk_id": 1332347,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-14 01:52:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Питер Пэн и Алиса в стране чудес",
+      "title_en": "Come Away",
+      "year": 2020,
+      "kinopoisk_id": 978106,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-14 01:51:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Смертельная расплата",
       "title_en": "Dead Reckoning",
       "year": 2020,
@@ -222,43 +261,40 @@
       "quality": "HDTV"
     },
     {
-      "title_ru": "Сила привычки",
-      "title_en": "Tottumiskysymys",
-      "year": 2018,
-      "kinopoisk_id": 1231821,
-      "type": "movie",
+      "title_ru": "Игра в ложь",
+      "title_en": "The Lying Game",
+      "year": 2011,
+      "kinopoisk_id": 580379,
+      "world_art_id": null,
+      "translator": "DreamRecords",
+      "token": "eda8858026b16989dddfdc0a779add660fe64dbc4c23396c8ede5078f366a42f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-13 14:18:01",
+      "added_date": "2020-08-05 23:46:00",
+      "update_date": "2020-08-05 23:46:48",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Дичь",
-      "title_en": "Freaky",
-      "year": 2020,
-      "kinopoisk_id": 1313205,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-13 14:15:01",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Гренландия",
-      "title_en": "Greenland",
-      "year": 2020,
-      "kinopoisk_id": 1164520,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-13 14:09:02",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
+      "translator_id": 22,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/580379.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Игра в ложь",
@@ -1234,121 +1270,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Приключения Кота в сапогах",
-      "title_en": "The Adventures of Puss in Boots",
-      "year": 2015,
-      "kinopoisk_id": 882258,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "2fad86421628e5c56a241eb35d0cc3e7210ea74df3bb3ece4d4b9ab0a11997dc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-08 09:39:14",
-      "update_date": "2020-08-05 09:20:53",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/882258.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

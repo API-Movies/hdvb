@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "- Окраина",
+      "title_en": "Baixo Centro / Outer Edge",
+      "year": 2018,
+      "kinopoisk_id": 1240851,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-04 11:56:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Не задавай вопросов",
+      "title_en": "Ask No Questions",
+      "year": 2020,
+      "kinopoisk_id": 11468524,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-04 11:55:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Голоса за кадром",
+      "title_en": "Golden Voices",
+      "year": 2019,
+      "kinopoisk_id": 1247345,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-04 09:23:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Гром юрского периода",
       "title_en": "Jurassic Thunder",
       "year": 2020,
@@ -222,43 +261,36 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Все Зависит от Выбора",
-      "title_en": "It's About Choices",
+      "title_ru": "Мы охотимся вместе",
+      "title_en": "We Hunt Together",
       "year": 2020,
-      "kinopoisk_id": 1386747,
-      "type": "movie",
+      "kinopoisk_id": 1307024,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "6ab8b346e584729a3b1f90008c5da43ebed2950b32b8cae7e3f99ac7c696faae",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-03 11:28:02",
+      "added_date": "2020-07-23 08:46:39",
+      "update_date": "2020-07-23 08:46:39",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "ДРИБ",
-      "title_en": "DRIB",
-      "year": 2017,
-      "kinopoisk_id": 1034474,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-03 11:26:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Отчаянная попытка",
-      "title_en": "Sushi Tushi or How Asia Broke Into American Pro Football / Hail Mary!",
-      "year": 2018,
-      "kinopoisk_id": 1038659,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-03 11:25:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 60,
+      "quality": "HDTV",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1307024.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Возвращение чемпиона",
@@ -1285,40 +1317,6 @@
         },
         {
           "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Позвони мне, если ты умрешь",
-      "title_en": "Appelle-moi si tu meurs",
-      "year": 2019,
-      "kinopoisk_id": 1256615,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "74e5e58a0e56808bf0e9ea7bec8b240ff0abc6acaffd1835f0e7217795d58e79",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-21 16:07:26",
-      "update_date": "2020-07-21 16:07:26",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1256615.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 8,
           "episodes": [
             1,

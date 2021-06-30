@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Ложь",
+      "title_en": "The Lie",
+      "year": 2018,
+      "kinopoisk_id": 1112558,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-08 14:42:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Секреты команды чирлидеров",
+      "title_en": "Cheer Squad Secrets",
+      "year": 2020,
+      "kinopoisk_id": 1322943,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-08 14:39:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Антебеллум",
+      "title_en": "Antebellum",
+      "year": 2020,
+      "kinopoisk_id": 1261952,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-08 13:30:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Ограбление президента",
       "title_en": "Finding Steve McQueen",
       "year": 2019,
@@ -222,43 +261,97 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Зависимость",
-      "title_en": "Habit",
+      "title_ru": "13 причин почему",
+      "title_en": "13 Reasons Why",
       "year": 2017,
-      "kinopoisk_id": 981012,
-      "type": "movie",
+      "kinopoisk_id": 582358,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "17358e0f9e4d82c0730e6472f470bf5a2d3aa0d3c45daec90aa3e835bf5a00ed",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-08 02:49:02",
+      "added_date": "2020-06-13 21:04:31",
+      "update_date": "2020-06-13 21:04:31",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Золотые выходы",
-      "title_en": "Golden Exits",
-      "year": 2017,
-      "kinopoisk_id": 976295,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-08 02:48:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Убийца парня",
-      "title_en": "Boyfriend Killer",
-      "year": 2017,
-      "kinopoisk_id": 969826,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-08 02:47:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDRip"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/582358.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=139986",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Хорошая борьба",
@@ -1067,124 +1160,6 @@
       "serial_episodes": [
         {
           "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Нация Z",
-      "title_en": "Z Nation",
-      "year": 2014,
-      "kinopoisk_id": 841371,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "b138088abb6905ba30d930c3d7f093a55882d700ecab0ccbd4d25b0ee445ee77",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-12 10:41:13",
-      "update_date": "2020-06-12 10:41:13",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/841371.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=106319",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 5,
           "episodes_count": 13,
           "episodes": [
             1,

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Крепость",
+      "title_en": "Fortezza",
+      "year": 2019,
+      "kinopoisk_id": 1352659,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-13 22:29:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Финита ля комедия",
+      "title_en": "Finita La Commedia",
+      "year": 2019,
+      "kinopoisk_id": 1220072,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-13 22:28:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ограбление во благо",
+      "title_en": "Faith Heist",
+      "year": 2020,
+      "kinopoisk_id": 2001765,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-13 22:27:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "В середине лабиринта",
       "title_en": "En medio del laberinto",
       "year": 2019,
@@ -222,43 +261,36 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Убить дракона",
-      "title_en": "Matar al dragon",
-      "year": 2019,
-      "kinopoisk_id": 1205606,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-12 21:30:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Зидан Адамс: Чёрный Блоггер",
-      "title_en": "Zidane Adams: The Black Blogger!",
+      "title_ru": "Шальные деньги",
+      "title_en": "Snabba Cash",
       "year": 2021,
-      "kinopoisk_id": 1335237,
-      "type": "movie",
+      "kinopoisk_id": 1421185,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "acd7596b48471fd47f51cb1403ad57cbc2e143da64fbd2e989ca70780d38fba0",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-12 21:29:01",
+      "added_date": "2021-04-08 08:40:13",
+      "update_date": "2021-04-08 08:40:55",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Капсула времени",
-      "title_en": "The Time Capsule",
-      "year": 2018,
-      "kinopoisk_id": 992552,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-12 21:28:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1421185.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Бог Богов... Махадев",
@@ -2066,44 +2098,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Великая",
-      "title_en": "",
-      "year": 2015,
-      "kinopoisk_id": 780306,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "c4861a6a196a0619a6c71ee37a1ff650e39b1cbad03862c77636f2dc519492da",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-05 17:37:01",
-      "update_date": "2021-04-05 17:41:12",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/780306.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

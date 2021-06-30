@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "title_ru": "Дело Собчака",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1117943,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-09-12 02:35:07",
+      "block": [
+        "RU"
+      ],
+      "translator": "Перевод не требуется",
+      "translator_id": 103,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Убийца 2. Против всех",
+      "title_en": "Sicario 2: Soldado",
+      "year": 2018,
+      "kinopoisk_id": 938461,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-09-11 23:06:36",
+      "block": false,
+      "translator": "Дубляж [Звук с TS]",
+      "translator_id": 108,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Зависшие в воздухе",
+      "title_en": "Skybound",
+      "year": 2017,
+      "kinopoisk_id": 724768,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-09-11 21:54:41",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Глобальный кризис",
       "title_en": "Global Meltdown",
       "year": 2017,
@@ -220,47 +261,6 @@
       "translator": "Дубляж",
       "translator_id": 82,
       "quality": "TS"
-    },
-    {
-      "title_ru": "Белль и Себастьян: Друзья навек",
-      "title_en": "Belle et Sébastien 3, le dernier chapitre",
-      "year": 2017,
-      "kinopoisk_id": 1051470,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-09-07 15:26:15",
-      "block": [
-        "RU"
-      ],
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Траншея 11",
-      "title_en": "Trench 11",
-      "year": 2017,
-      "kinopoisk_id": 1006045,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-09-06 19:13:42",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Уцелевшая",
-      "title_en": "Survivor",
-      "year": 2015,
-      "kinopoisk_id": 804648,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-09-06 17:38:34",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
     }
   ]
 }

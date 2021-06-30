@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Овчарка-герой",
+      "title_en": "SHEPHERD: The Story of a Jewish Dog / Shepherd The Hero Dog",
+      "year": 2019,
+      "kinopoisk_id": 806545,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-14 09:38:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Западный Мичиган",
+      "title_en": "West Michigan",
+      "year": 2021,
+      "kinopoisk_id": 1276777,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-14 05:59:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Баллада о Билли МакКре",
+      "title_en": "Red Mist",
+      "year": 2021,
+      "kinopoisk_id": 1266407,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-14 05:58:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Всё о сексе",
       "title_en": "Natural Disasters",
       "year": 2021,
@@ -222,43 +261,36 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Рутабага",
-      "title_en": "Rutabaga",
-      "year": 2018,
-      "kinopoisk_id": 1124155,
-      "type": "movie",
+      "title_ru": "Не забудьте водителя",
+      "title_en": "Don\\'t Forget the Driver",
+      "year": 2019,
+      "kinopoisk_id": 1197974,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "e6acedfc3e2ccb88575b114618fcf7ee7c3000e659adc07b598c93e3e0255c2a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-13 02:54:01",
+      "added_date": "2021-02-13 18:10:15",
+      "update_date": "2021-02-13 18:11:56",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Художник призраков",
-      "title_en": "Pelukis Hantu",
-      "year": 2020,
-      "kinopoisk_id": 1350996,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-13 02:53:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сказание об охотнике",
-      "title_en": "Legend of hunter",
-      "year": 2021,
-      "kinopoisk_id": 67089765,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-13 02:52:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1197974.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Бен 10",
@@ -1418,100 +1450,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Доктор Блейк",
-      "title_en": "The Doctor Blake Mysteries",
-      "year": 2013,
-      "kinopoisk_id": 734714,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "67da9513b326ba1ed7e357d36680324c789b485c63731cec1c30e395e7da9919",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-12 10:06:05",
-      "update_date": "2021-02-12 10:07:24",
-      "block": false,
-      "translator_id": 126,
-      "quality": "WEB-DLRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/734714.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

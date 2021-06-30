@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Ударная волна 2",
+      "title_en": "Chai dan zhuan jia 2",
+      "year": 2019,
+      "kinopoisk_id": 1115076,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-05 14:35:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "",
+      "title_en": "Quintessential: The Movie",
+      "year": 2019,
+      "kinopoisk_id": 1156479,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-05 14:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Разбитое сердце на Рождество",
+      "title_en": "Holiday Heartbreak",
+      "year": 2020,
+      "kinopoisk_id": 1405475,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-05 14:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "COVID-21: Смертоносный вирус",
       "title_en": "COVID-21: Lethal Virus / Contamination: Virus-21",
       "year": 2021,
@@ -222,43 +261,46 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "",
-      "title_en": "Girl With No Mouth",
-      "year": 2020,
-      "kinopoisk_id": 1201286,
-      "type": "movie",
+      "title_ru": "Лучшая любовь",
+      "title_en": "Choigowei sarang",
+      "year": 2011,
+      "kinopoisk_id": 648831,
+      "world_art_id": null,
+      "translator": "Мобильное телевидение",
+      "token": "73e78e37c6ebab9a2aab59a7ff98e4ee477b1fb0bf81466c356955f10b57ab4a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-04 21:00:01",
+      "added_date": "2020-10-02 15:32:46",
+      "update_date": "2020-10-02 15:37:51",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Истерн",
-      "title_en": "Eastern",
-      "year": 2019,
-      "kinopoisk_id": 1274056,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-04 20:58:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Пропавшие на острове",
-      "title_en": "Seom. Sarajin saramdeul",
-      "year": 2016,
-      "kinopoisk_id": 987685,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-04 16:40:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 133,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/648831.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Горячая точка",
@@ -1495,55 +1537,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Годунов",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1118176,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "b9827190d15618729215b3c3ce0a2bc6add90f2de6e5cc85a4cc5c07918f414b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-11-05 19:58:07",
-      "update_date": "2020-09-30 23:25:57",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1118176.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
           ]
         }
       ]

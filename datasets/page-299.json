@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Жить, чтобы петь",
+      "title_en": "Huo zhe chang zhe",
+      "year": 2020,
+      "kinopoisk_id": 1261610,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-05 22:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "У всех на виду",
+      "title_en": "Hiding in Daylight",
+      "year": 2019,
+      "kinopoisk_id": 8796756,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-05 22:47:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дома",
+      "title_en": "A Casa",
+      "year": 2020,
+      "kinopoisk_id": 90876633,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-05 22:45:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Детектив Ди и убийца одиноких небес",
       "title_en": "Detective Dee: Solitary Skies Killer",
       "year": 2020,
@@ -222,43 +261,51 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Дочери Абриль",
-      "title_en": "Las hijas de Abril",
-      "year": 2017,
-      "kinopoisk_id": 1022100,
-      "type": "movie",
+      "title_ru": "Супермаркет",
+      "title_en": "Superstore",
+      "year": 2015,
+      "kinopoisk_id": 901421,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "1b1c3171a43e025bdab3735e898668a191117e93bacc2972b46d05d4df894f36",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-04 23:16:02",
+      "added_date": "2020-04-24 14:02:02",
+      "update_date": "2020-04-24 14:02:02",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Догоняя кометы",
-      "title_en": "Chasing Comets",
-      "year": 2018,
-      "kinopoisk_id": 1054457,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-04 23:15:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Змея 2",
-      "title_en": "Nakee 2",
-      "year": 2018,
-      "kinopoisk_id": 1210745,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-04 23:13:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/901421.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=127783",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 21,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Бруклин 9-9",
@@ -1284,34 +1331,6 @@
       "translator_id": 92,
       "quality": "BDRip",
       "poster": "https://st.kp.yandex.net/images/film_big/44811.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Летучая мышь",
-      "title_en": "",
-      "year": 1978,
-      "kinopoisk_id": 81428,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "71cf4943f13b962b40c147b0e1e71dcc260f64f52429883f02c6cf7f873db523",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-21 18:59:37",
-      "update_date": "2020-04-21 18:59:37",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/81428.jpg",
       "trailer": "",
       "serial_episodes": [
         {

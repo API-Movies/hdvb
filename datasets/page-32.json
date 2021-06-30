@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Чёрный ящик",
+      "title_en": "Black Box",
+      "year": 2021,
+      "kinopoisk_id": 1109414,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-26 12:31:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Хищники",
+      "title_en": "Endangered Species",
+      "year": 2021,
+      "kinopoisk_id": 4419513,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-26 12:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Спирит Непокорный",
+      "title_en": "Spirit Untamed",
+      "year": 2021,
+      "kinopoisk_id": 1322683,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-26 12:28:01",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Женщины из блока Джей",
       "title_en": "The Women in Block J",
       "year": 2019,
@@ -222,43 +261,75 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Редвилль",
-      "title_en": "Redville",
+      "title_ru": "Война семей",
+      "title_en": "",
       "year": 2020,
-      "kinopoisk_id": 1350014,
-      "type": "movie",
+      "kinopoisk_id": 1294121,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "69758f974814428b94dc2a6eda15ffadbb19ed42e8cf4cfd0ef73a5dc3736d6f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-25 10:17:01",
+      "added_date": "2020-05-16 20:18:33",
+      "update_date": "2021-05-07 02:18:44",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Взлёты и падения",
-      "title_en": "Peaks and Valleys",
-      "year": 2019,
-      "kinopoisk_id": 995795,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-25 10:16:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Счастливчик",
-      "title_en": "Lucky One",
-      "year": 2019,
-      "kinopoisk_id": 1247615,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-25 10:15:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1294121.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 19,
+          "episodes": [
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Молодой Скала",
@@ -995,38 +1066,6 @@
             13,
             14,
             15
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Тайны Броукенвуда",
-      "title_en": "The Brokenwood Mysteries",
-      "year": 2014,
-      "kinopoisk_id": 841729,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "f65a241da656323f3dbb181031114d7edc05a2abc41825fcbdbd78521e249d4f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-06 14:37:23",
-      "update_date": "2021-05-03 21:53:36",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/841729.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 7,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

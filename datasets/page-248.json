@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Пять женщин в конце",
+      "title_en": "Five Women in the End",
+      "year": 2019,
+      "kinopoisk_id": 1223031,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-01 22:23:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Новый конец",
+      "title_en": "Ende Neu",
+      "year": 2018,
+      "kinopoisk_id": 1050082,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-01 22:21:03",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "И жила она в злости",
+      "title_en": "Angrily Ever After",
+      "year": 2019,
+      "kinopoisk_id": 1264503,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-01 22:20:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Гоблин",
       "title_en": "Goblin",
       "year": 2020,
@@ -222,43 +261,38 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Город мошенников",
-      "title_en": "Rogue City / Bronx",
-      "year": 2020,
-      "kinopoisk_id": 1254615,
-      "type": "movie",
+      "title_ru": "Грязный Джон",
+      "title_en": "Dirty John",
+      "year": 2018,
+      "kinopoisk_id": 1140184,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "1d639206b741e9e4ab881104a1028462e614561b52f023d8abe1a57ba047cf45",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-30 20:20:02",
+      "added_date": "2020-07-17 09:03:03",
+      "update_date": "2020-07-17 09:03:03",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Звонок из подземелья",
-      "title_en": "The Call",
-      "year": 2020,
-      "kinopoisk_id": 1402910,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-30 20:18:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Реальная история мальчика-волчонка",
-      "title_en": "The True Adventures of Wolfboy / Przygody mlodego wilkolaka",
-      "year": 2019,
-      "kinopoisk_id": 1048940,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-30 20:17:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1140184.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Дивный новый мир",
@@ -1283,44 +1317,6 @@
             30,
             31,
             32
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Давай, дерзай!",
-      "title_en": "Balchikhage gogo",
-      "year": 2015,
-      "kinopoisk_id": 940683,
-      "world_art_id": null,
-      "translator": "SoftBox",
-      "token": "38d56e04731d86c0d614b8aed3acf5d603cb918bdc35b14a9bf7dcd9207bea4c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-16 02:15:34",
-      "update_date": "2020-07-16 02:15:34",
-      "block": false,
-      "translator_id": 106,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/940683.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

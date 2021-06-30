@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Корпорация Ad Libitum",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1101306,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-18 07:57:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Прощайте, семидесятые",
+      "title_en": "Goodbye Seventies",
+      "year": 2020,
+      "kinopoisk_id": 1403594,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-18 07:29:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "В глубине души",
+      "title_en": "Deep down",
+      "year": 2021,
+      "kinopoisk_id": 1264394,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-18 07:28:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Перемены",
       "title_en": "Things Don't Stay Fixed",
       "year": 2021,
@@ -222,43 +261,62 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Детектив из Чайнатауна 3",
-      "title_en": "Tang ren jie tang an 3",
-      "year": 2021,
-      "kinopoisk_id": 1115304,
-      "type": "movie",
+      "title_ru": "Спасение",
+      "title_en": "Salvation",
+      "year": 2017,
+      "kinopoisk_id": 1041731,
+      "world_art_id": null,
+      "translator": "Пифагор",
+      "token": "88a1ad58b904296d8bba0214a0de765c5351fc92c92f997a3f16d15dfc397813",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-17 05:54:02",
+      "added_date": "2020-11-24 22:43:42",
+      "update_date": "2020-11-24 22:54:53",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Музыка крыш",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1443829,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-17 05:53:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Кроличья лапа",
-      "title_en": "Rabbit’s Paw",
-      "year": 2021,
-      "kinopoisk_id": 1445245,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-17 05:52:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
+      "translator_id": 124,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1041731.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Кризис в шести сценах",
@@ -1048,35 +1106,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Испытание невиновностью",
-      "title_en": "Ordeal by Innocence",
-      "year": 2018,
-      "kinopoisk_id": 1047995,
-      "world_art_id": null,
-      "translator": "Культура",
-      "token": "a079e249643932301aac92b47bb722a50eaf1c71a47335045fb5fc21a13a6d41",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-23 19:17:15",
-      "update_date": "2020-11-23 19:17:54",
-      "block": false,
-      "translator_id": 191,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/1047995.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
           ]
         }
       ]

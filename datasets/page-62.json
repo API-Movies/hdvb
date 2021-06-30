@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Великий Звэн",
+      "title_en": "De Grote Zwaen",
+      "year": 2015,
+      "kinopoisk_id": 911244,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-25 23:07:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Одичавший",
+      "title_en": "Running Wild",
+      "year": 2016,
+      "kinopoisk_id": 904497,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-25 23:06:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "В поисках истины",
+      "title_en": "Cut to the Chase",
+      "year": 2016,
+      "kinopoisk_id": 904389,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-25 23:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Забытое",
       "title_en": "4Got10",
       "year": 2015,
@@ -222,43 +261,37 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Восстание Вальхаллы",
-      "title_en": "The Rise of Valhalla",
-      "year": 2019,
-      "kinopoisk_id": 1295910,
-      "type": "movie",
+      "title_ru": "Тихоокеанский рубеж: Тёмная зона",
+      "title_en": "Pacific Rim: The Black",
+      "year": 2021,
+      "kinopoisk_id": 1209845,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "2118c2dba2b5cf2001e99bc46c0426aafdd36617157a1dd699ca9fda66463b02",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-25 20:48:01",
+      "added_date": "2021-03-04 14:41:20",
+      "update_date": "2021-03-04 16:04:35",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Призрак Мэри",
-      "title_en": "Phantom Mary",
-      "year": 2019,
-      "kinopoisk_id": 1233612,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-25 20:47:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Я зависим",
-      "title_en": "I Am an Addict",
-      "year": 2019,
-      "kinopoisk_id": 1184156,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-25 20:46:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1209845.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Убийство среди мормонов",
@@ -1208,38 +1241,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мозаика",
-      "title_en": "Mosaic",
-      "year": 2018,
-      "kinopoisk_id": 933728,
-      "world_art_id": null,
-      "translator": "Amedia",
-      "token": "ee5486be5e3ef7b3b99ff78656aa4ebb10771fef1d6cfcea45a0dc2afb06f25c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-02 20:40:37",
-      "update_date": "2021-03-02 20:42:44",
-      "block": false,
-      "translator_id": 7,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/933728.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

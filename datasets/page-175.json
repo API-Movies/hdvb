@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Избавиться от трупака Неда",
+      "title_en": "The Disposal of Dead Ned",
+      "year": 2019,
+      "kinopoisk_id": 11492580,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-14 14:14:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вернуть бывшую",
+      "title_en": "Recuperando a mi Ex",
+      "year": 2018,
+      "kinopoisk_id": 1022900,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-14 14:12:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Неопознанные лица 2",
+      "title_en": "Na Maloom Afraad 2",
+      "year": 2017,
+      "kinopoisk_id": 1061655,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-14 14:11:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Женатые мужчины",
       "title_en": "Married Men",
       "year": 2019,
@@ -222,43 +261,48 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Рождённый в безумии",
-      "title_en": "Coming from Insanity",
-      "year": 2020,
-      "kinopoisk_id": 1189332,
-      "type": "movie",
+      "title_ru": "187 Детройт",
+      "title_en": "Detroit 1-8-7",
+      "year": 2010,
+      "kinopoisk_id": 493199,
+      "world_art_id": null,
+      "translator": "Fox Crime",
+      "token": "89d4a5980bb8beb4d5016d93a41161aaadd8916c0a83dabbcf4f76f849914753",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-13 23:58:02",
+      "added_date": "2020-10-13 20:12:52",
+      "update_date": "2020-10-13 20:15:40",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Климат охотника",
-      "title_en": "Climate of the Hunter",
-      "year": 2020,
-      "kinopoisk_id": 1238961,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-13 23:57:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Советы доктора Бёрда для грустных поэтов",
-      "title_en": "Dr. Bird's Advice for Sad Poets",
-      "year": 2021,
-      "kinopoisk_id": 811252,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-13 23:56:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 184,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/493199.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Ей 200 лет",
@@ -1103,34 +1147,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Крушение Лаконии",
-      "title_en": "The Sinking of the Laconia",
-      "year": 2010,
-      "kinopoisk_id": 474817,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "2961bc4ae302894397768dea4201beed1f0a2aeae91e144cbb04abba56703039",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-12 16:18:45",
-      "update_date": "2020-10-12 16:36:02",
-      "block": false,
-      "translator_id": 126,
-      "quality": "BluRay",
-      "poster": "https://st.kp.yandex.net/images/film_big/474817.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
           ]
         }
       ]

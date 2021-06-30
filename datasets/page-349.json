@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Трупоферма",
+      "title_en": "Body Farm",
+      "year": 2018,
+      "kinopoisk_id": 960955,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-20 00:07:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Для Дженнифер",
+      "title_en": "For Jennifer",
+      "year": 2018,
+      "kinopoisk_id": 1057607,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-20 00:06:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Я написал это для тебя",
+      "title_en": "I Wrote This for You",
+      "year": 2018,
+      "kinopoisk_id": 1099744,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-20 00:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Карпентер",
       "title_en": "Karpenter",
       "year": 2017,
@@ -224,43 +263,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Энди - говорящий ёжик",
-      "title_en": "Andy the Talking Hedgehog",
-      "year": 2018,
-      "kinopoisk_id": 1009788,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-18 21:55:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Фильм Дилана Хагенса",
-      "title_en": "De Film van Dylan Haegens",
-      "year": 2020,
-      "kinopoisk_id": 1176734,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-18 21:54:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Первое Рождество",
-      "title_en": "Il primo Natale",
+      "title_ru": "Тёмная сеть",
+      "title_en": "Dark/Web",
       "year": 2019,
-      "kinopoisk_id": 1274500,
-      "type": "movie",
+      "kinopoisk_id": 1008788,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "240a4c56ffcb90639f0e5a9e7779943a8845693f777471694f51372e23eef95e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-18 21:53:02",
+      "added_date": "2019-07-20 19:36:53",
+      "update_date": "2019-07-31 14:39:52",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1008788.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Поместье Бичема",
@@ -1295,160 +1329,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сыны анархии",
-      "title_en": "Sons of Anarchy",
-      "year": 2008,
-      "kinopoisk_id": 417846,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "de7a3e69024ee1bab345977c4a2a6536e010edfc58f82316efc3d4b8f0b79502",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-11 17:19:00",
-      "update_date": "2019-07-12 08:27:43",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/417846.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=105840",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 7,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "",
+      "title_en": "Summer Knight",
+      "year": 2019,
+      "kinopoisk_id": 1163187,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-18 15:42:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Новый год, новые мы",
+      "title_en": "New Year, New Us",
+      "year": 2019,
+      "kinopoisk_id": 1375965,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-18 15:41:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Человеческое хибачи",
+      "title_en": "Human Hibachi",
+      "year": 2020,
+      "kinopoisk_id": 1195396,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-18 15:40:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Эль Роуз",
       "title_en": "Elle Rose",
       "year": 2020,
@@ -222,43 +261,34 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Корпорация Ad Libitum",
+      "title_ru": "Молодые и сильные выживут",
       "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1101306,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-18 07:57:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Прощайте, семидесятые",
-      "title_en": "Goodbye Seventies",
       "year": 2020,
-      "kinopoisk_id": 1403594,
-      "type": "movie",
+      "kinopoisk_id": 1443805,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "e2dba884f0b08578a00180bc17fac393815cad5b03f6d1b153defc2df9e06157",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-18 07:29:02",
+      "added_date": "2020-11-17 19:26:55",
+      "update_date": "2020-11-26 15:44:59",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "В глубине души",
-      "title_en": "Deep down",
-      "year": 2021,
-      "kinopoisk_id": 1264394,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-18 07:28:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1443805.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Грозный",
@@ -1165,64 +1195,6 @@
             1,
             2,
             3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Спасение",
-      "title_en": "Salvation",
-      "year": 2017,
-      "kinopoisk_id": 1041731,
-      "world_art_id": null,
-      "translator": "Пифагор",
-      "token": "88a1ad58b904296d8bba0214a0de765c5351fc92c92f997a3f16d15dfc397813",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-24 22:43:42",
-      "update_date": "2020-11-24 22:54:53",
-      "block": false,
-      "translator_id": 124,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1041731.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

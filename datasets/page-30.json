@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Корпус Хаосум",
+      "title_en": "Corpus Chaosum",
+      "year": 2019,
+      "kinopoisk_id": 1422308,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-29 12:39:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Роберто Баджо, Божественный Хвостик",
+      "title_en": "Il Divin Codino",
+      "year": 2021,
+      "kinopoisk_id": 4394114,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-29 12:36:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Преданные",
+      "title_en": "Den største forbrytelsen",
+      "year": 2020,
+      "kinopoisk_id": 1330954,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-28 23:31:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Мрачные фантазии",
       "title_en": "Torve Fantasie",
       "year": 2019,
@@ -222,43 +261,43 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Лифчик",
-      "title_en": "Le soutien-gorge",
-      "year": 2018,
-      "kinopoisk_id": 1192139,
-      "type": "movie",
+      "title_ru": "Овальный кабинет",
+      "title_en": "The Oval",
+      "year": 2019,
+      "kinopoisk_id": 1282149,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "7d7b50505fa625edd999e80df11b9e107f2d42710f5f2b7ab7f0636080b12410",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-27 20:06:01",
+      "added_date": "2021-02-18 08:14:01",
+      "update_date": "2021-05-13 09:50:58",
       "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Земляне",
-      "title_en": "Earthlings",
-      "year": 2005,
-      "kinopoisk_id": 77413,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-27 20:05:01",
-      "block": false,
-      "translator": "одноголосый закадровый",
-      "translator_id": 93,
-      "quality": "DVDRip"
-    },
-    {
-      "title_ru": "Зловещие мертвецы 2",
-      "title_en": "Evil Dead II",
-      "year": 1987,
-      "kinopoisk_id": 2918,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-27 20:04:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BDRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1282149.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Супергёрл",
@@ -1697,44 +1736,6 @@
             7,
             8,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кухарка из Кастамара",
-      "title_en": "La cocinera de Castamar",
-      "year": 2021,
-      "kinopoisk_id": 1400972,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "afe95460528c049d013f7eddd29592ae44ed23fb707fa2ce72bf5c49f6129869",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-21 19:38:33",
-      "update_date": "2021-05-09 17:46:11",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1400972.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

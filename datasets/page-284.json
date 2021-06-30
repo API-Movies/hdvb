@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Не входи",
+      "title_en": "The Owners",
+      "year": 2020,
+      "kinopoisk_id": 1251292,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-23 16:19:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Табу: Вторжение во врата дьявола",
+      "title_en": "Tabu: Mengusik Gerbang Iblis",
+      "year": 2019,
+      "kinopoisk_id": 1237557,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-23 12:21:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Только по любви",
+      "title_en": "Solo el Amor",
+      "year": 2018,
+      "kinopoisk_id": 1156814,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-23 12:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Август в Мадриде",
       "title_en": "La virgen de agosto",
       "year": 2020,
@@ -222,43 +261,52 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Отправление / Незаконченное дело",
-      "title_en": "Chulguk / Unfinished",
+      "title_ru": "Метод Комински",
+      "title_en": "The Kominsky Method",
       "year": 2018,
-      "kinopoisk_id": 1199660,
-      "type": "movie",
+      "kinopoisk_id": 1112254,
+      "world_art_id": null,
+      "translator": "АРК ТВ",
+      "token": "8167179a659d06564b89eed30fe71396855295b4dc2daa215d3c49ded4cd4bc8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-21 23:25:01",
+      "added_date": "2020-05-18 22:49:53",
+      "update_date": "2020-05-18 22:49:53",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Путь",
-      "title_en": "The Way Station / Dao cua dan ngu cu",
-      "year": 2017,
-      "kinopoisk_id": 6959074,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-21 23:23:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Суррогатная мать для звезды",
-      "title_en": "Secret Life of a Celebrity Surrogate / The Surrogate",
-      "year": 2020,
-      "kinopoisk_id": 1328222,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-21 23:20:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 77,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1112254.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Подразделение (Единство)",
@@ -1087,40 +1135,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Драйв",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 975926,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "c51a6d8da2336264cbed92b6a75bc3984cab2930cf1cb7f353982419908429d5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-17 19:27:59",
-      "update_date": "2020-05-17 19:27:59",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/975926.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

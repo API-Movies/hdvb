@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Одна ночь в Бангкоке",
+      "title_en": "One Night in Bangkok",
+      "year": 2020,
+      "kinopoisk_id": 1379620,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-14 17:06:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Отрыв",
+      "title_en": "Spree",
+      "year": 2020,
+      "kinopoisk_id": 1337621,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-14 17:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Плыви к золоту",
+      "title_en": "Swimming for Gold",
+      "year": 2020,
+      "kinopoisk_id": 1294490,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-14 17:04:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Перед пожаром",
       "title_en": "Before the Fire",
       "year": 2020,
@@ -225,43 +264,40 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Суне против Суне",
-      "title_en": "Sune vs. Sune",
-      "year": 2018,
-      "kinopoisk_id": 1087409,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-13 21:00:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Школьница с бензопилой. Часть 2 / Возвращение кровавой школьницы с бензопилой: пробуждение Гико",
-      "title_en": "Chimamire sukeban chenso red: Kôhen - Giko no kakusei / Bloody Chainsaw Girl Returns: Giko Awakens",
+      "title_ru": "Лига Октября",
+      "title_en": "October Faction",
       "year": 2019,
-      "kinopoisk_id": 1221614,
-      "type": "movie",
+      "kinopoisk_id": 1180685,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "1370f7711b02a2fbb0455e93ee06327738d819c78054e5192841b6af20824074",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-13 20:59:02",
+      "added_date": "2020-01-27 22:28:45",
+      "update_date": "2020-01-27 22:28:45",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Малый бюджет",
-      "title_en": "B.O.",
-      "year": 2020,
-      "kinopoisk_id": 1083287,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-13 20:57:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1180685.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Риф-брейк",
@@ -1084,38 +1120,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кобра",
-      "title_en": "Cobra",
-      "year": 2019,
-      "kinopoisk_id": 1253001,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "f3626602e92f0dea78021f38d583ac614fa5a9e22ef90cfeec8e1d7dd7877d5e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-22 20:17:16",
-      "update_date": "2020-01-22 20:17:16",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1253001.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Техасец Ред",
+      "title_en": "Texas Red",
+      "year": 2021,
+      "kinopoisk_id": 1273527,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 19:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "На распутье",
+      "title_en": "Conflicted",
+      "year": 2021,
+      "kinopoisk_id": 13899082,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 18:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Портрет",
+      "title_en": "I, Portrait",
+      "year": 2021,
+      "kinopoisk_id": 1066095,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 18:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Стилист",
       "title_en": "The Stylist",
       "year": 2020,
@@ -222,43 +261,39 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Пустой человек",
-      "title_en": "The Empty Man",
-      "year": 2020,
-      "kinopoisk_id": 992507,
-      "type": "movie",
+      "title_ru": "Низкое зимнее солнце",
+      "title_en": "Low Winter Sun",
+      "year": 2013,
+      "kinopoisk_id": 694942,
+      "world_art_id": null,
+      "translator": "Newstudio",
+      "token": "16fa12938d4ad12716c759ab394aa28c8bd61d80a802a11e73d6c1a01592f4ae",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-04 23:54:02",
+      "added_date": "2020-12-16 23:54:46",
+      "update_date": "2020-12-16 23:55:51",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Проект Power",
-      "title_en": "Project Power",
-      "year": 2020,
-      "kinopoisk_id": 1190299,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-04 23:53:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Леди Бёрд",
-      "title_en": "Lady Bird",
-      "year": 2017,
-      "kinopoisk_id": 958293,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-04 23:52:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
+      "translator_id": 48,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/694942.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Иерихон",
@@ -1226,37 +1261,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Далеки!",
-      "title_en": "Daleks!",
-      "year": 2020,
-      "kinopoisk_id": 1406749,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "adbb2a708c8e51f9b003dcc9bac598b42c1592c059897539cedb1cd16a739c77",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-14 08:59:55",
-      "update_date": "2020-12-16 09:07:26",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1406749.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Невестка",
+      "title_en": "Belle fille",
+      "year": 2020,
+      "kinopoisk_id": 1304397,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-13 00:39:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Параллель",
+      "title_en": "Parallel",
+      "year": 2020,
+      "kinopoisk_id": 1017868,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-13 00:38:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Папина дочка",
+      "title_en": "Le prince oublié",
+      "year": 2020,
+      "kinopoisk_id": 1118223,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-12 21:51:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Хандра",
       "title_en": "",
       "year": 2020,
@@ -222,43 +261,40 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "В поисках огня",
-      "title_en": "Digging for Fire",
-      "year": 2015,
-      "kinopoisk_id": 841810,
-      "type": "movie",
+      "title_ru": "Страшные сказки: Город ангелов",
+      "title_en": "Penny Dreadful: City of Angels",
+      "year": 2020,
+      "kinopoisk_id": 1254206,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "0a56b100c4686a5f15d24cafca33048b0c3702d115d53dd8763585601efceda8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-11 21:17:01",
+      "added_date": "2020-07-01 15:09:09",
+      "update_date": "2020-09-05 20:44:52",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сломленный",
-      "title_en": "Banghwanghaneun kalnal",
-      "year": 2014,
-      "kinopoisk_id": 839186,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-11 21:16:02",
-      "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Странный цвет слёз твоего тела",
-      "title_en": "L\\'étrange couleur des larmes de ton corps",
-      "year": 2013,
-      "kinopoisk_id": 740837,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-11 21:15:01",
-      "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "BDRip"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1254206.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Страшные сказки: Город ангелов",
@@ -972,45 +1008,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Воспоминания о Шерлоке Холмсе",
-      "title_en": "",
-      "year": 2000,
-      "kinopoisk_id": 456501,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "212bf4cc30fae1ddcee51a35e88fa33be12a0c450f5fe59957f417f26c7fae8e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-05 00:17:08",
-      "update_date": "2020-09-05 00:19:25",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/456501.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

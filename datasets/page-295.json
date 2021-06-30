@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Академия монстров",
+      "title_en": "Cranston Academy: Monster Zone",
+      "year": 2020,
+      "kinopoisk_id": 1197918,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-10 18:00:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Няня. Королева проклятых",
+      "title_en": "The Babysitter: Killer Queen",
+      "year": 2020,
+      "kinopoisk_id": 1309718,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-10 17:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Печально известные",
+      "title_en": "Infamous",
+      "year": 2020,
+      "kinopoisk_id": 1236742,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-10 17:57:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Агент Ева",
       "title_en": "Ava",
       "year": 2020,
@@ -222,43 +261,56 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Неожиданно с тобой",
-      "title_en": "Unexpectedly Yours",
-      "year": 2017,
-      "kinopoisk_id": 76589574,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-08 21:48:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Он. Она. И другой",
-      "title_en": "Her. Him. The Other",
+      "title_ru": "Затерянные в космосе",
+      "title_en": "Lost in Space",
       "year": 2018,
-      "kinopoisk_id": 1101357,
-      "type": "movie",
+      "kinopoisk_id": 993176,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "ed13c4b4c6cf7151cc3ae62219d774090c8f7f4b6cca04f95fef1d232de1576b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-08 21:45:01",
+      "added_date": "2020-05-03 00:21:26",
+      "update_date": "2020-05-03 00:21:26",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Джим Джефферис: Нетерпимый",
-      "title_en": "Jim Jefferies: Intolerant",
-      "year": 2020,
-      "kinopoisk_id": 1391084,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-08 21:44:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/993176.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=147584",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Ошибка 404",
@@ -1213,36 +1265,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Погружение",
-      "title_en": "",
-      "year": 2013,
-      "kinopoisk_id": 783193,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "cf24b5be4410fa7445f98269a15d4aecd0ed88db64a1500946a86cd5ce386349",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-30 23:14:54",
-      "update_date": "2020-04-30 23:14:54",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/783193.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Литл Гром",
+      "title_en": "Yakari, le film",
+      "year": 2020,
+      "kinopoisk_id": 1314528,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 00:11:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Кислятина",
+      "title_en": "Sour",
+      "year": 2021,
+      "kinopoisk_id": 1274869,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 00:10:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Истории для просмотра в темноте",
+      "title_en": "Shorts After Dark",
+      "year": 2019,
+      "kinopoisk_id": 1297764,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 00:09:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Фильм Чарли",
       "title_en": "Charlie's Movie",
       "year": 2020,
@@ -222,43 +261,44 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Рождество Кэрол",
-      "title_en": "Carol's Christmas",
-      "year": 2021,
-      "kinopoisk_id": 4383377,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-11 00:14:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ступая во мрак",
-      "title_en": "Wander Darkly",
-      "year": 2020,
-      "kinopoisk_id": 1190935,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-10 19:29:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Рашн Юг",
+      "title_ru": "Волк",
       "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1395847,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-10 15:19:01",
-      "block": false,
+      "year": 2020,
+      "kinopoisk_id": 1334847,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "0331e78c122e1bcfbcc12b01915d3708b4f40aee2616687ea5d346f1bdd65560",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-07 14:51:13",
+      "update_date": "2020-12-28 14:34:56",
+      "block": false,
       "translator_id": 92,
-      "quality": "TS"
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1334847.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Убежище",
@@ -1198,52 +1238,6 @@
             16,
             17,
             18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Вселенная Стивена",
-      "title_en": "Steven Universe",
-      "year": 2013,
-      "kinopoisk_id": 790336,
-      "world_art_id": null,
-      "translator": "многоголосый закадровый",
-      "token": "0b13caf8d88f299ff51652f5c1e7000ca07824758182697257170f513f90c291",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-26 22:37:08",
-      "update_date": "2020-12-26 22:38:22",
-      "block": false,
-      "translator_id": 89,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/790336.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 6,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
           ]
         }
       ]

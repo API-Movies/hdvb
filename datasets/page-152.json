@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Крик 2",
+      "title_en": "Scream 2",
+      "year": 1997,
+      "kinopoisk_id": 3784,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-09 00:26:01",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Крик 2",
+      "title_en": "Scream 2",
+      "year": 1997,
+      "kinopoisk_id": 3784,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-09 00:26:01",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Совсем непрекрасный принц",
+      "title_en": "The Wrong Prince Charming",
+      "year": 2021,
+      "kinopoisk_id": 4294583,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-08 22:04:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
       "title_ru": "Тайный близнец моего мужа",
       "title_en": "The Wrong Husband / My Husband's Evil Twin / My Husband's Secret Twin",
       "year": 2019,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Ученик чародея",
-      "title_en": "The Sorcerer's Apprentice",
-      "year": 2010,
-      "kinopoisk_id": 429739,
-      "type": "movie",
+      "title_ru": "Под прикрытием",
+      "title_en": "Undercover",
+      "year": 2019,
+      "kinopoisk_id": 1252420,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "fa0b2562d18de3488d8345ac36679d63d7af27dcafff26dbd42f729f184e212f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-08 12:13:02",
+      "added_date": "2020-09-08 14:25:04",
+      "update_date": "2020-11-10 09:27:50",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Авария",
-      "title_en": "Breakdown",
-      "year": 1997,
-      "kinopoisk_id": 16113,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-08 12:12:01",
-      "block": false,
-      "translator": "СТС",
-      "translator_id": 16,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ассандира",
-      "title_en": "Assandira",
-      "year": 2020,
-      "kinopoisk_id": 1395423,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-08 02:47:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "DVDRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1252420.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Цена лжи",
@@ -1180,38 +1216,6 @@
             18,
             19,
             20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Лунная база 8",
-      "title_en": "Moonbase 8",
-      "year": 2020,
-      "kinopoisk_id": 1169853,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "0b8f248b603897e2d28052b72adb50497c706ac15fd725c1a53c6250cb54bdc2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-08 17:24:07",
-      "update_date": "2020-11-08 20:29:16",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1169853.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

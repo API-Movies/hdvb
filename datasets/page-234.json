@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Сила привычки",
+      "title_en": "Tottumiskysymys",
+      "year": 2018,
+      "kinopoisk_id": 1231821,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-13 14:18:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Дичь",
+      "title_en": "Freaky",
+      "year": 2020,
+      "kinopoisk_id": 1313205,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-13 14:15:01",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Гренландия",
+      "title_en": "Greenland",
+      "year": 2020,
+      "kinopoisk_id": 1164520,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-13 14:09:02",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Свадьба в Нью-Йорке на Рождество",
       "title_en": "A New York Christmas Wedding",
       "year": 2020,
@@ -222,43 +261,119 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Прошлое",
-      "title_en": "The Bygone",
-      "year": 2019,
-      "kinopoisk_id": 1039457,
-      "type": "movie",
+      "title_ru": "Приключения Кота в сапогах",
+      "title_en": "The Adventures of Puss in Boots",
+      "year": 2015,
+      "kinopoisk_id": 882258,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "2fad86421628e5c56a241eb35d0cc3e7210ea74df3bb3ece4d4b9ab0a11997dc",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-12 18:51:01",
+      "added_date": "2020-07-08 09:39:14",
+      "update_date": "2020-08-05 09:20:53",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Морг",
-      "title_en": "Morgue",
-      "year": 2020,
-      "kinopoisk_id": 1306639,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-12 16:36:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Атлантида",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1301687,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-12 15:04:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/882258.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Bandish Bandits",
@@ -1381,40 +1496,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Неслучайная встреча",
-      "title_en": "",
-      "year": 2014,
-      "kinopoisk_id": 815133,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "406e4837b5b18b39bc90bd919c240be46ca26ce574322d5a3da33078dac5adb9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-04 00:46:53",
-      "update_date": "2020-08-04 00:48:07",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/815133.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Копытное",
+      "title_en": "The Ungulate",
+      "year": 2019,
+      "kinopoisk_id": 1215848,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-11 14:02:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Перегрузка",
+      "title_en": "G-Loc",
+      "year": 2020,
+      "kinopoisk_id": 1246783,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-11 14:01:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Только правда",
+      "title_en": "The Whole Truth",
+      "year": 2015,
+      "kinopoisk_id": 824402,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-11 06:23:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Рэйк",
       "title_en": "",
       "year": 2019,
@@ -222,43 +261,32 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Вместе",
-      "title_en": "Together",
-      "year": 2020,
-      "kinopoisk_id": 1006079,
-      "type": "movie",
+      "title_ru": "Рок-н-ролл",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 5678543,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "9536db717b57a7614bafbe3f0051f22e035b09e67624e0f59aeedd5f7edf6aa5",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-11 01:49:02",
+      "added_date": "2020-01-08 02:27:52",
+      "update_date": "2020-01-08 02:27:52",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Улицы Синдиката, Огайо",
-      "title_en": "Streets of Syndicate / Streets of Syndicate Ohio / The Edge of Indolence",
-      "year": 2020,
-      "kinopoisk_id": 1072469,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-11 01:46:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сувениры",
-      "title_en": "Souvenirs",
-      "year": 2020,
-      "kinopoisk_id": 1283681,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-11 01:44:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/5678543.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Кремниевая долина",
@@ -966,42 +994,6 @@
       "translator_id": 115,
       "quality": "WEB-DL",
       "poster": "https://st.kp.yandex.net/images/film_big/1328045.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Цепляясь за Лед",
-      "title_en": "Spinning Out",
-      "year": 2020,
-      "kinopoisk_id": 1202056,
-      "world_art_id": null,
-      "translator": "Дубляж [Лицензия]",
-      "token": "adce850bc12a81151e0fb16ba1eabb1f3093ca7c8cc5102a7dde6c36783dbeff",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-01 19:08:33",
-      "update_date": "2020-01-01 19:08:33",
-      "block": false,
-      "translator_id": 107,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1202056.jpg",
       "trailer": "",
       "serial_episodes": [
         {

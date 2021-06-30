@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "С Рождеством, папа",
+      "title_en": "Feliz NaviDAD",
+      "year": 2020,
+      "kinopoisk_id": 1401600,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-07 18:08:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Кувшинковый ягуар",
+      "title_en": "Waterlily Jaguar",
+      "year": 2018,
+      "kinopoisk_id": 1025602,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-07 18:07:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Имперский синий",
+      "title_en": "Imperial Blue",
+      "year": 2019,
+      "kinopoisk_id": 1039012,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-07 18:06:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Королевская помолвка на рождество",
       "title_en": "A Royal Christmas Engagement",
       "year": 2020,
@@ -222,43 +261,56 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Три попытки",
-      "title_en": "Thre3bound",
-      "year": 2019,
-      "kinopoisk_id": 872631,
-      "type": "movie",
+      "title_ru": "Тайны и ложь",
+      "title_en": "Secrets and Lies",
+      "year": 2015,
+      "kinopoisk_id": 838492,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "60fdc768066500861e6b5285530ee0513887c6ab5c371f0f88162441760aab84",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-06 17:32:01",
+      "added_date": "2021-02-03 21:01:15",
+      "update_date": "2021-02-03 21:02:28",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Выгульщик собак",
-      "title_en": "The Dog Walker",
-      "year": 2019,
-      "kinopoisk_id": 1052557,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-06 17:31:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Транжира",
-      "title_en": "Prodigal",
-      "year": 2019,
-      "kinopoisk_id": 1235418,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-06 17:30:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/838492.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Покажите мне героя",
@@ -1405,48 +1457,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Врач Ё-хан",
-      "title_en": "Uisa Yohan",
-      "year": 2019,
-      "kinopoisk_id": 1255126,
-      "world_art_id": null,
-      "translator": "SoftBox",
-      "token": "53afd1439d11619fee9de84acbfe77887331050d33300f63bdb79832ed254d37",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-02 22:11:52",
-      "update_date": "2021-02-02 22:13:03",
-      "block": false,
-      "translator_id": 106,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1255126.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
           ]
         }
       ]

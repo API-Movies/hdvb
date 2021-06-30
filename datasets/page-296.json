@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Неожиданно с тобой",
+      "title_en": "Unexpectedly Yours",
+      "year": 2017,
+      "kinopoisk_id": 76589574,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-08 21:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Он. Она. И другой",
+      "title_en": "Her. Him. The Other",
+      "year": 2018,
+      "kinopoisk_id": 1101357,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-08 21:45:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Джим Джефферис: Нетерпимый",
+      "title_en": "Jim Jefferies: Intolerant",
+      "year": 2020,
+      "kinopoisk_id": 1391084,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-08 21:44:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Истории Манто",
       "title_en": "Mantostaan",
       "year": 2017,
@@ -222,43 +261,34 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Человек, который удивил всех",
-      "title_en": "The Man Who Surprised Everyone",
-      "year": 2018,
-      "kinopoisk_id": 1176159,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-08 09:22:01",
-      "block": false,
+      "title_ru": "Погружение",
+      "title_en": "",
+      "year": 2013,
+      "kinopoisk_id": 783193,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "cf24b5be4410fa7445f98269a15d4aecd0ed88db64a1500946a86cd5ce386349",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-30 23:14:54",
+      "update_date": "2020-04-30 23:14:54",
+      "block": false,
       "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Молот",
-      "title_en": "The Hammer / Heart, Baby",
-      "year": 2017,
-      "kinopoisk_id": 954916,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-07 23:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "DVDRip"
-    },
-    {
-      "title_ru": "Прорыв мутантов / Мутантский взрыв",
-      "title_en": "Mutant Blast",
-      "year": 2018,
-      "kinopoisk_id": 781776,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-07 23:18:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/783193.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Последнее королевство",
@@ -1270,36 +1300,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сильнее огня",
-      "title_en": "",
-      "year": 2007,
-      "kinopoisk_id": 299041,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "e0fb5c1bbbfa807f03bacd3bdbc5926d20da7c25326dfab3b29f83e1d4a019db",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-27 23:59:56",
-      "update_date": "2020-04-27 23:59:56",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/299041.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

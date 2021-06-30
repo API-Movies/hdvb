@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Похить меня!",
+      "title_en": "Kidnap Me",
+      "year": 2017,
+      "kinopoisk_id": 854837,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-23 05:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ctrl+Alt+Хэллоуин",
+      "title_en": "Ctrl+Alt+Trick/Treat",
+      "year": 2020,
+      "kinopoisk_id": 13374176,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-23 05:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Карнавал горя",
+      "title_en": "Carnival of Sorrows",
+      "year": 2018,
+      "kinopoisk_id": 839166,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-23 05:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Апрельские цветы",
       "title_en": "April Flowers",
       "year": 2017,
@@ -222,43 +261,43 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Нелли Рапп: агент чудовищ",
-      "title_en": "Nelly Rapp - Monsteragent",
-      "year": 2020,
-      "kinopoisk_id": 1324538,
-      "type": "movie",
+      "title_ru": "Голубка",
+      "title_en": "Guvercin",
+      "year": 2019,
+      "kinopoisk_id": 1316421,
+      "world_art_id": null,
+      "translator": "одноголосый закадровый",
+      "token": "70572d8f00ae397b571b309aa9a5ab54145491fc69778c1149d7f31b9530cf08",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-22 02:15:01",
+      "added_date": "2020-08-12 05:00:41",
+      "update_date": "2020-08-12 05:04:38",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Афера по-голливудски",
-      "title_en": "The Comeback Trail",
-      "year": 2020,
-      "kinopoisk_id": 995474,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-22 02:14:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Инферно Габриеля",
-      "title_en": "Gabriel's Inferno (Gabriel's Inferno: Part III)",
-      "year": 2020,
-      "kinopoisk_id": 11316854,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-22 02:13:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 93,
+      "quality": "WEBRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1316421.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Скажи, что ты видела",
@@ -1129,42 +1168,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Волшебники: Истории Аркадии",
-      "title_en": "Wizards",
-      "year": 2020,
-      "kinopoisk_id": 1113118,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "00db0d961c1384dcc4d33242d53bc153f8d36243434a1fd846592eb640fb4e71",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-07 16:16:36",
-      "update_date": "2020-08-10 16:18:21",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1113118.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Воронье гнездо",
+      "title_en": "Ravenstein",
+      "year": 2020,
+      "kinopoisk_id": 1392183,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-31 01:14:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Контактер",
+      "title_en": "Contactee",
+      "year": 2020,
+      "kinopoisk_id": 1051824,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-31 01:13:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Денежные отношения",
+      "title_en": "Cash Nexus",
+      "year": 2020,
+      "kinopoisk_id": 1156689,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-31 01:08:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Затуманенный взгляд",
       "title_en": "Blurred Vision / Tågesyn",
       "year": 2019,
@@ -222,43 +261,48 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Черри возвращается",
-      "title_en": "Na nian xia tian ni qu le na li",
-      "year": 2016,
-      "kinopoisk_id": 1022656,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-29 22:40:02",
-      "block": false,
+      "title_ru": "Час",
+      "title_en": "The Hour",
+      "year": 2011,
+      "kinopoisk_id": 574433,
+      "world_art_id": null,
       "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Приглашение",
-      "title_en": "Nimtoh",
-      "year": 2019,
-      "kinopoisk_id": 13543656,
-      "type": "movie",
+      "token": "9bb67584479d76216b0eed3fd3218e4e580655897f5aa74b17c0386c38a28576",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-29 22:39:01",
+      "added_date": "2020-04-05 16:21:21",
+      "update_date": "2020-04-05 16:21:21",
       "block": false,
-      "translator": "Профессиональный (многоголосый)",
       "translator_id": 126,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Довод",
-      "title_en": "Tenet",
-      "year": 2020,
-      "kinopoisk_id": 1236063,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-29 22:36:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "TS"
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/574433.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Детективное агентство «Лунный свет»",
@@ -1079,121 +1123,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Особо тяжкие преступления",
-      "title_en": "Major Crimes",
-      "year": 2012,
-      "kinopoisk_id": 676333,
-      "world_art_id": null,
-      "translator": "DreamRecords",
-      "token": "5e08f011ae483bd64d78d25bb242723badb393001e0c608e8071269438ab22b8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-04 00:12:15",
-      "update_date": "2020-04-04 00:12:15",
-      "block": false,
-      "translator_id": 22,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/676333.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 19,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 19,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 23,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23
           ]
         }
       ]

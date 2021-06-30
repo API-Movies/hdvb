@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Обратная сторона тени",
+      "title_en": "Eiri",
+      "year": 2019,
+      "kinopoisk_id": 1316567,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-20 22:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Осторожно, мать",
+      "title_en": "Beware of Mom",
+      "year": 2020,
+      "kinopoisk_id": 1400548,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-20 22:33:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Марионетка",
+      "title_en": "Marionette",
+      "year": 2020,
+      "kinopoisk_id": 1166326,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-20 20:45:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Окей! Мадам",
       "title_en": "Ok! Madam",
       "year": 2019,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Жизнь Раз",
-      "title_en": "",
+      "title_ru": "Стыд. Италия",
+      "title_en": "SKAM Italia",
       "year": 2018,
-      "kinopoisk_id": 1115833,
-      "type": "movie",
+      "kinopoisk_id": 1142549,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "41b9d680a51a734a23173d2d02052e382e3ddb9c91498bd5a773334c895cfbd3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-19 11:38:01",
+      "added_date": "2020-05-16 19:16:33",
+      "update_date": "2020-05-16 19:16:33",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Шугалей 2",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1392589,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-19 08:53:02",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Перепало?",
-      "title_en": "T'as pécho?",
-      "year": 2020,
-      "kinopoisk_id": 1391217,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-18 23:32:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1142549.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Смерть в объективе",
@@ -1292,73 +1328,6 @@
             5,
             6,
             7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Маргинал",
-      "title_en": "El marginal",
-      "year": 2016,
-      "kinopoisk_id": 1048038,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "dbb5bc7033c65b4c7dac10bb9dd26f299cc9647f21b52150c0a66ef862e41f1c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-15 22:58:20",
-      "update_date": "2020-05-15 22:58:20",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1048038.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

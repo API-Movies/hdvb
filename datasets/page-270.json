@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Зависимость",
+      "title_en": "Habit",
+      "year": 2017,
+      "kinopoisk_id": 981012,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-08 02:49:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Золотые выходы",
+      "title_en": "Golden Exits",
+      "year": 2017,
+      "kinopoisk_id": 976295,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-08 02:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Убийца парня",
+      "title_en": "Boyfriend Killer",
+      "year": 2017,
+      "kinopoisk_id": 969826,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-08 02:47:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Эмо, мюзикл",
       "title_en": "EMO the Musical",
       "year": 2016,
@@ -222,43 +261,122 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Богатые дети / Немыслимо",
-      "title_en": "Caretakers / Unthinkable",
-      "year": 2020,
-      "kinopoisk_id": 766142,
-      "type": "movie",
+      "title_ru": "Нация Z",
+      "title_en": "Z Nation",
+      "year": 2014,
+      "kinopoisk_id": 841371,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "b138088abb6905ba30d930c3d7f093a55882d700ecab0ccbd4d25b0ee445ee77",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-08 01:37:02",
+      "added_date": "2020-06-12 10:41:13",
+      "update_date": "2020-06-12 10:41:13",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Под конТРОЛЛЕМ",
-      "title_en": "Trolls World / Under ConTROLL",
-      "year": 2020,
-      "kinopoisk_id": 789324,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-08 01:33:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мир полон тайн",
-      "title_en": "The World is Full of Secrets",
-      "year": 2019,
-      "kinopoisk_id": 1203466,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-08 01:31:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/841371.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=106319",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Анка с Молдаванки",
@@ -1406,42 +1524,6 @@
       "serial_episodes": [
         {
           "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Зомби-реальность",
-      "title_en": "Reality Z",
-      "year": 2020,
-      "kinopoisk_id": 1265480,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "a7e205c3d40a593ad6f54927a911126ed7e6cc1f45a85469b7af081fdc6b14ee",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-11 09:07:45",
-      "update_date": "2020-06-11 09:07:45",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1265480.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 10,
           "episodes": [
             1,

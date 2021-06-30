@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Положитесь на Пита",
+      "title_en": "Lean on Pete",
+      "year": 2017,
+      "kinopoisk_id": 991635,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-31 05:08:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Неистовый",
+      "title_en": "Unhinged",
+      "year": 2020,
+      "kinopoisk_id": 1264589,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-30 22:44:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Жизнь с коронавирусом: Ответы на вопросы",
+      "title_en": "Déconfinement, vivre avec le virus: posez toutes vos questions!",
+      "year": 2020,
+      "kinopoisk_id": 46756856,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-30 14:13:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Время любить",
       "title_en": "ConneXion intime",
       "year": 2019,
@@ -222,43 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Освобождённый",
-      "title_en": "Unbound",
-      "year": 2020,
-      "kinopoisk_id": 983806,
-      "type": "movie",
+      "title_ru": "Играть по-крупному",
+      "title_en": "Playing for Keeps",
+      "year": 2019,
+      "kinopoisk_id": 1172823,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "f1ef08d2664e14deafe1a57b8685e3b47c6390b6c0729c96d9577c980e070b1a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-29 23:45:02",
+      "added_date": "2019-11-05 00:33:25",
+      "update_date": "2019-11-05 00:33:25",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Вирен",
-      "title_en": "Wiren",
-      "year": 2020,
-      "kinopoisk_id": 123213213,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-29 23:44:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Пепел",
-      "title_en": "Ash",
-      "year": 2020,
-      "kinopoisk_id": 1075566,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-29 20:52:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 15,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1172823.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Энн",
@@ -1271,93 +1305,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Проповедник",
-      "title_en": "Preacher",
-      "year": 2016,
-      "kinopoisk_id": 461353,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "d40ab23058fa7e3b6502e89289fea836065a5ae4e59c9b82d8d7da2cb7f68285",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-31 20:25:43",
-      "update_date": "2019-10-31 20:25:43",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/461353.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=129134",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

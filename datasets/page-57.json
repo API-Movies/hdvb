@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Мой учитель-осьминог",
+      "title_en": "My Octopus Teacher",
+      "year": 2020,
+      "kinopoisk_id": 1405676,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-30 14:56:01",
+      "block": false,
+      "translator": "одноголосый закадровый",
+      "translator_id": 93,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Год, который изменил Землю",
+      "title_en": "Das Jahr, das unsere Erde veränderte",
+      "year": 2021,
+      "kinopoisk_id": 14372240,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-30 14:29:01",
+      "block": false,
+      "translator": "HDrezka Studio",
+      "translator_id": 33,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Поворотники",
+      "title_en": "Blinkers",
+      "year": 2019,
+      "kinopoisk_id": 1171396,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-30 14:26:01",
+      "block": false,
+      "translator": "одноголосый закадровый",
+      "translator_id": 93,
+      "quality": "HDTVRip"
+    },
+    {
       "title_ru": "Поколение Вояджер",
       "title_en": "Voyagers",
       "year": 2021,
@@ -222,43 +261,42 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Тьма: Монстры за поворотом",
-      "title_en": "Shortcut",
-      "year": 2020,
-      "kinopoisk_id": 1217509,
-      "type": "movie",
+      "title_ru": "Красная дверь",
+      "title_en": "La porta rossa",
+      "year": 2017,
+      "kinopoisk_id": 1110987,
+      "world_art_id": null,
+      "translator": "ShowJet",
+      "token": "81f0e1794a7fdc2fe4a853d4e6544ed07ae80cfe7e03ee59644b827ce857590f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-29 22:49:01",
+      "added_date": "2020-11-28 21:42:20",
+      "update_date": "2021-03-13 15:38:53",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Руфус: Хроники волшебной страны",
-      "title_en": "Adventures of Rufus: the Fantastic Pet",
-      "year": 2020,
-      "kinopoisk_id": 1256065,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-29 22:48:01",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Летнее приключение",
-      "title_en": "Technicolour Daydream (Summer Daydream)",
-      "year": 2021,
-      "kinopoisk_id": 4940526,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-29 13:36:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 125,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1110987.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Участок 9-9",
@@ -1292,65 +1330,6 @@
             9,
             10,
             11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Блудный сын",
-      "title_en": "Prodigal Son",
-      "year": 2019,
-      "kinopoisk_id": 1263501,
-      "world_art_id": null,
-      "translator": "Novamedia",
-      "token": "9a710f2c0bce8f0206a79e2670f0f1c07623cb99de36a902c2da7ddde668a93c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-13 10:04:33",
-      "update_date": "2021-03-12 13:13:22",
-      "block": false,
-      "translator_id": 51,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1263501.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
           ]
         }
       ]

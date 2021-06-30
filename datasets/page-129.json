@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Кактус Джек",
+      "title_en": "Cactus Jack",
+      "year": 2021,
+      "kinopoisk_id": 1203148,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-26 11:09:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Больше никогда",
+      "title_en": "Never and Again",
+      "year": 2021,
+      "kinopoisk_id": 1311434,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-26 11:08:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Отпуск на Марсе",
+      "title_en": "In vacanza su Marte",
+      "year": 2020,
+      "kinopoisk_id": 1396140,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-26 11:07:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Кайна",
       "title_en": "Caina",
       "year": 2020,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Потерянные и ищущие",
-      "title_en": "Lost &amp; Striving",
-      "year": 2021,
-      "kinopoisk_id": 13806204,
-      "type": "movie",
+      "title_ru": "Большой рот",
+      "title_en": "Big Mouth",
+      "year": 2017,
+      "kinopoisk_id": 1047509,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "ec14deedacde42d48ca3ea77eed3dbd5fe795483f2744a2aa0429536b4712b5f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-25 23:59:01",
+      "added_date": "2020-12-05 08:35:58",
+      "update_date": "2020-12-06 09:29:43",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Свидетель",
-      "title_en": "IMThem",
-      "year": 2021,
-      "kinopoisk_id": 1322151,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-25 23:57:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Тёмные фигуры",
-      "title_en": "Dark Figures",
-      "year": 2020,
-      "kinopoisk_id": 1174422,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-25 23:56:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1047509.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Две девицы на мели",
@@ -1712,36 +1748,6 @@
             12,
             13,
             14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дом с чёрными котами",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1115666,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "c0a2f1706e1f3f5f97bf7f21b9566aa616c358eb631b0857a81aa96700837541",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-05 17:33:59",
-      "update_date": "2020-12-05 17:35:27",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1115666.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

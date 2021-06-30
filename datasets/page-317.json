@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Селеста",
+      "title_en": "Celeste",
+      "year": 2018,
+      "kinopoisk_id": 1055379,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-20 22:44:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Невезуха",
+      "title_en": "Bad Break",
+      "year": 2020,
+      "kinopoisk_id": 45654745,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-20 22:43:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Лучшие Комптона",
+      "title_en": "Compton's Finest",
+      "year": 2020,
+      "kinopoisk_id": 1032472,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-20 22:41:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Талант на неприятности",
       "title_en": "A Talent for Trouble",
       "year": 2018,
@@ -222,43 +261,41 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Дорожки",
-      "title_en": "Tracks",
+      "title_ru": "Кровавые Новички",
+      "title_en": "Blutige Anfänger",
       "year": 2020,
-      "kinopoisk_id": 1022809,
-      "type": "movie",
+      "kinopoisk_id": 1281301,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "95288f54a9d2cef2bf1b81bfc196e8740ef1690cc376f1c239291c8d7b6728d4",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-19 00:41:01",
+      "added_date": "2020-02-18 20:58:27",
+      "update_date": "2020-02-18 20:58:27",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Побег: Головоломка страха",
-      "title_en": "Escape: Puzzle of Fear",
-      "year": 2020,
-      "kinopoisk_id": 1063690,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-18 23:19:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Демоны внутри меня",
-      "title_en": "Jade's Asylum / Demons Inside Me",
-      "year": 2019,
-      "kinopoisk_id": 1200807,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-18 23:18:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1281301.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Всё или ничего: Филадельфия Игл",
@@ -925,45 +962,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Явление",
-      "title_en": "Emergence",
-      "year": 2019,
-      "kinopoisk_id": 1246237,
-      "world_art_id": null,
-      "translator": "Кириллица",
-      "token": "73c5551f3e3727322ff67cfffa6b28397df9d43efbc5eab36053d571244f2be7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-14 10:42:46",
-      "update_date": "2020-02-14 10:42:46",
-      "block": false,
-      "translator_id": 123,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1246237.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

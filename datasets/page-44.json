@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Убить дракона",
+      "title_en": "Matar al dragon",
+      "year": 2019,
+      "kinopoisk_id": 1205606,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-12 21:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Зидан Адамс: Чёрный Блоггер",
+      "title_en": "Zidane Adams: The Black Blogger!",
+      "year": 2021,
+      "kinopoisk_id": 1335237,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-12 21:29:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Капсула времени",
+      "title_en": "The Time Capsule",
+      "year": 2018,
+      "kinopoisk_id": 992552,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-12 21:28:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Свингеры",
       "title_en": "Swingers",
       "year": 2018,
@@ -222,43 +261,42 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Спасти дочь",
-      "title_en": "Double Kidnapped",
-      "year": 2021,
-      "kinopoisk_id": 1398090,
-      "type": "movie",
+      "title_ru": "Великая",
+      "title_en": "",
+      "year": 2015,
+      "kinopoisk_id": 780306,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "c4861a6a196a0619a6c71ee37a1ff650e39b1cbad03862c77636f2dc519492da",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-12 03:28:01",
+      "added_date": "2021-04-05 17:37:01",
+      "update_date": "2021-04-05 17:41:12",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Введение в детективы: Убийственное совпадение",
-      "title_en": "Killer Timing",
-      "year": 2021,
-      "kinopoisk_id": 13582526,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-12 03:27:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Кьеу",
-      "title_en": "Kieu",
-      "year": 2021,
-      "kinopoisk_id": 14372330,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-12 03:24:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/780306.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "С прицепом",
@@ -998,62 +1036,6 @@
             12,
             13,
             14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Лучшие враги",
-      "title_en": "",
-      "year": 2014,
-      "kinopoisk_id": 734905,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "6adfba7f0277981484bb400830beec5d9defee72f56d1ca13e1e6be11ac6a2ad",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-03 20:06:41",
-      "update_date": "2021-04-03 20:07:26",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/734905.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 30,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30
           ]
         }
       ]

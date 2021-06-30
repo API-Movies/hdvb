@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Человек в капюшоне",
+      "title_en": "Hoodman",
+      "year": 2021,
+      "kinopoisk_id": 14403632,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-03 16:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Выход",
+      "title_en": "Eksiteu",
+      "year": 2019,
+      "kinopoisk_id": 1118187,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-02 20:01:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Ритуал зомби",
+      "title_en": "Zombi Ritual",
+      "year": 2020,
+      "kinopoisk_id": 67535945,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-02 16:39:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Невеста +1",
       "title_en": "Bride+1",
       "year": 2019,
@@ -222,43 +261,77 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "БЕДНЫЕ ДЕТИ",
-      "title_en": "Blue Kids",
-      "year": 2017,
-      "kinopoisk_id": 1003586,
-      "type": "movie",
+      "title_ru": "Наша девочка",
+      "title_en": "Our Girl",
+      "year": 2014,
+      "kinopoisk_id": 841112,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "5dcac7c805e180568ee2a8fde4df197269a8a91f5a8d671ef6f213d7517dc386",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-01 20:41:01",
+      "added_date": "2021-03-18 17:24:05",
+      "update_date": "2021-03-18 17:24:54",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Три пинты пива и раввин",
-      "title_en": "Three Pints and a Rabbi",
-      "year": 2021,
-      "kinopoisk_id": 1303645,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-01 20:39:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мой парень — пророк",
-      "title_en": "Anthem of a Teenage Prophet",
-      "year": 2018,
-      "kinopoisk_id": 1003660,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-01 20:39:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/841112.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Сельский детектив. Кровь рифмуется с любовью",
@@ -1230,42 +1303,6 @@
             9,
             10,
             11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мечты на льду",
-      "title_en": "Zero Chill",
-      "year": 2021,
-      "kinopoisk_id": 1368038,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "6cdfb3edd9f23de9d3929ccdb514d7a452f8dffe310f3027c6bf33bdff33db38",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-16 12:26:33",
-      "update_date": "2021-03-16 12:28:57",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1368038.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

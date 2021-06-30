@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Призраки замка Маргам",
+      "title_en": "The Haunting of Margam Castle",
+      "year": 2020,
+      "kinopoisk_id": 1293198,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-01 22:56:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Временная Петля / Временные Перспективы",
+      "title_en": "Time Loop / Time Perspectives",
+      "year": 2020,
+      "kinopoisk_id": 1147403,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-01 22:54:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Один день Тома",
+      "title_en": "Tom of Your Life",
+      "year": 2020,
+      "kinopoisk_id": 1077277,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-01 22:53:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Видовс Пойнт",
       "title_en": "Widow's Point",
       "year": 2020,
@@ -222,43 +261,48 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Спецактёры / Актёры особого назначения",
-      "title_en": "Special Actors / Supesharuakutazu",
+      "title_ru": "Нэнси Дрю",
+      "title_en": "Nancy Drew",
       "year": 2019,
-      "kinopoisk_id": 1275005,
-      "type": "movie",
+      "kinopoisk_id": 1264102,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "054442844ea1dda566fca5104758891aeae6eddc3ab64c0239e8c39867d3687d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-01 14:30:02",
+      "added_date": "2020-04-16 12:07:05",
+      "update_date": "2020-04-16 12:07:05",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "",
-      "title_en": "L'amore, il sole e l'altre stelle",
-      "year": 2019,
-      "kinopoisk_id": 766390,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-01 14:29:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "DVDRip"
-    },
-    {
-      "title_ru": "Не входи",
-      "title_en": "The Owners",
-      "year": 2020,
-      "kinopoisk_id": 1251292,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-01 14:27:01",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1264102.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Разрабы",
@@ -1112,40 +1156,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Анна Каренина",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 1043987,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "109e4c88bd627fa9653e7f0032a90e0fd9f7d10f52a83fd1c5b0c0dc7a7fa95c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-13 21:40:31",
-      "update_date": "2020-04-13 21:40:31",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/1043987.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Ночь",
+      "title_en": "The Night / An Shab",
+      "year": 2021,
+      "kinopoisk_id": 1149149,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-05 15:57:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Академия магии",
+      "title_en": "The Academy of Magic",
+      "year": 2020,
+      "kinopoisk_id": 1380563,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-05 15:56:02",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Повитуха",
+      "title_en": "The Midwife",
+      "year": 2021,
+      "kinopoisk_id": 1237131,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-05 13:21:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Обезболивающее",
       "title_en": "Painkiller / Stressed to Kill: Doctor's Orders",
       "year": 2021,
@@ -222,43 +261,36 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Джек Уолкер",
-      "title_en": "Jack Walker",
-      "year": 2021,
-      "kinopoisk_id": 1164429,
-      "type": "movie",
+      "title_ru": "Человек-муравей",
+      "title_en": "Ant-Man",
+      "year": 2017,
+      "kinopoisk_id": 1048101,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "fbf72114f2747fe5b3c16804db4edacd2c4a4ed858073cbeeec578cb9a249335",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-05 00:21:01",
+      "added_date": "2021-03-20 16:25:01",
+      "update_date": "2021-03-20 16:33:30",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Тёмные дела /Тёмное государство",
-      "title_en": "Dark State",
-      "year": 2021,
-      "kinopoisk_id": 13983776,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-05 00:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Данни. Легенда. Бог.",
-      "title_en": "Danny. Legend. God.",
-      "year": 2021,
-      "kinopoisk_id": 1273409,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-05 00:17:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1048101.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Американцы",
@@ -1233,42 +1265,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Американские боги",
-      "title_en": "American Gods",
-      "year": 2017,
-      "kinopoisk_id": 591843,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "f1fc701db6571cb3298976108a9b0e9a229150a42b337ac28cc4427edbcba799",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-11 09:10:14",
-      "update_date": "2021-03-19 18:54:18",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/591843.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=139987",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

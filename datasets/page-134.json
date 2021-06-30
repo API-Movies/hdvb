@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Красота обманчива",
+      "title_en": "Beauty is Skin Deep",
+      "year": 2021,
+      "kinopoisk_id": 1175320,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-21 17:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ржавый ручей",
+      "title_en": "Rust Creek",
+      "year": 2018,
+      "kinopoisk_id": 1039351,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-21 12:50:02",
+      "block": false,
+      "translator": "SDI Media",
+      "translator_id": 60,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Спасите Колю!",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1272474,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-21 09:37:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Нетихая жизнь",
       "title_en": "To Olivia",
       "year": 2021,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Маленькие волшебницы",
-      "title_en": "Sprite Sisters - Vier zauberhafte Schwestern",
-      "year": 2020,
-      "kinopoisk_id": 1189441,
-      "type": "movie",
+      "title_ru": "Шервуд",
+      "title_en": "Sherwood",
+      "year": 2019,
+      "kinopoisk_id": 1245444,
+      "world_art_id": null,
+      "translator": "NewStation",
+      "token": "e0f7abcaa62ae8e40e6f7f1ec496df1bb2b8977089a0e54cf493efda1ca2143d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-20 22:56:02",
+      "added_date": "2020-11-30 17:10:41",
+      "update_date": "2020-11-30 17:12:49",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Аудитория из стульев",
-      "title_en": "An Audience of Chairs",
-      "year": 2018,
-      "kinopoisk_id": 1095891,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-20 19:36:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Гудлэнд",
-      "title_en": "Goodland",
-      "year": 2017,
-      "kinopoisk_id": 945001,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-20 19:35:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
+      "translator_id": 138,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1245444.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Мстители: Всегда вместе",
@@ -1006,40 +1042,6 @@
           "episodes": [
             1,
             2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Испанская принцесса",
-      "title_en": "The Spanish Princess",
-      "year": 2019,
-      "kinopoisk_id": 1151092,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "abc38c5003002b23f0ec8d9877f49da23987e49e11e2567a9d53ff3953cda9b1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-11 22:11:35",
-      "update_date": "2020-11-29 15:58:22",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1151092.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

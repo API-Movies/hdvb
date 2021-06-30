@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Под защитой мамки",
+      "title_en": "Hail Mary Country",
+      "year": 2020,
+      "kinopoisk_id": 1004035,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-29 13:33:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Стена",
+      "title_en": "Muralla",
+      "year": 2018,
+      "kinopoisk_id": 1178985,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-29 13:32:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Оседлай свою мечту",
+      "title_en": "Ride Your Dream",
+      "year": 2020,
+      "kinopoisk_id": 12759310,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-29 13:30:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Макс и Я",
       "title_en": "Max and Me",
       "year": 2020,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Незнакомцы",
-      "title_en": "The Stranger Folk",
-      "year": 2017,
-      "kinopoisk_id": 1133520,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-28 13:58:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Петля",
-      "title_en": "Petla",
-      "year": 2020,
-      "kinopoisk_id": 1400930,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-28 11:24:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Шах и мат",
-      "title_en": "Checkmate / Bystander",
+      "title_ru": "Игры титанов",
+      "title_en": "The Titan Games",
       "year": 2019,
-      "kinopoisk_id": 1029229,
-      "type": "movie",
+      "kinopoisk_id": 7967262,
+      "world_art_id": null,
+      "translator": "GoldTeam",
+      "token": "ca20d8ce8663c596c3184262cd9a0e57ffba142de62bddfffcd3302cf5b265fb",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-28 11:23:01",
+      "added_date": "2020-05-28 08:27:17",
+      "update_date": "2020-05-28 08:27:17",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 141,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/7967262.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Весёлые мелодии: Мультфильмы",
@@ -1114,58 +1150,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Жирным шрифтом",
-      "title_en": "The Bold Type",
-      "year": 2017,
-      "kinopoisk_id": 1043604,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "161c7014f62e14959d5452584c1f7a4f2c399b15014cce6e9a0fa5d6cadf5168",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-25 16:13:18",
-      "update_date": "2020-05-25 16:13:18",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1043604.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140733",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

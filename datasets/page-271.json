@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Богатые дети / Немыслимо",
+      "title_en": "Caretakers / Unthinkable",
+      "year": 2020,
+      "kinopoisk_id": 766142,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-08 01:37:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Под конТРОЛЛЕМ",
+      "title_en": "Trolls World / Under ConTROLL",
+      "year": 2020,
+      "kinopoisk_id": 789324,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-08 01:33:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мир полон тайн",
+      "title_en": "The World is Full of Secrets",
+      "year": 2019,
+      "kinopoisk_id": 1203466,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-08 01:31:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Классика Тайди Тима",
       "title_en": "Tidy Tim's",
       "year": 2020,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Как я стал гангстером. Правдивая история",
-      "title_en": "Jak zostalem gangsterem. Historia prawdziwa",
+      "title_ru": "Зомби-реальность",
+      "title_en": "Reality Z",
       "year": 2020,
-      "kinopoisk_id": 1292336,
-      "type": "movie",
+      "kinopoisk_id": 1265480,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "a7e205c3d40a593ad6f54927a911126ed7e6cc1f45a85469b7af081fdc6b14ee",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-07 01:15:01",
+      "added_date": "2020-06-11 09:07:45",
+      "update_date": "2020-06-11 09:07:45",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Убежище 2: ледяная тропа",
-      "title_en": "Katafigio II: The Ice Path",
-      "year": 2018,
-      "kinopoisk_id": 1033581,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-07 01:13:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Слово Пабло",
-      "title_en": "La Palabra de Pablo",
-      "year": 2020,
-      "kinopoisk_id": 979489,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-07 01:12:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1265480.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "#СвободуРэйшону",
@@ -1547,58 +1583,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ты, Я, Она",
-      "title_en": "You Me Her",
-      "year": 2016,
-      "kinopoisk_id": 982768,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "7cad9eb88cbb8c88c3737c292260cebaf3d44a3c7144539344340d7b70479822",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-09 22:17:41",
-      "update_date": "2020-06-09 22:17:41",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/982768.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

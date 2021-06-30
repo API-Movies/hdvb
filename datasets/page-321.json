@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Велосипедист",
+      "title_en": "Bikeman",
+      "year": 2020,
+      "kinopoisk_id": 1191673,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-15 15:25:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Скалы на краю света",
+      "title_en": "End of the World Rocks",
+      "year": 2020,
+      "kinopoisk_id": 1171270,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-15 15:24:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пи Нак",
+      "title_en": "Pee Nak",
+      "year": 2020,
+      "kinopoisk_id": 1247740,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-15 15:21:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Скажи, что любишь меня",
       "title_en": "Tell Me I Love You",
       "year": 2020,
@@ -222,43 +261,34 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Одна ночь в Бангкоке",
-      "title_en": "One Night in Bangkok",
+      "title_ru": "Падение в мёртвые воды",
+      "title_en": "Deadwater Fell",
       "year": 2020,
-      "kinopoisk_id": 1379620,
-      "type": "movie",
+      "kinopoisk_id": 1283882,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "7016481045d99eae30d74801995091d1d0c7e80140a7586f33ea2628872be4a8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-14 17:06:01",
+      "added_date": "2020-02-01 10:56:10",
+      "update_date": "2020-02-01 10:56:10",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "DVDRip"
-    },
-    {
-      "title_ru": "Отрыв",
-      "title_en": "Spree",
-      "year": 2020,
-      "kinopoisk_id": 1337621,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-14 17:05:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Плыви к золоту",
-      "title_en": "Swimming for Gold",
-      "year": 2020,
-      "kinopoisk_id": 1294490,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-14 17:04:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1283882.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Стрела",
@@ -1175,42 +1205,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Лига Октября",
-      "title_en": "October Faction",
-      "year": 2019,
-      "kinopoisk_id": 1180685,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "1370f7711b02a2fbb0455e93ee06327738d819c78054e5192841b6af20824074",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-27 22:28:45",
-      "update_date": "2020-01-27 22:28:45",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1180685.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

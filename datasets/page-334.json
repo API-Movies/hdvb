@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Моя жизнь",
+      "title_en": "Mi vida",
+      "year": 2020,
+      "kinopoisk_id": 1124283,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-02 23:23:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Тайник",
+      "title_en": "La Caleta",
+      "year": 2020,
+      "kinopoisk_id": 1293782,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-02 23:22:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Быстрее выстрела",
+      "title_en": "Jumping the Gun",
+      "year": 2020,
+      "kinopoisk_id": 1028842,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-02 23:21:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Иррациональный страх",
       "title_en": "Irrational Fear",
       "year": 2017,
@@ -222,43 +261,31 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Убийство в Коритауне",
-      "title_en": "Murder Death Koreatown",
-      "year": 2020,
-      "kinopoisk_id": 78674546,
-      "type": "movie",
+      "title_ru": "Мы не можем учиться!",
+      "title_en": "Bokutachi wa Benkyou ga Dekinai",
+      "year": 2019,
+      "kinopoisk_id": 1262903,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "49cf07554a1bb2d554628214fb0397f45519349413fb4a96b1b3cb7336f0e100",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-01 12:06:01",
+      "added_date": "2019-11-19 10:16:22",
+      "update_date": "2019-11-19 10:16:22",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Искупление",
-      "title_en": "Geula",
-      "year": 2020,
-      "kinopoisk_id": 1171870,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-01 12:04:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Шуба из медведя",
-      "title_en": "Futro z misia",
-      "year": 2020,
-      "kinopoisk_id": 1277253,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-01 12:02:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1262903.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 1,
+          "episodes": [
+            1
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Человек в высоком замке",
@@ -1024,42 +1051,6 @@
       "serial_episodes": [
         {
           "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Лаймтаун",
-      "title_en": "Limetown",
-      "year": 2019,
-      "kinopoisk_id": 1207875,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "7ded03a487a86486c0149fad8e8e96a54332f62754f7dcc41191c762b545bbe5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-14 07:58:54",
-      "update_date": "2019-11-14 07:58:54",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1207875.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 10,
           "episodes": [
             1,

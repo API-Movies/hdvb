@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Дочери Абриль",
+      "title_en": "Las hijas de Abril",
+      "year": 2017,
+      "kinopoisk_id": 1022100,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-04 23:16:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Догоняя кометы",
+      "title_en": "Chasing Comets",
+      "year": 2018,
+      "kinopoisk_id": 1054457,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-04 23:15:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Змея 2",
+      "title_en": "Nakee 2",
+      "year": 2018,
+      "kinopoisk_id": 1210745,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-04 23:13:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Пульс",
       "title_en": "Pulso",
       "year": 2018,
@@ -222,43 +261,32 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Довод",
-      "title_en": "Tenet",
-      "year": 2020,
-      "kinopoisk_id": 1236063,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-04 13:41:01",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Новые мутанты",
-      "title_en": "The New Mutants",
-      "year": 2020,
-      "kinopoisk_id": 910085,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-09-04 13:40:01",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "La boda de Rosa",
+      "title_ru": "Летучая мышь",
       "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1255054,
-      "type": "movie",
+      "year": 1978,
+      "kinopoisk_id": 81428,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "71cf4943f13b962b40c147b0e1e71dcc260f64f52429883f02c6cf7f873db523",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-04 12:34:01",
+      "added_date": "2020-04-21 18:59:37",
+      "update_date": "2020-04-21 18:59:37",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 92,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/81428.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Чародеи",
@@ -884,38 +912,6 @@
             18,
             19,
             20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бэкстрём",
-      "title_en": "Bäckström",
-      "year": 2020,
-      "kinopoisk_id": 1256243,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "2717a77c3bb91cf9a0819c20d49a550e6e2b6fb3db8358e4b13c84dc3138ecc3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-20 17:34:29",
-      "update_date": "2020-04-20 17:34:29",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1256243.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]
