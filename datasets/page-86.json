@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "",
+      "title_en": "Free Spirit",
+      "year": 2019,
+      "kinopoisk_id": 1254496,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-09 14:53:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Страх что-нибудь упустить",
+      "title_en": "FOMO: Fear of Missing Out",
+      "year": 2019,
+      "kinopoisk_id": 1249801,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-09 14:47:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "",
+      "title_en": "Enrico Piaggio - Vespa",
+      "year": 2019,
+      "kinopoisk_id": 1302991,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-09 14:44:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Засуха",
+      "title_en": "Drought",
+      "year": 2020,
+      "kinopoisk_id": 1054483,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-09 14:40:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Тёмная зона 13",
+      "title_en": "Dark Zone Thirteen",
+      "year": 2019,
+      "kinopoisk_id": 1313484,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-09 14:39:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ток",
+      "title_en": "The Power",
+      "year": 2021,
+      "kinopoisk_id": 1294592,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-09 14:35:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Акты возмездия",
+      "title_en": "Acts of Revenge",
+      "year": 2021,
+      "kinopoisk_id": 1347393,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-09 14:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Исход",
       "title_en": "Exodus",
       "year": 2021,
@@ -170,95 +261,134 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Час ведьм",
-      "title_en": "Dark Ditties Presents «The Witching Hour»",
+      "title_ru": "Секс, наркотики и рок-н-ролл",
+      "title_en": "Sex &amp; Drugs &amp; Rock &amp; Roll",
+      "year": 2015,
+      "kinopoisk_id": 839102,
+      "world_art_id": null,
+      "translator": "Newstudio",
+      "token": "45536a15bd9397e0a7a14210f618390bd983d4412d8ba4e560c9b2b2268479fd",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-02 22:14:29",
+      "update_date": "2021-02-02 22:18:42",
+      "block": false,
+      "translator_id": 48,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/839102.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Бешеные псы",
+      "title_en": "Mad Dogs",
+      "year": 2015,
+      "kinopoisk_id": 750448,
+      "world_art_id": null,
+      "translator": "Jaskier",
+      "token": "26e3fc5725e95c2e684fff668ff2faf0953e30a1fbd2047fd1125e58bc54238b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-02 22:13:21",
+      "update_date": "2021-02-02 22:14:55",
+      "block": false,
+      "translator_id": 36,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/750448.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Врач Ё-хан",
+      "title_en": "Uisa Yohan",
       "year": 2019,
-      "kinopoisk_id": 1163597,
-      "type": "movie",
+      "kinopoisk_id": 1255126,
+      "world_art_id": null,
+      "translator": "SoftBox",
+      "token": "53afd1439d11619fee9de84acbfe77887331050d33300f63bdb79832ed254d37",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-08 17:18:01",
+      "added_date": "2021-02-02 22:11:52",
+      "update_date": "2021-02-02 22:13:03",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Аруах",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1263420,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-08 10:10:02",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Помощница",
-      "title_en": "Assistant",
-      "year": 2021,
-      "kinopoisk_id": 14064840,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-08 09:24:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Взаперти",
-      "title_en": "Stay",
-      "year": 2021,
-      "kinopoisk_id": 1418281,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-08 09:22:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Шестое чувство",
-      "title_en": "Making Sense",
-      "year": 2020,
-      "kinopoisk_id": 1331655,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-08 09:20:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Трина, давай",
-      "title_en": "Tryna Come Up",
-      "year": 2020,
-      "kinopoisk_id": 12673240,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-07 23:46:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Побег",
-      "title_en": "The Sneak Over",
-      "year": 2020,
-      "kinopoisk_id": 1342200,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-07 23:45:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 106,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1255126.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Общественная мораль",
@@ -1021,130 +1151,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Джекил и Хайд",
-      "title_en": "Jekyll &amp; Hyde",
-      "year": 2015,
-      "kinopoisk_id": 939795,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "b54cb75159f424a3b0eecf6893290858ab14b1d8ce4580d31346025c1ee3d4fe",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-01 22:42:06",
-      "update_date": "2021-02-01 22:43:32",
-      "block": false,
-      "translator_id": 48,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/939795.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сверхспособности",
-      "title_en": "Powers",
-      "year": 2015,
-      "kinopoisk_id": 589079,
-      "world_art_id": null,
-      "translator": "Jaskier",
-      "token": "0fb5beac154048d755a28aa92ddaa270dfc134b771002e724f56b50672249200",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-01 22:41:11",
-      "update_date": "2021-02-01 22:42:33",
-      "block": false,
-      "translator_id": 36,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/589079.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кровь и нефть",
-      "title_en": "Blood and Oil",
-      "year": 2015,
-      "kinopoisk_id": 900740,
-      "world_art_id": null,
-      "translator": "Amedia",
-      "token": "ab87be6fefd9c3f3d48c8e4f99848c21f94a476265bc78810bcd6ded2674acf6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-01 22:40:04",
-      "update_date": "2021-02-01 22:41:51",
-      "block": false,
-      "translator_id": 7,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/900740.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

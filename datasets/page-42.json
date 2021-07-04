@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Восемь сотен / Восемьсот",
+      "title_en": "Ba bai / The Eight Hundred",
+      "year": 2020,
+      "kinopoisk_id": 1118110,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-20 12:03:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Турист",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4446084,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-20 09:39:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "SATRip"
+    },
+    {
+      "title_ru": "Три билета до Парадайса",
+      "title_en": "3 Tickets to Paradise",
+      "year": 2021,
+      "kinopoisk_id": 756631,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-19 14:33:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Якудза и семья",
+      "title_en": "Yakuza to Kazoku The Family",
+      "year": 2021,
+      "kinopoisk_id": 1402681,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-19 14:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Без Грэйс",
+      "title_en": "Without Grace",
+      "year": 2021,
+      "kinopoisk_id": 901203,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-19 14:31:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Новый порядок",
+      "title_en": "Nuevo orden",
+      "year": 2020,
+      "kinopoisk_id": 1390940,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-19 14:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Лодочница",
+      "title_en": "La botera",
+      "year": 2019,
+      "kinopoisk_id": 1376174,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-19 14:29:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Ферри",
       "title_en": "Ferry",
       "year": 2021,
@@ -170,95 +261,98 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Каждый твой вдох",
-      "title_en": "Every Breath You Take",
-      "year": 2021,
-      "kinopoisk_id": 689884,
-      "type": "movie",
+      "title_ru": "Опыт реконструкции",
+      "title_en": "",
+      "year": 2014,
+      "kinopoisk_id": 1043449,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "33536ae8cfb041fec39ffb26e76718a85eb970059c67275d76751ba13202c02b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-18 11:17:01",
+      "added_date": "2021-04-12 03:05:02",
+      "update_date": "2021-04-12 03:08:24",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1043449.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Sheena667",
+      "title_ru": "Ловушка для королевы",
       "title_en": "",
       "year": 2019,
-      "kinopoisk_id": 1227958,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-18 09:35:01",
-      "block": false,
+      "kinopoisk_id": 1278017,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "86c333c24d40a2510de846b334c670fe9a35b647ab1860bb39c61da97453f5da",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-04-12 03:05:31",
+      "update_date": "2021-04-12 03:07:42",
+      "block": false,
       "translator_id": 92,
-      "quality": "WEB-DL"
+      "quality": "WEB-DL",
+      "poster": "https://img.imgilall.me/movies/franchise/9/5/8/7/0/0/0/0/0/0/610x900_9587.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Камнедробилка",
-      "title_en": "The Stonebreaker / Spaccapietre",
-      "year": 2020,
-      "kinopoisk_id": 1395396,
-      "type": "movie",
+      "title_ru": "Хрустальное счастье",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 77000456,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "14802a3fa8669d3fc67d5689f9a146cb08334a46cdd9de61ad5c2612ce0bf2f0",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-18 00:45:01",
+      "added_date": "2021-04-10 19:46:20",
+      "update_date": "2021-04-12 03:05:22",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Экзорцизм в Амарилло",
-      "title_en": "The Exorcism in Amarillo",
-      "year": 2020,
-      "kinopoisk_id": 12906778,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-18 00:44:05",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Куклы-убийцы Чёрного солнца",
-      "title_en": "Sikkfukks: The Black Sun Snuff Dolls",
-      "year": 2019,
-      "kinopoisk_id": 1224930,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-18 00:43:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Розовый туман",
-      "title_en": "Pink Opaque",
-      "year": 2020,
-      "kinopoisk_id": 1283684,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-18 00:42:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Атмосфера в офисе",
-      "title_en": "Office Air",
-      "year": 2020,
-      "kinopoisk_id": 1089218,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-18 00:41:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/77000456.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            1,
+            2,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Дикарки",
@@ -1051,120 +1145,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Никогда не бывает поздно",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1268351,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "c1d28ec799d8d84628758b942905b0f7be646a5e9a9313908a4162f92b881ff1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-10 19:39:16",
-      "update_date": "2021-04-10 19:41:00",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1268351.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Вайнона Эрп",
-      "title_en": "Wynonna Earp",
-      "year": 2016,
-      "kinopoisk_id": 957825,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "25627b6c79471e6f00a71c08cf818a0f37c270c3fbb6b940eefdba222cba9755",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-27 22:17:16",
-      "update_date": "2021-04-10 12:24:47",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/957825.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мыслить как преступник",
-      "title_en": "Keurimineol maindeu",
-      "year": 2017,
-      "kinopoisk_id": 1033099,
-      "world_art_id": null,
-      "translator": "SoftBox",
-      "token": "428818d02f5d71fccb619c5dd4e7b3b32a31696599f8d24bd574f647c0794eb5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-10 11:10:52",
-      "update_date": "2021-04-10 11:12:26",
-      "block": false,
-      "translator_id": 106,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1033099.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
           ]
         }
       ]

@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Довод",
+      "title_en": "Tenet",
+      "year": 2020,
+      "kinopoisk_id": 1236063,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-15 07:07:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Пассажир",
+      "title_en": "The Passenger",
+      "year": 2020,
+      "kinopoisk_id": 1285592,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-15 00:33:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Бараны",
+      "title_en": "Rams",
+      "year": 2020,
+      "kinopoisk_id": 1179488,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-15 00:30:01",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Похититель душ",
+      "title_en": "Chi hu shu sheng",
+      "year": 2020,
+      "kinopoisk_id": 1398917,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-14 22:26:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Жизнь в пекле пустыни",
+      "title_en": "Vivir Allí No Es el Infierno Es el Fuego del Desierto La Plenitud de la Vida Quedó Ahí Como un Árbol (https://yadi.sk/d/y9_qkHu5IadQSA?w=1) / Living There Is Not Hell, It Is the Fire of the Desert. The Plenitude of Life That Stayed There Like a Tree",
+      "year": 2018,
+      "kinopoisk_id": 1232694,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-14 22:25:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вы не виноваты / Это не твоя вина",
+      "title_en": "Eojae ileun modu gwaenchana / The Fault Is Not Yours",
+      "year": 2019,
+      "kinopoisk_id": 1144173,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-14 22:23:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Секреты в снегу",
+      "title_en": "Secrets in the Snow",
+      "year": 2020,
+      "kinopoisk_id": 1378876,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-14 22:21:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Неотступная",
       "title_en": "Relentless",
       "year": 2020,
@@ -170,95 +261,127 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Люпен III: Первый",
-      "title_en": "Lupin III: The First",
-      "year": 2019,
-      "kinopoisk_id": 1282029,
-      "type": "movie",
+      "title_ru": "Каменская 2",
+      "title_en": "",
+      "year": 2002,
+      "kinopoisk_id": 94334,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "fbccc5b0cebffa27ea1a9f3fb193e273c65eaff0480ccf6f15b9004c666ffefe",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-13 18:35:04",
+      "added_date": "2020-09-05 00:40:20",
+      "update_date": "2020-09-05 00:41:03",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BDRip"
+      "translator_id": 92,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/94334.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Трудности адаптации",
-      "title_en": "Lost Transmissions",
-      "year": 2020,
-      "kinopoisk_id": 1050080,
-      "type": "movie",
+      "title_ru": "Бешеная",
+      "title_en": "",
+      "year": 2007,
+      "kinopoisk_id": 456887,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "072ea3a607a4358dfb7272b8670659bb09fe6d7f57d51ffc556fc484db529ebb",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-13 15:04:01",
+      "added_date": "2020-09-05 00:20:46",
+      "update_date": "2020-09-05 00:24:42",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
+      "translator_id": 92,
+      "quality": "DVDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/456887.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Одержимость: жажда убийства",
-      "title_en": "The Wrong Student / Lust for Murder / Obsession, Lust and Murder",
-      "year": 2017,
-      "kinopoisk_id": 1022603,
-      "type": "movie",
+      "title_ru": "Воспоминания о Шерлоке Холмсе",
+      "title_en": "",
+      "year": 2000,
+      "kinopoisk_id": 456501,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "212bf4cc30fae1ddcee51a35e88fa33be12a0c450f5fe59957f417f26c7fae8e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-13 13:26:02",
+      "added_date": "2020-09-05 00:17:08",
+      "update_date": "2020-09-05 00:19:25",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Граждане мира",
-      "title_en": "Lontano lontano / Citizens of the World / Cittadini del mondo",
-      "year": 2020,
-      "kinopoisk_id": 1191386,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-13 13:25:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Кто влюбился - тот проиграл",
-      "title_en": "El Que Se Enamora Pierde",
-      "year": 2019,
-      "kinopoisk_id": 1230045,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-13 13:22:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сказочное рождество",
-      "title_en": "Christmas Ever After",
-      "year": 2020,
-      "kinopoisk_id": 1443858,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-13 13:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Преступный человек",
-      "title_en": "The Criminal Man",
-      "year": 2019,
-      "kinopoisk_id": 1244898,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-13 13:19:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/456501.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Сердцеедки",
@@ -1285,204 +1408,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Взлет",
-      "title_en": "Rise",
-      "year": 2018,
-      "kinopoisk_id": 1022825,
-      "world_art_id": null,
-      "translator": "Contentica",
-      "token": "d215042736c37a21ead77a332bff74aae31fa116867507ae5f3a342b2752095d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-03 17:00:10",
-      "update_date": "2020-09-03 17:02:53",
-      "block": false,
-      "translator_id": 129,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1022825.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Стреляющие горы",
-      "title_en": "",
-      "year": 2011,
-      "kinopoisk_id": 565125,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "b6476c79ca9622c4251c141497924578190ba549acc77e13dcec7fba3a21f79e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-03 16:58:30",
-      "update_date": "2020-09-03 16:59:43",
-      "block": false,
-      "translator_id": 92,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/565125.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Конь БоДжек",
-      "title_en": "BoJack Horseman",
-      "year": 2014,
-      "kinopoisk_id": 818185,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "4be2a5c67fa3209a7d78fd07db4da05c18b57b82276befc091a506eddea23872",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-31 04:14:13",
-      "update_date": "2020-09-03 16:44:40",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/818185.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
           ]
         }
       ]

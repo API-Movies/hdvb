@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Камуфляж и шпионаж",
+      "title_en": "Spies in Disguise",
+      "year": 2019,
+      "kinopoisk_id": 1008408,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-23 14:16:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Интерстеллар",
+      "title_en": "Interstellar",
+      "year": 2014,
+      "kinopoisk_id": 258687,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-23 14:15:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Зверополис",
+      "title_en": "Zootopia",
+      "year": 2016,
+      "kinopoisk_id": 775276,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-23 14:14:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Железный человек 2",
+      "title_en": "Iron Man 2",
+      "year": 2010,
+      "kinopoisk_id": 411924,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-23 14:13:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Доктор Стрэндж",
+      "title_en": "Doctor Strange",
+      "year": 2016,
+      "kinopoisk_id": 409600,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-23 14:12:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Девушка с татуировкой дракона",
+      "title_en": "The Girl with the Dragon Tattoo",
+      "year": 2011,
+      "kinopoisk_id": 491724,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-23 14:11:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Гарри Поттер и философский камень",
+      "title_en": "Harry Potter and the Sorcerer's Stone",
+      "year": 2001,
+      "kinopoisk_id": 689,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-23 14:10:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Гарри Поттер и Принц-полукровка",
       "title_en": "Harry Potter and the Half-Blood Prince",
       "year": 2009,
@@ -170,95 +261,106 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Кровавое судно",
-      "title_en": "Blood Vessel",
+      "title_ru": "Люцифер",
+      "title_en": "Lucifer",
+      "year": 2015,
+      "kinopoisk_id": 893621,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "d0d8e96d78e73dda46d78427a105f1913765d5360d5d62859148c6fa94a99202",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-08-20 21:00:25",
+      "update_date": "2019-08-20 21:03:35",
+      "block": false,
+      "translator_id": 15,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/893621.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&trailer_id=120980",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Благие знамения",
+      "title_en": "Good Omens",
       "year": 2019,
-      "kinopoisk_id": 1138097,
-      "type": "movie",
+      "kinopoisk_id": 585727,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "573e0a2fbd44d72e2a4b92d6e97e17cbb92e49f257e79c6fcc295a89062cab3b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-22 21:55:01",
+      "added_date": "2019-08-20 19:37:29",
+      "update_date": "2019-08-20 19:39:08",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 15,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/585727.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Приглашённый драматург",
-      "title_en": "Guest Artist",
-      "year": 2020,
-      "kinopoisk_id": 1171978,
-      "type": "movie",
+      "title_ru": "Игра престолов",
+      "title_en": "Game of Thrones",
+      "year": 2011,
+      "kinopoisk_id": 464963,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "26a540e1424c6b6c62e77d6d4faeba02afd559edfff0d8dde2991a6e7685225d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-22 21:54:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ужас в Вудс-Крик",
-      "title_en": "Terror in Woods Creek / Deadlines",
-      "year": 2017,
-      "kinopoisk_id": 730820,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-22 21:53:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ложь во спасение",
-      "title_en": "White Lie",
-      "year": 2019,
-      "kinopoisk_id": 1206229,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-22 21:51:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Это главное",
-      "title_en": "It's Major",
-      "year": 2020,
-      "kinopoisk_id": 1231229,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-22 21:50:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Лайвскрим",
-      "title_en": "Livescream",
-      "year": 2018,
-      "kinopoisk_id": 1127161,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-22 17:29:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Эверест",
-      "title_en": "Abominable",
-      "year": 2019,
-      "kinopoisk_id": 1044976,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-22 15:07:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "added_date": "2019-08-20 18:16:39",
+      "update_date": "2019-08-20 18:18:18",
+      "block": [
+        "RU"
+      ],
+      "translator_id": 15,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/464963.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=141135",
+      "serial_episodes": [
+        {
+          "season_number": 8,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Пацаны",
@@ -927,112 +1029,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Самый громкий голос в комнате",
-      "title_en": "The Loudest Voice",
-      "year": 2019,
-      "kinopoisk_id": 1162901,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "640a49c473777273a639d5f1f9b1fa082c9c36f96ddc7bf3e6a37b657d319ce7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-06-30 21:10:04",
-      "update_date": "2019-08-13 10:46:29",
-      "block": [
-        "RU"
-      ],
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1162901.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Джетт",
-      "title_en": "Jett",
-      "year": 2019,
-      "kinopoisk_id": 1195990,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "1e34a30218f97db5acdea549a089433f0e3e4f43386a2b45519b5aeb6f804621",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-06-15 16:04:05",
-      "update_date": "2019-08-10 21:12:40",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1195990.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Блеск",
-      "title_en": "GLOW",
-      "year": 2017,
-      "kinopoisk_id": 1037450,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "8d1480a7cbf7c9c3c14bdcef7749cf4876ae968104b4ae06e218a3447786b1df",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-09 17:49:03",
-      "update_date": "2019-08-10 00:58:08",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1037450.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=142189",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]
