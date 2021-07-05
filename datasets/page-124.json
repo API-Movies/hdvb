@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Пара из будущего",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1405926,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 19:04:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Два волка",
+      "title_en": "Two Wolves",
+      "year": 2020,
+      "kinopoisk_id": 981922,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 19:02:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Техасец Ред",
+      "title_en": "Texas Red",
+      "year": 2021,
+      "kinopoisk_id": 1273527,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 19:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "На распутье",
+      "title_en": "Conflicted",
+      "year": 2021,
+      "kinopoisk_id": 13899082,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 18:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Портрет",
+      "title_en": "I, Portrait",
+      "year": 2021,
+      "kinopoisk_id": 1066095,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 18:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Стилист",
+      "title_en": "The Stylist",
+      "year": 2020,
+      "kinopoisk_id": 1311458,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 18:56:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Роман на поле: Двойная игра",
+      "title_en": "Romance in the Outfield: Double Play",
+      "year": 2020,
+      "kinopoisk_id": 1274892,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 18:55:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "День сменяет ночь",
       "title_en": "Night Into Day",
       "year": 2020,
@@ -170,95 +261,237 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Однажды на Пасху",
-      "title_en": "Easter Someday",
-      "year": 2021,
-      "kinopoisk_id": 13694856,
-      "type": "movie",
+      "title_ru": "Воплощение страха",
+      "title_en": "Fear Itself",
+      "year": 2008,
+      "kinopoisk_id": 414893,
+      "world_art_id": null,
+      "translator": "Sony Sci-Fi",
+      "token": "1d7c38f8c56d465e33a9cecd3be29e3430fe6dbba0121e0115033bbf07501fb8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-05 01:03:02",
+      "added_date": "2020-12-14 18:32:59",
+      "update_date": "2020-12-14 18:40:47",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 63,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/414893.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Путь Хико",
-      "title_en": "Xicos Journey (El Camino de Xico)",
-      "year": 2020,
-      "kinopoisk_id": 1447980,
-      "type": "movie",
+      "title_ru": "",
+      "title_en": "",
+      "year": 0,
+      "kinopoisk_id": null,
+      "world_art_id": null,
+      "translator": "",
+      "token": "",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-04 23:55:01",
+      "added_date": "1970-01-01 03:00:00",
+      "update_date": "2020-12-14 13:50:55",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEBRip"
+      "translator_id": 0,
+      "quality": "",
+      "poster": "https://www.kinopoisk.ru/images/film_big/.jpg",
+      "trailer": "",
+      "serial_episodes": []
     },
     {
-      "title_ru": "Пустой человек",
-      "title_en": "The Empty Man",
-      "year": 2020,
-      "kinopoisk_id": 992507,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-04 23:54:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Проект Power",
-      "title_en": "Project Power",
-      "year": 2020,
-      "kinopoisk_id": 1190299,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-04 23:53:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Леди Бёрд",
-      "title_en": "Lady Bird",
-      "year": 2017,
-      "kinopoisk_id": 958293,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-04 23:52:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Губка Боб в бегах",
-      "title_en": "The SpongeBob Movie: Sponge on the Run",
-      "year": 2020,
-      "kinopoisk_id": 944043,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-04 23:51:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Первая любовь",
-      "title_en": "Tinh dau tho ngay",
+      "title_ru": "Пандора",
+      "title_en": "Pandora",
       "year": 2019,
-      "kinopoisk_id": 1260933,
-      "type": "movie",
+      "kinopoisk_id": 1263499,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "b35664640e0e1566c14f40822f1e9aa598b3c97434e84297ac22b3a8ae0518fc",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-04 15:32:02",
+      "added_date": "2019-10-02 22:19:58",
+      "update_date": "2020-12-14 13:26:03",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1263499.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Голос перемен",
+      "title_en": "Small Axe",
+      "year": 2020,
+      "kinopoisk_id": 843685,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "719ac9ddd1f28d60fc93a8ae8fd65165dad76f6ce49e584423d26eaa74fe7b73",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-11-16 13:06:37",
+      "update_date": "2020-12-14 08:49:04",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/843685.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Карнавал",
+      "title_en": "Carnivàle",
+      "year": 2003,
+      "kinopoisk_id": 214333,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "31da4bbe9922d790c1f83cc3fe6be30156624a1cca02b3ee6efcdcfdac1120ac",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-13 23:32:26",
+      "update_date": "2020-12-13 23:44:24",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/214333.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Второй шанс",
+      "title_en": "Другий шанс",
+      "year": 2020,
+      "kinopoisk_id": 98087967,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "667af8e0d6c089bd98def83d51466a83410ad1cf49608642f539bbad50fb4ddd",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-13 23:04:31",
+      "update_date": "2020-12-13 23:10:26",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/98087967.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Дело",
@@ -861,405 +1094,6 @@
             7,
             8,
             9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чистосердечное призвание",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1451295,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "a3536a1dd3f8106fb5a0bffab21ee99274afd37243dc0efc4901adae3a6b09c4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-12 14:50:36",
-      "update_date": "2020-12-12 14:51:11",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1451295.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Когда позовёт смерть",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1338297,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "399a164a3ab077977fdf7d02df2833fb04a3353692758956f0c5698b6b44ff36",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-12 14:49:12",
-      "update_date": "2020-12-12 14:49:42",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTVRip",
-      "poster": "https://img.delivembed.cc/movies/franchise/2/0/9/6/8/0/0/0/0/0/610x900_20968.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бесстыдники",
-      "title_en": "Shameless",
-      "year": 2004,
-      "kinopoisk_id": 405520,
-      "world_art_id": null,
-      "translator": "FocusStudio",
-      "token": "a6d8a9927f39d8c86f3795f44f71a8a7f20de447138094ebda2e9a643b01ad3e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-12 12:29:21",
-      "update_date": "2020-12-12 12:31:18",
-      "block": false,
-      "translator_id": 25,
-      "quality": "WEB-DLRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/405520.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 5,
-          "episodes": [
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "season_number": 7,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "season_number": 8,
-          "episodes_count": 22,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        },
-        {
-          "season_number": 9,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ]
-        },
-        {
-          "season_number": 10,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 11,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бесстыдники",
-      "title_en": "Shameless",
-      "year": 2004,
-      "kinopoisk_id": 405520,
-      "world_art_id": null,
-      "translator": "Alexfilm",
-      "token": "4f8f9c9b9a56eaf1a2fe5a813443a26ac16a873367c804fbba86cf0d565ded72",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-12 12:27:54",
-      "update_date": "2020-12-12 12:29:27",
-      "block": false,
-      "translator_id": 3,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/405520.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "4 квартала",
-      "title_en": "4 Blocks",
-      "year": 2017,
-      "kinopoisk_id": 1111924,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "35fdf90f8250693f04b25575354466363e0ee818863e6b372fc15cab72d2ad49",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-12 10:52:52",
-      "update_date": "2020-12-12 10:53:34",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1111924.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Беспорядок после тебя",
-      "title_en": "El desorden que dejas (The Mess You Leave Behind)",
-      "year": 2020,
-      "kinopoisk_id": 1311460,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "176865bf7da2828ff76a4266b8fe8491e9ecf7375c5be407d1c469c2336f060f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-12 09:20:40",
-      "update_date": "2020-12-12 09:28:42",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1311460.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

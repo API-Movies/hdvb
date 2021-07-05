@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "1898. Последние на Филиппинах",
+      "title_en": "1898. Los últimos de Filipinas",
+      "year": 2016,
+      "kinopoisk_id": 977324,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-05 17:25:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Маленький помощник Санты",
+      "title_en": "Santa's Little Helper",
+      "year": 2015,
+      "kinopoisk_id": 899465,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-05 17:24:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ненасытная",
+      "title_en": "The Insatiable",
+      "year": 2006,
+      "kinopoisk_id": 103621,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-05 17:23:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Возрастающий страх",
+      "title_en": "Rising Fear",
+      "year": 2016,
+      "kinopoisk_id": 813725,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-05 16:22:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Banksy",
+      "title_en": "Banksy and the Rise of Outlaw Art",
+      "year": 2020,
+      "kinopoisk_id": 1387015,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-05 15:34:01",
+      "block": false,
+      "translator": "Первый канал",
+      "translator_id": 94,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Да, бог, да",
+      "title_en": "Yes, God, Yes",
+      "year": 2020,
+      "kinopoisk_id": 1188124,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-05 08:49:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Принеси мне авокадо",
+      "title_en": "Bring Me an Avocado",
+      "year": 2019,
+      "kinopoisk_id": 1216210,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-05 04:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Потерянные: Голливудская история",
       "title_en": "Girl Lost: A Hollywood Story",
       "year": 2020,
@@ -170,95 +261,271 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Пришей зиму к моей коже",
-      "title_en": "Sew the Winter to My Skin",
+      "title_ru": "Страшилки",
+      "title_en": "Creeped Out",
+      "year": 2017,
+      "kinopoisk_id": 1199474,
+      "world_art_id": null,
+      "translator": "Первый ТВЧ",
+      "token": "71a1528abcecb6d03ce5b9060258185e3a8aaf3744ccba1645d26d378e3554e4",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-22 21:05:23",
+      "update_date": "2020-08-22 21:06:36",
+      "block": false,
+      "translator_id": 155,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1199474.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Страшилки",
+      "title_en": "Creeped Out",
+      "year": 2017,
+      "kinopoisk_id": 1199474,
+      "world_art_id": null,
+      "translator": "HDrezka Studio",
+      "token": "71765f260ed02f91e2415d608a0cdfea54416108bb0f6eebf4259e5803741bb0",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-22 21:03:29",
+      "update_date": "2020-08-22 21:05:05",
+      "block": false,
+      "translator_id": 33,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1199474.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Другой взгляд",
+      "title_en": "La otra mirada",
+      "year": 2018,
+      "kinopoisk_id": 1112770,
+      "world_art_id": null,
+      "translator": "ViruseProject",
+      "token": "3c645d3d7db2b1dc8b57b306ea95a576e24026b4b36aa0128d7e838f15601196",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-22 18:32:01",
+      "update_date": "2020-08-22 18:57:34",
+      "block": false,
+      "translator_id": 72,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/1112770.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Страна Рождества",
+      "title_en": "NOS4A2",
       "year": 2019,
-      "kinopoisk_id": 1128071,
-      "type": "movie",
+      "kinopoisk_id": 1192755,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "11c692d00b90c351524af1729cb470a6cd26d0776905197ebe977bd001bb5c65",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-04 18:21:02",
+      "added_date": "2020-07-26 00:36:43",
+      "update_date": "2020-08-22 16:02:46",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1192755.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Лето'85",
-      "title_en": "Été 85",
+      "title_ru": "Данк или сквозняк?",
+      "title_en": "Hoops",
       "year": 2020,
-      "kinopoisk_id": 1275788,
-      "type": "movie",
+      "kinopoisk_id": 1202192,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "8f809f6051fa246d13c79eb296cea8917c0b2c21c134b3e183a9c6161ee713e3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-04 17:43:02",
+      "added_date": "2020-08-22 09:45:05",
+      "update_date": "2020-08-22 09:45:39",
       "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1202192.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Бруклинская рождественская ёлка",
-      "title_en": "A Christmas Tree Grows in Colorado",
-      "year": 2020,
-      "kinopoisk_id": 1409916,
-      "type": "movie",
+      "title_ru": "Монарх",
+      "title_en": "Gunju - gamyeoneui juin",
+      "year": 2017,
+      "kinopoisk_id": 1007746,
+      "world_art_id": null,
+      "translator": "SoftBox",
+      "token": "cda93ef297fe08aa3ca643026d56fae42a7f402338af3f51806c2f3e913d1aef",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-04 14:48:02",
+      "added_date": "2020-08-22 04:15:02",
+      "update_date": "2020-08-22 04:21:22",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Рождественский смычок",
-      "title_en": "The Christmas Bow",
-      "year": 2020,
-      "kinopoisk_id": 1444505,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-04 14:47:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Манк",
-      "title_en": "Mank",
-      "year": 2020,
-      "kinopoisk_id": 1283862,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-04 13:39:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Король Стейтен-Айленда",
-      "title_en": "The King of Staten Island",
-      "year": 2020,
-      "kinopoisk_id": 1236644,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-04 12:36:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Мишень",
-      "title_en": "The Vibe / Assassins Target",
-      "year": 2019,
-      "kinopoisk_id": 1004688,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-04 12:35:02",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
+      "translator_id": 106,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1007746.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Маска",
@@ -1462,276 +1729,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ультрафиолет",
-      "title_en": "Ultraviolet",
-      "year": 2017,
-      "kinopoisk_id": 1226454,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "22074bfb2ce6c2185fb1ab7bc53bc1250ca418bcab6fd03c467bb1aa7830aadc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-21 03:53:28",
-      "update_date": "2020-08-21 03:54:02",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1226454.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Полнолуние",
-      "title_en": "Luna, el misterio de Calenda",
-      "year": 2012,
-      "kinopoisk_id": 678176,
-      "world_art_id": null,
-      "translator": "Sony Sci-Fi",
-      "token": "0c3f024ff6f8e8f4a100bbe10fb2fc422c82c3e8ee882f404e724f730a45e255",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-21 03:41:36",
-      "update_date": "2020-08-21 03:47:04",
-      "block": false,
-      "translator_id": 63,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/678176.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Трансформеры",
-      "title_en": "Transformers: Animated",
-      "year": 2007,
-      "kinopoisk_id": 400004,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "84ca8f2e6ae151cad8a75e98c4c870c23a583b5d64078d94ecd02c384da872fc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-21 03:37:43",
-      "update_date": "2020-08-21 03:41:21",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/400004.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Трансформеры",
-      "title_en": "Transformers: Animated",
-      "year": 2007,
-      "kinopoisk_id": 400004,
-      "world_art_id": null,
-      "translator": "одноголосый закадровый",
-      "token": "894ff00b50ad60a4d916a1e4fc02cf34c3efa7bf530082a0e0d09a840f57adde",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-21 03:36:25",
-      "update_date": "2020-08-21 03:37:13",
-      "block": false,
-      "translator_id": 93,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/400004.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Молодость и её последствия",
-      "title_en": "Youth &amp; Consequences",
-      "year": 2018,
-      "kinopoisk_id": 1112876,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "60b5a65a9be190be5185ad0ea1d9d7091ebcc40a2e7c3be5ab45886f9d3dc118",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-21 03:29:50",
-      "update_date": "2020-08-21 03:33:12",
-      "block": false,
-      "translator_id": 15,
-      "quality": "HDTVRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1112876.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Багровые реки",
-      "title_en": "Les rivières pourpres",
-      "year": 2018,
-      "kinopoisk_id": 1304172,
-      "world_art_id": null,
-      "translator": "ViruseProject",
-      "token": "69ee09d7f90e571b70cce774f8e09a27da1dc8aa23300147aadda4c40c06defc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-21 03:12:40",
-      "update_date": "2020-08-21 03:20:38",
-      "block": false,
-      "translator_id": 72,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1304172.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]
