@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Бессмертная гвардия",
+      "title_en": "The Old Guard",
+      "year": 2020,
+      "kinopoisk_id": 1178278,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-11 06:10:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "А зори здесь тихие...",
+      "title_en": "",
+      "year": 2015,
+      "kinopoisk_id": 840754,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-11 06:09:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "47 ронинов",
+      "title_en": "47 Ronin",
+      "year": 2013,
+      "kinopoisk_id": 461314,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-11 06:08:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Предложение",
+      "title_en": "The Proposal",
+      "year": 2009,
+      "kinopoisk_id": 321842,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-11 04:11:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Доблестные рыцари",
+      "title_en": "Valiant",
+      "year": 2019,
+      "kinopoisk_id": 425725553,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-11 01:52:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вместе",
+      "title_en": "Together",
+      "year": 2020,
+      "kinopoisk_id": 1006079,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-11 01:49:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Улицы Синдиката, Огайо",
+      "title_en": "Streets of Syndicate / Streets of Syndicate Ohio / The Edge of Indolence",
+      "year": 2020,
+      "kinopoisk_id": 1072469,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-11 01:46:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Сувениры",
       "title_en": "Souvenirs",
       "year": 2020,
@@ -170,95 +261,113 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Город у соленого озера",
-      "title_en": "City of Salt",
-      "year": 2020,
-      "kinopoisk_id": 1233127,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-10 01:47:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Единственная",
-      "title_en": "Only",
+      "title_ru": "Левиус",
+      "title_en": "Levius",
       "year": 2019,
-      "kinopoisk_id": 1112374,
-      "type": "movie",
+      "kinopoisk_id": 1249497,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "31e875a29c77a2cc9c9b625743d21f3816803ac62100e3b872939801a7a7516a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-09 23:03:02",
+      "added_date": "2019-11-28 20:12:49",
+      "update_date": "2019-11-28 20:12:49",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1249497.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Детективное агентство Лассе и Майя: Тайна ограбления поезда",
-      "title_en": "LasseMajas detektivbyrå - Tågrånarens hemlighet",
-      "year": 2020,
-      "kinopoisk_id": 1254971,
-      "type": "movie",
+      "title_ru": "Смертоносный",
+      "title_en": "Mortel",
+      "year": 2019,
+      "kinopoisk_id": 1274325,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "e32bd169053aeb8fca27f45cba87d04964f6d73988dff73a03467c554bd342c6",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-09 18:24:02",
+      "added_date": "2019-11-28 17:18:40",
+      "update_date": "2019-11-28 17:18:40",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1274325.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Император",
-      "title_en": "Emperor",
-      "year": 2020,
-      "kinopoisk_id": 1167664,
-      "type": "movie",
+      "title_ru": "Поток",
+      "title_en": "The Feed",
+      "year": 2019,
+      "kinopoisk_id": 1117141,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "4f98491e7fff47c0a390ea81467da900bbd7e424392b2c467b02b7bfc445da28",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-09 18:23:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "DVDRip"
-    },
-    {
-      "title_ru": "Перегрузка",
-      "title_en": "G-Loc",
-      "year": 2020,
-      "kinopoisk_id": 1246783,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-09 18:21:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "DVDRip"
-    },
-    {
-      "title_ru": "Львы-холостяки",
-      "title_en": "Bachelor Lions",
-      "year": 2020,
-      "kinopoisk_id": 1019414,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-09 18:19:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Конверт",
-      "title_en": "Envelop(e) / Envelope",
-      "year": 2020,
-      "kinopoisk_id": 1168520,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-09 18:18:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "added_date": "2019-11-28 17:17:00",
+      "update_date": "2019-11-28 17:17:00",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1117141.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Закон города на утёсе",
@@ -965,108 +1074,6 @@
             5,
             6,
             7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Соболезную вашей утрате",
-      "title_en": "Sorry for Your Loss",
-      "year": 2018,
-      "kinopoisk_id": 1114060,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "7d7a728da50fd0aa76a7f9c2770de3084c04a02954f17f31c703bb2e99c3a16c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-22 09:19:33",
-      "update_date": "2019-11-22 09:19:33",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1114060.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чёрная стерва",
-      "title_en": "Total Control (Black Bitch)",
-      "year": 2019,
-      "kinopoisk_id": 1217675,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "2ed60599a78609333ac2f92d49b5bdc87fedf566361f35f5e0d746fcb1cd6385",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-22 09:18:43",
-      "update_date": "2019-11-22 09:18:43",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1217675.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ничего не происходит",
-      "title_en": "No Activity",
-      "year": 2017,
-      "kinopoisk_id": 1072991,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "ad87f3a2e432a04240e6e244a35574315d0be25840c342256309cb5d9d2ba215",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-22 09:02:49",
-      "update_date": "2019-11-22 09:02:49",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1072991.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

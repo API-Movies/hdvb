@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Четвёртая мировая война",
+      "title_en": "World War Four",
+      "year": 2019,
+      "kinopoisk_id": 1059789,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-19 11:42:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пакт",
+      "title_en": "El pacto",
+      "year": 2018,
+      "kinopoisk_id": 1108594,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-18 22:05:01",
+      "block": false,
+      "translator": "SDI Media",
+      "translator_id": 60,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Пропавшая",
+      "title_en": "A Girl Missing / Yokogao",
+      "year": 2019,
+      "kinopoisk_id": 1263112,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-18 21:59:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Маленькая Рука / Роман Сьюзан Хилл",
+      "title_en": "The Small Hand / Susan Hill's Ghost Story",
+      "year": 2019,
+      "kinopoisk_id": 1315369,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-18 21:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "1 1/2 Hora / Полтора часа",
+      "title_en": "1 1/2 Hours",
+      "year": 2017,
+      "kinopoisk_id": 973665,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-18 21:56:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Энди - говорящий ёжик",
+      "title_en": "Andy the Talking Hedgehog",
+      "year": 2018,
+      "kinopoisk_id": 1009788,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-18 21:55:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Фильм Дилана Хагенса",
+      "title_en": "De Film van Dylan Haegens",
+      "year": 2020,
+      "kinopoisk_id": 1176734,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-18 21:54:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Первое Рождество",
       "title_en": "Il primo Natale",
       "year": 2019,
@@ -174,95 +265,159 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Бесшумный",
-      "title_en": "The Silencing",
-      "year": 2020,
-      "kinopoisk_id": 1256891,
-      "type": "movie",
+      "title_ru": "Мажор",
+      "title_en": "",
+      "year": 2014,
+      "kinopoisk_id": 820638,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "73da2fd14a57999cae48a49c0d8cbe32b796ae19b18dea9f56e2a03e2b28545c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-17 22:51:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "added_date": "2018-10-26 22:40:07",
+      "update_date": "2018-11-16 20:42:13",
+      "block": [
+        "RU"
+      ],
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/820638.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=112341",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Рай в огне",
-      "title_en": "Eden Burning",
-      "year": 2020,
-      "kinopoisk_id": 4567855,
-      "type": "movie",
+      "title_ru": "Боец",
+      "title_en": "",
+      "year": 2004,
+      "kinopoisk_id": 260377,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "a3dc651d0d28ea83889d6164e5099ffad235941af0a45b3b7b2e5ba95bffb4f0",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-17 20:50:01",
+      "added_date": "2018-11-16 16:30:59",
+      "update_date": "2018-11-16 16:31:10",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "DVDRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/260377.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "15 лет",
-      "title_en": "15 Years",
-      "year": 2020,
-      "kinopoisk_id": 1270345,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-17 20:47:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Две миссис Рейес",
-      "title_en": "Ang dalawang Mrs. Reyes",
+      "title_ru": "Ненастье",
+      "title_en": "",
       "year": 2018,
-      "kinopoisk_id": 1131933,
-      "type": "movie",
+      "kinopoisk_id": 1111709,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "be95dd0b258d65ee1bb9b1b0f9efff09162a44a3a1a4e72a8d8a6bed8e25f718",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-17 20:45:01",
+      "added_date": "2018-11-12 16:22:37",
+      "update_date": "2018-11-12 16:22:47",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Наш дом",
-      "title_en": "Auerhaus",
-      "year": 2020,
-      "kinopoisk_id": 1253058,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-17 20:35:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Кофе с Богом",
-      "title_en": "Coffee with God",
-      "year": 2019,
-      "kinopoisk_id": 1264129,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-17 20:25:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дакота",
-      "title_en": "Dakota",
-      "year": 2020,
-      "kinopoisk_id": 1215154,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-07-17 20:24:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "HDTVRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1111709.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Стрела",
@@ -1158,144 +1313,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Большая игра",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1162854,
-      "world_art_id": null,
-      "translator": "Перевод не требуется",
-      "token": "bdf519b52fde960ab920f74092a6a1f1fee947b7c24c5d1515c3155e2ba0cbee",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-09-19 18:18:08",
-      "update_date": "2018-09-19 18:18:08",
-      "block": false,
-      "translator_id": 103,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/1162854.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=151354",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Челночницы",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 961723,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "681e91bde55ff5ca67a3e2752d71fa36886d4b16bbdabbc28d8a39ceea553645",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-09-19 18:17:15",
-      "update_date": "2018-09-19 18:17:15",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/961723.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Акварели",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1189791,
-      "world_art_id": null,
-      "translator": "Перевод не требуется",
-      "token": "d65b3747d629bc3eedc1ed220b526f86d66c206402c875d5a244d2df857bd1e6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-09-18 22:19:31",
-      "update_date": "2018-09-19 16:22:32",
-      "block": false,
-      "translator_id": 103,
-      "quality": "HDTV",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1189791.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

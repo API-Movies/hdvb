@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Махинаторы",
+      "title_en": "Schemers",
+      "year": 2020,
+      "kinopoisk_id": 1006259,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-14 10:25:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Артур и Мерлин: Рыцари Камелота",
+      "title_en": "Arthur &amp; Merlin: Knights of Camelot",
+      "year": 2020,
+      "kinopoisk_id": 1229309,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-14 10:24:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Побег",
+      "title_en": "",
+      "year": 2005,
+      "kinopoisk_id": 81203,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-14 10:17:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Незваный гость / Захватчик",
+      "title_en": "Chimipja / Intruder",
+      "year": 2019,
+      "kinopoisk_id": 1243035,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-14 10:11:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Отец четверых на высоте",
+      "title_en": "Far til fire på toppen",
+      "year": 2017,
+      "kinopoisk_id": 1027243,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-13 21:02:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Суне против Суне",
+      "title_en": "Sune vs. Sune",
+      "year": 2018,
+      "kinopoisk_id": 1087409,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-13 21:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Школьница с бензопилой. Часть 2 / Возвращение кровавой школьницы с бензопилой: пробуждение Гико",
+      "title_en": "Chimamire sukeban chenso red: Kôhen - Giko no kakusei / Bloody Chainsaw Girl Returns: Giko Awakens",
+      "year": 2019,
+      "kinopoisk_id": 1221614,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-13 20:59:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Малый бюджет",
       "title_en": "B.O.",
       "year": 2020,
@@ -170,95 +261,126 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Лето 84",
-      "title_en": "Summer of 84",
+      "title_ru": "Психо-паспорт",
+      "title_en": "Psycho-Pass",
+      "year": 2012,
+      "kinopoisk_id": 707090,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "c23c8e1b2c5ebca79b9b4ef205e3d8f3595a268d34b3f3c2e75d6b1c03010639",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-13 19:59:34",
+      "update_date": "2019-12-13 19:59:34",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/707090.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Пространство",
+      "title_en": "The Expanse",
+      "year": 2015,
+      "kinopoisk_id": 805092,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "6f743980ed40d5ddb6621684da0e7ba58d2898dae86d361d2dfdd1d3e4994052",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-13 17:04:52",
+      "update_date": "2019-12-13 17:04:52",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/805092.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=113375",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Касл-Рок",
+      "title_en": "Castle Rock",
       "year": 2018,
-      "kinopoisk_id": 1045081,
-      "type": "movie",
+      "kinopoisk_id": 1040949,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "1f59a8bccb66e223c6cb740213de4e2ec104783c0920701bc9401d27a9433bb5",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-13 11:32:02",
+      "added_date": "2019-12-13 11:18:54",
+      "update_date": "2019-12-13 11:18:54",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Ослеплённые",
-      "title_en": "Les éblouis",
-      "year": 2019,
-      "kinopoisk_id": 1207642,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-12 21:39:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Рождественская деревенька",
-      "title_en": "A Christmas Village",
-      "year": 2018,
-      "kinopoisk_id": 1195829,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-12 21:37:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Кабаре &quot;Максим&quot;",
-      "title_en": "Cabaret Maxime",
-      "year": 2020,
-      "kinopoisk_id": 941269,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-12 21:35:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Влюбиться заново",
-      "title_en": "Falling in Love Again",
-      "year": 2020,
-      "kinopoisk_id": 1214213,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-12 21:34:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "С боем в сердце",
-      "title_en": "Fighting Heart",
-      "year": 2016,
-      "kinopoisk_id": 753807,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-12 21:32:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Домой на праздник урожая",
-      "title_en": "Home for Harvest",
-      "year": 2020,
-      "kinopoisk_id": 1273614,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-12 21:30:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1040949.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=151100",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Джек Райан",
@@ -946,111 +1068,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Солнечная сторона",
-      "title_en": "Sunnyside",
-      "year": 2019,
-      "kinopoisk_id": 1245505,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "23165b014c86bca48eb98e6630b9a42f434025e52c159fe0c6ce977810f73039",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-08 10:24:15",
-      "update_date": "2019-12-08 10:24:15",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1245505.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Видеть",
-      "title_en": "See",
-      "year": 2019,
-      "kinopoisk_id": 1171911,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "cdf1e1fd93b235aba71f064f6c01df5afb5687197646a26aada51a1606e7cb10",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-08 10:22:48",
-      "update_date": "2019-12-08 10:22:48",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1171911.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Играть по-крупному",
-      "title_en": "Playing for Keeps",
-      "year": 2019,
-      "kinopoisk_id": 1172823,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "f6f4147bbed1c102daf7939ace33184d9915765b553d8ce19319f46c030fd9f1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-08 10:22:20",
-      "update_date": "2019-12-08 10:22:20",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1172823.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

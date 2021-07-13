@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Долгая ночь",
+      "title_en": "Longa noite",
+      "year": 2019,
+      "kinopoisk_id": 1284745,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-24 14:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Одна летняя ночь",
+      "title_en": "One Summer Night",
+      "year": 2019,
+      "kinopoisk_id": 981035,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-24 14:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Райский город",
+      "title_en": "Paradise City",
+      "year": 2019,
+      "kinopoisk_id": 1129645,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-24 14:56:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Лепесток и Моль",
+      "title_en": "Petal &amp; Moth",
+      "year": 2019,
+      "kinopoisk_id": 10397930,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-24 14:55:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Берлин, Александерплац",
+      "title_en": "Berlin Alexanderplatz",
+      "year": 2020,
+      "kinopoisk_id": 1038423,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-24 14:53:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Все оттенки Токио",
+      "title_en": "Lost Girls and Love Hotels",
+      "year": 2020,
+      "kinopoisk_id": 455623,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-24 09:01:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Здравствуй, папа, Новый год!",
+      "title_en": "Daddy\\'s Home",
+      "year": 2015,
+      "kinopoisk_id": 484428,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-24 02:51:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Мистер Одиночка",
       "title_en": "Mr Lonesome",
       "year": 2019,
@@ -170,95 +261,182 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Дикие мечи",
-      "title_en": "Wu ming kuang",
-      "year": 2020,
-      "kinopoisk_id": 1188525,
-      "type": "movie",
+      "title_ru": "Железный человек: Приключения в броне",
+      "title_en": "Iron Man: Armored Adventures",
+      "year": 2008,
+      "kinopoisk_id": 481521,
+      "world_art_id": null,
+      "translator": "одноголосый закадровый",
+      "token": "112cd8eae40da2fa9ad3702f6caa38f135978ecb21f0eb2adb9748cd5c09953c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-23 05:45:01",
+      "added_date": "2020-08-06 16:17:21",
+      "update_date": "2020-08-06 16:18:28",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 93,
+      "quality": "WEB-DLRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/481521.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Рождественский проект 2",
-      "title_en": "The Christmas Project 2",
-      "year": 2020,
-      "kinopoisk_id": 1264457,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-23 05:43:01",
-      "block": false,
+      "title_ru": "Железный человек: Приключения в броне",
+      "title_en": "Iron Man: Armored Adventures",
+      "year": 2008,
+      "kinopoisk_id": 481521,
+      "world_art_id": null,
       "translator": "многоголосый закадровый",
+      "token": "2bbe08b510a5f8d143cf68bbd74b752dc85b9aa44374bda5e9f64bb9dd2d2df6",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-06 16:16:13",
+      "update_date": "2020-08-06 16:17:08",
+      "block": false,
       "translator_id": 89,
-      "quality": "WEB-DL"
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/481521.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 26,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Озеро Сида",
-      "title_en": "S'ids Lake",
-      "year": 2019,
-      "kinopoisk_id": 1266121,
-      "type": "movie",
+      "title_ru": "Красные браслеты",
+      "title_en": "Club der roten Bänder",
+      "year": 2015,
+      "kinopoisk_id": 929638,
+      "world_art_id": null,
+      "translator": "ViruseProject",
+      "token": "9f9a9e5eb5e90c64e813b51901d36155c9c1a445fc68155ef60cd59a82110a9d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-23 05:40:01",
+      "added_date": "2020-08-06 15:50:41",
+      "update_date": "2020-08-06 16:00:35",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Первородный грех",
-      "title_en": "Original Sin",
-      "year": 2018,
-      "kinopoisk_id": 1010420,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-23 05:39:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Родина",
-      "title_en": "Gimtine",
-      "year": 2019,
-      "kinopoisk_id": 1293415,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-23 05:37:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Похить меня!",
-      "title_en": "Kidnap Me",
-      "year": 2017,
-      "kinopoisk_id": 854837,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-23 05:34:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ctrl+Alt+Хэллоуин",
-      "title_en": "Ctrl+Alt+Trick/Treat",
-      "year": 2020,
-      "kinopoisk_id": 13374176,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-23 05:32:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 72,
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/929638.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Полиция племени",
@@ -1331,117 +1509,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Короли",
-      "title_en": "Kings",
-      "year": 2009,
-      "kinopoisk_id": 409319,
-      "world_art_id": null,
-      "translator": "Contentica",
-      "token": "a56a0078a335967f7d954e618128ad840380c3a930b7cd86410163bf824c7a78",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-05 22:08:09",
-      "update_date": "2020-08-05 22:10:15",
-      "block": false,
-      "translator_id": 129,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/409319.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Пекарь и красавица",
-      "title_en": "The Baker and the Beauty",
-      "year": 2020,
-      "kinopoisk_id": 1245503,
-      "world_art_id": null,
-      "translator": "NewStation",
-      "token": "0e8a8e86eaf79245ac746aa3866d96039e9cfb6b7b858a1ecb59e2a3d352aa42",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-05 18:55:59",
-      "update_date": "2020-08-05 18:57:03",
-      "block": false,
-      "translator_id": 138,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1245503.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Не сахарные",
-      "title_en": "Sugarless",
-      "year": 2012,
-      "kinopoisk_id": 745258,
-      "world_art_id": null,
-      "translator": "GREEN TEA",
-      "token": "9ddb6946fed97fb9a01ef37b5429d116fa65041d00ed063f9d3bc7f5f395ea58",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-05 18:13:21",
-      "update_date": "2020-08-05 18:14:29",
-      "block": false,
-      "translator_id": 31,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/745258.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Че: Часть вторая",
+      "title_en": "Che: Part Two",
+      "year": 2008,
+      "kinopoisk_id": 53950,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-21 08:45:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Лучший из лучших 4: Без предупреждения",
+      "title_en": "Best of the Best 4: Without Warning",
+      "year": 1998,
+      "kinopoisk_id": 7086,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-21 08:44:01",
+      "block": false,
+      "translator": "РЕН-ТВ",
+      "translator_id": 178,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Проклятый сезон",
+      "title_en": "Dark Blue",
+      "year": 2002,
+      "kinopoisk_id": 3443,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-21 08:43:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Критическое мышление",
+      "title_en": "Critical Thinking",
+      "year": 2020,
+      "kinopoisk_id": 1140302,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-21 08:11:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ледяная синева",
+      "title_en": "Ice Blue",
+      "year": 2017,
+      "kinopoisk_id": 1054904,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-21 08:10:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Маленькие волшебницы",
+      "title_en": "Sprite Sisters - Vier zauberhafte Schwestern",
+      "year": 2020,
+      "kinopoisk_id": 1189441,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-20 22:56:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Аудитория из стульев",
+      "title_en": "An Audience of Chairs",
+      "year": 2018,
+      "kinopoisk_id": 1095891,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-20 19:36:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Гудлэнд",
       "title_en": "Goodland",
       "year": 2017,
@@ -170,95 +261,153 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Красная дорожка",
-      "title_en": "Red Carpet",
-      "year": 2021,
-      "kinopoisk_id": 1187310,
-      "type": "movie",
+      "title_ru": "Странная парочка",
+      "title_en": "The Odd Couple",
+      "year": 2015,
+      "kinopoisk_id": 839752,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "d7310e44200ab416cedda64618931842de9adf95e880680faf056af03203b2b0",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-19 14:58:01",
+      "added_date": "2020-11-20 16:41:53",
+      "update_date": "2020-11-20 16:52:45",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/839752.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Любовь на локдауне",
-      "title_en": "Lock Down Love",
-      "year": 2021,
-      "kinopoisk_id": 13937648,
-      "type": "movie",
+      "title_ru": "Тут",
+      "title_en": "Tut",
+      "year": 2015,
+      "kinopoisk_id": 842682,
+      "world_art_id": null,
+      "translator": "Jaskier",
+      "token": "72408343efb250b40afa5e4f4ac8d450a0bf1476eb1c5f46bcd5e1534fe3cdc1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-19 14:56:01",
+      "added_date": "2020-11-20 16:31:42",
+      "update_date": "2020-11-20 16:32:45",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 36,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/842682.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            3,
+            5
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Выездка",
-      "title_en": "Dressage",
-      "year": 2018,
-      "kinopoisk_id": 1131484,
-      "type": "movie",
+      "title_ru": "Хроники Франкенштейна",
+      "title_en": "The Frankenstein Chronicles",
+      "year": 2015,
+      "kinopoisk_id": 891627,
+      "world_art_id": null,
+      "translator": "ShowJet",
+      "token": "33db311c00d723453710a4542ef7ce67a053e9501fc366671ea9302b6c1dc4f0",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-19 14:55:01",
+      "added_date": "2020-11-20 16:23:43",
+      "update_date": "2020-11-20 16:30:00",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дельта",
-      "title_en": "Delt",
-      "year": 2020,
-      "kinopoisk_id": 1180622,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-19 14:54:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Никоим образом",
-      "title_en": "By No Means",
-      "year": 2020,
-      "kinopoisk_id": 1309568,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-19 14:51:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Скуби-Ду! Меч и Скуб",
-      "title_en": "Scooby-Doo! The Sword and the Scoob",
-      "year": 2021,
-      "kinopoisk_id": 4295003,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-19 14:50:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "DVDRip"
-    },
-    {
-      "title_ru": "Шок",
-      "title_en": "Shook",
-      "year": 2021,
-      "kinopoisk_id": 1138822,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-19 14:43:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 125,
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/891627.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Бэкстром",
@@ -929,114 +1078,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Зыбь",
-      "title_en": "Als de dijken breken",
-      "year": 2016,
-      "kinopoisk_id": 1178199,
-      "world_art_id": null,
-      "translator": "Русский Репортаж",
-      "token": "6e9965fb93a21bdd82a7d48e399e3dd84a5f4705e234e4bd22f5ebc9bbb019a9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-19 23:51:13",
-      "update_date": "2020-11-19 23:53:44",
-      "block": false,
-      "translator_id": 147,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1178199.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Враг близко",
-      "title_en": "Close to the Enemy",
-      "year": 2016,
-      "kinopoisk_id": 924911,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "d051de58c34069a2b8bcee7706c466dae73f1cddbb59f4f8ec1023ce6ecb1dbf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-19 23:43:05",
-      "update_date": "2020-11-19 23:49:41",
-      "block": false,
-      "translator_id": 60,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/924911.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Гости из прошлого",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1412463,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "2dc838ef3b369a56d2f00a3a4b954bbf1c3ec8d28593f7421414c3cc3a2a7fd2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-26 17:04:12",
-      "update_date": "2020-11-19 23:24:04",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1412463.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 17,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17
           ]
         }
       ]

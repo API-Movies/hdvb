@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Точный выстрел",
+      "title_en": "A Clear Shot",
+      "year": 2019,
+      "kinopoisk_id": 1245695,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-13 09:28:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кто не спрятался",
+      "title_en": "The Rental",
+      "year": 2020,
+      "kinopoisk_id": 1245346,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-13 09:27:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Горький, сладкий, кислый",
+      "title_en": "Aci Tatli Eksi",
+      "year": 2017,
+      "kinopoisk_id": 1101467,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-13 09:26:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "SATRip"
+    },
+    {
+      "title_ru": "Мулан",
+      "title_en": "Mulan",
+      "year": 2020,
+      "kinopoisk_id": 918722,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-13 08:54:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Боец в клетке",
+      "title_en": "Cagefighter: Worlds Collide",
+      "year": 2020,
+      "kinopoisk_id": 1055615,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-12 18:52:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Прошлое",
+      "title_en": "The Bygone",
+      "year": 2019,
+      "kinopoisk_id": 1039457,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-12 18:51:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Морг",
+      "title_en": "Morgue",
+      "year": 2020,
+      "kinopoisk_id": 1306639,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-12 16:36:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Атлантида",
       "title_en": "",
       "year": 2019,
@@ -170,95 +261,156 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Оборотни",
-      "title_en": "Howlers",
+      "title_ru": "Пожарная часть 19",
+      "title_en": "Station 19",
       "year": 2018,
-      "kinopoisk_id": 959502,
-      "type": "movie",
+      "kinopoisk_id": 1112969,
+      "world_art_id": null,
+      "translator": "Кириллица",
+      "token": "10ee8e09b8382925249b6362a085e01a6042dd1fe18bc4f370fd8b794814ca51",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-12 08:44:01",
+      "added_date": "2020-07-27 11:22:32",
+      "update_date": "2020-07-27 11:22:32",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
+      "translator_id": 123,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1112969.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 17,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Лицо со шрамом",
-      "title_en": "Capone",
-      "year": 2020,
-      "kinopoisk_id": 1007761,
-      "type": "movie",
+      "title_ru": "Слепая зона",
+      "title_en": "Blindspot",
+      "year": 2015,
+      "kinopoisk_id": 894877,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "138434c5529b8c3df3949d3f9949ea03ecc0d58e060dd4d841152679d8c27087",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-12 08:29:01",
+      "added_date": "2020-07-27 10:48:36",
+      "update_date": "2020-07-27 10:48:36",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/894877.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Наши дети",
-      "title_en": "I nostri figli",
-      "year": 2018,
-      "kinopoisk_id": 1220125,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-12 00:16:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Рокс",
-      "title_en": "Rocks",
+      "title_ru": "Matchday: Изнутри ФК Барселона",
+      "title_en": "Matchday: Inside FC Barcelona",
       "year": 2019,
-      "kinopoisk_id": 1206605,
-      "type": "movie",
+      "kinopoisk_id": 1320880,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "390c8f3962d0a2c51acc9ba1e4428e3ed753c7ebe876b50d7b4ec3194076ae83",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-12 00:15:01",
+      "added_date": "2020-07-27 09:28:36",
+      "update_date": "2020-07-27 09:28:36",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "То самое время года",
-      "title_en": "Den tid på året",
-      "year": 2018,
-      "kinopoisk_id": 1152991,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-12 00:14:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Неукротимые шлемы",
-      "title_en": "Cascos indomables / Helmet Heads",
-      "year": 2018,
-      "kinopoisk_id": 1197729,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-12 00:13:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Кафе на продажу",
-      "title_en": "Cafe on Sale",
-      "year": 2020,
-      "kinopoisk_id": 12251652,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-12 00:11:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1320880.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Где ты, Челси?",
@@ -969,110 +1121,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Монахиня-воин",
-      "title_en": "Warrior Nun",
-      "year": 2020,
-      "kinopoisk_id": 1245502,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "7872a3d51776f0e754b6d412489e0da3564e103070f137826bf0bc3ac6162eb6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-26 16:41:47",
-      "update_date": "2020-07-26 16:41:47",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1245502.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Секреты, которые она хранит",
-      "title_en": "The Secrets She Keeps",
-      "year": 2020,
-      "kinopoisk_id": 1366077,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "a15acd9d270495ee996c6dc0e78cc114f97c3dbf9806afdad1f2a37f73dd9fcd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-26 14:33:00",
-      "update_date": "2020-07-26 14:33:00",
-      "block": false,
-      "translator_id": 60,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1366077.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мотив",
-      "title_en": "Motyw",
-      "year": 2019,
-      "kinopoisk_id": 1281296,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "75eb830ab9e19ec8f26cba17bc0c33b199c3b0357cc94d187f1c0eed37bac4e6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-26 00:34:16",
-      "update_date": "2020-07-26 00:34:16",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1281296.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]
