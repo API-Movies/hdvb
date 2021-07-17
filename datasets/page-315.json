@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Мулан",
+      "title_en": "Mulan",
+      "year": 2020,
+      "kinopoisk_id": 918722,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-05 21:01:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Аргумент",
       "title_en": "The Argument",
       "year": 2020,
@@ -248,17 +261,173 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Девушка с браслетом",
-      "title_en": "La fille au bracelet",
-      "year": 2019,
-      "kinopoisk_id": 1328104,
-      "type": "movie",
+      "title_ru": "Пять",
+      "title_en": "The Five",
+      "year": 2016,
+      "kinopoisk_id": 891714,
+      "world_art_id": null,
+      "translator": "ShowJet",
+      "token": "9587bef9d89c305329d4b51eeea5c88b6e1dd95edcd6de0c0f126c1c8fc9453f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-04 18:46:02",
+      "added_date": "2020-03-23 08:46:40",
+      "update_date": "2020-03-23 08:46:40",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 125,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/891714.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Джона с острова Тонга",
+      "title_en": "Jonah from Tonga",
+      "year": 2014,
+      "kinopoisk_id": 818949,
+      "world_art_id": null,
+      "translator": "АРК ТВ",
+      "token": "0c70a49d52f32ddeaac1f102d37d8d7ba0e18b1103a70e7f4e7c8cc10f2e95a0",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-22 08:10:09",
+      "update_date": "2020-03-22 08:10:09",
+      "block": false,
+      "translator_id": 77,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/818949.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Пуленепробиваемые",
+      "title_en": "Bulletproof",
+      "year": 2018,
+      "kinopoisk_id": 1132323,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "6b5301ee67e4396ea8275907582e69f84a23eb211b851c2b8fc2acb9b6d724c9",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-22 07:43:02",
+      "update_date": "2020-03-22 07:43:02",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1132323.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Проклятие спящих",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 989089,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "a2d28b0758e879c0aa14795253465494dd12fa1e483de1fb0b14f91d4e7f1b21",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-21 23:45:03",
+      "update_date": "2020-03-21 23:45:03",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/989089.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Чернобыль",
+      "title_en": "Chernobyl",
+      "year": 2019,
+      "kinopoisk_id": 1227803,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "f24170811c43106df3a2f5685d89f76b0270182b6fc5176e1cf06f0565b41db0",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-21 16:05:32",
+      "update_date": "2020-03-21 16:05:32",
+      "block": [
+        "RU"
+      ],
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1227803.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Игра родом из Англии",
@@ -799,181 +968,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Миниатюрист",
-      "title_en": "The Miniaturist",
-      "year": 2017,
-      "kinopoisk_id": 1045336,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "943d0b0ed0cabb629df0e0159f7606204ee7188577176cb65a5f67ca28ceeffd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-14 11:16:32",
-      "update_date": "2020-03-14 11:16:32",
-      "block": false,
-      "translator_id": 60,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1045336.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Темпл",
-      "title_en": "Temple",
-      "year": 2019,
-      "kinopoisk_id": 1191660,
-      "world_art_id": null,
-      "translator": "Novamedia",
-      "token": "14125c3f3eee340c1f4a83dd678e356c58b77ac13d52db4e747192f77c90399e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-14 09:38:34",
-      "update_date": "2020-03-14 09:38:34",
-      "block": false,
-      "translator_id": 51,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1191660.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Элита",
-      "title_en": "Élite",
-      "year": 2018,
-      "kinopoisk_id": 1117735,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "5a5c610bfe28fbda77f3ffbeddb2ca6225051a5333e64180d3578e8296cedbcb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-13 20:06:50",
-      "update_date": "2020-03-13 20:06:50",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1117735.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Королевство",
-      "title_en": "Kingdom",
-      "year": 2019,
-      "kinopoisk_id": 1039674,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "565160740f469e8382727309d330693d4c5e983806befe95f69ba67bc00333b1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-13 16:05:24",
-      "update_date": "2020-03-13 16:05:24",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1039674.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кровавая поездка",
-      "title_en": "Blodtur / Bloodride",
-      "year": 2020,
-      "kinopoisk_id": 1352413,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "d313d4232bd47ab6cbbc63191e8923ec96571cfde26ab1378168dbc624249858",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-13 16:01:31",
-      "update_date": "2020-03-13 16:01:31",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1352413.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

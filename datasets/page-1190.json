@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Лего. Фильм 2",
+      "title_en": "The Lego Movie Sequel",
+      "year": 2019,
+      "kinopoisk_id": 829407,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-02-11 15:09:28",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Точка невозврата",
       "title_en": "High Wire Act",
       "year": 2018,
@@ -256,21 +269,6 @@
       "translator": "Не требуется",
       "translator_id": 92,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Как я стал русским",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1111720,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-02-08 20:59:43",
-      "block": [
-        "RU"
-      ],
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
     }
   ]
 }

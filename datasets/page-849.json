@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title_ru": "Мидуэй",
+      "title_en": "Midway",
+      "year": 2019,
+      "kinopoisk_id": 1045457,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-12 13:05:02",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
       "title_ru": "24 часа в моей маленькой квартире",
       "title_en": "24 Hours in My Council Flat",
       "year": 2017,
@@ -249,19 +265,6 @@
       "translator": "Дубляж [Лицензия]",
       "translator_id": 107,
       "quality": "BluRay"
-    },
-    {
-      "title_ru": "Последняя сказка Риты",
-      "title_en": "",
-      "year": 2012,
-      "kinopoisk_id": 508645,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-11 21:01:02",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "HDTV"
     }
   ]
 }

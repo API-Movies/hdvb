@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Ограбление демонов",
+      "title_en": "Rakshasa robbery",
+      "year": 2020,
+      "kinopoisk_id": 6578655,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-18 15:38:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Потаённый Убийца",
       "title_en": "A Killer Awaits",
       "year": 2018,
@@ -248,17 +261,210 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Благие намерения",
-      "title_en": "Les bonnes intentions",
-      "year": 2018,
-      "kinopoisk_id": 1192799,
-      "type": "movie",
+      "title_ru": "Беглецы",
+      "title_en": "Runaways",
+      "year": 2017,
+      "kinopoisk_id": 463689,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "ebdbc9a533b53757910889b4876bff4acb683b877ff2537fcad4e96f19b50a4b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-17 21:02:01",
+      "added_date": "2019-12-14 07:45:20",
+      "update_date": "2019-12-14 07:45:20",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/463689.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Психо-паспорт",
+      "title_en": "Psycho-Pass",
+      "year": 2012,
+      "kinopoisk_id": 707090,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "c23c8e1b2c5ebca79b9b4ef205e3d8f3595a268d34b3f3c2e75d6b1c03010639",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-13 19:59:34",
+      "update_date": "2019-12-13 19:59:34",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/707090.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Пространство",
+      "title_en": "The Expanse",
+      "year": 2015,
+      "kinopoisk_id": 805092,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "6f743980ed40d5ddb6621684da0e7ba58d2898dae86d361d2dfdd1d3e4994052",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-13 17:04:52",
+      "update_date": "2019-12-13 17:04:52",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/805092.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=113375",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Касл-Рок",
+      "title_en": "Castle Rock",
+      "year": 2018,
+      "kinopoisk_id": 1040949,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "1f59a8bccb66e223c6cb740213de4e2ec104783c0920701bc9401d27a9433bb5",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-13 11:18:54",
+      "update_date": "2019-12-13 11:18:54",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1040949.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=151100",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Джек Райан",
+      "title_en": "Jack Ryan",
+      "year": 2018,
+      "kinopoisk_id": 1008708,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "3cc302c1106782d0425475b9f1b45a8e112cd28924b05d371cb70d890ad382cb",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-12 01:07:32",
+      "update_date": "2019-12-12 01:07:32",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1008708.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=144151",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Удивительная миссис Мейзел",
@@ -862,197 +1068,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Вампирские войны",
-      "title_en": "V-Wars",
-      "year": 2019,
-      "kinopoisk_id": 1142624,
-      "world_art_id": null,
-      "translator": "Дубляж [Лицензия]",
-      "token": "f5daaec735a179a41706115149f3be96909756e3e7b64b8211a46a47253b2af1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-08 10:29:29",
-      "update_date": "2019-12-08 10:29:29",
-      "block": false,
-      "translator_id": 107,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1142624.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Солнечная сторона",
-      "title_en": "Sunnyside",
-      "year": 2019,
-      "kinopoisk_id": 1245505,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "23165b014c86bca48eb98e6630b9a42f434025e52c159fe0c6ce977810f73039",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-08 10:24:15",
-      "update_date": "2019-12-08 10:24:15",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1245505.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Видеть",
-      "title_en": "See",
-      "year": 2019,
-      "kinopoisk_id": 1171911,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "cdf1e1fd93b235aba71f064f6c01df5afb5687197646a26aada51a1606e7cb10",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-08 10:22:48",
-      "update_date": "2019-12-08 10:22:48",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1171911.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Играть по-крупному",
-      "title_en": "Playing for Keeps",
-      "year": 2019,
-      "kinopoisk_id": 1172823,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "f6f4147bbed1c102daf7939ace33184d9915765b553d8ce19319f46c030fd9f1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-08 10:22:20",
-      "update_date": "2019-12-08 10:22:20",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1172823.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Оккупированные",
-      "title_en": "Okkupert",
-      "year": 2015,
-      "kinopoisk_id": 891787,
-      "world_art_id": null,
-      "translator": "IdeaFilm",
-      "token": "016b6c6a2dfcb8efee3729a4e1d9439e31e44b4ef3d2d93a1b210f18c20496a7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-07 22:06:09",
-      "update_date": "2019-12-07 22:06:09",
-      "block": false,
-      "translator_id": 35,
-      "quality": "BluRay",
-      "poster": "https://st.kp.yandex.net/images/film_big/891787.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

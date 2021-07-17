@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Тонка линия",
+      "title_en": "The Thin Line",
+      "year": 2019,
+      "kinopoisk_id": 773078,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-16 18:45:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Это не похороны, это — воскресение",
       "title_en": "This Is Not a Burial, It's a Resurrection",
       "year": 2019,
@@ -248,17 +261,198 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Резилиенс и Утраченные Самоцветы",
-      "title_en": "Resilience and the Lost Gems",
-      "year": 2019,
-      "kinopoisk_id": 1190491,
-      "type": "movie",
+      "title_ru": "Гимн смерти",
+      "title_en": "Saui chanmi",
+      "year": 2018,
+      "kinopoisk_id": 1113026,
+      "world_art_id": null,
+      "translator": "SoftBox",
+      "token": "b2cb1294e4864a3f207c59ae9d7caff4f84eca77d77f7022c5c02c3366156c04",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-15 01:30:02",
+      "added_date": "2020-07-26 17:23:15",
+      "update_date": "2020-07-26 17:23:15",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 106,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1113026.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мы и они",
+      "title_en": "Us &amp; Them",
+      "year": 2013,
+      "kinopoisk_id": 738518,
+      "world_art_id": null,
+      "translator": "SET Russia",
+      "token": "b9407529cef9dfac488eef28edb49a3cdbaf2031e10da2655d0470d1e8311c1b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-26 17:21:53",
+      "update_date": "2020-07-26 17:21:53",
+      "block": false,
+      "translator_id": 61,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/738518.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Следственный отдел старичков-красавчиков",
+      "title_en": "Kkothalbae susadae",
+      "year": 2014,
+      "kinopoisk_id": 841541,
+      "world_art_id": null,
+      "translator": "двухголосый закадровый",
+      "token": "8486b1fc5494dc87838364954d52f0f57522a827d4742a15aff3d2f4c6d606c5",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-26 17:19:08",
+      "update_date": "2020-07-26 17:19:08",
+      "block": false,
+      "translator_id": 81,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/841541.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Тодд и книга чистого зла",
+      "title_en": "Todd and the Book of Pure Evil",
+      "year": 2010,
+      "kinopoisk_id": 579850,
+      "world_art_id": null,
+      "translator": "2x2",
+      "token": "2d3095c145be52597800a477689938cd4af6960c71a6b983de5e100bead22f13",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-26 17:15:04",
+      "update_date": "2020-07-26 17:15:04",
+      "block": false,
+      "translator_id": 1,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/579850.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Монахиня-воин",
+      "title_en": "Warrior Nun",
+      "year": 2020,
+      "kinopoisk_id": 1245502,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "7872a3d51776f0e754b6d412489e0da3564e103070f137826bf0bc3ac6162eb6",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-26 16:41:47",
+      "update_date": "2020-07-26 16:41:47",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1245502.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Секреты, которые она хранит",
@@ -1144,320 +1338,6 @@
         },
         {
           "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Долго и счастливо",
-      "title_en": "\\'Til Death",
-      "year": 2006,
-      "kinopoisk_id": 412472,
-      "world_art_id": null,
-      "translator": "SET Russia",
-      "token": "16daef5cb2c60f94635e54b58f72cdb1190253a6f89d19d8f7224f846a42cf1b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-24 19:55:37",
-      "update_date": "2020-07-24 19:55:37",
-      "block": false,
-      "translator_id": 61,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/412472.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 22,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 22,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 22,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "День, когда написана моя судьба",
-      "title_en": "Kaderimin Yazildigi Gün",
-      "year": 2014,
-      "kinopoisk_id": 843353,
-      "world_art_id": null,
-      "translator": "одноголосый закадровый",
-      "token": "06e88166182725a8cfe3b15d574daaab87b94dc8e151907cbdd0b516231990b7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-24 18:35:05",
-      "update_date": "2020-07-24 18:35:05",
-      "block": false,
-      "translator_id": 93,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/843353.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 34,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Одержимые",
-      "title_en": "Seizure",
-      "year": 2019,
-      "kinopoisk_id": 1296048,
-      "world_art_id": null,
-      "translator": "ViruseProject",
-      "token": "e65360fbc74a98c144baae4b60533a614a54bc20bea44518cf6f5fd1b1786678",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-24 18:32:05",
-      "update_date": "2020-07-24 18:32:05",
-      "block": false,
-      "translator_id": 72,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1296048.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Слепая зона",
-      "title_en": "Blindspot",
-      "year": 2015,
-      "kinopoisk_id": 894877,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "ed9dd4b356b1c1983eddaefac4051f190f36df00dda9bb5ab94c97fa9c4dc2ee",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-24 17:49:36",
-      "update_date": "2020-07-24 17:49:36",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/894877.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Центральный парк",
-      "title_en": "Central Park",
-      "year": 2020,
-      "kinopoisk_id": 1139898,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "c3f12b13ccb7470617d865830b9c911aaeaaf54803a5dd9caaef56eeef657038",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-24 11:46:09",
-      "update_date": "2020-07-24 11:46:09",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1139898.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 10,
           "episodes": [
             1,

@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Проклятие Вальбурга",
+      "title_en": "The Curse of Valburga",
+      "year": 2020,
+      "kinopoisk_id": 1299507,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-14 23:53:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Сквозь тёмное зеркало",
       "title_en": "Through a Dark Mirror",
       "year": 2020,
@@ -248,17 +261,188 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Сумерки",
-      "title_en": "Twilight",
-      "year": 2008,
-      "kinopoisk_id": 401177,
-      "type": "movie",
+      "title_ru": "Титаны",
+      "title_en": "Titans",
+      "year": 2018,
+      "kinopoisk_id": 462353,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "f285fd2b06a323231a506eed5f732a68c9942186761510d57f20a9f4408eb100",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-14 10:28:01",
+      "added_date": "2019-11-30 08:39:03",
+      "update_date": "2019-11-30 08:39:03",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/462353.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Левиус",
+      "title_en": "Levius",
+      "year": 2019,
+      "kinopoisk_id": 1249497,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "31e875a29c77a2cc9c9b625743d21f3816803ac62100e3b872939801a7a7516a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-28 20:12:49",
+      "update_date": "2019-11-28 20:12:49",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1249497.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Смертоносный",
+      "title_en": "Mortel",
+      "year": 2019,
+      "kinopoisk_id": 1274325,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "e32bd169053aeb8fca27f45cba87d04964f6d73988dff73a03467c554bd342c6",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-28 17:18:40",
+      "update_date": "2019-11-28 17:18:40",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1274325.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Поток",
+      "title_en": "The Feed",
+      "year": 2019,
+      "kinopoisk_id": 1117141,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "4f98491e7fff47c0a390ea81467da900bbd7e424392b2c467b02b7bfc445da28",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-28 17:17:00",
+      "update_date": "2019-11-28 17:17:00",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1117141.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Закон города на утёсе",
+      "title_en": "Bluff City Law",
+      "year": 2019,
+      "kinopoisk_id": 1264665,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "bfb11bf448c676d93f4efe2d757c3b7e8435af0fe94c3920632519586f2363de",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-28 17:10:50",
+      "update_date": "2019-11-28 17:10:50",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1264665.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Никто не смотрит",
@@ -861,262 +1045,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Достать коротышку",
-      "title_en": "Get Shorty",
-      "year": 2017,
-      "kinopoisk_id": 1007465,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "6b65844e109da462858449b796169f2c1119453f1c225771abbd2508dad6a992",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-22 11:56:04",
-      "update_date": "2019-11-22 11:56:04",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 60,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1007465.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=141756",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Соболезную вашей утрате",
-      "title_en": "Sorry for Your Loss",
-      "year": 2018,
-      "kinopoisk_id": 1114060,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "7d7a728da50fd0aa76a7f9c2770de3084c04a02954f17f31c703bb2e99c3a16c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-22 09:19:33",
-      "update_date": "2019-11-22 09:19:33",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1114060.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чёрная стерва",
-      "title_en": "Total Control (Black Bitch)",
-      "year": 2019,
-      "kinopoisk_id": 1217675,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "2ed60599a78609333ac2f92d49b5bdc87fedf566361f35f5e0d746fcb1cd6385",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-22 09:18:43",
-      "update_date": "2019-11-22 09:18:43",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1217675.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ничего не происходит",
-      "title_en": "No Activity",
-      "year": 2017,
-      "kinopoisk_id": 1072991,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "ad87f3a2e432a04240e6e244a35574315d0be25840c342256309cb5d9d2ba215",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-22 09:02:49",
-      "update_date": "2019-11-22 09:02:49",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1072991.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Доктор Рихтер",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 991705,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "1e678689c4ba5565c7cfb65ff0803fe1ff601d127c5bf1e3be87e4f1abb376be",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-22 00:56:26",
-      "update_date": "2019-11-22 00:56:26",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/991705.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 24,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
           ]
         }
       ]

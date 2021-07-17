@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Беспощадность!: Мюзикл",
+      "title_en": "Ruthless! The Musical",
+      "year": 2019,
+      "kinopoisk_id": 1231820,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-14 19:19:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Нарцисс и Златоуст",
       "title_en": "Narziss und Goldmund",
       "year": 2020,
@@ -248,17 +261,185 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Явление",
-      "title_en": "Fatima",
-      "year": 2020,
-      "kinopoisk_id": 686940,
-      "type": "movie",
+      "title_ru": "Босх",
+      "title_en": "Bosch",
+      "year": 2014,
+      "kinopoisk_id": 803363,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "125766f09a5619c338358350fc7285ae4a3514b455f3325c7cb6c9997b5ab20f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-13 08:02:01",
+      "added_date": "2020-04-17 19:18:23",
+      "update_date": "2020-04-17 19:18:23",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/803363.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=119633",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "И немного волшебства.Таинственный Город",
+      "title_en": "Just Add Magic: Mystery City",
+      "year": 2020,
+      "kinopoisk_id": 1340661,
+      "world_art_id": null,
+      "translator": "Пифагор",
+      "token": "d3c1437e9427f20485cfdaf5bb945827c8441366b88f62a4d180a91acf6d51a6",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-17 16:41:42",
+      "update_date": "2020-04-17 16:41:42",
+      "block": false,
+      "translator_id": 124,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1340661.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Скрытые вещи",
+      "title_en": "Kakushigoto / Kakushigoto: My Dad's Secret Ambition",
+      "year": 2020,
+      "kinopoisk_id": 1330567,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "0602c7870149e467f58ba5d51fd7532dd8b54b7008456a25fb2a3effa14042a2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-17 08:53:00",
+      "update_date": "2020-04-17 08:53:00",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1330567.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Богатый детектив. Баланс: Неограничен",
+      "title_en": "Fugou Keiji: Balance: Unlimited",
+      "year": 2020,
+      "kinopoisk_id": 1764482,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "d4f5b42c03b2d2ea4aac5f9b5189ea822cdb8e5ba6c2709bd8017e37ea16489c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-17 08:52:35",
+      "update_date": "2020-04-17 08:52:35",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1764482.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Дьяволы",
+      "title_en": "Devils / Diavoli",
+      "year": 2020,
+      "kinopoisk_id": 1186085,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "6c8293c19cfc3f2426a40d2a7517bae14e0d9d7273ab4d372a9837879c2311dd",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-17 08:52:05",
+      "update_date": "2020-04-17 08:52:05",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1186085.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Телевикторина",
@@ -806,176 +987,6 @@
             18,
             19,
             20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Новый Амстердам",
-      "title_en": "New Amsterdam",
-      "year": 2018,
-      "kinopoisk_id": 1129490,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "75a1af1b48a60d81d0bc8e28c2831dfeadaea7963b48efa2b4c61b9a17e3337a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-15 15:09:33",
-      "update_date": "2020-04-15 15:09:33",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1129490.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Прикуп",
-      "title_en": "The Take",
-      "year": 2009,
-      "kinopoisk_id": 487211,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "e6ab39632a8803940691e83738c8b1a1964592c1ee8b85d61b9e56decc70e46b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-15 12:58:50",
-      "update_date": "2020-04-15 12:58:50",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/487211.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Счастье по договору",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 1047606,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "e9e1f85a95eb395384c361ddf111dd5bcb1cc0d4fcffd8d7eae78aa8279c59ae",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-15 09:46:29",
-      "update_date": "2020-04-15 09:46:29",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1047606.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мир на земле",
-      "title_en": "Fred til lands",
-      "year": 2019,
-      "kinopoisk_id": 1266752,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "5a9910404f8ca1949ed985c6b0e88dd6b70e6e98884204ee94fadefde5e98a71",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-15 09:37:00",
-      "update_date": "2020-04-15 09:37:00",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1266752.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "М убийца",
-      "title_en": "M - Eine Stadt sucht einen Mörder",
-      "year": 2019,
-      "kinopoisk_id": 1110948,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "07ec49e7ec8516126d67a874de4403d4e1bd1214e36f2b721e099e48d5c72938",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-15 09:35:13",
-      "update_date": "2020-04-15 09:35:13",
-      "block": false,
-      "translator_id": 60,
-      "quality": "BluRay",
-      "poster": "https://st.kp.yandex.net/images/film_big/1110948.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Исход",
+      "title_en": "Exodus",
+      "year": 2021,
+      "kinopoisk_id": 1140301,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-09 14:33:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Дино Дана",
       "title_en": "Dino Dana: The Movie",
       "year": 2020,
@@ -248,17 +261,278 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Дневник рыбака",
-      "title_en": "The Fisherman's Diary",
-      "year": 2020,
-      "kinopoisk_id": 4411040,
-      "type": "movie",
+      "title_ru": "Город мечты",
+      "title_en": "Magic City",
+      "year": 2012,
+      "kinopoisk_id": 580577,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "c7e8f560b67f7d6d576b8a692aa1eb315a69635bec119f71acab99c8adc90c75",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-07 23:44:01",
+      "added_date": "2021-01-21 22:18:58",
+      "update_date": "2021-01-23 19:57:55",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/580577.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Герои Энвелла",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 1072974,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "15c965dd1b44c7a5f786ff7539c0a6a9e807af1c1584d327c985cf8fb424751f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-23 17:56:47",
+      "update_date": "2021-01-23 17:58:01",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1072974.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 27,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 19,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Беглые родственники",
+      "title_en": "",
+      "year": 2016,
+      "kinopoisk_id": 968035,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "b1b2e3009bb514c621f860ee6d8e84fd42089a956165b0c8180de9577d0a413f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-23 16:35:54",
+      "update_date": "2021-01-23 16:37:06",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/968035.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Три пути",
+      "title_en": "3 caminos",
+      "year": 2021,
+      "kinopoisk_id": 1346722,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "cd1384ac810df41e58a0dde50f9db8753ab15ec4edebae0ac99951bb77128291",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-23 09:46:09",
+      "update_date": "2021-01-23 13:48:58",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1346722.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Звездный путь: Нижние палубы",
+      "title_en": "Star Trek: Lower Decks",
+      "year": 2020,
+      "kinopoisk_id": 1209195,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "3731da1af550c05db693e0692fc0c691fc6faeac7bdcd25f323051a58b4d7cbe",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-23 12:42:58",
+      "update_date": "2021-01-23 12:43:43",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1209195.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Судьба: Сага клуба Винкс",
+      "title_en": "Fate: The Winx Saga",
+      "year": 2021,
+      "kinopoisk_id": 1189826,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "d448da875984777fc297e0a714820d5799d39c5dfd36826f080cf504b5794d04",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-23 09:47:33",
+      "update_date": "2021-01-23 09:48:29",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1189826.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Рим",
@@ -849,366 +1123,6 @@
             18,
             19,
             20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Озабоченные",
-      "title_en": "",
-      "year": 2015,
-      "kinopoisk_id": 820603,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "7cd6cf1a9730977c27c08d187834f65eb8349b1422a37a8191e68bb723adaa4b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-22 15:59:36",
-      "update_date": "2021-01-22 16:00:27",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/820603.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 21,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Миллионер из Балашихи",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1270744,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "dda74475b4dc1d3b2951bd8dbe1a3c2cbe48aea93e24f6323d49d28ad7f02eda",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-22 15:58:26",
-      "update_date": "2021-01-22 15:59:39",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1270744.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Стальная звезда",
-      "title_en": "Tin Star",
-      "year": 2017,
-      "kinopoisk_id": 981330,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "cd8ca48300e3f4bf8cada14f63e759d34e9da9902de1cb40ee68157eb5e5e57e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-06 13:01:42",
-      "update_date": "2021-01-22 15:42:31",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/981330.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Пуленепробиваемые",
-      "title_en": "Bulletproof",
-      "year": 2018,
-      "kinopoisk_id": 1132323,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "60553d55208eb4bf20872dc1397f815f0805574a1bc6bfbfd8a51ab201688c18",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-22 08:41:51",
-      "update_date": "2021-01-22 08:42:51",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1132323.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Три пути",
-      "title_en": "3 caminos",
-      "year": 2021,
-      "kinopoisk_id": 1346722,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "b970ce525d686666b29f2c8078af80b19c865abe3e80053b3995bab3f32556f8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-22 06:17:04",
-      "update_date": "2021-01-22 06:17:45",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1346722.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Безумцы",
-      "title_en": "Mad Men",
-      "year": 2007,
-      "kinopoisk_id": 391889,
-      "world_art_id": null,
-      "translator": "Fox Life",
-      "token": "5e95cb5ce3050ddcd8ce3f709060bc888ecf81e42dc1a7bcc76f96d8da2d84f9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-21 22:38:35",
-      "update_date": "2021-01-21 22:40:01",
-      "block": false,
-      "translator_id": 127,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/391889.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 7,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
           ]
         }
       ]

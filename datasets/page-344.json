@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Загадки Маунт Хайдэвей: Бывшие и неприятности",
+      "title_en": "Mount Hideaway Mysteries: Exes and Oh No's",
+      "year": 2020,
+      "kinopoisk_id": 1238886,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-08 14:41:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Бессмертный герой",
       "title_en": "Sekai kara kibo ga kietanara",
       "year": 2019,
@@ -248,17 +261,173 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Сделано в Италии",
-      "title_en": "Made in Italy",
-      "year": 2020,
-      "kinopoisk_id": 1207701,
-      "type": "movie",
+      "title_ru": "Наследники",
+      "title_en": "Succession",
+      "year": 2018,
+      "kinopoisk_id": 986788,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "e76dc4e0833e82089af697d1786d16c9044989122c069d6f9a0c31b0db7b120b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-07 16:32:02",
+      "added_date": "2019-10-14 19:08:44",
+      "update_date": "2019-10-14 19:08:44",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/986788.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=148504",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Праведные Джемстоуны",
+      "title_en": "The Righteous Gemstones",
+      "year": 2019,
+      "kinopoisk_id": 1170183,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "09b5e0d153961c21f929c16f05da5732f229e98bc525afd0b2d21dd7c7433a8d",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-10-14 15:20:37",
+      "update_date": "2019-10-14 15:20:37",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1170183.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Маменькин сынок",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1272301,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "e20ba18ec43c5a3307e59143e1b154d97fff84eb5e1f90df4fd997e708235872",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-10-13 13:11:51",
+      "update_date": "2019-10-13 13:11:51",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1272301.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Террор",
+      "title_en": "The Terror",
+      "year": 2018,
+      "kinopoisk_id": 738318,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "81a646e5c935ae034287609975ccde5f492a622117538ffa60303aaf5d8865e5",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-10-13 13:10:52",
+      "update_date": "2019-10-13 13:10:52",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/738318.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=145373",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Вылет",
+      "title_en": "Departure",
+      "year": 2019,
+      "kinopoisk_id": 1211836,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "11a646f0d4cad3a30244c8c49d4e197684739a1dfcd6c5510a6f165f451fa94e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-10-12 13:59:55",
+      "update_date": "2019-10-12 13:59:55",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1211836.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Тимон и Пумба",
@@ -923,439 +1092,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Голиаф",
-      "title_en": "Goliath",
-      "year": 2016,
-      "kinopoisk_id": 927245,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "2fada2171430732571a3af6654a864ba6abd99ee2cd327e4a2d3c23fdbdf12d1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-04 16:38:19",
-      "update_date": "2019-10-04 16:38:19",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/927245.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=134983",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Путь",
-      "title_en": "The Path",
-      "year": 2016,
-      "kinopoisk_id": 933717,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "c9ee9545166a335f8d6dfef6ff174b7cedaea8fbd3fa6cd7cc503e8de7387ead",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-02 14:32:26",
-      "update_date": "2019-10-02 14:32:26",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/933717.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=131373",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Грань",
-      "title_en": "Fringe",
-      "year": 2008,
-      "kinopoisk_id": 412342,
-      "world_art_id": null,
-      "translator": "ТВ-3",
-      "token": "da3f8c3284624d74404cca3f1bc13b9349cb0e3354ade92be346f5113c84981d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-02 13:09:20",
-      "update_date": "2019-10-02 13:09:20",
-      "block": false,
-      "translator_id": 100,
-      "quality": "BluRay",
-      "poster": "https://st.kp.yandex.net/images/film_big/412342.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=79869",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 23,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 22,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 22,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Грань",
-      "title_en": "Fringe",
-      "year": 2008,
-      "kinopoisk_id": 412342,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "30641a6ba3f00b07e769334e6656901705e5e1683e64bc486714b9b40ada8d99",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-02 12:32:05",
-      "update_date": "2019-10-02 12:32:05",
-      "block": false,
-      "translator_id": 43,
-      "quality": "BluRay",
-      "poster": "https://st.kp.yandex.net/images/film_big/412342.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=79869",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 23,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 21,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 21,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Очевидное",
-      "title_en": "Transparent",
-      "year": 2014,
-      "kinopoisk_id": 838495,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "1466e343d47b02e1b4b3c7c2ec4ebeb1d68b59707984d667da570cff913a33ce",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-02 11:56:02",
-      "update_date": "2019-10-02 11:56:02",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/838495.jpg",
-      "trailer": "https://kp.cdn.yandex.net/838495/kinopoisk.ru-Transparent-227127.mp4",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 1,
-          "episodes": [
-            1
           ]
         }
       ]

@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Хранитель дворца",
+      "title_en": "Guardian of the Palace",
+      "year": 2020,
+      "kinopoisk_id": 54674356,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-11 01:31:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Телохранитель бабушки",
       "title_en": "Lucky Grandma",
       "year": 2019,
@@ -248,17 +261,172 @@
       "quality": "HDRip"
     },
     {
-      "title_ru": "Эмоджи фильм",
-      "title_en": "The Emoji Movie",
+      "title_ru": "Двойка",
+      "title_en": "The Deuce",
       "year": 2017,
-      "kinopoisk_id": 957805,
-      "type": "movie",
+      "kinopoisk_id": 933326,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "4e0fd15e303f5543f718d1077afc9d2f74ea45708e98ede7ad8f57c8647c6e06",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-09 03:04:02",
+      "added_date": "2019-10-29 16:49:16",
+      "update_date": "2019-10-29 16:49:16",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/933326.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=144744",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Война миров",
+      "title_en": "War of the Worlds",
+      "year": 2019,
+      "kinopoisk_id": 1236435,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "175f7f7df222369215cef10585a3bbadf93e947008dd16f9d449a7cf22b55300",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-10-29 08:44:06",
+      "update_date": "2019-10-29 08:44:06",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1236435.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Потрёпанные",
+      "title_en": "Frayed",
+      "year": 2019,
+      "kinopoisk_id": 1208758,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "693590ea41c77a0c594139c22795764107d843f38bd474a9c799fdc5a46dda69",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-10-28 09:44:05",
+      "update_date": "2019-10-28 09:44:05",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1208758.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Рассвет",
+      "title_en": "Daybreak",
+      "year": 2019,
+      "kinopoisk_id": 1214381,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "7cbb85b4d8c6a72dc3b3500b70d21e98bc30aa617a59c7f0f72eeb85ced37540",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-10-27 10:07:36",
+      "update_date": "2019-10-27 10:07:36",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1214381.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ты боишься темноты?",
+      "title_en": "Are You Afraid of the Dark?",
+      "year": 2019,
+      "kinopoisk_id": 1274369,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "99d315d9c693fccc138fefbb74e64f054c3623bfbb2756d0f32cfb1ef2d9cf6c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-10-26 22:44:36",
+      "update_date": "2019-10-26 22:44:36",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1274369.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Канцелярская крыса",
@@ -819,174 +987,6 @@
             5,
             6,
             7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Форс-мажор",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 988790,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "6915517c774399dbe48d3567dba49fcdfacef5d400a2c99ceab2997d9ac2eee7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-22 15:28:29",
-      "update_date": "2019-10-22 15:28:29",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/988790.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Жизнь с самим собой",
-      "title_en": "Living with Yourself",
-      "year": 2019,
-      "kinopoisk_id": 1183824,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "a77aa9f81ee4737cca07056cda61893a36c0b40bd45086670d60d12d2fc8ed03",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-22 02:42:31",
-      "update_date": "2019-10-22 02:42:31",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1183824.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Война миров",
-      "title_en": "The War of the Worlds",
-      "year": 2019,
-      "kinopoisk_id": 1135437,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "790e046dd0a6f3408e2e203ea9b84327250f788120678d5624f1845e0aebb496",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-22 02:31:44",
-      "update_date": "2019-10-22 02:31:44",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1135437.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "В конце концов",
-      "title_en": "In the Long Run",
-      "year": 2018,
-      "kinopoisk_id": 1049479,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "54877e5c4ad7fc92e76bbf265c8f7b53ce0b8d51b5b623e04f8543b65cfca495",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-21 01:45:42",
-      "update_date": "2019-10-21 01:45:42",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1049479.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Футболисты",
-      "title_en": "Ballers",
-      "year": 2015,
-      "kinopoisk_id": 762087,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "cf075ba4f78e801fd1b1554454eb0c9b1fece0cb424311a1b711063a501d29c1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-20 21:08:22",
-      "update_date": "2019-10-20 21:08:22",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/762087.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=117665",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]
