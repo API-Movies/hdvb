@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "title_ru": "Ликвидатор",
+      "title_en": "Xin li zui zhi cheng shi zhi guang",
+      "year": 2017,
+      "kinopoisk_id": 1045604,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 12:08:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Парень как Джэйк",
+      "title_en": "A Kid Like Jake",
+      "year": 2018,
+      "kinopoisk_id": 1045405,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 12:07:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Оборотень",
+      "title_en": "Werewolf",
+      "year": 2016,
+      "kinopoisk_id": 1044881,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 12:06:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Хынбу",
+      "title_en": "Heungbu",
+      "year": 2018,
+      "kinopoisk_id": 1044401,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 12:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Balu Mahi",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 1041394,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 12:04:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Король",
+      "title_en": "Rey",
+      "year": 2017,
+      "kinopoisk_id": 1040745,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 12:03:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Varasto 2",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1039242,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 12:02:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Коммунист",
+      "title_en": "Sakhavu",
+      "year": 2017,
+      "kinopoisk_id": 1036262,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 12:01:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Бумажный год",
+      "title_en": "Paper Year",
+      "year": 2018,
+      "kinopoisk_id": 1035672,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 12:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Эллен",
       "title_en": "Ellen",
       "year": 2016,
@@ -144,121 +261,136 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Slugterra: Into the Shadows",
+      "title_ru": "Городские легенды",
+      "title_en": "Urban Myths",
+      "year": 2017,
+      "kinopoisk_id": 1008707,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "4299980e2eae6a0fd7ecf1a329ea0c6646c05b32e6540a85986e00b18ee91755",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-09 09:05:08",
+      "update_date": "2020-10-29 12:43:11",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1008707.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Зомби-детектив",
+      "title_en": "Jombitamjeong (The Zombie Detective)",
+      "year": 2020,
+      "kinopoisk_id": 1383059,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "093139de9203e2d897e4ef24ed1ebf550e728ef76375dcfb782dfd92c1e5e80c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-09-21 08:54:50",
+      "update_date": "2020-10-29 09:21:03",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1383059.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 24,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мой мужчина, моя женщина",
       "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 994527,
-      "type": "movie",
+      "year": 2020,
+      "kinopoisk_id": 34456453,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "37495c1bf3573e271bff737b569a1f0495fec96cc094f0e77cbf8cd860a56751",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-16 11:49:02",
+      "added_date": "2020-10-27 00:40:03",
+      "update_date": "2020-10-29 07:58:43",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Тонкая материя",
-      "title_en": "Soft Matter",
-      "year": 2018,
-      "kinopoisk_id": 993478,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 11:48:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Большие малыши",
-      "title_en": "Adult Babies",
-      "year": 2017,
-      "kinopoisk_id": 992577,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 11:47:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Перемены",
-      "title_en": "Sea Change",
-      "year": 2017,
-      "kinopoisk_id": 992530,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 11:46:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Рэй встречает Елену",
-      "title_en": "Ray Meets Helen",
-      "year": 2017,
-      "kinopoisk_id": 990030,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 11:45:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Светлое будущее 2018",
-      "title_en": "Ying xiong ben se 2018",
-      "year": 2018,
-      "kinopoisk_id": 989736,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 11:44:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Dreaming Purple Neon",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 986910,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 11:43:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Босиком по стерне",
-      "title_en": "Po strnisti bos",
-      "year": 2017,
-      "kinopoisk_id": 986907,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 11:42:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Дрифтеры",
-      "title_en": "Saheb bibi golaam",
-      "year": 2016,
-      "kinopoisk_id": 985585,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 11:41:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 92,
+      "quality": "WEBRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/34456453.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Девственница",
@@ -1414,108 +1546,6 @@
             16,
             17,
             18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Десять процентов",
-      "title_en": "Dix pour cent",
-      "year": 2015,
-      "kinopoisk_id": 1046111,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "135ada24cb969e335f8b20342eb4cef3933e6bd728608ca59899b747b33f4a73",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-21 09:05:08",
-      "update_date": "2020-10-27 09:48:33",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1046111.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Варвары",
-      "title_en": "Barbaren (Barbarians)",
-      "year": 2020,
-      "kinopoisk_id": 1314843,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "82b45b09d32a0c2eb3281e479afe7ad4459d2c1b94a02dc59c8c36edb0343990",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-24 09:28:54",
-      "update_date": "2020-10-27 09:48:09",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1314843.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Человек-паук",
-      "title_en": "Spider-Man",
-      "year": 2017,
-      "kinopoisk_id": 1008482,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "c278c2bf4ffac47458e1c8506b5cda3a273b541fc89f127da146c80c673d96bc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-22 14:08:41",
-      "update_date": "2020-10-27 09:13:16",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1008482.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]
