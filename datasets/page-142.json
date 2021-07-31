@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "title_ru": "Персона",
+      "title_en": "Persona",
+      "year": 1966,
+      "kinopoisk_id": 79506,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-09 19:35:02",
+      "block": false,
+      "translator": "СВ-Дубль",
+      "translator_id": 166,
+      "quality": "BDRemux"
+    },
+    {
+      "title_ru": "Айсберг",
+      "title_en": "Titanic II",
+      "year": 2010,
+      "kinopoisk_id": 512769,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-09 19:34:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Билли Айлиш: Слегка размытый мир",
+      "title_en": "Billie Eilish: The World\\'s a Little Blurry",
+      "year": 2021,
+      "kinopoisk_id": 1347198,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-09 19:22:01",
+      "block": false,
+      "translator": "HDrezka Studio",
+      "translator_id": 33,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Предатель",
+      "title_en": "Traitor",
+      "year": 2008,
+      "kinopoisk_id": 391751,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-09 19:16:02",
+      "block": false,
+      "translator": "Профессиональный (двухголосый)",
+      "translator_id": 162,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Бульвар страха",
+      "title_en": "Rosewood Lane",
+      "year": 2011,
+      "kinopoisk_id": 580672,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-09 14:26:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BDRemux"
+    },
+    {
+      "title_ru": "Молодые «полакас»",
+      "title_en": "Jovens Polacas",
+      "year": 2019,
+      "kinopoisk_id": 1304132,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-09 14:02:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Предупреждение",
+      "title_en": "Hallali",
+      "year": 2019,
+      "kinopoisk_id": 1340929,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-09 14:01:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Замкнутый круг",
+      "title_en": "Full Circle",
+      "year": 2019,
+      "kinopoisk_id": 1202658,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-09 13:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Обманка",
+      "title_en": "Frank's Deep Fake",
+      "year": 2019,
+      "kinopoisk_id": 1117625,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-09 13:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Гамбит Эвана",
       "title_en": "Evan's Gambit",
       "year": 2019,
@@ -144,121 +261,101 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Ва-банк",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1335582,
-      "type": "movie",
+      "title_ru": "Доминион",
+      "title_en": "Dominion",
+      "year": 2014,
+      "kinopoisk_id": 784289,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "d318a5e85f0e49b62793fca98b833bbfb1e631119b07d310955bd01bbf00d87c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-09 12:21:02",
+      "added_date": "2020-11-29 17:29:40",
+      "update_date": "2020-11-29 17:37:15",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/784289.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Люс",
-      "title_en": "Luce",
-      "year": 2019,
-      "kinopoisk_id": 1103625,
-      "type": "movie",
+      "title_ru": "Другая О Хэ-ён",
+      "title_en": "Tto Oh Hae-yeong",
+      "year": 2016,
+      "kinopoisk_id": 986651,
+      "world_art_id": null,
+      "translator": "Храм Дорам ТВ",
+      "token": "7f8a7b82d13297edd1f22bb22085bf573f946fe91a9f4b74c02596f96d1bf06a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-09 11:58:02",
+      "added_date": "2020-11-29 17:02:24",
+      "update_date": "2020-11-29 17:13:45",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Гуан",
-      "title_en": "Guang",
-      "year": 2018,
-      "kinopoisk_id": 1250691,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-08 23:52:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Тюрьма мёртвых тел: Часть 2",
-      "title_en": "Corpse Prison: Part Two / Gekijouban Shishuugoku: Yui no hen",
-      "year": 2017,
-      "kinopoisk_id": 1064859,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-08 23:51:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Чувственная психоделия",
-      "title_en": "Sensual Psychedelia",
-      "year": 2019,
-      "kinopoisk_id": 1230605,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-08 23:50:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Принцесса, заколдованная во времени",
-      "title_en": "Princezna zakletá v case",
-      "year": 2020,
-      "kinopoisk_id": 1288880,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-08 23:49:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Планета Зи",
-      "title_en": "Planet Zee",
-      "year": 2021,
-      "kinopoisk_id": 1351598,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-08 23:48:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Безжалостные",
-      "title_en": "Gods of No Mercy",
-      "year": 2020,
-      "kinopoisk_id": 1442070,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-08 23:47:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Вот такие друзья",
-      "title_en": "Friends Like These",
-      "year": 2019,
-      "kinopoisk_id": 1158995,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-08 23:46:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 158,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/986651.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Самый лучший муж",
@@ -1304,76 +1401,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Индустрия",
-      "title_en": "Industry",
-      "year": 2020,
-      "kinopoisk_id": 1272547,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "1dab843b5ab11dfe6a99ab033774437d2c47c0ef1880f67404a2c70f484d08c5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-10 13:53:28",
-      "update_date": "2020-11-27 23:32:20",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1272547.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мука",
-      "title_en": "Fariña",
-      "year": 2018,
-      "kinopoisk_id": 1115161,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "93c800b900f7c2fcbfdf242651c9718a27e549a4591c70d637dc828bc016ac99",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-27 22:58:20",
-      "update_date": "2020-11-27 23:00:37",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1115161.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

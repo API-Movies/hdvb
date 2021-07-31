@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "title_ru": "Восприятие",
+      "title_en": "Sensation",
+      "year": 2021,
+      "kinopoisk_id": 1302047,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-28 00:51:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дома безопаснее",
+      "title_en": "Safer at Home",
+      "year": 2021,
+      "kinopoisk_id": 4294420,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-28 00:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пеле",
+      "title_en": "Pelé",
+      "year": 2021,
+      "kinopoisk_id": 4355984,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-28 00:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Без ума от неё",
+      "title_en": "Loco por ella",
+      "year": 2021,
+      "kinopoisk_id": 1450248,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-28 00:47:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Поли",
+      "title_en": "Poly",
+      "year": 2020,
+      "kinopoisk_id": 1309698,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-28 00:46:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Свадьба в Беверли-Хиллз",
+      "title_en": "Beverly Hills Wedding",
+      "year": 2021,
+      "kinopoisk_id": 4369397,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-27 20:43:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Унни Икки",
+      "title_en": "Unni Ikki",
+      "year": 2019,
+      "kinopoisk_id": 1310014,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-27 20:41:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Обломки",
+      "title_en": "The Wreck / Epava",
+      "year": 2019,
+      "kinopoisk_id": 1259294,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-27 20:40:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Примроуз",
+      "title_en": "The Primrose",
+      "year": 2018,
+      "kinopoisk_id": 1197538,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-27 20:39:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Точка невозврата",
       "title_en": "Point of no Return",
       "year": 2018,
@@ -144,121 +261,90 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Том и Джерри",
-      "title_en": "Tom and Jerry",
-      "year": 2021,
-      "kinopoisk_id": 468562,
-      "type": "movie",
+      "title_ru": "Лоудермилк",
+      "title_en": "Loudermilk",
+      "year": 2017,
+      "kinopoisk_id": 1046642,
+      "world_art_id": null,
+      "translator": "Ozz",
+      "token": "50ca294e2032613654d7a84a0a93dc746121367b8d190101be7ad906fc410472",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-26 15:26:02",
+      "added_date": "2020-11-14 21:44:58",
+      "update_date": "2020-11-14 21:46:22",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
+      "translator_id": 54,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1046642.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Обратная тяга",
-      "title_en": "Backdraft",
-      "year": 1991,
-      "kinopoisk_id": 6236,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-26 11:28:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мы – присяжные",
-      "title_en": "We the Jury: Case 1",
-      "year": 2020,
-      "kinopoisk_id": 1397056,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-26 11:18:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Кардинал",
-      "title_en": "The Cardinal",
+      "title_ru": "Достояние",
+      "title_en": "The Commons",
       "year": 2019,
-      "kinopoisk_id": 1274662,
-      "type": "movie",
+      "kinopoisk_id": 1325576,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "06f795de40f2c6304ae7cc0326deb2214348a70cbbe9bd5aa6da9d5405c5b8a4",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-26 11:17:01",
+      "added_date": "2020-11-14 21:41:22",
+      "update_date": "2020-11-14 21:42:54",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Львиное сердце",
-      "title_en": "Sherdil",
-      "year": 2019,
-      "kinopoisk_id": 1202260,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-26 11:15:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Правосудие – в паутине власти",
-      "title_en": "Justice - Verstrickt im Netz der Macht",
-      "year": 2019,
-      "kinopoisk_id": 1083113,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-26 11:14:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Пьеса",
-      "title_en": "Hra",
-      "year": 2019,
-      "kinopoisk_id": 1288044,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-26 11:13:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Проект &quot;Сущность&quot;",
-      "title_en": "Entity Project",
-      "year": 2019,
-      "kinopoisk_id": 1211725,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-26 11:11:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Можно просто Долапо",
-      "title_en": "Dolapo is Fine",
-      "year": 2020,
-      "kinopoisk_id": 1347506,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-26 11:10:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 15,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1325576.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Соло",
@@ -1173,84 +1259,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Черные вдовы",
-      "title_en": "Black Widows",
-      "year": 2016,
-      "kinopoisk_id": 958518,
-      "world_art_id": null,
-      "translator": "Amedia",
-      "token": "944c7e0e3a3ed8c1bd1176258962b1910e309411b4e652a6d4631b8b89392d0b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-13 16:36:42",
-      "update_date": "2020-11-13 16:42:28",
-      "block": false,
-      "translator_id": 7,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/958518.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сектор «Зеро». Полиция будущего",
-      "title_en": "Section Zéro",
-      "year": 2016,
-      "kinopoisk_id": 982443,
-      "world_art_id": null,
-      "translator": "Первый канал",
-      "token": "e1acc6f35ef972e3edd8dfe54fe73c4331b9350ba2d6af7d3c2cbb0d188c5815",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-13 16:14:37",
-      "update_date": "2020-11-13 16:16:26",
-      "block": false,
-      "translator_id": 94,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/982443.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            3,
-            5,
-            7
           ]
         }
       ]

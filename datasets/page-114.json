@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "title_ru": "Пыль",
+      "title_en": "Dust",
+      "year": 2014,
+      "kinopoisk_id": 778888,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-04 22:40:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DLRip"
+    },
+    {
+      "title_ru": "Балто 2: В поисках волка",
+      "title_en": "Balto: Wolf Quest",
+      "year": 2002,
+      "kinopoisk_id": 79681,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-04 22:39:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Дом Пьера Кардена",
+      "title_en": "House of Cardin",
+      "year": 2019,
+      "kinopoisk_id": 1301705,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-04 22:33:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Майор Гром: Чумной Доктор",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1109271,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-04 22:21:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Нечестивые",
+      "title_en": "The Unholy",
+      "year": 2021,
+      "kinopoisk_id": 1323019,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-04 22:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Мутные воды",
+      "title_en": "Troubled Waters",
+      "year": 2020,
+      "kinopoisk_id": 1381704,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-04 22:18:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "День живых мертвецов",
+      "title_en": "The Day of the Living Dead",
+      "year": 2020,
+      "kinopoisk_id": 1356130,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-04 22:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ужас у пруда Бигфута",
+      "title_en": "Terror at Bigfoot Pond",
+      "year": 2020,
+      "kinopoisk_id": 1428762,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-04 22:16:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Играй бесплатно",
+      "title_en": "Play for Free",
+      "year": 2020,
+      "kinopoisk_id": 13561130,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-04 22:15:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Повёрнутые на комиксах",
       "title_en": "Comic Book Junkies",
       "year": 2020,
@@ -144,121 +261,106 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Долгая прогулка",
-      "title_en": "Bor Mi Vanh Chark",
+      "title_ru": "Политиканы",
+      "title_en": "Political Animals",
+      "year": 2012,
+      "kinopoisk_id": 678263,
+      "world_art_id": null,
+      "translator": "АРК ТВ",
+      "token": "247358ebf7087d35878889b22a1c80eb9cad263bd8c1b7bfc510fb4af3447296",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-04 12:36:44",
+      "update_date": "2021-01-04 12:38:40",
+      "block": false,
+      "translator_id": 77,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/678263.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Кобра Кай",
+      "title_en": "Cobra Kai",
+      "year": 2018,
+      "kinopoisk_id": 1047617,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "12092af9320617cfa10e4ab42728e8bd40fcb98367f6e462eab98735f3623ac4",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-01 16:25:01",
+      "update_date": "2021-01-04 11:10:19",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1047617.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=149128",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Монархиня",
+      "title_en": "Monarca",
       "year": 2019,
-      "kinopoisk_id": 1191031,
-      "type": "movie",
+      "kinopoisk_id": 1172755,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "949c33677451e921bd4c2233c51a7418e0c9cb65baaddfcf122c9102c2fff7a7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-04 05:54:01",
+      "added_date": "2021-01-01 16:11:22",
+      "update_date": "2021-01-04 11:10:17",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Верующая",
-      "title_en": "The Believer",
-      "year": 2021,
-      "kinopoisk_id": 1021271,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-04 05:53:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Высотка",
-      "title_en": "Hasta el cielo",
-      "year": 2020,
-      "kinopoisk_id": 1307011,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-04 05:51:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Крошка Шива",
-      "title_en": "Shiva Baby",
-      "year": 2020,
-      "kinopoisk_id": 1324912,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-04 05:50:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Роу против Уэйда",
-      "title_en": "Roe v. Wade",
-      "year": 2021,
-      "kinopoisk_id": 1169233,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-04 05:49:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мадам Клод",
-      "title_en": "Madame Claude",
-      "year": 2021,
-      "kinopoisk_id": 1263464,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-04 05:48:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Просто скажи да",
-      "title_en": "Just Say Yes",
-      "year": 2021,
-      "kinopoisk_id": 1371834,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-04 05:47:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Пробуждение зверя",
-      "title_en": "Dawn of the Beast",
-      "year": 2021,
-      "kinopoisk_id": 1447303,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-04 05:46:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Без корней нет плодов",
-      "title_en": "No Root No Fruit",
-      "year": 2021,
-      "kinopoisk_id": 80430644,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-04 01:03:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1172755.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Власть в ночном городе. Книга вторая: Призрак",
@@ -1383,109 +1485,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Если у Вас нету тети",
-      "title_en": "",
-      "year": 2008,
-      "kinopoisk_id": 424956,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "bf0e0fee39f2b27c9ecfd1eb85deafc5475dd9265cf569147656493226620583",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-03 10:14:39",
-      "update_date": "2021-01-03 10:17:26",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/424956.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Капитан полиции метро",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 1001699,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "b5094625cd09a19a69d6a31b5823a5c35c3c681a6bd70b1e94f574264aa09eda",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-03 10:13:54",
-      "update_date": "2021-01-03 10:14:30",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1001699.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Повседневная жизнь бессмертного короля",
-      "title_en": "Xian wang de Richang Shenghuo",
-      "year": 2020,
-      "kinopoisk_id": 1378937,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "15efff4e5bc692100cb5f805b3ab045072044c2e70c08c592bcfa4c47dfe321f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-03 09:51:21",
-      "update_date": "2021-01-03 09:52:19",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1378937.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
           ]
         }
       ]

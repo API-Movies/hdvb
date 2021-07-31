@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "title_ru": "Панама",
+      "title_en": "Panama",
+      "year": 2019,
+      "kinopoisk_id": 4293075,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-03 01:06:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Неприятности",
+      "title_en": "Kasala!",
+      "year": 2018,
+      "kinopoisk_id": 1233281,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-03 01:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пей Убивай Люби",
+      "title_en": "Drink Slay Love",
+      "year": 2017,
+      "kinopoisk_id": 1002045,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-03 01:04:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Поймать убийцу",
+      "title_en": "Catch.er",
+      "year": 2017,
+      "kinopoisk_id": 1187372,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-03 01:02:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Атарраби и Микелац",
+      "title_en": "Atarrabi &amp; Mikelats",
+      "year": 2020,
+      "kinopoisk_id": 1320831,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-03 01:00:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Анелька: Непонятый",
+      "title_en": "Anelka: Misunderstood",
+      "year": 2020,
+      "kinopoisk_id": 1411922,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-02 22:42:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Балто 3: Крылья перемен",
+      "title_en": "Balto III: Wings of Change",
+      "year": 2004,
+      "kinopoisk_id": 86302,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-02 22:41:01",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Полночный поцелуй",
+      "title_en": "In Search of a Midnight Kiss",
+      "year": 2007,
+      "kinopoisk_id": 281158,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-02 22:40:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Кролик Питер 2",
+      "title_en": "Peter Rabbit 2: The Runaway",
+      "year": 2021,
+      "kinopoisk_id": 1122117,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-02 21:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Путешествие в ночь",
       "title_en": "Voyage Into the Night",
       "year": 2021,
@@ -144,121 +261,131 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Я свободен",
+      "title_ru": "Семейный бизнес",
+      "title_en": "The Family Business",
+      "year": 2018,
+      "kinopoisk_id": 1047373,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "cbcb2238f642bab2ca5fd1831734bcb1fe6e5d156f0ed5cd8e988557ffbc3551",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-03 10:45:07",
+      "update_date": "2021-01-01 09:19:21",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1047373.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Теория вероятности",
       "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1289032,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-02 16:05:01",
-      "block": false,
+      "year": 2016,
+      "kinopoisk_id": 898455,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "289c7aad0bc2c7407e573368d533d2d438acfebf1de39068ede02abe496d82c7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-01 04:48:46",
+      "update_date": "2021-01-01 04:53:39",
+      "block": false,
       "translator_id": 92,
-      "quality": "WEB-DL"
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/898455.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Убийца на вечере встречи выпускников",
-      "title_en": "Killer High",
+      "title_ru": "Семейный бизнес",
+      "title_en": "The Family Business",
       "year": 2018,
-      "kinopoisk_id": 1163317,
-      "type": "movie",
+      "kinopoisk_id": 1047373,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "f4632d1c9195f4df15ae6983da40e8ea9d7c843ccbc9f09c4667e93c9e84154b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-02 01:02:02",
+      "added_date": "2020-07-07 21:06:06",
+      "update_date": "2021-01-01 00:53:20",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дурочка",
-      "title_en": "Inane (vera Pa Kthim)",
-      "year": 2018,
-      "kinopoisk_id": 1319055,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-01 20:33:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Резня на роллердроме",
-      "title_en": "Skateway Massacre",
-      "year": 2019,
-      "kinopoisk_id": 1237916,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-01 20:32:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Врата зла",
-      "title_en": "Demonic Doorways",
-      "year": 2019,
-      "kinopoisk_id": 1158168,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-01 20:31:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Погоня",
-      "title_en": "Chased",
-      "year": 2018,
-      "kinopoisk_id": 1094247,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-01 20:30:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дьявольская сказка",
-      "title_en": "An Evil Tale",
-      "year": 2018,
-      "kinopoisk_id": 1075481,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-01 20:25:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Вложения",
-      "title_en": "Attachments",
-      "year": 2019,
-      "kinopoisk_id": 992421,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-01 20:24:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Лига справедливости Зака Снайдера",
-      "title_en": "Zack Snyder's Justice League",
-      "year": 2021,
-      "kinopoisk_id": 1387021,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-01 16:25:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1047373.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Леденящие душу приключения Сабрины",
@@ -916,148 +1043,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Гетто",
-      "title_en": "The Boondocks",
-      "year": 2005,
-      "kinopoisk_id": 401157,
-      "world_art_id": null,
-      "translator": "2x2",
-      "token": "c831cb27528c18bb5dc6c2c2ea95cbd9f9cef1792b2f900a326f15f4b5af50a3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-30 15:16:26",
-      "update_date": "2020-12-30 15:17:05",
-      "block": false,
-      "translator_id": 1,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/401157.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Гетто",
-      "title_en": "The Boondocks",
-      "year": 2005,
-      "kinopoisk_id": 401157,
-      "world_art_id": null,
-      "translator": "2x2",
-      "token": "7f273318d6cc9462c5be42a9bf225684e504dcae2297a58c15ab102fb08d5391",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-30 15:11:30",
-      "update_date": "2020-12-30 15:16:16",
-      "block": false,
-      "translator_id": 1,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/401157.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Измена",
-      "title_en": "Betrayal",
-      "year": 2013,
-      "kinopoisk_id": 742597,
-      "world_art_id": null,
-      "translator": "Fox Life",
-      "token": "4288c65b21f732640c85c11e358630804c70751a6bda50af5edb52918034c5b5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-30 14:57:37",
-      "update_date": "2020-12-30 15:00:47",
-      "block": false,
-      "translator_id": 127,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/742597.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

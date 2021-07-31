@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "title_ru": "",
+      "title_en": "D'un monde à l'autre",
+      "year": 2019,
+      "kinopoisk_id": 1164508,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-13 00:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Отчаянные меры",
+      "title_en": "Times &amp; Measures",
+      "year": 2020,
+      "kinopoisk_id": 1419811,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-13 00:56:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Килли и Ду",
+      "title_en": "Keely and Du / Catch and Release",
+      "year": 2018,
+      "kinopoisk_id": 1062300,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-13 00:55:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дорога на Луну",
+      "title_en": "Aydede",
+      "year": 2018,
+      "kinopoisk_id": 1152657,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-13 00:53:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сердцу не прикажешь",
+      "title_en": "Serce nie sluga",
+      "year": 2018,
+      "kinopoisk_id": 1197861,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-13 00:51:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Благие намерения",
+      "title_en": "Las buenas intenciones",
+      "year": 2019,
+      "kinopoisk_id": 1302897,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-13 00:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Последний изгоняющий дьявола",
+      "title_en": "The Last Exorcist",
+      "year": 2021,
+      "kinopoisk_id": 1053435,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-13 00:47:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Непоэтичный Токио",
+      "title_en": "Bad Poetry Tokyo",
+      "year": 2018,
+      "kinopoisk_id": 1063621,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-13 00:45:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Призраки на перекрестке Долины Смерти",
+      "title_en": "Haunting at Death Valley Junction / The Haunting at Death Valley Junction",
+      "year": 2020,
+      "kinopoisk_id": 1141932,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-13 00:43:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Я - робот",
       "title_en": "iBOT",
       "year": 2020,
@@ -144,121 +261,128 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Абердин",
-      "title_en": "Aberdeen",
-      "year": 2019,
-      "kinopoisk_id": 1169301,
-      "type": "movie",
+      "title_ru": "В лучшем мире",
+      "title_en": "The Good Place",
+      "year": 2016,
+      "kinopoisk_id": 977493,
+      "world_art_id": null,
+      "translator": "Профессиональный (многоголосый)",
+      "token": "b4fb6f7e61ac558c5f913f16631c270a5bdce1eee5eb904ac18d64d21bdb2527",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-12 17:35:02",
+      "added_date": "2020-05-17 00:17:11",
+      "update_date": "2020-05-17 00:17:11",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 126,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/977493.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135061",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Ведьмы Амитивилля",
-      "title_en": "Witches of Amityville Academy / Witches of Amityville",
+      "title_ru": "Падение в мёртвые воды",
+      "title_en": "Deadwater Fell",
       "year": 2020,
-      "kinopoisk_id": 1297623,
-      "type": "movie",
+      "kinopoisk_id": 1283882,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "c2174754e229932a582fd02c4eb4340d51171d58ac2180d8fd42a7de6d651a03",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-12 17:34:01",
+      "added_date": "2020-05-16 23:16:35",
+      "update_date": "2020-05-16 23:16:35",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Китобой",
-      "title_en": "Kitoboy",
-      "year": 2020,
-      "kinopoisk_id": 1309166,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-12 13:36:02",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Дух времени: За пределами",
-      "title_en": "Interreflections",
-      "year": 2020,
-      "kinopoisk_id": 602083,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-12 13:22:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "За пределами",
-      "title_en": "The Beyond",
-      "year": 2017,
-      "kinopoisk_id": 978979,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-12 12:38:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Падение",
-      "title_en": "Falling",
-      "year": 2020,
-      "kinopoisk_id": 1200915,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-12 02:07:01",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Зверь в ночи",
-      "title_en": "Beast by Night",
-      "year": 2020,
-      "kinopoisk_id": 1377340,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-12 02:05:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Короткий путь",
-      "title_en": "Shortcut",
-      "year": 2020,
-      "kinopoisk_id": 1217509,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-12 02:04:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Кристиан IV",
-      "title_en": "Christian IV",
-      "year": 2020,
-      "kinopoisk_id": 1063291,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-12 02:02:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1283882.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Расправа",
@@ -1094,74 +1218,6 @@
           "episodes": [
             1,
             2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Миссии",
-      "title_en": "Missions",
-      "year": 2017,
-      "kinopoisk_id": 1046513,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "16f71cd1457e10578fffe861565f47f406a1489ce2c4bac8ce7529cfbfc89305",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 14:32:56",
-      "update_date": "2020-05-16 14:32:56",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1046513.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=143698",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Открытое море",
-      "title_en": "Alta mar",
-      "year": 2019,
-      "kinopoisk_id": 1200404,
-      "world_art_id": null,
-      "translator": "AMS",
-      "token": "9f3284242e8510bd4b6394ae9d94dd347595c89eca4ac91fd830203572ac93b3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 14:31:49",
-      "update_date": "2020-05-16 14:31:49",
-      "block": false,
-      "translator_id": 139,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1200404.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

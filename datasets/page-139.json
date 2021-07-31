@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "title_ru": "Последние любовники",
+      "title_en": "Porto",
+      "year": 2016,
+      "kinopoisk_id": 898304,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 17:15:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Голос луны",
+      "title_en": "La voce della luna",
+      "year": 1990,
+      "kinopoisk_id": 13849,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 17:11:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "День «да»",
+      "title_en": "Yes Day",
+      "year": 2021,
+      "kinopoisk_id": 1192806,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 13:11:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "По наклонной",
+      "title_en": "Cherry",
+      "year": 2021,
+      "kinopoisk_id": 1245501,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 10:24:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кто-нибудь видел мою девчонку?",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1234854,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 09:52:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пиноккио",
+      "title_en": "Pinocchio",
+      "year": 1940,
+      "kinopoisk_id": 8220,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 09:50:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Седьмой этап",
+      "title_en": "Fase 7",
+      "year": 2010,
+      "kinopoisk_id": 492472,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 00:28:02",
+      "block": false,
+      "translator": "одноголосый закадровый",
+      "translator_id": 93,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Белый снег",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1345722,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 00:13:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Нелли Рапп: агент чудовищ",
+      "title_en": "Nelly Rapp - Monsteragent",
+      "year": 2020,
+      "kinopoisk_id": 1324538,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 00:12:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Литл Гром",
       "title_en": "Yakari, le film",
       "year": 2020,
@@ -144,121 +261,82 @@
       "quality": "DVDRip"
     },
     {
-      "title_ru": "День города",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1402921,
-      "type": "movie",
+      "title_ru": "Корейская одиссея",
+      "title_en": "Hwayugi",
+      "year": 2017,
+      "kinopoisk_id": 1045891,
+      "world_art_id": null,
+      "translator": "Мобильное телевидение",
+      "token": "cb656ca1e499a39b44f0e76483d109fa82d1dc4ec8f3ed3803b028be2a545a1d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-11 09:13:02",
+      "added_date": "2020-12-03 00:57:26",
+      "update_date": "2020-12-03 01:24:46",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
+      "translator_id": 133,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1045891.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=144708",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Поворот не туда: Наследие",
-      "title_en": "Wrong Turn: The Foundation",
-      "year": 2021,
-      "kinopoisk_id": 1200179,
-      "type": "movie",
+      "title_ru": "Азизе",
+      "title_en": "Azize",
+      "year": 2019,
+      "kinopoisk_id": 1311410,
+      "world_art_id": null,
+      "translator": "двухголосый закадровый",
+      "token": "e6a8b20dfb3836b9fdcf586a8491bb99606639b3adb0e0b03f2e7cc00fac4c3e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-11 07:53:03",
+      "added_date": "2020-12-02 23:21:59",
+      "update_date": "2020-12-02 23:22:53",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Помни о Свете",
-      "title_en": "Remember the Light",
-      "year": 2020,
-      "kinopoisk_id": 13644118,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-11 00:26:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Искупление",
-      "title_en": "Redeemed",
-      "year": 2021,
-      "kinopoisk_id": 1202907,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-11 00:24:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Постоянная экспозиция",
-      "title_en": "Permanent Collection",
-      "year": 2020,
-      "kinopoisk_id": 1116933,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-11 00:22:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Отрыв",
-      "title_en": "Party Hard",
-      "year": 2020,
-      "kinopoisk_id": 1310950,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-11 00:21:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "История о призраке",
-      "title_en": "Ghost Tale",
-      "year": 2021,
-      "kinopoisk_id": 6423112,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-11 00:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Вечная молодость",
-      "title_en": "Evergreen",
-      "year": 2020,
-      "kinopoisk_id": 1348307,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-11 00:18:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Коннор Макдэвид: Во что бы то ни стало",
-      "title_en": "Connor McDavid: Whatever It Takes",
-      "year": 2020,
-      "kinopoisk_id": 11644320,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-11 00:16:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 81,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1311410.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Кольцо",
@@ -1114,139 +1192,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рождение мафии: Нью-Йорк",
-      "title_en": "The Making of the Mob",
-      "year": 2015,
-      "kinopoisk_id": 910068,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "e0d3c342f7e07b3153163414c91b5bc6835e79d9b19a502f2d94860aaa2be804",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-02 02:00:15",
-      "update_date": "2020-12-02 02:00:58",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/910068.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Фарго",
-      "title_en": "Fargo",
-      "year": 2014,
-      "kinopoisk_id": 767379,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "64186397071c8e7fe6e8fe2436479554318d6ba30a5d9c0e04963a257fa0219b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-01 20:51:27",
-      "update_date": "2020-12-01 23:55:30",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/767379.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=139810",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
           ]
         }
       ]

@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "title_ru": "Медовый месяц Камиллы",
+      "title_en": "Camille",
+      "year": 2007,
+      "kinopoisk_id": 195222,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-20 10:45:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Годы молодые",
+      "title_en": "",
+      "year": 1958,
+      "kinopoisk_id": 44531,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-20 10:44:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "SATRip"
+    },
+    {
+      "title_ru": "Плохой лейтенант",
+      "title_en": "Bad Lieutenant",
+      "year": 1992,
+      "kinopoisk_id": 9714,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-20 10:43:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Цикада 3301: Квест для хакера",
+      "title_en": "Dark Web: Cicada 3301",
+      "year": 2021,
+      "kinopoisk_id": 1133310,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-20 08:15:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Фобии",
+      "title_en": "Phobias",
+      "year": 2021,
+      "kinopoisk_id": 1171980,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-20 03:27:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ночь королей",
+      "title_en": "La nuit des rois / Night of the Kings",
+      "year": 2020,
+      "kinopoisk_id": 8132778,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-20 03:26:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Последний заказ",
+      "title_en": "Last Call / Crabs in a Bucket",
+      "year": 2021,
+      "kinopoisk_id": 1114817,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-20 03:24:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Горячая вода",
+      "title_en": "Hot Water",
+      "year": 2021,
+      "kinopoisk_id": 555448,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-20 03:23:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Счастливо",
+      "title_en": "Happily",
+      "year": 2021,
+      "kinopoisk_id": 1244463,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-20 03:22:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "По следам козы",
       "title_en": "Get the Goat",
       "year": 2021,
@@ -144,121 +261,90 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Отрыв",
-      "title_en": "Party Hard",
-      "year": 2019,
-      "kinopoisk_id": 1310950,
-      "type": "movie",
+      "title_ru": "Карнавал",
+      "title_en": "Carnivàle",
+      "year": 2003,
+      "kinopoisk_id": 214333,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "31da4bbe9922d790c1f83cc3fe6be30156624a1cca02b3ee6efcdcfdac1120ac",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-19 20:17:01",
+      "added_date": "2020-12-13 23:32:26",
+      "update_date": "2020-12-13 23:44:24",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/214333.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Ничто из нечто",
-      "title_en": "Nothing from Something",
-      "year": 2019,
-      "kinopoisk_id": 1054611,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-19 20:13:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Канун Нового года",
-      "title_en": "Saehaejeonya",
-      "year": 2021,
-      "kinopoisk_id": 1320472,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-19 20:12:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Маленькие большие женщины",
-      "title_en": "Gu wei",
+      "title_ru": "Второй шанс",
+      "title_en": "Другий шанс",
       "year": 2020,
-      "kinopoisk_id": 1410113,
-      "type": "movie",
+      "kinopoisk_id": 98087967,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "667af8e0d6c089bd98def83d51466a83410ad1cf49608642f539bbad50fb4ddd",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-19 20:11:01",
+      "added_date": "2020-12-13 23:04:31",
+      "update_date": "2020-12-13 23:10:26",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Контрудар",
-      "title_en": "Fan ji",
-      "year": 2021,
-      "kinopoisk_id": 4374895,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-19 20:10:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мир динозавров",
-      "title_en": "Dinosaur World",
-      "year": 2020,
-      "kinopoisk_id": 4294582,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-19 20:07:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Обстоятельства 2: Погоня",
-      "title_en": "Circumstances 2: The Chase",
-      "year": 2020,
-      "kinopoisk_id": 1437930,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-19 20:06:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Хороший сосед",
-      "title_en": "Iutsachon",
-      "year": 2020,
-      "kinopoisk_id": 1046024,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-19 20:05:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "В ожидании рассвета",
-      "title_en": "Await The Dawn / Devil's Game / Trò Chơi Của Quỷ",
-      "year": 2020,
-      "kinopoisk_id": 1230794,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-19 20:04:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/98087967.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Дело",
@@ -1169,97 +1255,6 @@
             1,
             2,
             3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "4 квартала",
-      "title_en": "4 Blocks",
-      "year": 2017,
-      "kinopoisk_id": 1111924,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "35fdf90f8250693f04b25575354466363e0ee818863e6b372fc15cab72d2ad49",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-12 10:52:52",
-      "update_date": "2020-12-12 10:53:34",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1111924.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Беспорядок после тебя",
-      "title_en": "El desorden que dejas (The Mess You Leave Behind)",
-      "year": 2020,
-      "kinopoisk_id": 1311460,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "176865bf7da2828ff76a4266b8fe8491e9ecf7375c5be407d1c469c2336f060f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-12 09:20:40",
-      "update_date": "2020-12-12 09:28:42",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1311460.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

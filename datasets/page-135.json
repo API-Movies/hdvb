@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "title_ru": "Трафик",
+      "title_en": "Crisis",
+      "year": 2021,
+      "kinopoisk_id": 1237488,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-16 19:40:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "День курка",
+      "title_en": "Boss Level",
+      "year": 2020,
+      "kinopoisk_id": 1101569,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-16 19:39:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Ясновидящая",
+      "title_en": "",
+      "year": 2009,
+      "kinopoisk_id": 469203,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-16 17:07:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Два гусара",
+      "title_en": "",
+      "year": 1984,
+      "kinopoisk_id": 431215,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-16 16:24:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "SATRip"
+    },
+    {
+      "title_ru": "На скорости",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1049115,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-16 13:06:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Роза и тюльпан",
+      "title_en": "Rose and Tulip / Bara to Tsuripu",
+      "year": 2019,
+      "kinopoisk_id": 1252569,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-15 13:33:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Красный Латекс",
+      "title_en": "Látex Rojo",
+      "year": 2019,
+      "kinopoisk_id": 1171583,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-15 13:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Юная Джульетта",
+      "title_en": "Jeune Juliette",
+      "year": 2020,
+      "kinopoisk_id": 1195878,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-15 13:31:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дженна Великая",
+      "title_en": "Jenna The Great",
+      "year": 2019,
+      "kinopoisk_id": 1297708,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-15 13:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Это всё шуры-муры",
       "title_en": "It's a Love Thang",
       "year": 2019,
@@ -144,121 +261,74 @@
       "quality": ""
     },
     {
-      "title_ru": "",
-      "title_en": "",
-      "year": 0,
-      "kinopoisk_id": null,
-      "type": "movie",
+      "title_ru": "Качок",
+      "title_en": "Bruiser",
+      "year": 2000,
+      "kinopoisk_id": 709734,
+      "world_art_id": null,
+      "translator": "Ozz",
+      "token": "ab26704bb2281f9699874ce1596407a0dac7f2bd6589a098ab4d4b7c9aa27217",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "1970-01-01 03:00:00",
+      "added_date": "2020-12-07 19:27:17",
+      "update_date": "2020-12-07 19:27:52",
       "block": false,
-      "translator": "",
-      "translator_id": 0,
-      "quality": ""
+      "translator_id": 54,
+      "quality": "DVDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/709734.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Доверие",
-      "title_en": "Trust",
-      "year": 2021,
-      "kinopoisk_id": 1332745,
-      "type": "movie",
+      "title_ru": "Робинзон Крузо",
+      "title_en": "Crusoe",
+      "year": 2008,
+      "kinopoisk_id": 412371,
+      "world_art_id": null,
+      "translator": "Велес",
+      "token": "d2c21115c6e15f44b74f90e1c1da6f6f8bcc95d0b95d0c49ddc3a92fb08ca5e3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-14 19:41:01",
+      "added_date": "2020-12-07 19:26:16",
+      "update_date": "2020-12-07 19:27:03",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Не чета принцу",
-      "title_en": "Fit for a Prince",
-      "year": 2021,
-      "kinopoisk_id": 14039028,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-14 19:40:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Война за лайки",
-      "title_en": "Guerra de Likes / Córtalas! / War of Likes",
-      "year": 2021,
-      "kinopoisk_id": 1324659,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-14 19:38:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Держись подальше от гр**анного чердака",
-      "title_en": "Stay Out of the F**king Attic",
-      "year": 2020,
-      "kinopoisk_id": 1342759,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-14 19:36:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Хрупкие жизни",
-      "title_en": "Kagittan Hayatlar",
-      "year": 2021,
-      "kinopoisk_id": 1429238,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-14 19:35:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Видение/ Безымянный проект Ливи Чжэн",
-      "title_en": "Untitled Livi Zheng Project / The King's Rook / Insight",
-      "year": 2021,
-      "kinopoisk_id": 854124,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-14 19:33:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Смерть ловеласа",
-      "title_en": "Death of a Ladies' Man",
-      "year": 2020,
-      "kinopoisk_id": 1261968,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-14 19:31:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Кошмары",
-      "title_en": "Come True",
-      "year": 2021,
-      "kinopoisk_id": 1069385,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-14 19:30:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 159,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/412371.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Бессонница",
@@ -1583,76 +1653,6 @@
             12,
             13,
             14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Суперкнига",
-      "title_en": "Superbook",
-      "year": 2011,
-      "kinopoisk_id": 574744,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "bb313638f94e51ad9e05f755f5155286173836e996e7e9e6034ca70845079d78",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-06 13:15:32",
-      "update_date": "2020-12-06 13:16:16",
-      "block": false,
-      "translator_id": 126,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/574744.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чёрно-белая семёрка",
-      "title_en": "Dark 7 White",
-      "year": 2020,
-      "kinopoisk_id": 1428860,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "6cd5c6e04297701cf9b7adce341e3af9d3fd092d3a9759bd7b8fcbb3b3dc3f45",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-27 16:46:24",
-      "update_date": "2020-12-06 13:08:51",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1428860.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]
