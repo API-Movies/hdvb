@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "title_ru": "Подарок",
+      "title_en": "Wrapped",
+      "year": 2019,
+      "kinopoisk_id": 1188110,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-26 15:12:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Заключённый",
+      "title_en": "The Prisoner",
+      "year": 2020,
+      "kinopoisk_id": 7687653,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-26 15:11:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Спецотряд",
+      "title_en": "Crime Solving Special Squad",
+      "year": 2020,
+      "kinopoisk_id": 656678687,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-26 15:09:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пребывание",
+      "title_en": "Singsu",
+      "year": 2018,
+      "kinopoisk_id": 1218665,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-26 15:07:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пляж Безработных",
+      "title_en": "Pogey Beach",
+      "year": 2019,
+      "kinopoisk_id": 1122526,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-26 15:04:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Никогда не шути со звёздами",
+      "title_en": "Mai Scherzare con le Stelle!",
+      "year": 2020,
+      "kinopoisk_id": 155515155,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-26 15:03:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Финке: гонка туда и обратно",
+      "title_en": "Finke: There and Back",
+      "year": 2018,
+      "kinopoisk_id": 1267946,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-26 15:02:04",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Семейка Бигфутов",
+      "title_en": "Bigfoot Family",
+      "year": 2020,
+      "kinopoisk_id": 1371715,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-26 13:37:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Макс Уинслоу и дом тайн",
+      "title_en": "Max Winslow and the House of Secrets",
+      "year": 2019,
+      "kinopoisk_id": 1212812,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-26 01:23:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "До наступления зимы",
       "title_en": "Innan vintern kommer",
       "year": 2018,
@@ -144,121 +261,174 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Дорогой дневник",
-      "title_en": "DieRy",
-      "year": 2020,
-      "kinopoisk_id": 1190576,
-      "type": "movie",
+      "title_ru": "Канцелярская крыса",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 1103793,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "73d80f44ada596c960b0bc64885e3a84b701555d00dbe0fc70304b8d2e37432b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-25 17:50:01",
+      "added_date": "2019-10-26 16:21:58",
+      "update_date": "2019-10-26 16:21:58",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1103793.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Горный царь",
-      "title_en": "Shan kui",
-      "year": 2020,
-      "kinopoisk_id": 135426534,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-25 17:27:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "В каждый выходной по свадьбе",
-      "title_en": "Wedding Every Weekend",
-      "year": 2020,
-      "kinopoisk_id": 1399247,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-25 17:24:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Место для жизни",
-      "title_en": "Pour vivre ici",
-      "year": 2018,
-      "kinopoisk_id": 1126268,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-25 17:20:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Брат года",
-      "title_en": "Nong, Pee, Teerak",
-      "year": 2018,
-      "kinopoisk_id": 1125164,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-25 17:19:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мой брат, моя любовь",
-      "title_en": "My Brother, My Love",
-      "year": 2018,
-      "kinopoisk_id": 1099157,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-25 17:18:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Проклятие вулкана",
-      "title_en": "La Malédiction du Volcan",
+      "title_ru": "След лисицы на камнях",
+      "title_en": "",
       "year": 2019,
-      "kinopoisk_id": 1190557,
-      "type": "movie",
+      "kinopoisk_id": 1235981,
+      "world_art_id": null,
+      "translator": "Перевод не требуется",
+      "token": "88b2854d6dc7abebbcf56404bcb2874752e62e8ed967ad2013cca6363f5e6519",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-25 17:15:01",
+      "added_date": "2019-10-26 16:13:16",
+      "update_date": "2019-10-26 16:13:16",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 103,
+      "quality": "WEB-DLRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1235981.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Возвращение в Эппл Сид",
-      "title_en": "Apple Seed",
+      "title_ru": "Когда зовет надежда",
+      "title_en": "When Hope Calls",
       "year": 2019,
-      "kinopoisk_id": 1051982,
-      "type": "movie",
+      "kinopoisk_id": 1273206,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "26b7e05af6c57e6fa22fc388ba16cbe78e8e6dc06c078a1540e0a21b22461e2c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-25 17:14:01",
+      "added_date": "2019-10-26 09:11:58",
+      "update_date": "2019-10-26 09:11:58",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1273206.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Еще раз снова",
-      "title_en": "De nuevo otra vez",
-      "year": 2019,
-      "kinopoisk_id": 1232776,
-      "type": "movie",
+      "title_ru": "Живая мина",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1181561,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "24bd85ee53319158cc1e6ddc688bed48a54814bd818ead4014d1a17f73bf229f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-25 17:13:02",
+      "added_date": "2019-10-25 23:06:30",
+      "update_date": "2019-10-25 23:06:30",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1181561.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Немедленное реагирование",
@@ -817,148 +987,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Становясь богом в центральной Флориде",
-      "title_en": "On Becoming a God in Central Florida",
-      "year": 2019,
-      "kinopoisk_id": 1027226,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "7365e87883c0e9c7f9f7e16255007c5274c7f48aba1d782fd5da9a0a83cce019",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-20 15:36:06",
-      "update_date": "2019-10-20 15:36:06",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1027226.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Импульс",
-      "title_en": "Impulse",
-      "year": 2018,
-      "kinopoisk_id": 1046497,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "ea9cb38508b996c02a45d2bfc293db3f9dad83c5832b7d5eb8a7cd6d8aa391cb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-20 09:36:36",
-      "update_date": "2019-10-20 09:36:36",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1046497.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=148295",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Жизнь с самим собой",
-      "title_en": "Living with Yourself",
-      "year": 2019,
-      "kinopoisk_id": 1183824,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "3a0a5214f66bd0a7eb5a61874bdca378408d55c8f8b17cb9d10c1d699dd6d6ee",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-18 23:27:53",
-      "update_date": "2019-10-18 23:27:53",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1183824.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Земля-I",
-      "title_en": "The I-Land",
-      "year": 2019,
-      "kinopoisk_id": 1198384,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "f74ba16430a580bedf2dd85b08b75c2ffea2894adebf92792bd63ed899a6aa67",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-18 12:00:52",
-      "update_date": "2019-10-18 12:00:52",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1198384.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
           ]
         }
       ]

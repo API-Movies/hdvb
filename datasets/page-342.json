@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "title_ru": "Черри возвращается",
+      "title_en": "Na nian xia tian ni qu le na li",
+      "year": 2016,
+      "kinopoisk_id": 1022656,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-29 22:40:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Приглашение",
+      "title_en": "Nimtoh",
+      "year": 2019,
+      "kinopoisk_id": 13543656,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-29 22:39:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Довод",
+      "title_en": "Tenet",
+      "year": 2020,
+      "kinopoisk_id": 1236063,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-29 22:36:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Магия зверя",
+      "title_en": "Seules les bêtes",
+      "year": 2019,
+      "kinopoisk_id": 1271908,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-29 16:33:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Убийство в Аркашоне",
+      "title_en": "L'Héritage",
+      "year": 2019,
+      "kinopoisk_id": 1312084,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-29 15:01:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "У Сун против Симэнь Цина",
+      "title_en": "Wu Song VS Ximen Qing",
+      "year": 2020,
+      "kinopoisk_id": 75876356,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-29 14:54:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Клео",
+      "title_en": "Cleo",
+      "year": 2019,
+      "kinopoisk_id": 993440,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-29 14:52:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Заразный дом",
+      "title_en": "Sickhouse",
+      "year": 2016,
+      "kinopoisk_id": 978259,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-29 14:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Стрейт-эдж вечеринка",
+      "title_en": "Straight Edge Kegger",
+      "year": 2019,
+      "kinopoisk_id": 1105354,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-29 14:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Портреты Андреа Палмер",
       "title_en": "Portraits of Andrea Palmer",
       "year": 2018,
@@ -144,121 +261,143 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Человек без лица",
-      "title_en": "The Faceless Man",
+      "title_ru": "Полярный",
+      "title_en": "",
       "year": 2019,
-      "kinopoisk_id": 1136744,
-      "type": "movie",
+      "kinopoisk_id": 1207237,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "5cee385b2274da6a5a7f89a8883631e11b4d95e6dfca0d6da20dbacc0940e2a1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-29 00:30:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "added_date": "2019-11-21 23:46:23",
+      "update_date": "2019-11-21 23:46:23",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1207237.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Явление",
-      "title_en": "Fatima",
-      "year": 2020,
-      "kinopoisk_id": 686940,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-28 19:49:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Я — женщина",
-      "title_en": "I Am Woman",
+      "title_ru": "Смертоносный",
+      "title_en": "Mortel",
       "year": 2019,
-      "kinopoisk_id": 1211319,
-      "type": "movie",
+      "kinopoisk_id": 1274325,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "e7f965a0caf218fc340ae1f74fbf6d2c479ccf56425b312861707d63274d24b6",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-28 19:33:01",
+      "added_date": "2019-11-21 20:25:34",
+      "update_date": "2019-11-21 20:25:34",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1274325.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Нападение неведомого",
-      "title_en": "Attack of the Unknown",
-      "year": 2020,
-      "kinopoisk_id": 1179921,
-      "type": "movie",
+      "title_ru": "В Филадельфии всегда солнечно",
+      "title_en": "It's Always Sunny in Philadelphia",
+      "year": 2005,
+      "kinopoisk_id": 401515,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "702fa7b15c604c53ab016bf3f9cddaa07759badddff4210cf0eb628ba6c35c33",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-28 19:19:01",
+      "added_date": "2019-11-21 20:18:25",
+      "update_date": "2019-11-21 20:18:25",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/401515.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=84727",
+      "serial_episodes": [
+        {
+          "season_number": 14,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Вздрюченные",
-      "title_en": "Get Duked! / Boyz in the Wood",
+      "title_ru": "Венская кровь",
+      "title_en": "Vienna Blood",
       "year": 2019,
-      "kinopoisk_id": 1236325,
-      "type": "movie",
+      "kinopoisk_id": 1302026,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "c8f53d50077123eb568c5946e04bcf9887fad2f87e9d0c56df4df742b333e53e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-28 19:18:01",
+      "added_date": "2019-11-21 09:02:23",
+      "update_date": "2019-11-21 09:02:23",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Билл и Тед",
-      "title_en": "Bill &amp; Ted Face the Music",
-      "year": 2020,
-      "kinopoisk_id": 972796,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-28 19:16:01",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Где моя челюсть, чувак",
-      "title_en": "War with Grandpa",
-      "year": 2020,
-      "kinopoisk_id": 998054,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-28 19:15:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Температура замерзания",
-      "title_en": "Centigrade",
-      "year": 2020,
-      "kinopoisk_id": 1193097,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-28 19:14:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Теперь мы все вместе",
-      "title_en": "All Together Now",
-      "year": 2020,
-      "kinopoisk_id": 794334,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-28 18:07:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1302026.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 1,
+          "episodes": [
+            1
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Остановись и гори",
@@ -967,150 +1106,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Отрезанные от мира",
-      "title_en": "The Stranded",
-      "year": 2019,
-      "kinopoisk_id": 1316638,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "04bf0bf65a08d490c0f3516012d0c39b7f2dc3eb9db09ce462782d3e548c044d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-15 04:27:49",
-      "update_date": "2019-11-15 04:27:49",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1316638.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Отчим",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1161789,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "df3e3703fa209319a407a613d43c476689eb0519afaccef9550fbac3dead992c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-14 23:50:43",
-      "update_date": "2019-11-14 23:50:43",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1161789.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Доктор Мартин",
-      "title_en": "Doc Martin",
-      "year": 2004,
-      "kinopoisk_id": 229803,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "b564148e8f859ba82ad87c2fc5cd8c984587963e89fff6ca8fc15f8d9814fd41",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-14 15:21:18",
-      "update_date": "2019-11-14 15:21:18",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/229803.jpg",
-      "trailer": "https://kp.cdn.yandex.net/229803/kinopoisk.ru-Doc-Martin-219577.mp4",
-      "serial_episodes": [
-        {
-          "season_number": 9,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Американская история ужасов",
-      "title_en": "American Horror Story",
-      "year": 2011,
-      "kinopoisk_id": 589167,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "fd9d9a08e6e8b870cd909325ef1303d4a81f9b2fcc42faeb092f42b70eda0fbd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-14 15:20:32",
-      "update_date": "2019-11-14 15:20:32",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/589167.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135497",
-      "serial_episodes": [
-        {
-          "season_number": 9,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
           ]
         }
       ]
