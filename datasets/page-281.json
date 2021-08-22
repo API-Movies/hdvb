@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Черный, черный человек",
+      "title_en": "A Dark, Dark Man",
+      "year": 2019,
+      "kinopoisk_id": 1316549,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-12 14:45:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мгновения в космическом пространстве",
+      "title_en": "Moments in Spacetime",
+      "year": 2020,
+      "kinopoisk_id": 1291344,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-12 14:42:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Южный терминал",
+      "title_en": "South Terminal / Terminal Sud",
+      "year": 2019,
+      "kinopoisk_id": 1263645,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-12 14:41:05",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Уборщица",
       "title_en": "The Cleaning Lady",
       "year": 2018,
@@ -222,43 +261,141 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Автор, Звезда и Смотритель",
-      "title_en": "The Author, The Star, and The Keeper",
-      "year": 2020,
-      "kinopoisk_id": 1222817,
-      "type": "movie",
+      "title_ru": "Общество",
+      "title_en": "The Society",
+      "year": 2019,
+      "kinopoisk_id": 1194396,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "b9ea5d427a3879c2430ee7f8e4c4d1843fbf231d7dc693fd9ca271e1a58398aa",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-11 14:18:01",
+      "added_date": "2020-06-16 21:29:31",
+      "update_date": "2020-06-16 21:29:31",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1194396.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Ещё сегодня",
-      "title_en": "Still Today",
-      "year": 2020,
-      "kinopoisk_id": 1262118,
-      "type": "movie",
+      "title_ru": "Притворство",
+      "title_en": "The Act",
+      "year": 2019,
+      "kinopoisk_id": 1179113,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "d797664572327006dc24e8f1f6dd1353a13e4f01f165a66d66c8770a4bd33b93",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-11 14:16:02",
+      "added_date": "2020-06-16 21:19:33",
+      "update_date": "2020-06-16 21:19:33",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1179113.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Мимесис Носферату",
-      "title_en": "Mimesis Nosferatu",
+      "title_ru": "Кобра Кай",
+      "title_en": "Cobra Kai",
       "year": 2018,
-      "kinopoisk_id": 1038002,
-      "type": "movie",
+      "kinopoisk_id": 1047617,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "28249cab741a39ec24aa587daa8f3680e12a3fb13a82e7a977d16474490c0972",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-11 14:15:02",
+      "added_date": "2020-06-16 21:17:42",
+      "update_date": "2020-06-16 21:17:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1047617.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=149128",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Исчезновения и убийства в Атланте: Пропавшие дети",
+      "title_en": "Atlanta's Missing and Murdered: The Lost Children",
+      "year": 2020,
+      "kinopoisk_id": 1312758,
+      "world_art_id": null,
+      "translator": "Contentica",
+      "token": "9042d570932bdf4dadb3916f2fb0d4ca36b618398269db226bff93654517e1a4",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-16 21:06:59",
+      "update_date": "2020-06-16 21:06:59",
+      "block": false,
+      "translator_id": 129,
+      "quality": "HDTV",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1312758.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Наблюдайте за Мэлхотрами",
@@ -1151,177 +1288,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Доктор, доктор",
-      "title_en": "Doctor Doctor",
-      "year": 2016,
-      "kinopoisk_id": 1002656,
-      "world_art_id": null,
-      "translator": "Alexfilm",
-      "token": "2a66eddc30008b7369cefcdf0fa282394a0cd10e7e83b4e513120f39cf864b32",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-15 14:42:49",
-      "update_date": "2020-06-15 14:42:49",
-      "block": false,
-      "translator_id": 3,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1002656.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Миллиарды",
-      "title_en": "Billions",
-      "year": 2016,
-      "kinopoisk_id": 863009,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "07fa62b33ea8794afcd3be2fd108807b6669c7b2834f223fc95d86fb8e67e9f9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-15 07:23:24",
-      "update_date": "2020-06-15 07:23:24",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/863009.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135689",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дождь",
-      "title_en": "The Rain",
-      "year": 2018,
-      "kinopoisk_id": 1112179,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "84929662a9ddb8a6483bc37cff6483156c6515b95562ba95108e676ed3189b03",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-15 07:22:31",
-      "update_date": "2020-06-15 07:22:31",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1112179.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=148849",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Маньяк",
-      "title_en": "Maniac",
-      "year": 2017,
-      "kinopoisk_id": 972200,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "0d39f33b24df0fd8d2a7195664c89911b266d985479ffd9bb5562444cafd437d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-15 07:21:01",
-      "update_date": "2020-06-15 07:21:01",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/972200.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

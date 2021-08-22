@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Атака зомби в кожаных штанах",
+      "title_en": "Attack of the Lederhosen Zombies",
+      "year": 2016,
+      "kinopoisk_id": 864697,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 09:35:02",
+      "block": false,
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Спящий гигант",
+      "title_en": "Sleeping Giant",
+      "year": 2015,
+      "kinopoisk_id": 844063,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 09:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "И явился Дьявол",
+      "title_en": "Ahí va el diablo",
+      "year": 2012,
+      "kinopoisk_id": 648606,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 09:33:02",
+      "block": false,
+      "translator": "одноголосый закадровый",
+      "translator_id": 93,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Буря",
       "title_en": "Orage",
       "year": 2015,
@@ -222,43 +261,148 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Приворот. Черное венчание",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1297221,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-15 23:31:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Поли",
-      "title_en": "Poly",
+      "title_ru": "Призраки усадьбы Блай",
+      "title_en": "The Haunting of Bly Manor",
       "year": 2020,
-      "kinopoisk_id": 1309698,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-15 23:30:02",
-      "block": false,
+      "kinopoisk_id": 1346006,
+      "world_art_id": null,
       "translator": "Дубляж",
+      "token": "bec7c7f992f0e577b6106d1c42db29601a1ba00ca5680d44951693db2f182adb",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-13 18:50:02",
+      "update_date": "2020-10-13 18:50:48",
+      "block": false,
       "translator_id": 82,
-      "quality": "TS"
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1346006.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Я — Грета",
-      "title_en": "I Am Greta",
-      "year": 2020,
-      "kinopoisk_id": 1395415,
-      "type": "movie",
+      "title_ru": "Молодой Пилсудский",
+      "title_en": "Ziuk. Young Pilsudski - Conspirators",
+      "year": 2019,
+      "kinopoisk_id": 1324487,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "de62eb6daed354fa5a92127bb16241206daea9b48df714aef992f0d43c6b4019",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-15 23:29:01",
+      "added_date": "2020-10-01 19:54:54",
+      "update_date": "2020-10-13 17:53:12",
       "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1324487.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Стужа",
+      "title_en": "Zemheri",
+      "year": 2020,
+      "kinopoisk_id": 1330639,
+      "world_art_id": null,
+      "translator": "двухголосый закадровый",
+      "token": "db4bd8c2d2fe0f5ec6de693bbc4581669c406d19c962794dfeb3a06bc673456f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-13 12:04:34",
+      "update_date": "2020-10-13 12:05:04",
+      "block": false,
+      "translator_id": 81,
+      "quality": "WEBRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1330639.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Вражда",
+      "title_en": "Feud",
+      "year": 2017,
+      "kinopoisk_id": 596479,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "b79432d33a514207b5183616dc9ab981b53de018e963b5e0209f0fb7e12ac8e8",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-13 12:02:29",
+      "update_date": "2020-10-13 12:03:02",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/596479.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Фьорды Мальборо Саунд",
@@ -1016,154 +1160,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Радио «Романтика»",
-      "title_en": "Radio romaenseu",
-      "year": 2018,
-      "kinopoisk_id": 1097487,
-      "world_art_id": null,
-      "translator": "Мобильное телевидение",
-      "token": "33d9fceb3877d81220756152214d7f9d43defdc64bec746792b737d48b602e85",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-12 09:12:14",
-      "update_date": "2020-10-12 09:12:47",
-      "block": false,
-      "translator_id": 133,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1097487.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Посол (Швеция)",
-      "title_en": "Ambassadören",
-      "year": 2020,
-      "kinopoisk_id": 1275123,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "368afc0cd027a6fbe6bac3371f39e6209aac637cac271ca90ccd9118d94d27bb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-12 08:28:33",
-      "update_date": "2020-10-12 08:31:36",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1275123.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Идеальная гармония",
-      "title_en": "Perfect Harmony",
-      "year": 2019,
-      "kinopoisk_id": 1264250,
-      "world_art_id": null,
-      "translator": "Fox Life",
-      "token": "1d02844238eea0b81783a56e00119ec07989b4b6164f1947e2aa03138f1407ea",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-12 02:09:37",
-      "update_date": "2020-10-12 02:16:38",
-      "block": false,
-      "translator_id": 127,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1264250.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Роскошная комедия Ноэля Филдинга",
-      "title_en": "Noel Fielding\\'s Luxury Comedy",
-      "year": 2012,
-      "kinopoisk_id": 665935,
-      "world_art_id": null,
-      "translator": "Jimmy J.",
-      "token": "38e9a37ef96fab1fb442f94cd2e06d19c5d8184f28604b0b441db0789583a653",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-11 23:38:27",
-      "update_date": "2020-10-11 23:47:33",
-      "block": false,
-      "translator_id": 38,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/665935.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
           ]
         }
       ]

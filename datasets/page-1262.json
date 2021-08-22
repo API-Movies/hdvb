@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "title_ru": "Танки",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1046545,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-08-21 13:32:18",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Опасный бизнес",
+      "title_en": "Gringo",
+      "year": 2017,
+      "kinopoisk_id": 958501,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-08-21 13:31:52",
+      "block": [
+        "RU"
+      ],
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Собибор",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 905031,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-08-21 13:31:26",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Цепной пёс",
       "title_en": "Bullet Head",
       "year": 2017,
@@ -220,45 +261,6 @@
       "translator": "Дубляж [Лицензия]",
       "translator_id": 107,
       "quality": "BluRay"
-    },
-    {
-      "title_ru": "Псы под прикрытием",
-      "title_en": "Show Dogs",
-      "year": 2018,
-      "kinopoisk_id": 1030828,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-08-20 18:04:23",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "22 мили",
-      "title_en": "Mile 22",
-      "year": 2018,
-      "kinopoisk_id": 921938,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-08-20 16:51:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Альфа",
-      "title_en": "Alpha",
-      "year": 2018,
-      "kinopoisk_id": 934956,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-08-20 15:57:23",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
     }
   ]
 }

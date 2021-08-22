@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Компромиссы молодоженов",
+      "title_en": "Compromessi sposi",
+      "year": 2019,
+      "kinopoisk_id": 1209021,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-17 21:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Свинья",
+      "title_en": "Pig",
+      "year": 2021,
+      "kinopoisk_id": 1309621,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-17 16:47:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Космический джем: Новое поколение",
+      "title_en": "Space Jam: A New Legacy",
+      "year": 2021,
+      "kinopoisk_id": 841747,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-16 17:04:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Где обитают демоны: Девушка в кукурузном поле - 2",
       "title_en": "Where Demons Dwell: The Girl in the Cornfield 2",
       "year": 2017,
@@ -222,43 +261,131 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Парк с привидениями",
-      "title_en": "Eiga: Toshimaen",
-      "year": 2019,
-      "kinopoisk_id": 1201481,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-07-15 23:29:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сад исцеления",
-      "title_en": "The Healing Garden",
+      "title_ru": "Антиутопия",
+      "title_en": "Dystopia",
       "year": 2021,
-      "kinopoisk_id": 1403515,
-      "type": "movie",
+      "kinopoisk_id": 14111834,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "6c2d1156a5e1edfd4fd9573e622eb755c82a9511dff4c5dceabb24d180d42692",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-15 23:28:01",
+      "added_date": "2021-06-14 09:26:43",
+      "update_date": "2021-06-14 09:27:54",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/14111834.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Прощённый",
-      "title_en": "The Forgiven",
-      "year": 2019,
-      "kinopoisk_id": 4367326,
-      "type": "movie",
+      "title_ru": "Джек Айриш",
+      "title_en": "Jack Irish",
+      "year": 2016,
+      "kinopoisk_id": 943890,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "6f91956197c0c26a925cb3f221ac77c834bb3a086da91a49d74bcfe40246492a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-15 23:27:01",
+      "added_date": "2021-06-13 20:05:15",
+      "update_date": "2021-06-14 03:23:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/943890.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Антиутопия",
+      "title_en": "Dystopia",
+      "year": 2021,
+      "kinopoisk_id": 14111834,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "c099f9d7a57a3d3dfb457abdbffbdf1570e8667bebb995aa7286688d7ebbb3fa",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-06-13 12:35:28",
+      "update_date": "2021-06-13 12:36:07",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/14111834.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Бигфут",
+      "title_en": "Sasquatch",
+      "year": 2021,
+      "kinopoisk_id": 4389698,
+      "world_art_id": null,
+      "translator": "HDrezka Studio",
+      "token": "2784b4bb03bd9c118483dd61ae75180a361314fff3986f0843eceeb161e6b724",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-06-12 21:34:53",
+      "update_date": "2021-06-12 21:37:06",
+      "block": false,
+      "translator_id": 33,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4389698.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Подслушано",
@@ -1085,185 +1212,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Темная сторона ринга",
-      "title_en": "Dark Side of the Ring",
-      "year": 2019,
-      "kinopoisk_id": 1209392,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "a86651fccaf2c2f7a770293bf712269b74c287cda663bbf98d850ca9f73ed427",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-20 15:43:52",
-      "update_date": "2021-06-11 14:28:51",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1209392.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 15,
-          "episodes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Королева юга",
-      "title_en": "Queen of the South",
-      "year": 2016,
-      "kinopoisk_id": 466545,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "d27c71b3158bfb0e1cf53520736e991faeeaa37056ba43a579554eadb8770472",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-09 09:30:02",
-      "update_date": "2021-06-11 09:43:26",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/466545.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=131077",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Паника",
-      "title_en": "Panic",
-      "year": 2021,
-      "kinopoisk_id": 1265581,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "024e347d1a5032473ed3ded7d1443aaab1807b5724fbbfe73604da9122b6cc15",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-29 09:45:20",
-      "update_date": "2021-06-11 09:43:08",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1265581.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Миллион мелочей",
-      "title_en": "A Million Little Things",
-      "year": 2018,
-      "kinopoisk_id": 1113315,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "5521c48c87ec8bde31a07695940ca8ac9a2ad61f4d1790bb47554c9d75141ced",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-03 18:47:01",
-      "update_date": "2021-06-11 09:41:50",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1113315.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Опасные секреты",
+      "title_en": "Official Secrets",
+      "year": 2019,
+      "kinopoisk_id": 958464,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-20 15:00:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Скажи ей",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1281999,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-20 12:15:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Да",
+      "title_en": "Yes",
+      "year": 2019,
+      "kinopoisk_id": 1157062,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-20 12:14:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Как я встретила твоего убийцу",
       "title_en": "How I Met Your Murderer / Killer Infatuation",
       "year": 2021,
@@ -222,43 +261,165 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Новый порядок",
-      "title_en": "Nuevo orden",
-      "year": 2020,
-      "kinopoisk_id": 1390940,
-      "type": "movie",
+      "title_ru": "Нулевой канал",
+      "title_en": "Channel Zero",
+      "year": 2016,
+      "kinopoisk_id": 1005031,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "da1661442d8a326b37f27309b277d4824adbaecfc2c8f7d5fcc2da60d59cf5e2",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-19 14:30:01",
+      "added_date": "2021-02-23 19:50:36",
+      "update_date": "2021-02-23 19:52:02",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1005031.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Лодочница",
-      "title_en": "La botera",
-      "year": 2019,
-      "kinopoisk_id": 1376174,
-      "type": "movie",
+      "title_ru": "Нулевой канал",
+      "title_en": "Channel Zero",
+      "year": 2016,
+      "kinopoisk_id": 1005031,
+      "world_art_id": null,
+      "translator": "СВ-Дубль",
+      "token": "59344d3af232cbba62c1c2431edee47d7a038f7fa7844d7e02a1e8fa5b6a81a3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-19 14:29:01",
+      "added_date": "2021-02-23 19:48:26",
+      "update_date": "2021-02-23 19:50:57",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 166,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1005031.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Ферри",
-      "title_en": "Ferry",
-      "year": 2021,
-      "kinopoisk_id": 14217100,
-      "type": "movie",
+      "title_ru": "Нулевой канал",
+      "title_en": "Channel Zero",
+      "year": 2016,
+      "kinopoisk_id": 1005031,
+      "world_art_id": null,
+      "translator": "Jaskier",
+      "token": "7f749476f513fdd6d1c761f8c360e49ec26ce083c9b201bb1242e4096c2b9b8b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-19 14:28:02",
+      "added_date": "2021-02-23 19:47:51",
+      "update_date": "2021-02-23 19:49:17",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 36,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1005031.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Воскрешение",
+      "title_en": "Resurrection",
+      "year": 2013,
+      "kinopoisk_id": 732373,
+      "world_art_id": null,
+      "translator": "Newstudio",
+      "token": "61121bed6dbecaa3e0344677469bd1062857191b1293edf695bb59b851510f3c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-23 19:46:38",
+      "update_date": "2021-02-23 19:48:03",
+      "block": false,
+      "translator_id": 48,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/732373.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Вспомни, что будет",
@@ -1367,290 +1528,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Атланта",
-      "title_en": "Atlanta",
-      "year": 2016,
-      "kinopoisk_id": 882408,
-      "world_art_id": null,
-      "translator": "Fox",
-      "token": "07ff95c16cee2170e7625bccff37d7b7e270f8f5fdecc7fae608ef60a17ccdb0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-22 16:46:35",
-      "update_date": "2021-02-22 16:48:17",
-      "block": false,
-      "translator_id": 26,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/882408.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Байки из склепа",
-      "title_en": "Tales from the Crypt",
-      "year": 1989,
-      "kinopoisk_id": 271501,
-      "world_art_id": null,
-      "translator": "одноголосый закадровый",
-      "token": "0e583ef00331606bfee5dbef4506717b8f999a24d0f0516819a0cab2d531e94b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-22 16:44:11",
-      "update_date": "2021-02-22 16:46:09",
-      "block": false,
-      "translator_id": 93,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/271501.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-          ]
-        },
-        {
-          "season_number": 7,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Расскажи мне свои секреты",
-      "title_en": "Tell Me Your Secrets",
-      "year": 2021,
-      "kinopoisk_id": 4361620,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "ad4671ef6a3d81d80ddb6ee415777aa893ad3a2ea9bb6ddb6743a04e636b23ff",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-19 13:17:14",
-      "update_date": "2021-02-22 15:13:55",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4361620.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Донья",
-      "title_en": "La Doña",
-      "year": 2016,
-      "kinopoisk_id": 1009370,
-      "world_art_id": null,
-      "translator": "одноголосый закадровый",
-      "token": "a36a12aa9380c806e3f439f9393eb90a7129691de83692bb0faa0a79bc47ce27",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-22 10:04:47",
-      "update_date": "2021-02-22 10:06:45",
-      "block": false,
-      "translator_id": 93,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1009370.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
           ]
         }
       ]

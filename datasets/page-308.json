@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Неподходящий отчим",
+      "title_en": "The Wrong Stepfather",
+      "year": 2020,
+      "kinopoisk_id": 1368004,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-15 20:13:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Секрет счастья",
+      "title_en": "THE SECRET of HAPPINESS",
+      "year": 2020,
+      "kinopoisk_id": 1053046,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-15 20:12:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Идеальный кандидат",
+      "title_en": "The Perfect Candidate",
+      "year": 2020,
+      "kinopoisk_id": 1162824,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-15 20:11:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Игра на выбывание",
       "title_en": "The American Game",
       "year": 2020,
@@ -222,43 +261,165 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Карьеристка",
-      "title_en": "Kobieta sukcesu",
-      "year": 2018,
-      "kinopoisk_id": 1098205,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-15 00:09:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Пылающие сердца / Джимми Джонс",
-      "title_en": "Jimmy Jones",
-      "year": 2018,
-      "kinopoisk_id": 708180,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-15 00:08:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Чёрный кот",
-      "title_en": "POE 4: The Black Cat",
+      "title_ru": "Чужие дети",
+      "title_en": "",
       "year": 2020,
-      "kinopoisk_id": 1017185,
-      "type": "movie",
+      "kinopoisk_id": 4556763,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "0fb530e5fc3ea9f859b4718b476f849e6f7b75c73b21081b6ede28a944b7ad48",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-15 00:07:04",
+      "added_date": "2020-05-04 17:36:40",
+      "update_date": "2020-05-04 17:36:40",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4556763.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Столик в углу",
+      "title_en": "The Booth at the End",
+      "year": 2011,
+      "kinopoisk_id": 585282,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "cbdeb75ca3fe7b966bcfb4044cf237063d187775356635efd296cf846357118a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-04 17:35:11",
+      "update_date": "2020-05-04 17:35:11",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/585282.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Хорошие девчонки",
+      "title_en": "Good Girls",
+      "year": 2018,
+      "kinopoisk_id": 1042826,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "0ee4263d3879ea6ec07ef8796200b10d17fdae90500f17a6388e5e02c247307a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-04 15:53:13",
+      "update_date": "2020-05-04 15:53:13",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1042826.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Третий глаз",
+      "title_en": "Det tredje øyet",
+      "year": 2013,
+      "kinopoisk_id": 970867,
+      "world_art_id": null,
+      "translator": "Мобильное телевидение",
+      "token": "ecec853dc9a4bacf3354f2b13482a840d31945ac7d0a2205aae4acbd6dfd1e73",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-04 13:10:10",
+      "update_date": "2020-05-04 13:10:10",
+      "block": false,
+      "translator_id": 133,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/970867.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Мир Дикого Запада",
@@ -1190,141 +1351,6 @@
             1,
             2,
             3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Эти глаза напротив",
-      "title_en": "",
-      "year": 2015,
-      "kinopoisk_id": 840923,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "359a25f0633b8f6b2b0df43d54e9b9ffeb6cc2cf47ca79cb7f78b60eee3ee416",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-01 23:23:33",
-      "update_date": "2020-05-01 23:23:33",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/840923.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Голливуд",
-      "title_en": "Hollywood",
-      "year": 2020,
-      "kinopoisk_id": 1244418,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "481fdc84adb00ae52bc47daa67b912ffddfdc6513f63afa636c5fc740ca9dd13",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-01 22:00:36",
-      "update_date": "2020-05-01 22:00:36",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1244418.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "В ночь",
-      "title_en": "Into the Night",
-      "year": 2020,
-      "kinopoisk_id": 1301713,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "af10c3e18d665031bc2a35efdab50437331224115f94ed143a71f1b4ef16bc7f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-01 17:51:13",
-      "update_date": "2020-05-01 17:51:13",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1301713.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Загрузка",
-      "title_en": "Upload",
-      "year": 2020,
-      "kinopoisk_id": 1127489,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "bdc6fa46f17a82defd53bedf620a76ecb568309a27c420d2b2fb4d0c26574a0e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-01 15:33:39",
-      "update_date": "2020-05-01 15:33:39",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1127489.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Воздух",
+      "title_en": "Aire",
+      "year": 2019,
+      "kinopoisk_id": 9265300,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-29 07:31:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Блогеры и дороги",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4474046,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-28 22:27:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Счастливые кролики",
+      "title_en": "Happy Little Bunnies",
+      "year": 2021,
+      "kinopoisk_id": 1405073,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-28 22:26:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Видимость 2",
       "title_en": "Drishyam 2",
       "year": 2021,
@@ -222,43 +261,190 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Ринголевио",
-      "title_en": "Ringolevio",
-      "year": 2020,
-      "kinopoisk_id": 1249638,
-      "type": "movie",
+      "title_ru": "Филфак",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 893846,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "10a57f11772491f26efefac5d1c4847047084def7d0fd4d74817de2f1d6ed885",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-27 17:49:01",
+      "added_date": "2021-05-13 16:50:15",
+      "update_date": "2021-05-13 16:50:39",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/893846.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "В конце всех зарежут",
-      "title_en": "Everybody Gets Stabbed",
-      "year": 2021,
-      "kinopoisk_id": 1240662,
-      "type": "movie",
+      "title_ru": "Кастлвания",
+      "title_en": "Castlevania",
+      "year": 2017,
+      "kinopoisk_id": 1009526,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "bcf32f346816d906c1277c9ef75be35a609de4b61ad3b70470647ab172ca31eb",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-27 17:48:02",
+      "added_date": "2021-05-13 15:10:59",
+      "update_date": "2021-05-13 15:11:45",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1009526.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "В западне",
-      "title_en": "Till Death",
-      "year": 2021,
-      "kinopoisk_id": 1355141,
-      "type": "movie",
+      "title_ru": "Супергёрл",
+      "title_en": "Supergirl",
+      "year": 2015,
+      "kinopoisk_id": 880643,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "4b163720edd24ea44cf4e10cc35179bc57d23b79a81da301ee78a09913d3f540",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-27 17:47:01",
+      "added_date": "2020-02-25 21:46:32",
+      "update_date": "2021-05-13 09:49:58",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/880643.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=122147",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Майянцы",
+      "title_en": "Mayans M.C.",
+      "year": 2018,
+      "kinopoisk_id": 1008307,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "549a08dd7257aefee9e802feba51877fde6d9837c7cc7fcec4df97e81b3e3bf3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-08 17:44:55",
+      "update_date": "2021-05-13 09:48:40",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1008307.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=151771",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Майянцы",
@@ -1553,170 +1739,6 @@
             7,
             8,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кухарка из Кастамара",
-      "title_en": "La cocinera de Castamar",
-      "year": 2021,
-      "kinopoisk_id": 1400972,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "afe95460528c049d013f7eddd29592ae44ed23fb707fa2ce72bf5c49f6129869",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-21 19:38:33",
-      "update_date": "2021-05-09 17:46:11",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1400972.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Скажи мне правду",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 56573456,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "f8dfcab9211beca5c5523811c094572afc658568ffffb2364d5af27e77a1c7b0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-09 16:17:51",
-      "update_date": "2021-05-09 16:19:03",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/56573456.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Врачебная ошибка",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 4430396,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "5a47c6a03bb665d0ebbeccc961a389f0656054155321cb939472587ab13e1f4b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-08 21:30:29",
-      "update_date": "2021-05-09 16:17:41",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4430396.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            1,
-            2,
-            2,
-            3,
-            3,
-            4,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Частный детектив Магнум",
-      "title_en": "Magnum P.I.",
-      "year": 2018,
-      "kinopoisk_id": 1134829,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "a5fe2323cf6792eb872ecf791f52dc5e8021c9220a5a3336640003f9d3938bea",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-03 21:46:16",
-      "update_date": "2021-05-09 09:19:51",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1134829.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
           ]
         }
       ]

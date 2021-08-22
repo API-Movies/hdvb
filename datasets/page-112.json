@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Похищение в Уппсале",
+      "title_en": "Uppsalakidnappningen",
+      "year": 2018,
+      "kinopoisk_id": 1182313,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-22 21:37:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Брошенный",
+      "title_en": "Nasumice",
+      "year": 2018,
+      "kinopoisk_id": 826388,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-22 21:36:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Авель",
+      "title_en": "Aewol",
+      "year": 2019,
+      "kinopoisk_id": 1291212,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-22 21:35:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Последние слова",
       "title_en": "Last Words",
       "year": 2020,
@@ -222,43 +261,152 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Ток-ку вернулся",
-      "title_en": "Deokgu ijeu baek",
-      "year": 2021,
-      "kinopoisk_id": 4336727,
-      "type": "movie",
+      "title_ru": "Неизвестные лица",
+      "title_en": "Persons Unknown",
+      "year": 2010,
+      "kinopoisk_id": 471775,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "e23c77a2af4e46e3aba3466ee29d59310d281c921754afebc504ce873aebe946",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-21 22:59:02",
+      "added_date": "2021-01-19 10:39:35",
+      "update_date": "2021-01-19 10:40:09",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/471775.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "На площадку",
-      "title_en": "Calltime",
-      "year": 2021,
-      "kinopoisk_id": 1382620,
-      "type": "movie",
+      "title_ru": "Стальная звезда",
+      "title_en": "Tin Star",
+      "year": 2017,
+      "kinopoisk_id": 981330,
+      "world_art_id": null,
+      "translator": "Novamedia",
+      "token": "730dea0922d5a3c7eab8b23b0530d48577b53f1426b91fe2bd125f331aea8481",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-21 22:58:01",
+      "added_date": "2020-12-10 21:05:44",
+      "update_date": "2021-01-19 10:12:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 51,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/981330.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Обмен телами",
-      "title_en": "Body Swap",
-      "year": 2019,
-      "kinopoisk_id": 1140511,
-      "type": "movie",
+      "title_ru": "Се Ля Ви",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 58768056,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "52738b98ddb4f8e0cf84e92bac06d039db407ed1c6611a7b530e573ca749f3f3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-21 22:57:01",
+      "added_date": "2021-01-17 15:03:08",
+      "update_date": "2021-01-19 02:26:56",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEBRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/58768056.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Гнездо",
+      "title_en": "The Nest",
+      "year": 2020,
+      "kinopoisk_id": 1297663,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "12182d7625d7a6c1d4ebebd7b7a0fdb80738eb766d7420e1f2969d7481e17cf2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-18 21:45:10",
+      "update_date": "2021-01-18 21:45:44",
+      "block": false,
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1297663.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Больница Никербокер",
@@ -826,126 +974,6 @@
             22,
             23,
             24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Убийство на троих",
-      "title_en": "",
-      "year": 2015,
-      "kinopoisk_id": 916134,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "094bf017ac6a117e48928d4e6e10158cc18793a1bf858331ace235b51a43175d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-17 19:44:47",
-      "update_date": "2021-01-17 19:46:25",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/916134.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Три лани на алмазной тропе",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 986420,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "646078a9b0e3f727f820a6eeffe71a0d852c91edd68ca9ade608eb648b406a48",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-17 19:42:39",
-      "update_date": "2021-01-17 19:44:19",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/986420.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Погоня за тремя зайцами",
-      "title_en": "",
-      "year": 2015,
-      "kinopoisk_id": 917381,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "d6df4560dcb1b50b78f519860aaddea00eda83de0ead06313d6576e645293807",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-17 19:40:29",
-      "update_date": "2021-01-17 19:42:12",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/917381.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Марафон для трёх граций",
-      "title_en": "",
-      "year": 2015,
-      "kinopoisk_id": 917340,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "c3b7fe41b1deed26da9f30b2031c06b5ce1f64b965922b0649965b49671d7cf8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-17 19:36:21",
-      "update_date": "2021-01-17 19:37:16",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/917340.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

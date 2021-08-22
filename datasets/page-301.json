@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Четверка / Адам",
+      "title_en": "Quad / Adam",
+      "year": 2020,
+      "kinopoisk_id": 566286,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-24 03:29:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Экстремальная работа",
+      "title_en": "Geukhanjikeop",
+      "year": 2019,
+      "kinopoisk_id": 1108600,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-24 03:27:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Авангард: Арктические волки",
+      "title_en": "Ji xian feng / Vanguard",
+      "year": 2020,
+      "kinopoisk_id": 1235260,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-24 03:26:01",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Мои волосы хотят убивать",
       "title_en": "Bad Hair",
       "year": 2020,
@@ -222,43 +261,213 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Нечеловеческая природа",
-      "title_en": "Unhuman Nature",
-      "year": 2020,
-      "kinopoisk_id": 1105887,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-22 15:28:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Я токсичный",
-      "title_en": "I Am Toxic / Soy tóxico",
-      "year": 2018,
-      "kinopoisk_id": 1211404,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-22 15:26:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дочка",
-      "title_en": "Daughter",
+      "title_ru": "Преступный мир",
+      "title_en": "Criminal Justice",
       "year": 2019,
-      "kinopoisk_id": 1179269,
-      "type": "movie",
+      "kinopoisk_id": 1201113,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "952c09733f0442f780e5339ad77d134f0678652525ccc5bfa80502d609daebe9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-22 15:25:01",
+      "added_date": "2020-05-15 11:17:32",
+      "update_date": "2020-05-15 11:17:32",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1201113.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Кэти Кин",
+      "title_en": "Katy Keene",
+      "year": 2020,
+      "kinopoisk_id": 1263607,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "76a2eb14794b0b544b53a9aa87a33c18d5ec77e99e9ee19a3b779c16a22ccc8f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-15 11:16:08",
+      "update_date": "2020-05-15 11:16:08",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1263607.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ударная группа",
+      "title_en": "Smeris",
+      "year": 2014,
+      "kinopoisk_id": 1113107,
+      "world_art_id": null,
+      "translator": "Eurochannel",
+      "token": "e23903bebb4c9e874fe9caa6c7bb2d1fc59774a8a6ae40cc801fc453f3d71974",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-15 01:28:40",
+      "update_date": "2020-05-15 01:28:40",
+      "block": false,
+      "translator_id": 137,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1113107.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Тайны Броукенвуда",
+      "title_en": "The Brokenwood Mysteries",
+      "year": 2014,
+      "kinopoisk_id": 841729,
+      "world_art_id": null,
+      "translator": "двухголосый закадровый",
+      "token": "a685ed46c6c8586881ba35bae71f3775937f1e6214013b63143e67f0a10dd475",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-14 23:34:54",
+      "update_date": "2020-05-14 23:34:54",
+      "block": false,
+      "translator_id": 81,
+      "quality": "BluRay",
+      "poster": "https://st.kp.yandex.net/images/film_big/841729.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Тайны Броукенвуда",
@@ -907,308 +1116,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кобра",
-      "title_en": "Cobra",
-      "year": 2019,
-      "kinopoisk_id": 1253001,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "ab6f6ce6ca97383ffcb75c69da36931f98c9a8449f0a2f52745e2757d54de14f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-14 03:14:28",
-      "update_date": "2020-05-14 03:14:28",
-      "block": false,
-      "translator_id": 48,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1253001.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Работа над собой",
-      "title_en": "Work in Progress",
-      "year": 2019,
-      "kinopoisk_id": 1272627,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "2e4c0b7ee03834ddc3450785cdbeb59cb6de22e5f4eb4f340f0f96afae221e03",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-14 02:20:40",
-      "update_date": "2020-05-14 02:20:40",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1272627.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Арес",
-      "title_en": "Ares",
-      "year": 2020,
-      "kinopoisk_id": 1237740,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "544fd8c85d46ba12a1482728e68c2e1a92b8a44345fbf42271302bf871fde828",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-14 02:19:36",
-      "update_date": "2020-05-14 02:19:36",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1237740.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бесстыдники",
-      "title_en": "Shameless",
-      "year": 2011,
-      "kinopoisk_id": 571335,
-      "world_art_id": null,
-      "translator": "Alexfilm",
-      "token": "b68a3a101265cb174bbabfc15b3dd539b4d6d9d64329db59c217f5d45319416e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-14 02:18:25",
-      "update_date": "2020-05-14 02:18:25",
-      "block": false,
-      "translator_id": 3,
-      "quality": "BluRay",
-      "poster": "https://st.kp.yandex.net/images/film_big/571335.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 7,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 8,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 9,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "season_number": 10,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

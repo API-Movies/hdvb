@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Бабуля! / Моя бабуля",
+      "title_en": "Oh! Moon-hee / OH! My Gran",
+      "year": 2020,
+      "kinopoisk_id": 1197734,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-26 00:26:04",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Близкий враг",
+      "title_en": "Duverný neprítel",
+      "year": 2018,
+      "kinopoisk_id": 1083635,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-26 00:24:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мрачные места",
+      "title_en": "Grim Places",
+      "year": 2018,
+      "kinopoisk_id": 1164766,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-26 00:23:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Лес смерти - мертвый лес",
       "title_en": "Alas Pati: Hutan Mati",
       "year": 2018,
@@ -222,43 +261,287 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Глубже!",
+      "title_ru": "Алёша",
       "title_en": "",
       "year": 2020,
-      "kinopoisk_id": 1199625,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-25 15:09:01",
-      "block": false,
+      "kinopoisk_id": 1328020,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "5356be525fc1a948712aabca641bb41a71a8de9e68773b5aef8e8de81cb05002",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-17 09:40:24",
+      "update_date": "2020-05-17 09:40:24",
+      "block": false,
       "translator_id": 92,
-      "quality": "TS"
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1328020.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Спайс бойз",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1325574,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-25 12:12:02",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Удалить историю",
-      "title_en": "Effacer l'historique",
-      "year": 2020,
-      "kinopoisk_id": 1282602,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-25 12:10:02",
-      "block": false,
+      "title_ru": "Доктор Мартин",
+      "title_en": "Doc Martin",
+      "year": 2004,
+      "kinopoisk_id": 229803,
+      "world_art_id": null,
       "translator": "Профессиональный (многоголосый)",
+      "token": "629dae9e51a80947dfbf567137737049b4dbde31c8adeec0d2632b4233d7fbdd",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-17 08:43:03",
+      "update_date": "2020-05-17 08:43:03",
+      "block": false,
       "translator_id": 126,
-      "quality": "TS"
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/229803.jpg",
+      "trailer": "https://kp.cdn.yandex.net/229803/kinopoisk.ru-Doc-Martin-219577.mp4",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 7,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 8,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "В лучшем мире",
+      "title_en": "The Good Place",
+      "year": 2016,
+      "kinopoisk_id": 977493,
+      "world_art_id": null,
+      "translator": "Профессиональный (многоголосый)",
+      "token": "b4fb6f7e61ac558c5f913f16631c270a5bdce1eee5eb904ac18d64d21bdb2527",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-17 00:17:11",
+      "update_date": "2020-05-17 00:17:11",
+      "block": false,
+      "translator_id": 126,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/977493.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135061",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Падение в мёртвые воды",
+      "title_en": "Deadwater Fell",
+      "year": 2020,
+      "kinopoisk_id": 1283882,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "c2174754e229932a582fd02c4eb4340d51171d58ac2180d8fd42a7de6d651a03",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-16 23:16:35",
+      "update_date": "2020-05-16 23:16:35",
+      "block": false,
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1283882.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Расправа",
@@ -1038,130 +1321,6 @@
           "episodes": [
             1,
             2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Северное сияние. Ведьмины куклы. Фильм второй",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1209180,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "3343bbe98486f72c4fc0f590a998e5a5506e2105b1d4c08a13818370ec725cb1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 14:54:48",
-      "update_date": "2020-05-16 14:54:48",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1209180.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Северное сияние",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1125430,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "eeb5ab5fd0fd204506703cfbea33bde964b503b671ff9b0f8d41e20d7e6552c7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 14:53:22",
-      "update_date": "2020-05-16 14:53:22",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1125430.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Миссии",
-      "title_en": "Missions",
-      "year": 2017,
-      "kinopoisk_id": 1046513,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "16f71cd1457e10578fffe861565f47f406a1489ce2c4bac8ce7529cfbfc89305",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 14:32:56",
-      "update_date": "2020-05-16 14:32:56",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1046513.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=143698",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Открытое море",
-      "title_en": "Alta mar",
-      "year": 2019,
-      "kinopoisk_id": 1200404,
-      "world_art_id": null,
-      "translator": "AMS",
-      "token": "9f3284242e8510bd4b6394ae9d94dd347595c89eca4ac91fd830203572ac93b3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 14:31:49",
-      "update_date": "2020-05-16 14:31:49",
-      "block": false,
-      "translator_id": 139,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1200404.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

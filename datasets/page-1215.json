@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Капернаум",
+      "title_en": "Capharnaüm",
+      "year": 2018,
+      "kinopoisk_id": 1118042,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-08 12:45:37",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Звёзды",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1142555,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-07 20:53:55",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Стажёр",
+      "title_en": "Il tuttofare",
+      "year": 2018,
+      "kinopoisk_id": 1111934,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-07 20:39:09",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Капитан Марвел",
       "title_en": "Captain Marvel",
       "year": 2019,
@@ -225,47 +264,6 @@
       ],
       "translator": "Не требуется",
       "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "По половому признаку",
-      "title_en": "On the Basis of Sex",
-      "year": 2018,
-      "kinopoisk_id": 1073213,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-04 14:58:09",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Спасти Ленинград",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1101223,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-03 23:30:43",
-      "block": [
-        "RU"
-      ],
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Наркокурьер",
-      "title_en": "The Mule",
-      "year": 2018,
-      "kinopoisk_id": 1142526,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-03 20:33:18",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
       "quality": "TS"
     }
   ]

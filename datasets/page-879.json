@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title_ru": "Он, я и его друзья",
+      "title_en": "You, Me and Dupree",
+      "year": 2006,
+      "kinopoisk_id": 160910,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-12 19:39:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Болевой порог",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 913060,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-12 19:19:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мидуэй",
+      "title_en": "Midway",
+      "year": 2019,
+      "kinopoisk_id": 1045457,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-12 13:05:02",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
       "title_ru": "24 часа в моей маленькой квартире",
       "title_en": "24 Hours in My Council Flat",
       "year": 2017,
@@ -223,45 +265,6 @@
       "translator": "Дубляж [Лицензия]",
       "translator_id": 107,
       "quality": "BluRay"
-    },
-    {
-      "title_ru": "Газетчик",
-      "title_en": "The Paperboy",
-      "year": 2012,
-      "kinopoisk_id": 586624,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-11 21:03:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Со склонов Кокурико",
-      "title_en": "Kokuriko-zaka kara",
-      "year": 2011,
-      "kinopoisk_id": 574726,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-11 21:02:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Последняя сказка Риты",
-      "title_en": "",
-      "year": 2012,
-      "kinopoisk_id": 508645,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-11 21:01:02",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "HDTV"
     }
   ]
 }

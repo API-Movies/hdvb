@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Как первая рюмка",
+      "title_en": "Cheotjancheoreom",
+      "year": 2019,
+      "kinopoisk_id": 1289031,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-27 23:49:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Слэйт",
+      "title_en": "Seulleiteu",
+      "year": 2020,
+      "kinopoisk_id": 1445146,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-27 23:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Окна в мир",
+      "title_en": "Windows on the World",
+      "year": 2019,
+      "kinopoisk_id": 1054785,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-27 23:46:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "ВЕСЬ МИР НА ПЛЕЧАХ",
       "title_en": "Il Mondo Sulle Spalle",
       "year": 2019,
@@ -222,43 +261,156 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Бухта",
-      "title_en": "Escape to the Cove",
-      "year": 2021,
-      "kinopoisk_id": 1402226,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-27 11:32:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Отчаянный ход",
-      "title_en": "The Last Full Measure",
+      "title_ru": "Слепцы",
+      "title_en": "Fartblinda",
       "year": 2019,
-      "kinopoisk_id": 820701,
-      "type": "movie",
+      "kinopoisk_id": 1204240,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "2daa62c0b7c3a22d4fb8f36d97dc0716253980046130a5fe5332439342472af8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-27 09:43:01",
+      "added_date": "2021-01-27 22:20:36",
+      "update_date": "2021-01-27 22:21:24",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1204240.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "После Чернобыля",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 667893,
-      "type": "movie",
+      "title_ru": "Падение в мёртвые воды",
+      "title_en": "Deadwater Fell",
+      "year": 2020,
+      "kinopoisk_id": 1283882,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "b1fa3407fe695ed3b70b967da8e382d58fe76154a05ac30c38ff6e98e3b655b9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-27 09:42:01",
+      "added_date": "2021-01-27 22:19:45",
+      "update_date": "2021-01-27 22:20:22",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1283882.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Легенды",
+      "title_en": "Legends",
+      "year": 2014,
+      "kinopoisk_id": 681729,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "b8b6029c64a87d07948c944cbd8f544a04fc306af196da2858477c10fb37bd34",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-27 22:12:26",
+      "update_date": "2021-01-27 22:14:03",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/681729.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мертвое лето",
+      "title_en": "Dead of Summer",
+      "year": 2016,
+      "kinopoisk_id": 975176,
+      "world_art_id": null,
+      "translator": "Amedia",
+      "token": "f58db3537835fc948487eb39a51eb73ab4fbf57b956ce9de0f433170538b3f78",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-27 22:10:41",
+      "update_date": "2021-01-27 22:11:49",
+      "block": false,
+      "translator_id": 7,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/975176.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Первые ласточки",
@@ -793,126 +945,6 @@
       "translator_id": 92,
       "quality": "WEB-DL",
       "poster": "https://www.kinopoisk.ru/images/film_big/933775.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Неразрезанные страницы",
-      "title_en": "",
-      "year": 2015,
-      "kinopoisk_id": 933351,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "3696f95e83f1a34ab75e638dab319ca97f319219858cae12f9360aba9015f67d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-26 23:21:17",
-      "update_date": "2021-01-26 23:22:15",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/933351.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "На одном дыхании",
-      "title_en": "",
-      "year": 2014,
-      "kinopoisk_id": 839395,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "6acea7df01c3a3318b9d6b93d4044b30811b36314b04632a5b06e70906148901",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-26 23:20:43",
-      "update_date": "2021-01-26 23:21:28",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/839395.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ковчег Марка",
-      "title_en": "",
-      "year": 2015,
-      "kinopoisk_id": 894002,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "711ecd1bd3aeaed5b80ef2ff174dff78f0afa01e7a5a6fa6ffe82bee5c952271",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-26 23:19:54",
-      "update_date": "2021-01-26 23:20:54",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/894002.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Колодец забытых желаний",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 1008513,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "7ae3e099c1ae9d5dec602018b34ad13d9259822f8b78d85f1ae712f523d7239f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-26 23:19:21",
-      "update_date": "2021-01-26 23:20:11",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://img.imgilall.me/movies/franchise/3/9/7/7/0/0/0/0/0/0/610x900_39770.jpg",
       "trailer": "",
       "serial_episodes": [
         {

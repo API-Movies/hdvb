@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Возвращение домой",
+      "title_en": "Coming Home",
+      "year": 2017,
+      "kinopoisk_id": 985266,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-10 20:02:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Торсон и Танга (Моя очаровательная дикарка)",
+      "title_en": "Torzón y Tanga (Mi adorable salvaje)",
+      "year": 2017,
+      "kinopoisk_id": 1152119,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-10 20:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ночная смена",
+      "title_en": "The Graveyard Gang",
+      "year": 2018,
+      "kinopoisk_id": 4413440,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-10 19:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Готика Теннесси",
       "title_en": "Tennessee Gothic",
       "year": 2019,
@@ -222,43 +261,223 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Почтальон",
-      "title_en": "Cartero / Postman",
+      "title_ru": "Доктор Блейк",
+      "title_en": "The Doctor Blake Mysteries",
+      "year": 2013,
+      "kinopoisk_id": 734714,
+      "world_art_id": null,
+      "translator": "Профессиональный (многоголосый)",
+      "token": "67da9513b326ba1ed7e357d36680324c789b485c63731cec1c30e395e7da9919",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-12 10:06:05",
+      "update_date": "2021-02-12 10:07:24",
+      "block": false,
+      "translator_id": 126,
+      "quality": "WEB-DLRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/734714.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Связи",
+      "title_en": "Liaisons",
+      "year": 2015,
+      "kinopoisk_id": 1046489,
+      "world_art_id": null,
+      "translator": "Amedia",
+      "token": "5936d2f5c7af96d03c92278ca62b3f6a651c01a62fc0ad0f29f71cf336380dc0",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-12 10:04:40",
+      "update_date": "2021-02-12 10:05:40",
+      "block": false,
+      "translator_id": 7,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1046489.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Противостояние",
+      "title_en": "The Stand",
+      "year": 2020,
+      "kinopoisk_id": 582208,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "945a6b59266024ae02e3a9391155aa3adfe3aa7edc95d01555e72375c7c05b64",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-18 09:12:22",
+      "update_date": "2021-02-12 10:01:01",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/582208.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Капитани",
+      "title_en": "Capitani",
       "year": 2019,
-      "kinopoisk_id": 1323046,
-      "type": "movie",
+      "kinopoisk_id": 1274035,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "f783422be86d5619b2c62e3894e4860c938a198d62ec20254c6f322f034e9890",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-09 23:27:01",
+      "added_date": "2021-02-12 09:38:20",
+      "update_date": "2021-02-12 09:39:01",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Рецепт обольщения",
-      "title_en": "A Recipe for Seduction",
-      "year": 2020,
-      "kinopoisk_id": 4297137,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-09 23:26:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Рождественский обмен",
-      "title_en": "A Christmas Exchange",
-      "year": 2020,
-      "kinopoisk_id": 1409139,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-09 23:22:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1274035.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Звёзды ансамбля!",
@@ -1339,183 +1558,6 @@
             36,
             37,
             38
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "... и в бедности",
-      "title_en": "Broke",
-      "year": 2020,
-      "kinopoisk_id": 1246007,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "cec4d78d46a3254899c540573f7d9d956bcae07f1b0c2fcd4d0b4f3576f95200",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-11 01:43:37",
-      "update_date": "2021-02-11 01:44:42",
-      "block": false,
-      "translator_id": 15,
-      "quality": "HDTVRip",
-      "poster": "https://img.imgilall.me/movies/franchise/1/6/0/8/3/0/0/0/0/0/610x900_16083.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Небесные рыцари",
-      "title_en": "Storm Hawks",
-      "year": 2007,
-      "kinopoisk_id": 542532,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "a107ab970a2eaeb3703b5598380c7199d475c688f990a42fa209a6e5d225d5f2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-11 01:28:48",
-      "update_date": "2021-02-11 01:38:35",
-      "block": false,
-      "translator_id": 126,
-      "quality": "SATRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/542532.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 26,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Небесные рыцари",
-      "title_en": "Storm Hawks",
-      "year": 2007,
-      "kinopoisk_id": 542532,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "b361f1f16f94898ff1e6e674fe007022e741c7403cd658b98c17da84959c018a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-11 01:27:20",
-      "update_date": "2021-02-11 01:28:39",
-      "block": false,
-      "translator_id": 126,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/542532.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 26,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рейк",
-      "title_en": "Rake",
-      "year": 2010,
-      "kinopoisk_id": 507140,
-      "world_art_id": null,
-      "translator": "Gears Media",
-      "token": "9faa74c573bae0ceeecbe4c93d6492730d993f0d604b65c107282fb2a3de0e0b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-11 01:23:38",
-      "update_date": "2021-02-11 01:27:10",
-      "block": false,
-      "translator_id": 28,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/507140.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

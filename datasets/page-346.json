@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Думаю, как всё закончить",
+      "title_en": "I'm Thinking of Ending Things",
+      "year": 2020,
+      "kinopoisk_id": 1219852,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-04 18:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Анти-короновирус",
+      "title_en": "Anti Corona Virus / Anti Coronavirus",
+      "year": 2020,
+      "kinopoisk_id": 1359289,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-04 18:47:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Девушка с браслетом",
+      "title_en": "La fille au bracelet",
+      "year": 2019,
+      "kinopoisk_id": 1328104,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-09-04 18:46:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Почти человек",
       "title_en": "Almost Human",
       "year": 2020,
@@ -222,43 +261,216 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Технобосс",
-      "title_en": "Technoboss",
-      "year": 2019,
-      "kinopoisk_id": 1222287,
-      "type": "movie",
+      "title_ru": "Посредник (Решала)",
+      "title_en": "Mr Inbetween",
+      "year": 2018,
+      "kinopoisk_id": 1179409,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "4d71fd62d7431d85f337043d6dc90b9c800f000476a6c0322b01cf1cbc6781e2",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-03 19:48:01",
+      "added_date": "2019-11-22 16:29:03",
+      "update_date": "2019-11-22 16:29:03",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1179409.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Первая любовь",
-      "title_en": "First Love",
-      "year": 2019,
-      "kinopoisk_id": 944134,
-      "type": "movie",
+      "title_ru": "Мистер Мерседес",
+      "title_en": "Mr. Mercedes",
+      "year": 2017,
+      "kinopoisk_id": 891578,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "a1497caf61bc7653e04d4d01c272cfc0d35f120d0a623caae44c090b819ab02f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-03 19:47:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "added_date": "2019-11-22 12:37:53",
+      "update_date": "2019-11-22 12:37:53",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/891578.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=141391",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Сестринство",
-      "title_en": "Sisterhood / Shisutâfuddo",
-      "year": 2019,
-      "kinopoisk_id": 56756745,
-      "type": "movie",
+      "title_ru": "Достать коротышку",
+      "title_en": "Get Shorty",
+      "year": 2017,
+      "kinopoisk_id": 1007465,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "6b65844e109da462858449b796169f2c1119453f1c225771abbd2508dad6a992",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-09-03 19:44:01",
+      "added_date": "2019-11-22 11:56:04",
+      "update_date": "2019-11-22 11:56:04",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1007465.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=141756",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Соболезную вашей утрате",
+      "title_en": "Sorry for Your Loss",
+      "year": 2018,
+      "kinopoisk_id": 1114060,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "7d7a728da50fd0aa76a7f9c2770de3084c04a02954f17f31c703bb2e99c3a16c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-22 09:19:33",
+      "update_date": "2019-11-22 09:19:33",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1114060.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Чёрная стерва",
@@ -932,132 +1144,6 @@
             9,
             10
           ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Доктор Мартин",
-      "title_en": "Doc Martin",
-      "year": 2004,
-      "kinopoisk_id": 229803,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "85f86ee6c8380a3ec061c04bf1438c41f59922bc7d2bf4be629d60adb1790989",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-17 23:34:44",
-      "update_date": "2019-11-17 23:34:44",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/229803.jpg",
-      "trailer": "https://kp.cdn.yandex.net/229803/kinopoisk.ru-Doc-Martin-219577.mp4",
-      "serial_episodes": [
-        {
-          "season_number": 9,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чёрная стерва",
-      "title_en": "Total Control (Black Bitch)",
-      "year": 2019,
-      "kinopoisk_id": 1217675,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "2e640d68fad5856da484aff06ed2aea19cc336e39c15a2ba3d8a17ce55469ac6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-17 22:32:18",
-      "update_date": "2019-11-17 22:32:18",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1217675.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Достать коротышку",
-      "title_en": "Get Shorty",
-      "year": 2017,
-      "kinopoisk_id": 1007465,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "3c35db03fad88c1ef789c85395127c99f4de6ac8c4ddd67dfdeac45424f23fcd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-17 21:02:29",
-      "update_date": "2019-11-17 21:02:29",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1007465.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=141756",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Район тьмы. Хроники повседневного зла",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 943986,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "619d94a7bfaa885528a55e59437a9e857a7f4154650f84fff9b10ff63498d2db",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-17 17:58:17",
-      "update_date": "2019-11-17 17:58:17",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/943986.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 0
         }
       ]
     }

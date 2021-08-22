@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Другое поколение",
+      "title_en": "Fluidity",
+      "year": 2019,
+      "kinopoisk_id": 981294,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-26 01:20:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Анджело",
+      "title_en": "Angelo",
+      "year": 2018,
+      "kinopoisk_id": 1052787,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-26 01:19:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Охотники на монстров",
+      "title_en": "Monster Hunters",
+      "year": 2020,
+      "kinopoisk_id": 324545665,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-26 01:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Закон о детях",
       "title_en": "The Children Act",
       "year": 2017,
@@ -222,43 +261,133 @@
       "quality": "HDTV"
     },
     {
-      "title_ru": "Энтони",
-      "title_en": "Anthony",
-      "year": 2020,
-      "kinopoisk_id": 1396739,
-      "type": "movie",
+      "title_ru": "Игра престолов",
+      "title_en": "Game of Thrones",
+      "year": 2011,
+      "kinopoisk_id": 464963,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "db6ba6b8910f7d7b219d486786dc8c43b4baac232366b4a2f039021b70649c79",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-25 17:07:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
+      "added_date": "2019-08-30 16:17:47",
+      "update_date": "2019-08-30 16:18:24",
+      "block": [
+        "RU"
+      ],
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/464963.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=141135",
+      "serial_episodes": [
+        {
+          "season_number": 8,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Анни - жизнь продолжается",
-      "title_en": "Annie - kopfüber ins Leben",
-      "year": 2020,
-      "kinopoisk_id": 1347499,
-      "type": "movie",
+      "title_ru": "Проповедник",
+      "title_en": "Preacher",
+      "year": 2016,
+      "kinopoisk_id": 461353,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "8f65b08bf227fa5a3e265055b988d4e9489a2331900cea06858a7d3e1d0e752d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-25 17:05:02",
+      "added_date": "2019-08-30 11:25:13",
+      "update_date": "2019-08-30 11:25:37",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/461353.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=129134",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Встреча выпускников 2: Свадьба",
-      "title_en": "Die Hochzeit / Klassentreffen - Die Hochzeit",
-      "year": 2020,
-      "kinopoisk_id": 1289415,
-      "type": "movie",
+      "title_ru": "Кайфоломы / Киллджойс",
+      "title_en": "Killjoys",
+      "year": 2015,
+      "kinopoisk_id": 891589,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "c1fae7f0ca7a9e39b765585c66dbc8093b8dbe1815413aa3d44b47bc5735cf94",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-25 17:04:01",
+      "added_date": "2019-08-30 11:24:24",
+      "update_date": "2019-08-30 11:24:52",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/891589.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=117215",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Форс-мажоры",
+      "title_en": "Suits",
+      "year": 2011,
+      "kinopoisk_id": 557806,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "0a3727b6182bc7586654dfc27b5fcaaaf5e8e063d72e8904e128aa3d30b11d61",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-08-30 11:22:30",
+      "update_date": "2019-08-30 11:23:02",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/557806.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=115606",
+      "serial_episodes": [
+        {
+          "season_number": 9,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Вероника Марс",
@@ -802,146 +931,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Благие знамения",
-      "title_en": "Good Omens",
-      "year": 2019,
-      "kinopoisk_id": 585727,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "fd0ce93435b7c2e584dbe160db1ab0a093db7dd5d2637103e9525548fe1ff6b2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-26 10:59:05",
-      "update_date": "2019-08-26 10:59:33",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/585727.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Оранжевый — хит сезона",
-      "title_en": "Orange Is the New Black",
-      "year": 2013,
-      "kinopoisk_id": 767164,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "685ccf72c9531df07cba505c3a76afe82c6e65f33919631e3b6d20030734e2b9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-26 10:57:33",
-      "update_date": "2019-08-26 10:58:38",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/767164.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=100341",
-      "serial_episodes": [
-        {
-          "season_number": 7,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "БИХЭППИ",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1231445,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "73b39594527993e6933fd4b7463e9304cd7258779d00ed50cd1353fadf7077a8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-13 02:07:25",
-      "update_date": "2019-08-25 20:48:10",
-      "block": [
-        "RU"
-      ],
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1231445.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чернобыль",
-      "title_en": "Chernobyl",
-      "year": 2019,
-      "kinopoisk_id": 1227803,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "1aa584a33fc3be6f9f6c2011859636445cafaf9d0314fb870efd3104c0a16c55",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-25 14:47:17",
-      "update_date": "2019-08-25 14:47:50",
-      "block": [
-        "RU"
-      ],
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1227803.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
           ]
         }
       ]

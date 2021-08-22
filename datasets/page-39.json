@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Страсть, любовь и стволы",
+      "title_en": "Die in a Gunfight",
+      "year": 2021,
+      "kinopoisk_id": 557785,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-09 16:46:03",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Чёрная Вдова",
+      "title_en": "Black Widow",
+      "year": 2021,
+      "kinopoisk_id": 823956,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-09 16:45:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Субаренда",
+      "title_en": "Sublet",
+      "year": 2021,
+      "kinopoisk_id": 1278334,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-09 16:44:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Дореми: В поисках волшебства",
       "title_en": "Majo minarai wo sagashite",
       "year": 2020,
@@ -222,43 +261,182 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Мотт Хейвен",
-      "title_en": "Mott Haven",
-      "year": 2021,
-      "kinopoisk_id": 1147812,
-      "type": "movie",
+      "title_ru": "Спецназ",
+      "title_en": "SEAL Team",
+      "year": 2017,
+      "kinopoisk_id": 1040696,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "c19b852b69d31d9a13358cc55e7a4fb52c8ba02ed1db36b5ef7947ae682a95a7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-08 18:12:01",
+      "added_date": "2020-12-03 20:52:24",
+      "update_date": "2021-05-27 17:19:48",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1040696.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Судная ночь навсегда",
-      "title_en": "The Forever Purge",
-      "year": 2021,
-      "kinopoisk_id": 1263408,
-      "type": "movie",
+      "title_ru": "S. W. A. T.: Спецназ города ангелов",
+      "title_en": "S.W.A.T.",
+      "year": 2017,
+      "kinopoisk_id": 1040432,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "19414f3e38d023b0857ce9893f3cce3fc8b49a2cceb87be46551ebd84c5834d2",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-08 18:11:01",
+      "added_date": "2020-11-12 14:11:31",
+      "update_date": "2021-05-27 17:19:34",
       "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1040432.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Любовь, смерть и роботы",
+      "title_en": "Love, Death &amp; Robots",
+      "year": 2019,
+      "kinopoisk_id": 1228254,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "5b81805afdb41959a844e27c8adfad450a9dbf287a5379ca05b15dcd6c66c749",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-16 21:22:17",
+      "update_date": "2021-05-27 16:48:00",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1228254.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Охота на ведьм",
+      "title_en": "Heksejakt",
+      "year": 2020,
+      "kinopoisk_id": 1296068,
+      "world_art_id": null,
       "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Красная река",
-      "title_en": "River Runs Red",
-      "year": 2021,
-      "kinopoisk_id": 1073016,
-      "type": "movie",
+      "token": "d965bf354b6aad8f6e1f73ddb006af66c473867d89f0a34f1c494a5f921e0bfc",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-08 18:10:01",
+      "added_date": "2021-05-27 14:27:06",
+      "update_date": "2021-05-27 14:27:31",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1296068.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Смертельное везение",
@@ -1167,198 +1345,6 @@
             12,
             13,
             14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "911: Одинокая звезда",
-      "title_en": "9-1-1: Lone Star",
-      "year": 2020,
-      "kinopoisk_id": 1272633,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "8e1ef7858d355206078c8e025d1b3804116586552d749daed4d621b0d9f74562",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-26 10:14:15",
-      "update_date": "2021-05-27 09:49:33",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1272633.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мушкетёры",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1387037,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "40faa070c94416d8a025f494aac0e19f0b8ba02cba5fc2568d8053bc5f76b05c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-27 12:13:17",
-      "update_date": "2021-05-26 21:25:10",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1387037.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 30,
-          "episodes": [
-            1,
-            1,
-            2,
-            3,
-            3,
-            4,
-            4,
-            5,
-            5,
-            6,
-            7,
-            7,
-            8,
-            8,
-            9,
-            9,
-            10,
-            10,
-            11,
-            11,
-            12,
-            12,
-            13,
-            13,
-            14,
-            14,
-            15,
-            15,
-            16,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Это мы",
-      "title_en": "This Is Us",
-      "year": 2016,
-      "kinopoisk_id": 969141,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "1175dc5b81e91ca28cd389847cf1427dc6edf67ca5136e8763ecb10dab16fdb4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-28 19:16:27",
-      "update_date": "2021-05-26 14:24:53",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/969141.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135261",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "ФБР: Самые разыскиваемые преступники",
-      "title_en": "FBI: Most Wanted",
-      "year": 2020,
-      "kinopoisk_id": 1236630,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "c9e43e80ff4765b2de001c7a9889b674a83a9fd6fb166ece5796a3ae41683442",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-18 14:08:11",
-      "update_date": "2021-05-26 14:21:51",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1236630.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
           ]
         }
       ]

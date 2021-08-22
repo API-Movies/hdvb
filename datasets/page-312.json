@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Ассистентка",
+      "title_en": "The Assistant",
+      "year": 2020,
+      "kinopoisk_id": 1192747,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-11 17:34:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Следуй зову сердца",
+      "title_en": "From the Heart / Follow Your Heart",
+      "year": 2020,
+      "kinopoisk_id": 1292662,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-11 17:02:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Особенное",
+      "title_en": "The Special",
+      "year": 2020,
+      "kinopoisk_id": 1201378,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-11 17:00:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Дьявольский холст",
       "title_en": "The devil frame / The Devil's Canvas",
       "year": 2020,
@@ -222,43 +261,150 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Ранчо Джона Лэндсбурга: подарок на свадьбу",
-      "title_en": "JL Family Ranch 2 / JL Family Ranch: The Wedding Gift",
+      "title_ru": "Незнакомец",
+      "title_en": "The Stranger",
       "year": 2020,
-      "kinopoisk_id": 1263537,
-      "type": "movie",
+      "kinopoisk_id": 1313231,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "7806378a919445dd7114f425e1e0edf39fdfb65a7757f9aae3f963ad2cf754b1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-10 00:16:02",
+      "added_date": "2020-04-24 22:29:26",
+      "update_date": "2020-04-24 22:29:26",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
+      "translator_id": 14,
+      "quality": "TS",
+      "poster": "https://st.kp.yandex.net/images/film_big/1313231.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Дарья",
-      "title_en": "Daria",
-      "year": 2020,
-      "kinopoisk_id": 1340776,
-      "type": "movie",
+      "title_ru": "Банды Лондона",
+      "title_en": "Gangs of London",
+      "year": 2019,
+      "kinopoisk_id": 1200059,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "f30c877094270bc1809377d8ae880998943d9c2280bab25392925c0de540e5b1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-10 00:14:00",
+      "added_date": "2020-04-24 22:26:53",
+      "update_date": "2020-04-24 22:26:53",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1200059.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Елена",
-      "title_en": "Helena / Prometo no enamorarme",
+      "title_ru": "Сделай погромче, Чарли",
+      "title_en": "Turn Up Charlie",
+      "year": 2019,
+      "kinopoisk_id": 1137021,
+      "world_art_id": null,
+      "translator": "РуФилмс",
+      "token": "eb66b790a3bf1df78d86f5fdf55e1ceae1a3d386394e1cb468e702de7fb7a31e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-24 22:11:15",
+      "update_date": "2020-04-24 22:11:15",
+      "block": false,
+      "translator_id": 121,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1137021.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Дом цветов",
+      "title_en": "La casa de las flores / The House of Flowers",
       "year": 2018,
-      "kinopoisk_id": 4016662,
-      "type": "movie",
+      "kinopoisk_id": 1155914,
+      "world_art_id": null,
+      "translator": "Gears Media",
+      "token": "7ea02b9e765d1256f730c5edf6eecd34fda0f071f03c34c8b135d9683aa5498e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-10 00:13:02",
+      "added_date": "2020-04-24 22:08:28",
+      "update_date": "2020-04-24 22:08:28",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 28,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1155914.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Диетлэнд",
@@ -1197,149 +1343,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Самая опасная добыча",
-      "title_en": "Most Dangerous Game",
-      "year": 2020,
-      "kinopoisk_id": 1322881,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "db85b291e8e13e5977e60e855b157056c67757e0819f234475d029ebc10f6362",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-22 22:52:15",
-      "update_date": "2020-04-22 22:52:15",
-      "block": false,
-      "translator_id": 14,
-      "quality": "TS",
-      "poster": "https://st.kp.yandex.net/images/film_big/1322881.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Потерянная дочь",
-      "title_en": "Die verlorene Tochter",
-      "year": 2020,
-      "kinopoisk_id": 1209268,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "6307e2615b5b82190d08e7c5d0d24958ed033105ba994cce07e74d18ad4fb373",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-22 22:33:19",
-      "update_date": "2020-04-22 22:33:19",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1209268.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "И повсюду тлеют пожары",
-      "title_en": "Little Fires Everywhere",
-      "year": 2020,
-      "kinopoisk_id": 1140015,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "f2475d2f4b329a981bfd50ca767900a8c41aac16aed076d1bdec25a1ce878504",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-22 20:22:27",
-      "update_date": "2020-04-22 20:22:27",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1140015.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дерись, как девчонка",
-      "title_en": "Fight Like a Girl",
-      "year": 2020,
-      "kinopoisk_id": 10638072,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "e9e51a3d10189fefe0e1acdc1719b21535d595d491793a4ba9184d83643960e0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-22 20:16:40",
-      "update_date": "2020-04-22 20:16:40",
-      "block": false,
-      "translator_id": 115,
-      "quality": "TS",
-      "poster": "https://www.kinopoisk.ru/images/film_big/10638072.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

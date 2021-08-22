@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title_ru": "Зелёная книга",
+      "title_en": "Green Book",
+      "year": 2018,
+      "kinopoisk_id": 1108577,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-10-24 18:50:02",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "4К"
+    },
+    {
+      "title_ru": "Мамы на тропе войны",
+      "title_en": "Moms at War",
+      "year": 2018,
+      "kinopoisk_id": 1181690,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-10-24 18:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кумир",
+      "title_en": "Usang",
+      "year": 2019,
+      "kinopoisk_id": 1046980,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-10-24 18:17:01",
+      "block": false,
+      "translator": "den904",
+      "translator_id": 19,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Венеция зовет",
       "title_en": "Venise n'est pas en Italie",
       "year": 2019,
@@ -220,45 +262,6 @@
       "translator": "Дубляж [Лицензия]",
       "translator_id": 107,
       "quality": "BluRay"
-    },
-    {
-      "title_ru": "Майкл против Джейсона: зло возвращается",
-      "title_en": "Michael vs Jason: Evil Emerges",
-      "year": 2019,
-      "kinopoisk_id": 10171106,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-10-24 15:16:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Свадьба в понедельник",
-      "title_en": "Married on a Monday",
-      "year": 2017,
-      "kinopoisk_id": 1005235,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-10-24 14:54:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Поговорите с мертвым",
-      "title_en": "Hablar con los Muertos",
-      "year": 2017,
-      "kinopoisk_id": 1071300,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-10-24 14:46:04",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
     }
   ]
 }

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Ранчо Джона Лэндсбурга: подарок на свадьбу",
+      "title_en": "JL Family Ranch 2 / JL Family Ranch: The Wedding Gift",
+      "year": 2020,
+      "kinopoisk_id": 1263537,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-10 00:16:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Дарья",
+      "title_en": "Daria",
+      "year": 2020,
+      "kinopoisk_id": 1340776,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-10 00:14:00",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Елена",
+      "title_en": "Helena / Prometo no enamorarme",
+      "year": 2018,
+      "kinopoisk_id": 4016662,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-10 00:13:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "В Ад с Харви",
       "title_en": "To Hell with Harvey",
       "year": 2019,
@@ -222,43 +261,147 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Былые привычки",
-      "title_en": "I Used to Go Here",
+      "title_ru": "Самая опасная добыча",
+      "title_en": "Most Dangerous Game",
       "year": 2020,
-      "kinopoisk_id": 1297676,
-      "type": "movie",
+      "kinopoisk_id": 1322881,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "db85b291e8e13e5977e60e855b157056c67757e0819f234475d029ebc10f6362",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-08 22:48:02",
+      "added_date": "2020-04-22 22:52:15",
+      "update_date": "2020-04-22 22:52:15",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "TS",
+      "poster": "https://st.kp.yandex.net/images/film_big/1322881.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "В одиночку Alone",
-      "title_en": "Alone",
+      "title_ru": "Потерянная дочь",
+      "title_en": "Die verlorene Tochter",
       "year": 2020,
-      "kinopoisk_id": 1256564,
-      "type": "movie",
+      "kinopoisk_id": 1209268,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "6307e2615b5b82190d08e7c5d0d24958ed033105ba994cce07e74d18ad4fb373",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-08 22:39:02",
+      "added_date": "2020-04-22 22:33:19",
+      "update_date": "2020-04-22 22:33:19",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1209268.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Тайны, которые мы храним",
-      "title_en": "The Secrets We Keep",
+      "title_ru": "И повсюду тлеют пожары",
+      "title_en": "Little Fires Everywhere",
       "year": 2020,
-      "kinopoisk_id": 1213882,
-      "type": "movie",
+      "kinopoisk_id": 1140015,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "f2475d2f4b329a981bfd50ca767900a8c41aac16aed076d1bdec25a1ce878504",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-08 22:38:02",
+      "added_date": "2020-04-22 20:22:27",
+      "update_date": "2020-04-22 20:22:27",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "DVDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1140015.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Дерись, как девчонка",
+      "title_en": "Fight Like a Girl",
+      "year": 2020,
+      "kinopoisk_id": 10638072,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "e9e51a3d10189fefe0e1acdc1719b21535d595d491793a4ba9184d83643960e0",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-22 20:16:40",
+      "update_date": "2020-04-22 20:16:40",
+      "block": false,
+      "translator_id": 115,
+      "quality": "TS",
+      "poster": "https://www.kinopoisk.ru/images/film_big/10638072.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Фауда",
@@ -814,126 +957,6 @@
             1,
             2,
             3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Проект «Белая Кошка»",
-      "title_en": "Shironeko Project: Zero Chronicle",
-      "year": 2020,
-      "kinopoisk_id": 1343949,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "ca7c5c8dd4e17cc9ed7d30c5773f9f0aab331cc705896b13a80d18e9926b00b8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-21 08:26:31",
-      "update_date": "2020-04-21 08:26:31",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1343949.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Связь принцесс: Повторное погружение",
-      "title_en": "Princess Connect! Re: Dive",
-      "year": 2020,
-      "kinopoisk_id": 1366044,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "409283abd2b6d43fd6e024d3b1afb3fbf920c5b3c664faeaee098f6ef4b38e7b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-21 08:25:40",
-      "update_date": "2020-04-21 08:25:40",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1366044.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Детективное агентство дятла",
-      "title_en": "Woodpecker Detective's Office / Kitsutsuki Tanteidokoro",
-      "year": 2020,
-      "kinopoisk_id": 1347161,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "372a85f6390d2676c5b83fd9a459c507c04eb592aaf6b8bc74c0203e9a594707",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-21 08:25:07",
-      "update_date": "2020-04-21 08:25:07",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1347161.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Волшебники",
-      "title_en": "The Magicians",
-      "year": 2015,
-      "kinopoisk_id": 875215,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "4eca860b4b20a20b6c29a7fa25dc1e72a05e41d7e305106abdba88b8de7a95a1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-20 23:47:22",
-      "update_date": "2020-04-20 23:47:22",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/875215.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=120386",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            8,
-            13
           ]
         }
       ]
