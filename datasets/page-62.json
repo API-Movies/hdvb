@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Зомби с дробовиком",
+      "title_en": "Zombie with a Shotgun",
+      "year": 2019,
+      "kinopoisk_id": 990070,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-21 23:07:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Почему мотыльки летят на свет?",
+      "title_en": "Why Moths Fly to the Light?",
+      "year": 2020,
+      "kinopoisk_id": 14221474,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-21 23:06:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Андеграунд",
+      "title_en": "The Underground",
+      "year": 2020,
+      "kinopoisk_id": 4293442,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-21 23:04:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Грех",
       "title_en": "Sin",
       "year": 2021,
@@ -222,43 +261,292 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Охотники на троллей: Восстание титанов",
-      "title_en": "Trollhunters: Rise of the Titans",
-      "year": 2021,
-      "kinopoisk_id": 1399376,
-      "type": "movie",
+      "title_ru": "Голубая кровь",
+      "title_en": "Blue Bloods",
+      "year": 2010,
+      "kinopoisk_id": 503546,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "3ccd4aaa7254875062995a2fc324fca14a427c30ba2e48261aadae926f27a628",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-21 12:28:02",
+      "added_date": "2020-12-05 15:28:45",
+      "update_date": "2021-05-15 16:26:49",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/503546.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=31612",
+      "serial_episodes": [
+        {
+          "season_number": 11,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Ага",
+      "title_ru": "Детство Шелдона",
+      "title_en": "Young Sheldon",
+      "year": 2017,
+      "kinopoisk_id": 1040419,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "76cd53f3d0bf3e337824f40a4bb78a2bddd87434c4cf6133777b4292b64bdaf1",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-02-16 22:00:22",
+      "update_date": "2021-05-15 11:02:06",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1040419.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=142672",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Последний час",
+      "title_en": "The Last Hour",
+      "year": 2021,
+      "kinopoisk_id": 1239073,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "b47e2b266feba5c37d4c0028e800e6b2dd928bfb7a3a201981ea452692d202c7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-05-15 10:59:14",
+      "update_date": "2021-05-15 11:00:19",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1239073.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Любовь. Смерть. Роботы",
+      "title_en": "Love, Death &amp; Robots",
+      "year": 2019,
+      "kinopoisk_id": 1228254,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "212a7c2bd0c887d5091e9e2961d2bb351dcd6983daeca047650b447a687b29f1",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-05-15 10:56:42",
+      "update_date": "2021-05-15 10:58:30",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1228254.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Преследуемые призраками",
+      "title_en": "Haunted",
+      "year": 2018,
+      "kinopoisk_id": 1209251,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "77c0e8529f844de055478080188fa37f8f7cf5e80125c1cfc6a8e4314ed81877",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-05-15 10:53:49",
+      "update_date": "2021-05-15 10:54:51",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1209251.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Хрустальные вершины",
       "title_en": "",
       "year": 2021,
-      "kinopoisk_id": 4470985,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-07-21 09:08:01",
-      "block": false,
+      "kinopoisk_id": 4357325,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "6c8d134c89d6be1cf40f86fe4bfeae6af71a2bc001ce39fc440a0c53a4f901a3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-05-13 22:53:35",
+      "update_date": "2021-05-14 22:29:33",
+      "block": false,
       "translator_id": 92,
-      "quality": "WEB-DL"
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4357325.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Почему ты хреново играешь в гольф",
-      "title_en": "Why You Suck at Golf",
+      "title_ru": "Олег",
+      "title_en": "",
       "year": 2021,
-      "kinopoisk_id": 4370132,
-      "type": "movie",
+      "kinopoisk_id": 4313087,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "c2bebc8f465b46cacd076f699236412164bc5548945dc26b11d9298d1549cfc7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-21 00:15:01",
+      "added_date": "2021-04-05 17:28:11",
+      "update_date": "2021-05-14 22:29:04",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/4313087.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 21,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Чикатило",
@@ -771,383 +1059,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Шлемоголовые",
-      "title_en": "Bucketheads",
-      "year": 2020,
-      "kinopoisk_id": 1419168,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "158f859434d68fc25632be1184fa62d5329ba45547dd83c15d7f5ec7fc002312",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-20 18:59:56",
-      "update_date": "2021-05-13 04:02:05",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1419168.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Анатомия убийства",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1206890,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "a97ed7177837682aecc8336406a9f50cc518bbfb782f076b861c687c84375431",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-10 14:31:22",
-      "update_date": "2021-05-11 23:01:56",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1206890.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Папаньки",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1144171,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "3db5a96a7872ecb003947d537d2de0bd1000e8b82ec3cb50c5952d6b1542f89e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-22 15:09:55",
-      "update_date": "2021-05-11 23:01:52",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1144171.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Топор",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1043843,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "c9d0403b7e4fa5c658dc3f951be0b03eb392520dff832a93d26eb0104f3eafbd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-10 02:10:21",
-      "update_date": "2021-05-11 15:16:39",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1043843.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "В поисках любви",
-      "title_en": "The Pursuit of Love",
-      "year": 2021,
-      "kinopoisk_id": 1332407,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "ad899bdc7194758d21e0b1a2ee9af8a30476340a691ad7c963cefc2ac64a4220",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-11 10:05:46",
-      "update_date": "2021-05-11 10:06:39",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1332407.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мария Верн",
-      "title_en": "Maria Wern",
-      "year": 2008,
-      "kinopoisk_id": 679551,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "de0dec7d42c3315f75dac3941bd2faf70709bb143c75e93f0489f70ed116d10d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-20 08:52:41",
-      "update_date": "2021-05-11 10:04:23",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/679551.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 8,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "По законам военного времени",
-      "title_en": "",
-      "year": 2015,
-      "kinopoisk_id": 841046,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "d2474b71592a47e756f2afb7e93fe1d90ea0e4867301b04d06c158c95d349a43",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-27 01:28:57",
-      "update_date": "2021-05-10 17:23:01",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/841046.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

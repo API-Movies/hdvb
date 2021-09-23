@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "title_ru": "Болотная икра",
+      "title_en": "Bayou Caviar",
+      "year": 2018,
+      "kinopoisk_id": 1047402,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-07 15:35:05",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Звезда родилась",
+      "title_en": "A Star Is Born",
+      "year": 2018,
+      "kinopoisk_id": 474935,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-07 14:22:59",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Клуб любителей книг и пирогов из картофельных очистков",
+      "title_en": "The Guernsey Literary and Potato Peel Pie Society",
+      "year": 2018,
+      "kinopoisk_id": 467760,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-06 18:59:37",
+      "block": [
+        "RU"
+      ],
+      "translator": "Jaskier",
+      "translator_id": 36,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "На районе",
       "title_en": "",
       "year": 2018,
@@ -222,48 +263,6 @@
       "translator": "Не требуется",
       "translator_id": 92,
       "quality": "TS"
-    },
-    {
-      "title_ru": "Игрушки для взрослых",
-      "title_en": "The Happytime Murders",
-      "year": 2018,
-      "kinopoisk_id": 429363,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-09-30 14:01:10",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Тайна дома с часами",
-      "title_en": "The House with a Clock in Its Walls",
-      "year": 2018,
-      "kinopoisk_id": 652531,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-09-29 07:57:20",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Бои без правил",
-      "title_en": "A Prayer Before Dawn",
-      "year": 2017,
-      "kinopoisk_id": 987695,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-09-23 19:14:16",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
     }
   ]
 }

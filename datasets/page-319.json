@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Перенос: История Любви",
+      "title_en": "Transference: A Love Story",
+      "year": 2020,
+      "kinopoisk_id": 1221647,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-10 13:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пропавшая сестра",
+      "title_en": "The Missing Sister",
+      "year": 2019,
+      "kinopoisk_id": 1215070,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-10 13:16:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Заговор в Дарк Фоллз",
+      "title_en": "The Conspiracy of Dark Falls",
+      "year": 2020,
+      "kinopoisk_id": 855229,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-10 13:13:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "В полночь в Магнолии",
       "title_en": "Midnight at the Magnolia",
       "year": 2020,
@@ -222,43 +261,240 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Пингвинёнок Пороро: Пираты острова сокровищ",
-      "title_en": "Pororo, Treasure Island Adventure",
-      "year": 2020,
-      "kinopoisk_id": 1261528,
-      "type": "movie",
+      "title_ru": "В лучшем мире",
+      "title_en": "The Good Place",
+      "year": 2016,
+      "kinopoisk_id": 977493,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "3ce6150d4e3315ae806306389a224298b9ea266e3399c5108e9bcc3c8bd546ff",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-09 16:40:02",
+      "added_date": "2020-05-09 18:41:00",
+      "update_date": "2020-05-09 18:41:00",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/977493.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135061",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "",
-      "title_en": "Le crime lui va si bien",
+      "title_ru": "Частный детектив Магнум",
+      "title_en": "Magnum P.I.",
+      "year": 2018,
+      "kinopoisk_id": 1134829,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "640b5c37a9fdd1756c12c1bd77a84e4583138f7719ba3aedaec354c0149d1038",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-09 18:28:39",
+      "update_date": "2020-05-09 18:28:39",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1134829.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Последнее танго в Галифаксе",
+      "title_en": "Last Tango in Halifax",
+      "year": 2012,
+      "kinopoisk_id": 764566,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "a7163ed66817317fa4de77cb44cb3b777622f6732300d7a99725861ed2cc1499",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-09 18:25:18",
+      "update_date": "2020-05-09 18:25:18",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/764566.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Новый агент МакГайвер",
+      "title_en": "MacGyver",
+      "year": 2016,
+      "kinopoisk_id": 463608,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "a04b9d4ceab6f6dffce2a02326713d6704e461f10d0ae5a5490f6ab8a2163345",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-09 15:49:16",
+      "update_date": "2020-05-09 15:49:16",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/463608.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Династия",
+      "title_en": "Dynasty",
+      "year": 2017,
+      "kinopoisk_id": 588761,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "f83351813b289a1fee34a726d32a6ef7697a8ca92d6f4441926157db10d22e9a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-09 15:46:45",
+      "update_date": "2020-05-09 15:46:45",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/588761.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=141754",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ещё четыре шота, пожалуйста",
+      "title_en": "Four More Shots Please",
       "year": 2019,
-      "kinopoisk_id": 1331216,
-      "type": "movie",
+      "kinopoisk_id": 1144278,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "22cccab9689b9e1bb4848acfbd46712fe83b945e734abe2757733b16c6234c92",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-09 14:20:02",
+      "added_date": "2020-05-09 12:16:27",
+      "update_date": "2020-05-09 12:16:27",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Рождественская невеста",
-      "title_en": "Jingle Bell Bride",
-      "year": 2020,
-      "kinopoisk_id": 1410405,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-09 14:19:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1144278.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Мамаша",
@@ -816,212 +1052,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Истории на изоляции",
-      "title_en": "Isolation Stories",
-      "year": 2020,
-      "kinopoisk_id": 1378756,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "40bada5f18d2628e817e0cf1dba00d1449065dc4ae58a490493208ab9eae9f35",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-08 11:39:53",
-      "update_date": "2020-05-08 11:39:53",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1378756.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мисс Скарлетт",
-      "title_en": "Miss Scarlet and the Duke",
-      "year": 2020,
-      "kinopoisk_id": 1281152,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "0d467b6313cb011c8009ade15db85f979811f419c9a11e7fe097961fe8020414",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-08 08:42:38",
-      "update_date": "2020-05-08 08:42:38",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1281152.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Без гроша",
-      "title_en": "Brassic",
-      "year": 2019,
-      "kinopoisk_id": 1236393,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "12639f78f7d6276fcc1d2eaefb52c60204741d25cf4a6051bda922a172c6a610",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-08 08:41:53",
-      "update_date": "2020-05-08 08:41:53",
-      "block": false,
-      "translator_id": 14,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/1236393.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Без гроша",
-      "title_en": "Brassic",
-      "year": 2019,
-      "kinopoisk_id": 1236393,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "50c4f2fe6a3f2d4e820af34962512db9b680412f6681dbc05eb2548a8f4fbb61",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-08 08:25:09",
-      "update_date": "2020-05-08 08:25:09",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1236393.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Предвзятое отношение",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 56674464,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "97352430dae31cbefd79fa503e4a8f9d58d9dfe1773673e0251d4d0b502717cf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-08 01:18:17",
-      "update_date": "2020-05-08 01:18:17",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/56674464.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Расширяющаяся вселенная Эшли Гарсиа",
-      "title_en": "The Expanding Universe of Ashley Garcia",
-      "year": 2020,
-      "kinopoisk_id": 1307541,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "f8000eb7beee9e2f4881379eb15f99a1aaa7191b131edc4bc4fdadc7c70d30e4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-07 21:38:41",
-      "update_date": "2020-05-07 21:38:41",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1307541.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

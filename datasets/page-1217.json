@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Последний вздох",
+      "title_en": "Last Breath",
+      "year": 2019,
+      "kinopoisk_id": 1204403,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-13 14:38:35",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Гарри Поттер и Дары Смерти: Часть II",
+      "title_en": "Harry Potter and the Deathly Hallows: Part 2",
+      "year": 2011,
+      "kinopoisk_id": 407636,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-13 00:07:59",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "4К"
+    },
+    {
+      "title_ru": "Гарри Поттер и Дары Смерти: Часть I",
+      "title_en": "Harry Potter and the Deathly Hallows: Part 1",
+      "year": 2010,
+      "kinopoisk_id": 276762,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-13 00:07:12",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "4К"
+    },
+    {
       "title_ru": "Гарри Поттер и Принц-полукровка",
       "title_en": "Harry Potter and the Half-Blood Prince",
       "year": 2009,
@@ -220,48 +259,6 @@
       "translator": "den904",
       "translator_id": 19,
       "quality": "TS"
-    },
-    {
-      "title_ru": "Шазам!",
-      "title_en": "Shazam!",
-      "year": 2019,
-      "kinopoisk_id": 840372,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-05-12 20:20:08",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Терминатор 2: Судный день",
-      "title_en": "Terminator 2: Judgment Day",
-      "year": 1991,
-      "kinopoisk_id": 444,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-05-12 15:30:47",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Т-34",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 930878,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-05-12 15:29:14",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
     }
   ]
 }

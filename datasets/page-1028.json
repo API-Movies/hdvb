@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title_ru": "Дождливый день в Нью-Йорке",
+      "title_en": "A Rainy Day in New York",
+      "year": 2019,
+      "kinopoisk_id": 1047626,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-10-13 17:14:02",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Девушки бывают разные",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1199733,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-10-13 17:13:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Zомбилэнд: Контрольный выстрел",
+      "title_en": "Zombieland: Double Tap",
+      "year": 2019,
+      "kinopoisk_id": 489414,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-10-13 17:11:01",
+      "block": false,
+      "translator": "den904",
+      "translator_id": 19,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Семейка Аддамс",
       "title_en": "The Addams Family",
       "year": 2019,
@@ -220,45 +262,6 @@
       "translator": "Дубляж [Чистый звук]",
       "translator_id": 109,
       "quality": "HDTV"
-    },
-    {
-      "title_ru": "Ужас Хэллоуина",
-      "title_en": "The Terror of Hallow's Eve",
-      "year": 2017,
-      "kinopoisk_id": 948209,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-10-12 15:58:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Киллер по вызову",
-      "title_en": "Lucky Day",
-      "year": 2019,
-      "kinopoisk_id": 1047875,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-10-12 15:44:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Запутавшаяся",
-      "title_en": "Entangled",
-      "year": 2019,
-      "kinopoisk_id": 1137607,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-10-12 15:30:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
     }
   ]
 }

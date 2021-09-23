@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Слёзы клоуна",
+      "title_en": "Tears of the Clown",
+      "year": 2020,
+      "kinopoisk_id": 1353928,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-16 01:20:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пятеро из Мерсисайда",
+      "title_en": "The Five in Merseyside",
+      "year": 2018,
+      "kinopoisk_id": 7033092,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-16 01:19:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Железный мост",
+      "title_en": "Zelazny most",
+      "year": 2019,
+      "kinopoisk_id": 1229254,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-16 01:15:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Туалетные кабинки и парковки",
       "title_en": "Bathroom Stalls &amp; Parking Lots",
       "year": 2019,
@@ -222,43 +261,206 @@
       "quality": "HDTV"
     },
     {
-      "title_ru": "Из мира в мир",
-      "title_en": "D'un monde à l'autre",
+      "title_ru": "Разведка",
+      "title_en": "Intelligence",
+      "year": 2020,
+      "kinopoisk_id": 1231057,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "4fdfc4ca5c1c8eaa8182509dc2b8993bf923bd6f9e4c09b7203ba4dc3855dc88",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-02-21 16:27:08",
+      "update_date": "2020-02-21 16:27:08",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1231057.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Священная ложь",
+      "title_en": "Sacred Lies",
+      "year": 2018,
+      "kinopoisk_id": 1159316,
+      "world_art_id": null,
+      "translator": "IdeaFilm",
+      "token": "e1b467ec3ec7bd71921025ca1219218970a90505745d1acc559fa956f2aa499b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-02-21 14:48:39",
+      "update_date": "2020-02-21 14:48:39",
+      "block": false,
+      "translator_id": 35,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1159316.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Крушение утопии",
+      "title_en": "Utopia Falls",
+      "year": 2020,
+      "kinopoisk_id": 1255527,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "5650158137acd9be4a4993a9c0bbeaabc9b0dcb99202a756cd59bff4f29d27b9",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-02-20 21:09:22",
+      "update_date": "2020-02-20 21:09:22",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1255527.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Спектрос",
+      "title_en": "Spectros",
+      "year": 2020,
+      "kinopoisk_id": 1256580,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "a27c5e466d5b34efbfd9b69bbfc15505d40fa3b4d043687d182eecb9757495d7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-02-20 20:24:29",
+      "update_date": "2020-02-20 20:24:29",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1256580.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Война миров",
+      "title_en": "The War of the Worlds",
       "year": 2019,
-      "kinopoisk_id": 1164508,
-      "type": "movie",
+      "kinopoisk_id": 1135437,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "e93a8b06a6b5ae2b14069e5d7acf0de905126e878b60d5de946cd8c778e0cebb",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-15 00:22:01",
+      "added_date": "2020-02-20 19:28:47",
+      "update_date": "2020-02-20 19:28:47",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1135437.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Призраки на перекрестке Долины Смерти",
-      "title_en": "Haunting at Death Valley Junction / The Haunting at Death Valley Junction",
-      "year": 2020,
-      "kinopoisk_id": 1141932,
-      "type": "movie",
+      "title_ru": "Мыслить как преступник",
+      "title_en": "Criminal Minds",
+      "year": 2005,
+      "kinopoisk_id": 355828,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "d6c90cac02e2427a6ce2355810e541066fa3a9abec2e7aa80e37fbb72421a49e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-15 00:21:02",
+      "added_date": "2020-02-20 19:18:32",
+      "update_date": "2020-02-20 19:18:32",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Смертельный уикенд / Опасное совпадение",
-      "title_en": "Killer Weekend / Dangerous Match",
-      "year": 2020,
-      "kinopoisk_id": 795359,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-15 00:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/355828.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 15,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Бремя истины",
@@ -737,224 +939,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Вавилон-Берлин",
-      "title_en": "Babylon Berlin",
-      "year": 2017,
-      "kinopoisk_id": 891441,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "ec2c59d9f9fd4182b0808fb250512974de9b52adebdae4bbf17c8006b587397a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-17 23:49:47",
-      "update_date": "2020-02-17 23:49:47",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/891441.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бледный конь",
-      "title_en": "The Pale Horse",
-      "year": 2020,
-      "kinopoisk_id": 1286342,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "8653ad7332ac8241cb9270b0a02a44f479e581d0883c4e42636334a2983fcb2b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-17 14:03:13",
-      "update_date": "2020-02-17 14:03:13",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1286342.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Стамптаун",
-      "title_en": "Stumptown",
-      "year": 2019,
-      "kinopoisk_id": 1263675,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "beea2735d10566aba70252dad8cb0e42fc59bc1385ccc80bae3b4b565bcb358c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-16 21:56:45",
-      "update_date": "2020-02-16 21:56:45",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1263675.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Американская семейка",
-      "title_en": "Modern Family",
-      "year": 2009,
-      "kinopoisk_id": 472329,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "fbee01831fe33fffef7dc19d969c890e28c2c5f6f61c305ef6a622f89d818edf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-16 21:45:52",
-      "update_date": "2020-02-16 21:45:52",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/472329.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=106625",
-      "serial_episodes": [
-        {
-          "season_number": 11,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мыслить как преступник",
-      "title_en": "Criminal Minds",
-      "year": 2005,
-      "kinopoisk_id": 355828,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "3a81a81657018583bb080d225dc834f65e9fede37a2944c66b7424814dc60f49",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-16 21:38:50",
-      "update_date": "2020-02-16 21:38:50",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/355828.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 15,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Шекспир и Хэтэуэй: Частные детективы",
-      "title_en": "Shakespeare &amp; Hathaway: Private Investigators",
-      "year": 2018,
-      "kinopoisk_id": 1115322,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "19472e46e32eb7181435b6afa6c70ecdb4028b471a47620cfef8be277c8f26f1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-16 15:44:33",
-      "update_date": "2020-02-16 15:44:33",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1115322.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]
