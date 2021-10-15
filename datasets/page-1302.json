@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Кин",
+      "title_en": "Kin",
+      "year": 2018,
+      "kinopoisk_id": 1000742,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-11-09 13:54:36",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кристофер Робин",
+      "title_en": "Christopher Robin",
+      "year": 2018,
+      "kinopoisk_id": 1033352,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-11-09 12:53:40",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Мои парни – животные",
+      "title_en": "Unleashed",
+      "year": 2017,
+      "kinopoisk_id": 901505,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-11-08 23:27:26",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Что скрывает кожа",
+      "title_en": "Where the Skin Lies",
+      "year": 2017,
+      "kinopoisk_id": 1023424,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-11-08 20:16:40",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DLRip"
+    },
+    {
       "title_ru": "Невеста",
       "title_en": "",
       "year": 2017,
@@ -207,61 +259,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Газгольдер. Клубаре",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1103873,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-11-05 22:17:51",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator": "2x2",
-      "translator_id": 1,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Форсаж",
-      "title_en": "The Fast and the Furious",
-      "year": 2001,
-      "kinopoisk_id": 666,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-11-05 21:21:41",
-      "block": false,
-      "translator": "2x2",
-      "translator_id": 1,
-      "quality": "CAMRip"
-    },
-    {
-      "title_ru": "Разрушитель вечеринки",
-      "title_en": "Haunting on Fraternity Row",
-      "year": 2018,
-      "kinopoisk_id": 1006092,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-11-05 16:39:11",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Кристофер Робин",
-      "title_en": "Christopher Robin",
-      "year": 2018,
-      "kinopoisk_id": 1033352,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-11-04 23:40:12",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
     }
   ]
 }
