@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Ограбление склепа / Коллекционеры",
+      "title_en": "Collectors / Dogul",
+      "year": 2020,
+      "kinopoisk_id": 1263217,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-19 00:18:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Яблоки",
+      "title_en": "Mila",
+      "year": 2020,
+      "kinopoisk_id": 1253400,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-19 00:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Энди",
       "title_en": "Andy",
       "year": 2019,
@@ -235,30 +261,307 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "З/Л/О 2",
-      "title_en": "V/H/S/2",
-      "year": 2013,
-      "kinopoisk_id": 712576,
-      "type": "movie",
+      "title_ru": "Известная Вселенная",
+      "title_en": "Known Universe",
+      "year": 2009,
+      "kinopoisk_id": 646785,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "f556c16b82f78fd3360e087124ad3b2281ac9ef000c796b2fabba37a10759f1a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-18 09:02:02",
+      "added_date": "2020-09-01 21:40:08",
+      "update_date": "2020-09-01 21:41:40",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BDRip"
+      "translator_id": 82,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/646785.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Чего хочет девушка",
-      "title_en": "What a Girl Wants",
+      "title_ru": "Задержка в развитии",
+      "title_en": "Arrested Development",
       "year": 2003,
-      "kinopoisk_id": 17754,
-      "type": "movie",
+      "kinopoisk_id": 277569,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "cf007857e86093aafe4cacdfb8182fcc1b3a12deb98b69cdf98a1f5c826aee5f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-18 08:58:02",
+      "added_date": "2020-08-28 19:20:40",
+      "update_date": "2020-09-01 19:01:53",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "HDTV"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/277569.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 22,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Банковский квартал",
+      "title_en": "Quartier des Banques",
+      "year": 2017,
+      "kinopoisk_id": 1142542,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "b9282fc7fa3f89eb69f35b9c8fc392e1af18e569bfb054e3bba01bac4e0ad9f3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-21 23:20:47",
+      "update_date": "2020-09-01 15:09:39",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1142542.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Саутленд",
+      "title_en": "Southland",
+      "year": 2009,
+      "kinopoisk_id": 427129,
+      "world_art_id": null,
+      "translator": "Кубик в Кубе",
+      "token": "230962c9e74527ba181fc4b75f4ca8ddfcc4575306d77c8440568cfe684da32a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-09-01 08:56:40",
+      "update_date": "2020-09-01 08:57:39",
+      "block": false,
+      "translator_id": 86,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/427129.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Убийства Мэйплворт",
@@ -1174,194 +1477,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кей-поп: Последнее прослушивание",
-      "title_en": "K-POP choegang seobaibeol",
-      "year": 2012,
-      "kinopoisk_id": 686566,
-      "world_art_id": null,
-      "translator": "GREEN TEA",
-      "token": "408eba1169a397580deee43dde0e5e862b7d0d522ddf9613d31cb852a287fdef",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-31 02:01:45",
-      "update_date": "2020-08-31 02:12:44",
-      "block": false,
-      "translator_id": 31,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/686566.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Соседи",
-      "title_en": "The Neighbors",
-      "year": 2012,
-      "kinopoisk_id": 663135,
-      "world_art_id": null,
-      "translator": "Fox",
-      "token": "cf75688a43f5b20c8e9cca635c3f450ef68c7aa82760577b1e73bbd79e5a21ca",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-31 01:42:13",
-      "update_date": "2020-08-31 01:49:22",
-      "block": false,
-      "translator_id": 26,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/663135.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 22,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 22,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Скорая помощь",
-      "title_en": "",
-      "year": 2014,
-      "kinopoisk_id": 807778,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "e4dca7e5b6da985ebe2621ea8ec8942ca5994e31099190fe4561c0d892efc0da",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-31 01:25:00",
-      "update_date": "2020-08-31 01:26:09",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/807778.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Неодинокие",
-      "title_en": "",
-      "year": 2009,
-      "kinopoisk_id": 470310,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "306567aed85147d64a40b6c0f9ebae1ded8dec88a26324b25c1868e504cf5f1e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-31 01:24:26",
-      "update_date": "2020-08-31 01:24:52",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/470310.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

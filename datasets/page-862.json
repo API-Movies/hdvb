@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "title_ru": "Ричард прощается",
+      "title_en": "Richard Says Goodbye",
+      "year": 2018,
+      "kinopoisk_id": 1047881,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-12-12 10:41:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Робо",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1228540,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-12-12 10:40:01",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Зелёные коты",
       "title_en": "Rohelised kassid",
       "year": 2017,
@@ -232,32 +261,6 @@
       "block": false,
       "translator": "многоголосый закадровый",
       "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Секта",
-      "title_en": "Il nido",
-      "year": 2019,
-      "kinopoisk_id": 1264122,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-12-11 14:12:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Подсобка дьявола",
-      "title_en": "The Shed",
-      "year": 2019,
-      "kinopoisk_id": 1121584,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-12-11 11:25:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
       "quality": "WEB-DL"
     }
   ]

@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Дикие мечи",
+      "title_en": "Wu ming kuang",
+      "year": 2020,
+      "kinopoisk_id": 1188525,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-23 05:45:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Рождественский проект 2",
+      "title_en": "The Christmas Project 2",
+      "year": 2020,
+      "kinopoisk_id": 1264457,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-23 05:43:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Озеро Сида",
       "title_en": "S'ids Lake",
       "year": 2019,
@@ -235,30 +261,161 @@
       "quality": "WEB-DLRip"
     },
     {
-      "title_ru": "Убийства на полуострове Котантен",
-      "title_en": "Meurtres en Cotentin",
-      "year": 2019,
-      "kinopoisk_id": 1252333,
-      "type": "movie",
+      "title_ru": "Арте",
+      "title_en": "Arte",
+      "year": 2020,
+      "kinopoisk_id": 1323563,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "7a19cba108dbbdceeb8e4d669e543ecb16bcf6221347c616b44982cacf4e5604",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-22 18:40:02",
+      "added_date": "2020-04-19 08:55:40",
+      "update_date": "2020-04-19 08:55:40",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1323563.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Слишком далеко",
-      "title_en": "Zu weit weg",
-      "year": 2019,
-      "kinopoisk_id": 1218751,
-      "type": "movie",
+      "title_ru": "Босх",
+      "title_en": "Bosch",
+      "year": 2014,
+      "kinopoisk_id": 803363,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "cd2ce6505dc89742c819c9639021aebabe545ea7ea01b27c89d20866a8208bda",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-22 18:38:03",
+      "added_date": "2020-04-18 23:08:10",
+      "update_date": "2020-04-18 23:08:10",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/803363.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=119633",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ответный удар",
+      "title_en": "Strike Back",
+      "year": 2010,
+      "kinopoisk_id": 505661,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "d9b14e09423ed6fdd94a0a5dcea0b83703cde4cf894875d20a53f955cd502346",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-18 15:58:28",
+      "update_date": "2020-04-18 15:58:28",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/505661.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 8,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Повар-боец Сома: Пятое блюдо",
+      "title_en": "Shokugeki no Souma: Gou no Sara",
+      "year": 2020,
+      "kinopoisk_id": 1764683,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "1b60f0f59c7e82f525cd0b71aad303b3f1fea234901462af8830e176f406e579",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-18 15:58:01",
+      "update_date": "2020-04-18 15:58:01",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1764683.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Пуля Дурова",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1185935,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "8b40978b01143d5c98c918250fa49fc9c0b05b79c02bd9d2277575c79a5ab377",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-18 13:38:33",
+      "update_date": "2020-04-18 13:38:33",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1185935.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Рикошет",
@@ -794,187 +951,6 @@
             16,
             17,
             18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Разрабы",
-      "title_en": "Devs",
-      "year": 2020,
-      "kinopoisk_id": 1137249,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "7a44af46aa718ea00f1cae66199309241819d578be62d167a76846b1eb4e417c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-16 12:03:40",
-      "update_date": "2020-04-16 12:03:40",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1137249.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Медики Чикаго",
-      "title_en": "Chicago Med",
-      "year": 2015,
-      "kinopoisk_id": 913425,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "40322383a549bb5abeb2b663034ee314427378ff03873631ac296c1e4233a8f3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-16 12:02:57",
-      "update_date": "2020-04-16 12:02:57",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/913425.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=126793",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Башня Бога",
-      "title_en": "Kami no Tou",
-      "year": 2020,
-      "kinopoisk_id": 1363114,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "5b6e6ab01f2ffd26404e6eac4195c881ce055be1790df49d24e7c95155e88333",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-16 07:59:35",
-      "update_date": "2020-04-16 07:59:35",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1363114.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Внешние отмели",
-      "title_en": "Outer Banks",
-      "year": 2020,
-      "kinopoisk_id": 1264562,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "cee3b15d54f59bb75cb6019bef4d2bf3076b115c8d1e7af1e39524be1b821ee3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-16 07:59:05",
-      "update_date": "2020-04-16 07:59:05",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1264562.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Под уличными фонарями",
-      "title_en": "When the Street Lights Go On",
-      "year": 2020,
-      "kinopoisk_id": 677996,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "84a51d6b3b425369b6957b93b982ca173fbd562f6b0550ae93c8ef85df8eae6b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-15 20:03:04",
-      "update_date": "2020-04-15 20:03:04",
-      "block": false,
-      "translator_id": 14,
-      "quality": "TS",
-      "poster": "https://st.kp.yandex.net/images/film_big/677996.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

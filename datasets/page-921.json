@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "title_ru": "Истребитель зомби",
+      "title_en": "Juan de los Muertos",
+      "year": 2011,
+      "kinopoisk_id": 580708,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-18 20:01:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Мидуэй",
+      "title_en": "Midway",
+      "year": 2019,
+      "kinopoisk_id": 1045457,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-18 17:08:02",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Хороший лжец",
       "title_en": "The Good Liar",
       "year": 2019,
@@ -235,32 +264,6 @@
       "block": false,
       "translator": "многоголосый закадровый",
       "translator_id": 89,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Посланник",
-      "title_en": "The Messenger",
-      "year": 2009,
-      "kinopoisk_id": 406209,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-18 01:22:02",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Норвежский лес",
-      "title_en": "Noruwei no mori",
-      "year": 2010,
-      "kinopoisk_id": 424736,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-18 01:18:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
       "quality": "BluRay"
     }
   ]

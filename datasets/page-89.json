@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Гадюшник",
+      "title_en": "Hellhole",
+      "year": 2019,
+      "kinopoisk_id": 1233334,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-27 22:44:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Картуран",
+      "title_en": "Carturan",
+      "year": 2019,
+      "kinopoisk_id": 1246486,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-27 22:43:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Камилла. Часть Первая",
       "title_en": "Camille Vol 1",
       "year": 2021,
@@ -235,30 +261,156 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Открытый",
-      "title_en": "Open",
-      "year": 2021,
-      "kinopoisk_id": 1356048,
-      "type": "movie",
+      "title_ru": "Каспий 24",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 1048347,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "0bb6df34e1ddd55e5968f34fce4009fd314b1bbf52a00bad5c916067c276b7c6",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-27 03:16:02",
+      "added_date": "2021-04-03 19:10:09",
+      "update_date": "2021-04-04 18:09:47",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1048347.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Мать",
-      "title_en": "Mater",
-      "year": 2019,
-      "kinopoisk_id": 1295452,
-      "type": "movie",
+      "title_ru": "Здравствуй, папа!",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 5646246,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "c7de63f70a0ec5533e4adf2d99ef58a9df367764bf9087dc986d3eda27fc5837",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-27 03:15:01",
+      "added_date": "2020-10-10 15:39:45",
+      "update_date": "2021-04-04 18:06:01",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEBRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/5646246.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Отдай свою жизнь",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 34680456,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "b02627e1607fd3c58b617822b3efece3ab1b5fd209ae447f89329441b27c1458",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-04-03 19:12:27",
+      "update_date": "2021-04-04 18:03:50",
+      "block": false,
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/34680456.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Прогулки со смертью",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 715795742,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "455d081d5921c84b70f6b05490c109f0e99780db4054586504affa09b2fe7b5a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-04-03 19:13:42",
+      "update_date": "2021-04-04 18:02:42",
+      "block": false,
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/715795742.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Уравнения с неизвестными. Сегодня ты умрёшь",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 457046751,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "f56a71cc001e689ca22129291bc00019234de7ae9985de9e7ddfae01317c367f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-04-02 21:42:27",
+      "update_date": "2021-04-04 18:00:01",
+      "block": false,
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/457046751.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "24 часа: Япония",
@@ -948,203 +1100,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ужасно смешные столкновения",
-      "title_en": "Prank Encounters",
-      "year": 2019,
-      "kinopoisk_id": 1311124,
-      "world_art_id": null,
-      "translator": "WestFilm",
-      "token": "50079dae8ecc2187e861987b9cf1ad902938635ea7f93107c84ee23522dfdfa6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-02 08:29:07",
-      "update_date": "2021-04-02 08:30:08",
-      "block": false,
-      "translator_id": 167,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1311124.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ужасно смешные столкновения",
-      "title_en": "Prank Encounters",
-      "year": 2019,
-      "kinopoisk_id": 1311124,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "2c3d705f830d0fa1e165b23c592e2c09fe11a6da3d389a6ce40ac668737e0029",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-02 08:27:53",
-      "update_date": "2021-04-02 08:28:52",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1311124.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "По друзьям",
-      "title_en": "Crashing",
-      "year": 2017,
-      "kinopoisk_id": 996626,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "6c1731df8fd691967918bae908395426d8e47d4713e396ea96fe2eaf9a7a1ac7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-01 22:40:10",
-      "update_date": "2021-04-01 22:41:08",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/996626.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Роузхейвен",
-      "title_en": "Rosehaven",
-      "year": 2016,
-      "kinopoisk_id": 1111907,
-      "world_art_id": null,
-      "translator": "KosharaSerials",
-      "token": "ad142fe7a0d314260fa8a0a7412869295133aa4881e92dc8c96d3ca795013296",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-01 22:37:35",
-      "update_date": "2021-04-01 22:39:50",
-      "block": false,
-      "translator_id": 111,
-      "quality": "HDTVRip",
-      "poster": "https://img.imgilall.me/movies/franchise/5/6/8/8/0/0/0/0/0/0/610x900_5688.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Роузхейвен",
-      "title_en": "Rosehaven",
-      "year": 2016,
-      "kinopoisk_id": 1111907,
-      "world_art_id": null,
-      "translator": "WestFilm",
-      "token": "7482344265594acde56e7b2e82825efb73d9bcd76f572251a024939e239f2e22",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-01 22:38:05",
-      "update_date": "2021-04-01 22:38:42",
-      "block": false,
-      "translator_id": 167,
-      "quality": "HDTVRip",
-      "poster": "https://img.imgilall.me/movies/franchise/5/6/8/8/0/0/0/0/0/0/610x900_5688.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

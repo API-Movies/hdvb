@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "title_ru": "Семь",
+      "title_en": "Seven",
+      "year": 2019,
+      "kinopoisk_id": 1204707,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-09-23 13:52:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Солнцестояние",
+      "title_en": "Midsommar",
+      "year": 2019,
+      "kinopoisk_id": 1178137,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-09-23 01:14:01",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "HDTV"
+    },
+    {
       "title_ru": "Комната желаний",
       "title_en": "The Room",
       "year": 2019,
@@ -235,32 +264,6 @@
       "type": "movie",
       "iframe_url": "",
       "added_date": "2019-09-22 14:14:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Девушки солнца",
-      "title_en": "Les filles du soleil",
-      "year": 2018,
-      "kinopoisk_id": 1070325,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-09-22 14:13:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Диминуэндо",
-      "title_en": "Diminuendo",
-      "year": 2018,
-      "kinopoisk_id": 993528,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-09-22 14:05:01",
       "block": false,
       "translator": "многоголосый закадровый",
       "translator_id": 89,

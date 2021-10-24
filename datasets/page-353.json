@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Мать",
+      "title_en": "Maza / Mother",
+      "year": 2020,
+      "kinopoisk_id": 1338456,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-09 00:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "40-летняя версия",
+      "title_en": "The Forty-Year-Old Version",
+      "year": 2020,
+      "kinopoisk_id": 1285558,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-09 00:48:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Охотницы за сумками",
       "title_en": "The Bag Girls",
       "year": 2020,
@@ -235,30 +261,200 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Клюквенное рождество",
-      "title_en": "Cranberry Christmas",
-      "year": 2020,
-      "kinopoisk_id": 13356044,
-      "type": "movie",
+      "title_ru": "Агата Рейзин",
+      "title_en": "Agatha Raisin",
+      "year": 2016,
+      "kinopoisk_id": 932339,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "f33414222649f021ad1e0a647124946fa53c500394652bfe488e9fb4b97eab24",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-08 18:21:01",
+      "added_date": "2020-02-25 11:39:26",
+      "update_date": "2020-02-25 11:39:26",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/932339.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Любовь по-кубински",
-      "title_en": "Verliefd op Cuba",
-      "year": 2019,
-      "kinopoisk_id": 1163397,
-      "type": "movie",
+      "title_ru": "Агата Рейзин",
+      "title_en": "Agatha Raisin",
+      "year": 2016,
+      "kinopoisk_id": 932339,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "4b5b9ccdc721ac79bab387b41d89b498d4f77c1a44c96a35ce97f64c0ddd4979",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-08 18:16:02",
+      "added_date": "2020-02-24 22:35:25",
+      "update_date": "2020-02-24 22:35:25",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/932339.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "По тонкому льду",
+      "title_en": "Thin Ice / Tynn is / Tunn is",
+      "year": 2020,
+      "kinopoisk_id": 11721492,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "793f19a0b54f45e06bb2b35b1440a9eb75c6b68f7fcd038ebc0b51e69784575e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-02-24 20:41:01",
+      "update_date": "2020-02-24 20:41:01",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/11721492.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Филатов",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1162785,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "6726367e749ea670e0c5566cdca1410ebbbec1bd0363f1aa463eff15eb283419",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-02-24 18:42:51",
+      "update_date": "2020-02-24 18:42:51",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1162785.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 21,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Охотники",
+      "title_en": "Hunters",
+      "year": 2020,
+      "kinopoisk_id": 1170235,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "abfe3bf91f6e73c4fb43cfe131fb9bef0db61dbe0f60cd8c386a4e45752346f8",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-02-24 15:20:16",
+      "update_date": "2020-02-24 15:20:16",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1170235.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Молодой Морс",
@@ -830,179 +1026,6 @@
             5,
             6,
             7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Склонность",
-      "title_en": "Bent",
-      "year": 2012,
-      "kinopoisk_id": 586591,
-      "world_art_id": null,
-      "translator": "ShowJet",
-      "token": "ddf1245b7e5dd4266ab08945b3dc105838f7a1be4911ddb9c20c04ce4e073970",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-19 22:06:28",
-      "update_date": "2020-02-19 22:06:28",
-      "block": false,
-      "translator_id": 125,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/586591.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мастера мяча: 9009",
-      "title_en": "Ballmastrz 9009",
-      "year": 2018,
-      "kinopoisk_id": 1115410,
-      "world_art_id": null,
-      "translator": "2x2",
-      "token": "5d61e87fee14e26dff39469ae9b7b7325f5daedd5b0ad6e1667657aa8262afeb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-19 21:57:11",
-      "update_date": "2020-02-19 21:57:11",
-      "block": false,
-      "translator_id": 1,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1115410.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Убийство на ферме «Уайтхаус»",
-      "title_en": "White House Farm",
-      "year": 2020,
-      "kinopoisk_id": 1311660,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "e285b491fe93bef062b455d59834b0125a87dc64e4052abeb0ea5df93257c35a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-19 21:46:37",
-      "update_date": "2020-02-19 21:46:37",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1311660.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Нарко: Мексика",
-      "title_en": "Narcos: Mexico",
-      "year": 2018,
-      "kinopoisk_id": 1173983,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "203c8ffda74515ea0afe1584e60f66a3990f549cc1e37465ab2775a49915dff4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-19 21:44:18",
-      "update_date": "2020-02-19 21:44:18",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1173983.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Фауда",
-      "title_en": "Fauda",
-      "year": 2015,
-      "kinopoisk_id": 893155,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "6c29b7dcfda45a8a8f61a762e72985f090284a82cf5cde639f6f22b6fbb9a926",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-19 21:40:50",
-      "update_date": "2020-02-19 21:40:50",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/893155.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

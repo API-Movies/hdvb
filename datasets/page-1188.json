@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title_ru": "Помпошки",
+      "title_en": "Poms",
+      "year": 2019,
+      "kinopoisk_id": 973244,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-07-15 19:14:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DLRip"
+    },
+    {
+      "title_ru": "Красавчик со стажем",
+      "title_en": "Just a Gigolo",
+      "year": 2019,
+      "kinopoisk_id": 1190636,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-07-15 18:37:01",
+      "block": [
+        "RU"
+      ],
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Коррупционер",
       "title_en": "The Corrupted",
       "year": 2019,
@@ -233,32 +261,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "HDTV"
-    },
-    {
-      "title_ru": "Тайна Анри Пика",
-      "title_en": "Le mystère Henri Pick",
-      "year": 2019,
-      "kinopoisk_id": 1137091,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-07-14 20:45:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Предсказание броненосца",
-      "title_en": "La profezia dell'armadillo",
-      "year": 2018,
-      "kinopoisk_id": 1108648,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-07-14 20:32:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
     }
   ]
 }

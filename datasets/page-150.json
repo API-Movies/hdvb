@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Крещендо",
+      "title_en": "Crescendo",
+      "year": 2019,
+      "kinopoisk_id": 1067698,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-21 03:31:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Жить без них",
+      "title_en": "Vivre sans eux",
+      "year": 2018,
+      "kinopoisk_id": 1368117,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-21 03:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
       "title_ru": "Уинфред Микс",
       "title_en": "Winifred Meeks",
       "year": 2020,
@@ -235,30 +261,141 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Вулкан",
+      "title_ru": "Если у Вас нету тети",
       "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1169011,
-      "type": "movie",
+      "year": 2008,
+      "kinopoisk_id": 424956,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "bf0e0fee39f2b27c9ecfd1eb85deafc5475dd9265cf569147656493226620583",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-20 12:11:01",
+      "added_date": "2021-01-03 10:14:39",
+      "update_date": "2021-01-03 10:17:26",
       "block": false,
-      "translator": "Украинский",
-      "translator_id": 101,
-      "quality": "WEBRip"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/424956.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Американский Мафиози: Возмездие",
-      "title_en": "American Mobster: Retribution",
-      "year": 2021,
-      "kinopoisk_id": 4398157,
-      "type": "movie",
+      "title_ru": "Капитан полиции метро",
+      "title_en": "",
+      "year": 2016,
+      "kinopoisk_id": 1001699,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "b5094625cd09a19a69d6a31b5823a5c35c3c681a6bd70b1e94f574264aa09eda",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-20 12:10:02",
+      "added_date": "2021-01-03 10:13:54",
+      "update_date": "2021-01-03 10:14:30",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1001699.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Повседневная жизнь бессмертного короля",
+      "title_en": "Xian wang de Richang Shenghuo",
+      "year": 2020,
+      "kinopoisk_id": 1378937,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "15efff4e5bc692100cb5f805b3ab045072044c2e70c08c592bcfa4c47dfe321f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-03 09:51:21",
+      "update_date": "2021-01-03 09:52:19",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1378937.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Топ дог",
+      "title_en": "Top Dog",
+      "year": 2020,
+      "kinopoisk_id": 1341800,
+      "world_art_id": null,
+      "translator": "Contentica",
+      "token": "012f560b2ec2b0f28263621cb1384ca0b9c023ee831141aa8f19390e87c99ca8",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-03 09:49:06",
+      "update_date": "2021-01-03 09:50:28",
+      "block": false,
+      "translator_id": 129,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1341800.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "С наступлением темноты",
@@ -901,167 +1038,6 @@
       "serial_episodes": [
         {
           "season_number": 2,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Теория вероятности",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 898455,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "289c7aad0bc2c7407e573368d533d2d438acfebf1de39068ede02abe496d82c7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-01 04:48:46",
-      "update_date": "2021-01-01 04:53:39",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/898455.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Семейный бизнес",
-      "title_en": "The Family Business",
-      "year": 2018,
-      "kinopoisk_id": 1047373,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "f4632d1c9195f4df15ae6983da40e8ea9d7c843ccbc9f09c4667e93c9e84154b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-07 21:06:06",
-      "update_date": "2021-01-01 00:53:20",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1047373.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Леденящие душу приключения Сабрины",
-      "title_en": "Chilling Adventures of Sabrina",
-      "year": 2018,
-      "kinopoisk_id": 1108352,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "748d4d5773fd0991bee4dc77b469b97987bd42320e971651edca7482b3671798",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-31 18:09:25",
-      "update_date": "2020-12-31 21:43:32",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1108352.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Шпион №1",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1183572,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "1e7e6aabd85ef5242e49a8f9428369bada2d3b7f7c5cd5e6ac078a1c62367414",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-28 23:22:56",
-      "update_date": "2020-12-31 10:35:31",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1183572.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 12,
           "episodes": [
             1,

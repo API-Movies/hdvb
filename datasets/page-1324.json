@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Отель «Артемида»",
+      "title_en": "Hotel Artemis",
+      "year": 2018,
+      "kinopoisk_id": 1023331,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-08-24 14:40:44",
+      "block": false,
+      "translator": "den904",
+      "translator_id": 19,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "22 мили",
+      "title_en": "Mile 22",
+      "year": 2018,
+      "kinopoisk_id": 921938,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-08-24 12:47:27",
+      "block": false,
+      "translator": "Дубляж [Звук с TS]",
+      "translator_id": 108,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Смотри в Небо",
       "title_en": "Watch the Sky",
       "year": 2017,
@@ -233,34 +259,6 @@
       "translator": "Дубляж [Чистый звук]",
       "translator_id": 109,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Винчестер. Дом, который построили призраки",
-      "title_en": "Winchester: The House that Ghosts Built",
-      "year": 2018,
-      "kinopoisk_id": 1044592,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-08-21 15:05:17",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Дикие предки",
-      "title_en": "Early Man",
-      "year": 2018,
-      "kinopoisk_id": 911090,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-08-21 15:05:00",
-      "block": [
-        "RU"
-      ],
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
     }
   ]
 }

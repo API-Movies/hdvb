@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Гладко на бумаге",
+      "title_en": "Good on Paper",
+      "year": 2021,
+      "kinopoisk_id": 1255631,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-23 15:33:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Никакой вечеринки, пока не отомстишь",
+      "title_en": "No vendetta no party",
+      "year": 2019,
+      "kinopoisk_id": 1314524,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-23 11:22:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Просто друг",
       "title_en": "Just a Friend",
       "year": 2017,
@@ -235,30 +261,194 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Три короля",
-      "title_en": "Three Kings",
+      "title_ru": "Гамильтон",
+      "title_en": "Hamilton",
       "year": 2020,
-      "kinopoisk_id": 4453904,
-      "type": "movie",
+      "kinopoisk_id": 1137275,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "b775f57b056ea8b1f4ab82c8113e4b65c50df288fa483b7732712d021fdff62e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-22 03:34:01",
+      "added_date": "2021-02-15 11:55:27",
+      "update_date": "2021-02-15 11:56:18",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1137275.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Священник",
-      "title_en": "The Priest",
-      "year": 2021,
-      "kinopoisk_id": 1341898,
-      "type": "movie",
+      "title_ru": "Эмили в Париже",
+      "title_en": "Emily in Paris",
+      "year": 2020,
+      "kinopoisk_id": 1190441,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "08a76b7385aed355871d1eef5ddc074353306cc67d067ec134097ddb1bc88cfc",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-22 03:32:01",
+      "added_date": "2021-02-15 11:54:46",
+      "update_date": "2021-02-15 11:55:45",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1190441.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Гостевая книга",
+      "title_en": "The Guest Book",
+      "year": 2017,
+      "kinopoisk_id": 1046640,
+      "world_art_id": null,
+      "translator": "Greb&Creative",
+      "token": "a0a4e6c59323ebb46c5c6c6dd26acd16f01c2c9e7e9991e057c2746cc21e4158",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-15 11:53:46",
+      "update_date": "2021-02-15 11:54:27",
+      "block": false,
+      "translator_id": 140,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/1046640.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Гостевая книга",
+      "title_en": "The Guest Book",
+      "year": 2017,
+      "kinopoisk_id": 1046640,
+      "world_art_id": null,
+      "translator": "Good People",
+      "token": "8fbbcfbf129f2a2c9c593fe27a07abd870efb7e56062f1eec421b3a3be1bb4ee",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-15 11:53:04",
+      "update_date": "2021-02-15 11:54:25",
+      "block": false,
+      "translator_id": 30,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1046640.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Королева Чхорин",
+      "title_en": "Cheorin wanghu (No Touch Princess)",
+      "year": 2020,
+      "kinopoisk_id": 1387213,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "e8fee73213c2a687e91cade94999c63019c1233c06bfc4d64e8c661da19b0db3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-13 16:50:34",
+      "update_date": "2021-02-15 11:05:00",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1387213.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Некрасивая подружка",
@@ -847,244 +1037,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Противостояние",
-      "title_en": "The Stand",
-      "year": 2020,
-      "kinopoisk_id": 582208,
-      "world_art_id": null,
-      "translator": "Кравец",
-      "token": "8a2ea39a3881783ce7995b7b49058bb6d86beaa8d11b80d5808e938889654c7b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-19 11:14:25",
-      "update_date": "2021-02-14 08:47:43",
-      "block": false,
-      "translator_id": 85,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/582208.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Прямая трансляция",
-      "title_en": "Live Telecast",
-      "year": 2021,
-      "kinopoisk_id": 1381443,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "0771c2beafb33a6efe9e39e975a82bfbc4d2471636b9d77954aaa3e962b7cd87",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-14 08:04:20",
-      "update_date": "2021-02-14 08:05:11",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1381443.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Тандава",
-      "title_en": "Tandav",
-      "year": 2021,
-      "kinopoisk_id": 1313311,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "fa70913ee95e37be62472cc48785dbf3880e814720744891f495cb7cb1f26906",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-13 21:47:05",
-      "update_date": "2021-02-14 08:04:48",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1313311.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Звезда",
-      "title_en": "Star",
-      "year": 2016,
-      "kinopoisk_id": 944018,
-      "world_art_id": null,
-      "translator": "Fox",
-      "token": "769f322277761dc84df59f62ec07c1431f4146cc9391f8b7b97b40ad96a79214",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-14 03:43:37",
-      "update_date": "2021-02-14 03:48:00",
-      "block": false,
-      "translator_id": 26,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/944018.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Тысячелетие",
-      "title_en": "Millennium",
-      "year": 1996,
-      "kinopoisk_id": 94855,
-      "world_art_id": null,
-      "translator": "многоголосый закадровый",
-      "token": "2846dd8b013956bca92ae9f4ea361ff710b09efe06ed34d593733c34789b230e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-14 00:46:25",
-      "update_date": "2021-02-14 00:50:25",
-      "block": false,
-      "translator_id": 89,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/94855.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 23,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23
           ]
         }
       ]

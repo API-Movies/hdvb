@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title_ru": "Тобол",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1115736,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-20 21:49:04",
+      "block": [
+        "RU"
+      ],
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Экстремальная работа",
+      "title_en": "Geukhanjikeop",
+      "year": 2019,
+      "kinopoisk_id": 1108600,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-20 17:28:44",
+      "block": false,
+      "translator": "den904",
+      "translator_id": 19,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Наркокурьер",
       "title_en": "The Mule",
       "year": 2018,
@@ -241,32 +269,6 @@
       "translator": "Не требуется",
       "translator_id": 92,
       "quality": "TS"
-    },
-    {
-      "title_ru": "Стэн и Олли",
-      "title_en": "Stan and Ollie",
-      "year": 2018,
-      "kinopoisk_id": 823203,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-16 13:14:08",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Крид 2",
-      "title_en": "Creed II",
-      "year": 2018,
-      "kinopoisk_id": 1043955,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-15 20:17:58",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
     }
   ]
 }

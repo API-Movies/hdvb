@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Во время грозы",
+      "title_en": "Durante la tormenta",
+      "year": 2019,
+      "kinopoisk_id": 1115631,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-23 19:31:43",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Бамблби",
+      "title_en": "Bumblebee",
+      "year": 2018,
+      "kinopoisk_id": 952241,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-23 17:58:59",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "По половому признаку",
       "title_en": "On the Basis of Sex",
       "year": 2018,
@@ -243,34 +269,6 @@
       "translator": "den904",
       "translator_id": 19,
       "quality": "TS"
-    },
-    {
-      "title_ru": "Тобол",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1115736,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-20 21:49:04",
-      "block": [
-        "RU"
-      ],
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Экстремальная работа",
-      "title_en": "Geukhanjikeop",
-      "year": 2019,
-      "kinopoisk_id": 1108600,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-20 17:28:44",
-      "block": false,
-      "translator": "den904",
-      "translator_id": 19,
-      "quality": "WEB-DL"
     }
   ]
 }

@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title_ru": "После летаргического сна",
+      "title_en": "After the Lethargy",
+      "year": 2018,
+      "kinopoisk_id": 1049570,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-08-17 17:43:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дитя робота",
+      "title_en": "I Am Mother",
+      "year": 2019,
+      "kinopoisk_id": 1067645,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-08-17 16:53:01",
+      "block": [
+        "RU"
+      ],
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Куриоса",
       "title_en": "Curiosa",
       "year": 2019,
@@ -233,32 +261,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Эдда Тюдор",
-      "title_en": "Edda Tudor",
-      "year": 2019,
-      "kinopoisk_id": 1151764,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-08-15 14:58:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Диамантино",
-      "title_en": "Diamantino",
-      "year": 2018,
-      "kinopoisk_id": 1023986,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-08-15 14:57:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
     }
   ]
 }

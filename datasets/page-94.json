@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Rock, Paper, Scissors",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 709760,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-22 20:16:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "ВМВ",
+      "title_en": "LFG",
+      "year": 2021,
+      "kinopoisk_id": 4484950,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-22 20:15:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Атлантида",
       "title_en": "",
       "year": 2019,
@@ -235,30 +261,168 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Комната №9",
-      "title_en": "Room 9",
-      "year": 2021,
-      "kinopoisk_id": 1126175,
-      "type": "movie",
+      "title_ru": "Рокко Скьявоне",
+      "title_en": "Rocco Schiavone",
+      "year": 2016,
+      "kinopoisk_id": 1227553,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "482b78da286643981f681fe6e21918c7e30e41ffeb0caa0d74a4660dfcbcdbf9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-21 20:52:01",
+      "added_date": "2021-03-21 09:08:03",
+      "update_date": "2021-03-26 07:52:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1227553.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Я уеду завтра",
-      "title_en": "I Will Cross Tomorrow",
-      "year": 2019,
-      "kinopoisk_id": 1113432,
-      "type": "movie",
+      "title_ru": "Парадайз-Сити",
+      "title_en": "Paradise City",
+      "year": 2021,
+      "kinopoisk_id": 892668,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "c1784e9dc04928a2611813f72c76653a7fda4ffc07d7f5f9edaf5f2fb089d00d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-21 20:51:01",
+      "added_date": "2021-03-26 07:49:42",
+      "update_date": "2021-03-26 07:50:27",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/892668.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Леонардо",
+      "title_en": "Leonardo",
+      "year": 2021,
+      "kinopoisk_id": 1330386,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "e40fb648c8277580fd0dda7d76ff5047705187a7e69287430f65b5b3a6969a32",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-25 07:35:41",
+      "update_date": "2021-03-26 07:49:21",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1330386.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Гений",
+      "title_en": "Genius",
+      "year": 2017,
+      "kinopoisk_id": 975848,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "366ea9b227d6950eeb706a1f68500d43059390cb3afb77f75835bc1589d6850e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-23 08:29:41",
+      "update_date": "2021-03-26 07:48:38",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/975848.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "DOTA: Кровь дракона",
+      "title_en": "Dota: Dragon's Blood",
+      "year": 2021,
+      "kinopoisk_id": 4364733,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "66ab92f016f75d30f6e1f038043195ed6c5a327620a298faaca559cbc6834bfa",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-26 07:44:18",
+      "update_date": "2021-03-26 07:46:41",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4364733.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Рокко Скьявоне",
@@ -943,353 +1107,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Формула 1: Гонять, чтобы выживать",
-      "title_en": "Formula 1: Drive to Survive",
-      "year": 2019,
-      "kinopoisk_id": 1240162,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "540352e4584998d5be87321cd8021895ec9bf62ed0f9e617946cfa0f8ba55c2e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-04 19:27:43",
-      "update_date": "2021-03-24 07:32:43",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1240162.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Американские боги",
-      "title_en": "American Gods",
-      "year": 2017,
-      "kinopoisk_id": 591843,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "09b0584f7df53f40c20100ffc64b05d06c1d6c856b68b5ded14cd1ba8b63b309",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-16 21:24:58",
-      "update_date": "2021-03-24 01:42:57",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/591843.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=139987",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Неизвестная империя",
-      "title_en": "Strange Empire",
-      "year": 2014,
-      "kinopoisk_id": 888208,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "1255a894dde8ab363b1ec3b8176b234d1d9b5200334b969bcca2ea7a2696c38e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-23 23:57:32",
-      "update_date": "2021-03-24 00:01:01",
-      "block": false,
-      "translator_id": 60,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/888208.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Судьба по гороскопу",
-      "title_en": "Kundali Bhagya",
-      "year": 2017,
-      "kinopoisk_id": 1249335,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "88966c7a636b9085e4b2b72373033601dc82c7954347a120ae4f2d95f2286ba4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-23 19:45:59",
-      "update_date": "2021-03-23 19:47:18",
-      "block": false,
-      "translator_id": 126,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1249335.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Окей, Кей О! Будем героями",
-      "title_en": "OK K.O.! Let's Be Heroes",
-      "year": 2017,
-      "kinopoisk_id": 1046847,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "f565c1407c57407a279b203fb4893cc002e410084622fea39cafcfce9e6c5287",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-23 19:44:02",
-      "update_date": "2021-03-23 19:44:55",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1046847.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 52,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 37,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 19,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            20
           ]
         }
       ]

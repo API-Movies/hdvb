@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "title_ru": "Дитя погоды",
+      "title_en": "Tenki no ko",
+      "year": 2019,
+      "kinopoisk_id": 1219417,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-13 23:05:02",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "День, когда Земля остановилась",
+      "title_en": "The Day the Earth Stood Still",
+      "year": 2008,
+      "kinopoisk_id": 280176,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-13 23:04:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Гадкий я 2",
       "title_en": "Despicable Me 2",
       "year": 2013,
@@ -233,32 +262,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "BDRip"
-    },
-    {
-      "title_ru": "Няня в неволе",
-      "title_en": "The Captive Nanny / Nanny Lockdown",
-      "year": 2020,
-      "kinopoisk_id": 1380077,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-12 20:02:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Полнозарядные угри",
-      "title_en": "Úhori mají nabito",
-      "year": 2020,
-      "kinopoisk_id": 1172746,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-12 20:01:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
     }
   ]
 }

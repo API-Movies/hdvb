@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Турист",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4446084,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-30 13:00:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "В пасти океана",
+      "title_en": "Great White",
+      "year": 2021,
+      "kinopoisk_id": 1313735,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-30 12:59:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "С Богами: Последние 49 дней",
       "title_en": "Singwa hamkke: ingwa yeon",
       "year": 2018,
@@ -235,30 +261,210 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Тихое место 2",
-      "title_en": "A Quiet Place Part II",
-      "year": 2020,
-      "kinopoisk_id": 1129900,
-      "type": "movie",
+      "title_ru": "Ночная смена",
+      "title_en": "The Night Shift",
+      "year": 2014,
+      "kinopoisk_id": 716703,
+      "world_art_id": null,
+      "translator": "Flux-Team",
+      "token": "e5c12a2203c59454ca45077e787c494482eb6244749627043f5a218ada2f7f6a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-29 12:46:01",
+      "added_date": "2021-01-15 17:50:38",
+      "update_date": "2021-01-15 18:07:50",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 24,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/716703.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Я ПОМНЮ. ПЬЯЦЦА ФОНТАНА",
-      "title_en": "Io ricordo. Piazza Fontana",
-      "year": 2020,
-      "kinopoisk_id": 1302123,
-      "type": "movie",
+      "title_ru": "Убийства в Пембрукшире",
+      "title_en": "The Pembrokeshire Murders",
+      "year": 2021,
+      "kinopoisk_id": 1344107,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "596c63841cc946e0cb7e816579981e8c11f23e4980bfa09d914d5634df544a7f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-29 12:45:01",
+      "added_date": "2021-01-12 09:29:11",
+      "update_date": "2021-01-15 11:54:15",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1344107.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Убийства в Пембрукшире",
+      "title_en": "The Pembrokeshire Murders",
+      "year": 2021,
+      "kinopoisk_id": 1344107,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "6f9f493bd5de8ede8cc8f8157c96994634bceb6985bb34576c5b3677043cd5ca",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-13 09:28:31",
+      "update_date": "2021-01-15 08:50:08",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1344107.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Солнечный круг",
+      "title_en": "",
+      "year": 2016,
+      "kinopoisk_id": 1004220,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "30eb0607695d4456b464d437d29189c4cad7feed58f8af6be01661b3890b902b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-04 16:41:34",
+      "update_date": "2021-01-15 00:49:47",
+      "block": false,
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1004220.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Гнилые времена",
+      "title_en": "Another Period",
+      "year": 2013,
+      "kinopoisk_id": 843203,
+      "world_art_id": null,
+      "translator": "Ozz",
+      "token": "7924a30751809a68f1e2587aa36f344e54d4b7aa02e431aefce84a77403d32b6",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-14 21:00:40",
+      "update_date": "2021-01-14 21:02:25",
+      "block": false,
+      "translator_id": 54,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/843203.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Парфюм",
@@ -1088,219 +1294,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Крах",
-      "title_en": "The Fall",
-      "year": 2013,
-      "kinopoisk_id": 674019,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "74aaf9c2ca92d1655dc2aaa8ca5e4819e3a23dc77c6e528a76851b22d83dbb94",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-14 15:07:20",
-      "update_date": "2021-01-14 15:24:02",
-      "block": false,
-      "translator_id": 43,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/674019.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Восхождение на Олимп",
-      "title_en": "",
-      "year": 2015,
-      "kinopoisk_id": 841019,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "b5fd9b074fb0b3d746168670979365a6457b81ec9224dfd45c112a68fb99f1ba",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-14 14:51:28",
-      "update_date": "2021-01-14 15:07:04",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/841019.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сплошной отстой!",
-      "title_en": "Everything Sucks!",
-      "year": 2018,
-      "kinopoisk_id": 1103866,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "faa1e77db936397e744a06017c9e993d62cbd04b769727abdc968237e2262878",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-14 14:37:15",
-      "update_date": "2021-01-14 14:51:42",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1103866.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Крепкие орешки / Напарники",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1244931,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "a93ed0a5327bfa4868c810d467ee8463b19e6b354dadaecc0b753fa56dc9c4fa",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-10 12:50:59",
-      "update_date": "2021-01-14 14:33:56",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1244931.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Атлантида",
-      "title_en": "Atlantis",
-      "year": 2013,
-      "kinopoisk_id": 794531,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "87dd037cfa1f30794472fb4d31e7211e98106c34c7ad2401814f539ef7003d2e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-14 12:20:36",
-      "update_date": "2021-01-14 12:21:19",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/794531.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Землетрясение",
+      "title_en": "Skjelvet",
+      "year": 2018,
+      "kinopoisk_id": 1094106,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-01-03 01:18:43",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Дикая жизнь",
+      "title_en": "Wildlife",
+      "year": 2018,
+      "kinopoisk_id": 1005852,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-01-02 23:37:21",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Репродукция",
       "title_en": "Replicas",
       "year": 2018,
@@ -235,34 +261,6 @@
       "translator": "Дубляж [Лицензия]",
       "translator_id": 107,
       "quality": "BluRay"
-    },
-    {
-      "title_ru": "Год свиньи",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1219139,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-12-27 07:54:50",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Нация убийц",
-      "title_en": "Assassination Nation",
-      "year": 2018,
-      "kinopoisk_id": 1011685,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-12-26 17:27:12",
-      "block": [
-        "RU"
-      ],
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
     }
   ]
 }

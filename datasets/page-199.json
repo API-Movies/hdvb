@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Годзилла",
+      "title_en": "Godzilla",
+      "year": 2014,
+      "kinopoisk_id": 260991,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-05 21:43:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "3096 дней",
+      "title_en": "3096 Tage",
+      "year": 2013,
+      "kinopoisk_id": 539984,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-05 21:42:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Я не сплю",
       "title_en": "",
       "year": 2020,
@@ -235,30 +261,167 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Нечестивые",
-      "title_en": "The Unholy",
-      "year": 2021,
-      "kinopoisk_id": 1323019,
-      "type": "movie",
+      "title_ru": "Захват",
+      "title_en": "",
+      "year": 2015,
+      "kinopoisk_id": 814699,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "117d768e033e5114767cb7305a41ba3f277d9c6faef60f4d54c87c2bfa943ca2",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-04 22:19:01",
+      "added_date": "2020-11-03 09:30:37",
+      "update_date": "2020-11-03 09:30:51",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/814699.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Мутные воды",
-      "title_en": "Troubled Waters",
+      "title_ru": "Гнев",
+      "title_en": "Taish",
       "year": 2020,
-      "kinopoisk_id": 1381704,
-      "type": "movie",
+      "kinopoisk_id": 1298291,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "47e98fd3892308a5c801113ba39782b62ed459216f927cad7fff811a826f05ee",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-04 22:18:01",
+      "added_date": "2020-11-02 22:56:57",
+      "update_date": "2020-11-02 22:57:52",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1298291.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Преданность",
+      "title_en": "Allegiance",
+      "year": 2015,
+      "kinopoisk_id": 840104,
+      "world_art_id": null,
+      "translator": "WestFilm",
+      "token": "6d2fb35d9a29c3337cb6df048aad37795c482cf012af267e731f4b8dbff539f7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-11-02 16:39:24",
+      "update_date": "2020-11-02 16:40:09",
+      "block": false,
+      "translator_id": 167,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/840104.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Даже не думай!",
+      "title_en": "Fugget About It",
+      "year": 2012,
+      "kinopoisk_id": 574492,
+      "world_art_id": null,
+      "translator": "2x2",
+      "token": "b703ef39f62b09a05b40a05ab4a90643fb18be0d7063a277d561b319318d6a0e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-11-02 16:37:19",
+      "update_date": "2020-11-02 16:38:22",
+      "block": false,
+      "translator_id": 1,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/574492.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Воссоединение",
@@ -1316,140 +1479,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Обратная сторона души",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 56473456,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "555ebd121d69a2df56f0efb2368d22b593389d631766a6320b61925cb1c4fc58",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-31 19:05:29",
-      "update_date": "2020-10-31 19:05:38",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/56473456.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Соседи из ада",
-      "title_en": "Neighbors from Hell",
-      "year": 2010,
-      "kinopoisk_id": 496862,
-      "world_art_id": null,
-      "translator": "2x2",
-      "token": "ee1c14bb43c5ed429ebe9f36001b8b58f72b8029478229f37358a3e030264abf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-31 18:10:12",
-      "update_date": "2020-10-31 18:11:14",
-      "block": false,
-      "translator_id": 1,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/496862.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Принц Пеории",
-      "title_en": "Prince of Peoria",
-      "year": 2018,
-      "kinopoisk_id": 1161097,
-      "world_art_id": null,
-      "translator": "HDrezka Studio",
-      "token": "5896e3beb557fcf20deeb0d29e45a4043a0f2d1269e73b168647d205aacd3080",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-31 17:59:08",
-      "update_date": "2020-10-31 18:00:56",
-      "block": false,
-      "translator_id": 33,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1161097.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Целебные силы Чувака",
-      "title_en": "The Healing Powers of Dude",
-      "year": 2020,
-      "kinopoisk_id": 1302733,
-      "world_art_id": null,
-      "translator": "WestFilm",
-      "token": "7af597b07b94f8c813ebc6bafa94fbacc1c33f60f40f1538d97fe3ca58fc988d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-31 17:57:34",
-      "update_date": "2020-10-31 17:58:50",
-      "block": false,
-      "translator_id": 167,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1302733.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

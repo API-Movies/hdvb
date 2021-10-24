@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Полынь: Дорога мёртвых",
+      "title_en": "Wyrmwood",
+      "year": 2014,
+      "kinopoisk_id": 722189,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-19 17:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Иди, Гоа больше нет",
+      "title_en": "Go Goa Gone",
+      "year": 2013,
+      "kinopoisk_id": 712990,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-19 17:47:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Все будет хорошо",
       "title_en": "Every Thing Will Be Fine",
       "year": 2015,
@@ -235,30 +261,188 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Призрачные тропики",
-      "title_en": "Ghost Tropic",
-      "year": 2019,
-      "kinopoisk_id": 1261614,
-      "type": "movie",
+      "title_ru": "Типа счастье",
+      "title_en": "Happyish",
+      "year": 2015,
+      "kinopoisk_id": 784783,
+      "world_art_id": null,
+      "translator": "Amedia",
+      "token": "29e576753f3942edad3c3eb7e500b58cff93d0ded3de757fab070c9c6ffaf4f3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-19 09:25:01",
+      "added_date": "2020-11-20 14:25:32",
+      "update_date": "2020-11-20 14:40:07",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 7,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/784783.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Эрнесто",
-      "title_en": "Ernesto",
-      "year": 2020,
-      "kinopoisk_id": 1274690,
-      "type": "movie",
+      "title_ru": "И никого не стало",
+      "title_en": "And Then There Were None",
+      "year": 2015,
+      "kinopoisk_id": 921477,
+      "world_art_id": null,
+      "translator": "ShowJet",
+      "token": "08fb0611125851924ea0123e9f332630957eec1c57e9f8c96cc1e08ee1c7403f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-19 09:24:01",
+      "added_date": "2020-11-20 14:11:04",
+      "update_date": "2020-11-20 14:12:23",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 125,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/921477.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "50 штатов страха",
+      "title_en": "50 States of Fright",
+      "year": 2020,
+      "kinopoisk_id": 1272561,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "d0e78c8209e0870ee3364917ca5a157a06698523d24bb6938a950348bae67b87",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-26 16:44:29",
+      "update_date": "2020-11-20 13:48:10",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1272561.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Птица доброго господа",
+      "title_en": "The Good Lord Bird",
+      "year": 2020,
+      "kinopoisk_id": 1248354,
+      "world_art_id": null,
+      "translator": "Кравец",
+      "token": "4cd5021ce6ab4dbe68c02d1ec02959a98295283ccc89f7eacc5d92709159f388",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-09 08:56:12",
+      "update_date": "2020-11-20 09:08:51",
+      "block": false,
+      "translator_id": 85,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/1248354.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Что останется после тебя?",
+      "title_en": "What Remains",
+      "year": 2013,
+      "kinopoisk_id": 778987,
+      "world_art_id": null,
+      "translator": "Agatha Studdio",
+      "token": "cd4f91656c9cbc766a9ebb58711c37f5f7863b5c2fc6d42705025718dcdf14a2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-11-20 01:34:17",
+      "update_date": "2020-11-20 01:36:18",
+      "block": false,
+      "translator_id": 2,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/778987.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Шуша",
@@ -1077,392 +1261,6 @@
             22,
             23,
             24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Беверли-Хиллз 90210: Новое поколение",
-      "title_en": "90210",
-      "year": 2008,
-      "kinopoisk_id": 412338,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "62ef4dfd4c41daa2013233a9ba4b31775709d8fdc12dd78f75a47c01901b81cd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-19 21:55:11",
-      "update_date": "2020-11-19 21:57:19",
-      "block": false,
-      "translator_id": 126,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/412338.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 24,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 22,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 22,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 22,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Марлон",
-      "title_en": "Marlon",
-      "year": 2017,
-      "kinopoisk_id": 982783,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "d6469d07880d33c7fb24642df96c276390f0f26a9f0530f8ca5a7968cbc02402",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-19 21:53:23",
-      "update_date": "2020-11-19 21:54:42",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/982783.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Аромат маргаритки",
-      "title_en": "O sabor das margaridas",
-      "year": 2018,
-      "kinopoisk_id": 1220397,
-      "world_art_id": null,
-      "translator": "KosharaSerials",
-      "token": "59cac3478712f669948484c7821e210caf16abaf81e902bc9e3f91862e91f13a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-19 21:51:09",
-      "update_date": "2020-11-19 21:53:02",
-      "block": false,
-      "translator_id": 111,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1220397.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Корона",
-      "title_en": "The Crown",
-      "year": 2016,
-      "kinopoisk_id": 924910,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "ca98cbb64e137dba0ad2282378624723a45ab632fbf8b551019155d8834303d2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-17 18:33:54",
-      "update_date": "2020-11-19 21:49:34",
-      "block": false,
-      "translator_id": 60,
-      "quality": "BluRay",
-      "poster": "https://st.kp.yandex.net/images/film_big/924910.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чародейки",
-      "title_en": "W.I.T.C.H.",
-      "year": 2004,
-      "kinopoisk_id": 279039,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "fa3a1daea0c656e0c1df9e0dbb8b5a2ebd01727570ec347b566042387c4e5485",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-19 20:31:13",
-      "update_date": "2020-11-19 20:42:00",
-      "block": false,
-      "translator_id": 82,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/279039.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 26,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 26,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26
           ]
         }
       ]

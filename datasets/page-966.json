@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "title_ru": "Дора и Затерянный город",
+      "title_en": "Dora and the Lost City of Gold",
+      "year": 2019,
+      "kinopoisk_id": 1108415,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-05 20:08:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кокаиновый барон",
+      "title_en": "Running with the Devil",
+      "year": 2019,
+      "kinopoisk_id": 989978,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-05 18:23:01",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Истории из хижины в лесу",
       "title_en": "Tales from the Lodge",
       "year": 2019,
@@ -233,32 +262,6 @@
       "translator": "Дубляж [Лицензия]",
       "translator_id": 107,
       "quality": "BDRip"
-    },
-    {
-      "title_ru": "Angry Birds 2 в кино",
-      "title_en": "The Angry Birds Movie 2",
-      "year": 2019,
-      "kinopoisk_id": 1040441,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-04 21:45:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Системное безумие",
-      "title_en": "Madness in the Method",
-      "year": 2019,
-      "kinopoisk_id": 1003543,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-04 17:08:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
     }
   ]
 }

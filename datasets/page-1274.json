@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title_ru": "1+1: Голливудская история",
+      "title_en": "The Untouchables",
+      "year": 2018,
+      "kinopoisk_id": 596484,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-02 16:29:48",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Время возмездия",
+      "title_en": "Destroyer",
+      "year": 2018,
+      "kinopoisk_id": 1049509,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-02 16:28:41",
+      "block": [
+        "RU"
+      ],
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Клаустрофобы",
       "title_en": "Escape Room",
       "year": 2019,
@@ -236,32 +264,6 @@
       ],
       "translator": "Не требуется",
       "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Пляжный бездельник",
-      "title_en": "The Beach Bum",
-      "year": 2019,
-      "kinopoisk_id": 1018804,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-31 14:09:44",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Парк развлечений",
-      "title_en": "Swoon",
-      "year": 2019,
-      "kinopoisk_id": 1052714,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-31 14:07:28",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
       "quality": "TS"
     }
   ]

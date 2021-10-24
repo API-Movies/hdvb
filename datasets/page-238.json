@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Пугало",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1395840,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-02 14:35:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "На скорости",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1049115,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-02 14:34:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Друзья навсегда",
       "title_en": "The Friend / Our Friend",
       "year": 2021,
@@ -235,30 +261,234 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Бог, какой ты придурок",
-      "title_en": "God, You're Such a Prick / Gott, du kannst ein Arsch sein",
-      "year": 2020,
-      "kinopoisk_id": 1332239,
-      "type": "movie",
+      "title_ru": "Дикая семейка Торнберри",
+      "title_en": "The Wild Thornberrys",
+      "year": 1998,
+      "kinopoisk_id": 161276,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "04cf65355771db8885c135bff087eb17e43b3a9008d631fb7812b59807a05b6f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-02 01:47:01",
+      "added_date": "2020-09-13 10:21:20",
+      "update_date": "2020-09-13 10:33:34",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
+      "translator_id": 82,
+      "quality": "DVDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/161276.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 70,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Разные миры",
-      "title_en": "Different Worlds",
-      "year": 2019,
-      "kinopoisk_id": 1193007,
-      "type": "movie",
+      "title_ru": "Как создавались империи",
+      "title_en": "Engineering an Empire",
+      "year": 2005,
+      "kinopoisk_id": 478548,
+      "world_art_id": null,
+      "translator": "Профессиональный (многоголосый)",
+      "token": "189a3b98aa7b964edf55699caa8cebbad4752c74346a5d8bc0cca684aca82fd1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-02 01:11:01",
+      "added_date": "2020-09-13 10:18:01",
+      "update_date": "2020-09-13 10:20:21",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 126,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/478548.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "В западне",
+      "title_en": "Caught",
+      "year": 2018,
+      "kinopoisk_id": 1112899,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "93232b8d6f374d0f6f407d453db24f137a64738f2f29f4178e46145940a46f46",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-09-13 10:15:03",
+      "update_date": "2020-09-13 10:17:03",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1112899.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Янн",
+      "title_en": "Jann",
+      "year": 2019,
+      "kinopoisk_id": 1201283,
+      "world_art_id": null,
+      "translator": "KosharaSerials",
+      "token": "c87d3bee30549d5fb7fa256c72882a88d4f247ca1fb01612df41d24ebf77e0ff",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-09-13 10:10:37",
+      "update_date": "2020-09-13 10:11:38",
+      "block": false,
+      "translator_id": 111,
+      "quality": "HDTVRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1201283.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Хостел Дейз",
+      "title_en": "Hostel Daze",
+      "year": 2019,
+      "kinopoisk_id": 1330988,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "a36f13837759e3a234369e2a30b83d25551d9732ffc565eb2476295cd6eca175",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-09-13 10:08:38",
+      "update_date": "2020-09-13 10:09:23",
+      "block": false,
+      "translator_id": 15,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1330988.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Наследники: Злодейский мир",
@@ -1097,257 +1327,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Наследие",
-      "title_en": "Arvingerne",
-      "year": 2014,
-      "kinopoisk_id": 818732,
-      "world_art_id": null,
-      "translator": "GoldTeam",
-      "token": "5466a8b439a818086d5d132a435743d25ba62b8a1ebd088f7e7ee8deb0effec7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-12 19:24:22",
-      "update_date": "2020-09-12 19:25:59",
-      "block": false,
-      "translator_id": 141,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/818732.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Наследие",
-      "title_en": "Arvingerne",
-      "year": 2014,
-      "kinopoisk_id": 818732,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "e8a606299f147bdc516f519c56d926c582ab41b806fb28f8fdfe0559d3492d37",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-12 19:23:10",
-      "update_date": "2020-09-12 19:24:09",
-      "block": false,
-      "translator_id": 126,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/818732.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Невыразимый",
-      "title_en": "Unspeakable",
-      "year": 2019,
-      "kinopoisk_id": 1121170,
-      "world_art_id": null,
-      "translator": "HDrezka Studio",
-      "token": "72285744f9c8b63abe2e5d52f60e5bc80c3e619d085fa86dcdbf9cda25475608",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-12 16:21:06",
-      "update_date": "2020-09-12 17:14:48",
-      "block": false,
-      "translator_id": 33,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1121170.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Миссия ясновидения",
-      "title_en": "1-800-Missing",
-      "year": 2003,
-      "kinopoisk_id": 260925,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "6959f559e8755794f038b987bbfb3bd87b0e868381e65d6d89a43ec78777af45",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-12 13:06:17",
-      "update_date": "2020-09-12 13:07:01",
-      "block": false,
-      "translator_id": 126,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/260925.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 19,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Давайте есть",
-      "title_en": "Siksyareul hapsida",
-      "year": 2013,
-      "kinopoisk_id": 815207,
-      "world_art_id": null,
-      "translator": "SoftBox",
-      "token": "f88aaf6e80bbf1928b123370204bd9a8c2145e2e8b4af5c4ef0dec9e6e297b7c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-12 13:03:33",
-      "update_date": "2020-09-12 13:04:41",
-      "block": false,
-      "translator_id": 106,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/815207.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
           ]
         }
       ]

@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Чайка",
+      "title_en": "The Seagull",
+      "year": 2018,
+      "kinopoisk_id": 915662,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-05 15:09:23",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Время монстров",
+      "title_en": "The Head",
+      "year": 2018,
+      "kinopoisk_id": 1036250,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-05 15:08:53",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Астерикс и тайное зелье",
       "title_en": "Astérix: Le secret de la potion magique",
       "year": 2018,
@@ -236,34 +262,6 @@
       "block": false,
       "translator": "Дубляж",
       "translator_id": 82,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "1+1: Голливудская история",
-      "title_en": "The Untouchables",
-      "year": 2018,
-      "kinopoisk_id": 596484,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-02 16:29:48",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Время возмездия",
-      "title_en": "Destroyer",
-      "year": 2018,
-      "kinopoisk_id": 1049509,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-02 16:28:41",
-      "block": [
-        "RU"
-      ],
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
       "quality": "WEB-DL"
     }
   ]

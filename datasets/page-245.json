@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Грусть",
+      "title_en": "Blue",
+      "year": 2020,
+      "kinopoisk_id": 13682306,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-23 17:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Разобщение",
+      "title_en": "Mentally Apart",
+      "year": 2020,
+      "kinopoisk_id": 1179688,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-23 17:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Вайолет",
       "title_en": "Violet",
       "year": 2020,
@@ -235,30 +261,206 @@
       "quality": "BluRay"
     },
     {
-      "title_ru": "Отель «Артемида»",
-      "title_en": "Hotel Artemis",
-      "year": 2018,
-      "kinopoisk_id": 1023331,
-      "type": "movie",
+      "title_ru": "Партизан",
+      "title_en": "Partisan",
+      "year": 2020,
+      "kinopoisk_id": 1291383,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "297ef7a059f079cf5bb43d0391866efa344aaf8c4afc328d977ee8c873b72ae5",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-22 09:11:01",
+      "added_date": "2020-08-16 20:06:27",
+      "update_date": "2020-09-06 15:55:17",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1291383.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Несокрушимый",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 1007496,
-      "type": "movie",
+      "title_ru": "Долина соблазна",
+      "title_en": "P-Valley",
+      "year": 2020,
+      "kinopoisk_id": 1220026,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "04b7403d76bb9c6c360e623853d845ecaea5731e1dbcc6f2a5b4ddbd006481f7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-22 09:10:02",
+      "added_date": "2020-07-26 13:20:02",
+      "update_date": "2020-09-06 15:54:48",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "BluRay"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1220026.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Прорвёмся",
+      "title_en": "Ssam, maiwei",
+      "year": 2017,
+      "kinopoisk_id": 1043837,
+      "world_art_id": null,
+      "translator": "Мобильное телевидение",
+      "token": "00ce9b96ebda65098358c07ec9c821af31378d6bb1dd9a9eb59f48159785193e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-09-06 13:59:19",
+      "update_date": "2020-09-06 14:51:29",
+      "block": false,
+      "translator_id": 133,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1043837.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Молокососы",
+      "title_en": "Skins",
+      "year": 2007,
+      "kinopoisk_id": 324657,
+      "world_art_id": null,
+      "translator": "DoubleRec",
+      "token": "6f676caf700b2ac00557e1d7d96ca64e2ffb7e12200cf5f12a9753906e4830f0",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-23 20:56:58",
+      "update_date": "2020-09-06 09:58:00",
+      "block": false,
+      "translator_id": 175,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/324657.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Дурная кровь",
@@ -909,164 +1111,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Арне Даль: Толчки",
-      "title_en": "Arne Dahl: Efterskalv",
-      "year": 2015,
-      "kinopoisk_id": 954080,
-      "world_art_id": null,
-      "translator": "Русский Репортаж",
-      "token": "2232d2f2a66ae5c1ee162ac0f398a85e27c9450fbe43ae0ae5d3ca67a83f76ad",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-05 21:43:07",
-      "update_date": "2020-09-05 21:58:45",
-      "block": false,
-      "translator_id": 147,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/954080.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Арне Даль: Реквием",
-      "title_en": "Arne Dahl: Dödsmässa",
-      "year": 2015,
-      "kinopoisk_id": 954085,
-      "world_art_id": null,
-      "translator": "Русский Репортаж",
-      "token": "f82fbe9acdbb63319a59c5c7fa7f522e6691b4f5ee1a0a26f489aaba098addcb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-05 21:35:19",
-      "update_date": "2020-09-05 21:36:37",
-      "block": false,
-      "translator_id": 147,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/954085.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Завещание принцессы",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 1044854,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "3bf38272b0f46ce0862d948381a8eee10986ab7288b969bc1a6f51fd4fe5790b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-05 21:25:34",
-      "update_date": "2020-09-05 21:27:21",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1044854.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бумажный дом",
-      "title_en": "La casa de papel",
-      "year": 2017,
-      "kinopoisk_id": 1046206,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "a957d0c0d683f996fee47ad46c2a11ee797b7a54855739d452247f55d9540ac4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-17 09:35:39",
-      "update_date": "2020-09-05 20:48:04",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1046206.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

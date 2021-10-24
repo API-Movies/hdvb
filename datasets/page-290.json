@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Джойлэнд",
+      "title_en": "Joyland",
+      "year": 2019,
+      "kinopoisk_id": 762459,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-13 01:07:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Близняшки-обманщицы",
+      "title_en": "Insincere Twins",
+      "year": 2019,
+      "kinopoisk_id": 1284264,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-13 01:05:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Жить одним днём",
       "title_en": "In the Moment",
       "year": 2019,
@@ -235,30 +261,178 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Грань времени",
-      "title_en": "Synchronic",
-      "year": 2020,
-      "kinopoisk_id": 1193013,
-      "type": "movie",
+      "title_ru": "Любовь моей жизни",
+      "title_en": "Hayatimin Aski",
+      "year": 2016,
+      "kinopoisk_id": 981226,
+      "world_art_id": null,
+      "translator": "двухголосый закадровый",
+      "token": "fd85321f328aca545fc8738793693d552d6ce683202957419db1fa2dca0080f9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-12 16:47:02",
+      "added_date": "2020-07-14 19:41:45",
+      "update_date": "2020-07-14 19:41:45",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
+      "translator_id": 81,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/981226.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Линия горизонта",
-      "title_en": "Horizon Line",
-      "year": 2020,
-      "kinopoisk_id": 1237079,
-      "type": "movie",
+      "title_ru": "Поле крови",
+      "title_en": "The Field of Blood",
+      "year": 2011,
+      "kinopoisk_id": 591938,
+      "world_art_id": null,
+      "translator": "ShowJet",
+      "token": "a0593bbb6e9462394c1e4bbba8ae76c0af1dfa120aab9fa704e71838e52e9a38",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-12 16:45:02",
+      "added_date": "2020-07-14 16:28:46",
+      "update_date": "2020-07-14 16:28:46",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
+      "translator_id": 125,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/591938.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Озноб",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1264424,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "684bbe2127652107c7cea63d4775813224304619a589799460db93d3885dea9e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-14 14:13:49",
+      "update_date": "2020-07-14 14:13:49",
+      "block": false,
+      "translator_id": 92,
+      "quality": "HDTV",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1264424.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Милые обманщицы",
+      "title_en": "Tatli Küçük Yalancilar",
+      "year": 2015,
+      "kinopoisk_id": 927722,
+      "world_art_id": null,
+      "translator": "одноголосый закадровый",
+      "token": "d00b2e3a8cf28bd40f6138016d0be19f4879e8c90c3cd1a41daf0c3067c7f9f8",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-14 14:04:24",
+      "update_date": "2020-07-14 14:04:24",
+      "block": false,
+      "translator_id": 93,
+      "quality": "WEB-DLRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/927722.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Свободный режиссер",
+      "title_en": "U-Prince: The Playful Comm-Arts",
+      "year": 2016,
+      "kinopoisk_id": 1047680,
+      "world_art_id": null,
+      "translator": "одноголосый закадровый",
+      "token": "82780d9f237d5306dc0a3e9ad01fba978ff6a666c6aff5921f19009d35e9a95b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-14 11:32:04",
+      "update_date": "2020-07-14 11:32:04",
+      "block": false,
+      "translator_id": 93,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1047680.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Поколение девчонок 1979",
@@ -1152,196 +1326,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сквозь снег",
-      "title_en": "Snowpiercer",
-      "year": 2020,
-      "kinopoisk_id": 1040428,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "1cbf0bfa596ad5a427125181e6ad87b0a949509180c7fe96b5eb14c6ba1d292a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-13 14:26:50",
-      "update_date": "2020-07-13 14:26:50",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1040428.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Восход Черной Земли",
-      "title_en": "Black Earth Rising",
-      "year": 2018,
-      "kinopoisk_id": 1108994,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "372c050e0d02ad3d06c49c06c89212f9db83a97aca1e6b5f69a72dad1e5750d4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-13 13:48:39",
-      "update_date": "2020-07-13 13:48:39",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1108994.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Свеча в гробнице: Затерянные подземелья",
-      "title_en": "Long ling mi ku (Candle in the Tomb: The Wrath of Time)",
-      "year": 2020,
-      "kinopoisk_id": 1363125,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "1ccdbe10c4a77684b08b25cc159a42ef54b22b7ee45f660ab2e2111f7d0cd871",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-13 13:30:26",
-      "update_date": "2020-07-13 13:30:26",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1363125.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Жизнь на Марсе",
-      "title_en": "Raipeu on Maseu",
-      "year": 2018,
-      "kinopoisk_id": 1112104,
-      "world_art_id": null,
-      "translator": "SoftBox",
-      "token": "a24a88a6d5b8b4e84754d8fc6d3aaf645f05c1f560fed4acaf6d3fab5f5620cf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-13 09:16:57",
-      "update_date": "2020-07-13 09:16:57",
-      "block": false,
-      "translator_id": 106,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1112104.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рита",
-      "title_en": "Rita",
-      "year": 2012,
-      "kinopoisk_id": 742763,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "9f841eb8d486310d5d84920c73a26552f2e1447b9a8d941b414e3c8d9719cc22",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-13 08:25:49",
-      "update_date": "2020-07-13 08:25:49",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/742763.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

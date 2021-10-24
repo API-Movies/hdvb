@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Красная дорожка",
+      "title_en": "Red Carpet",
+      "year": 2021,
+      "kinopoisk_id": 1187310,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-19 14:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Любовь на локдауне",
+      "title_en": "Lock Down Love",
+      "year": 2021,
+      "kinopoisk_id": 13937648,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-19 14:56:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Выездка",
       "title_en": "Dressage",
       "year": 2018,
@@ -235,30 +261,185 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Ограбление склепа / Коллекционеры",
-      "title_en": "Collectors / Dogul",
-      "year": 2020,
-      "kinopoisk_id": 1263217,
-      "type": "movie",
+      "title_ru": "Дом",
+      "title_en": "Home",
+      "year": 2019,
+      "kinopoisk_id": 1245815,
+      "world_art_id": null,
+      "translator": "Ozz",
+      "token": "a09a4ef6de6c364ec0b1eb738e3c8670ab061d4882c642cc29a033ec75e5e6ee",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-19 00:18:02",
+      "added_date": "2020-09-02 23:00:27",
+      "update_date": "2020-09-02 23:01:28",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 54,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1245815.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Яблоки",
-      "title_en": "Mila",
-      "year": 2020,
-      "kinopoisk_id": 1253400,
-      "type": "movie",
+      "title_ru": "Молчание воды",
+      "title_en": "Il silenzio dell\\'acqua",
+      "year": 2019,
+      "kinopoisk_id": 1237078,
+      "world_art_id": null,
+      "translator": "ViruseProject",
+      "token": "9fc67ef8b5ce2e52cd9a9db4e72b5bacfbf22e6dbab202159e8bfa8f38e0b150",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-19 00:17:01",
+      "added_date": "2020-09-02 22:56:54",
+      "update_date": "2020-09-02 22:59:37",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 72,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/1237078.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Барби (Приключения в доме мечты)",
+      "title_en": "Barbie Dreamhouse Adventures",
+      "year": 2018,
+      "kinopoisk_id": 1115326,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "e4c4dd3c200d3af7607e5a43a4c945d6a6c0ff88fcebe69149740711080e9cac",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-09-02 22:05:32",
+      "update_date": "2020-09-02 22:06:58",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1115326.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ведьмы",
+      "title_en": "Churails",
+      "year": 2020,
+      "kinopoisk_id": 2803682,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "81da41bcd1015a180a9c34aed567d80cd5747c57859ba6f25911d02679216ccf",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-24 23:04:26",
+      "update_date": "2020-09-02 21:06:33",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/2803682.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Успеть за две недели",
@@ -1199,309 +1380,6 @@
       "serial_episodes": [
         {
           "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Известная Вселенная",
-      "title_en": "Known Universe",
-      "year": 2009,
-      "kinopoisk_id": 646785,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "f556c16b82f78fd3360e087124ad3b2281ac9ef000c796b2fabba37a10759f1a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-01 21:40:08",
-      "update_date": "2020-09-01 21:41:40",
-      "block": false,
-      "translator_id": 82,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/646785.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Задержка в развитии",
-      "title_en": "Arrested Development",
-      "year": 2003,
-      "kinopoisk_id": 277569,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "cf007857e86093aafe4cacdfb8182fcc1b3a12deb98b69cdf98a1f5c826aee5f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-28 19:20:40",
-      "update_date": "2020-09-01 19:01:53",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/277569.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 22,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Банковский квартал",
-      "title_en": "Quartier des Banques",
-      "year": 2017,
-      "kinopoisk_id": 1142542,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "b9282fc7fa3f89eb69f35b9c8fc392e1af18e569bfb054e3bba01bac4e0ad9f3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-21 23:20:47",
-      "update_date": "2020-09-01 15:09:39",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1142542.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Саутленд",
-      "title_en": "Southland",
-      "year": 2009,
-      "kinopoisk_id": 427129,
-      "world_art_id": null,
-      "translator": "Кубик в Кубе",
-      "token": "230962c9e74527ba181fc4b75f4ca8ddfcc4575306d77c8440568cfe684da32a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-01 08:56:40",
-      "update_date": "2020-09-01 08:57:39",
-      "block": false,
-      "translator_id": 86,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/427129.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 5,
           "episodes_count": 10,
           "episodes": [
             1,

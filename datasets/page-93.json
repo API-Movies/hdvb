@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Роковой взрыв",
+      "title_en": "Holy Boom",
+      "year": 2018,
+      "kinopoisk_id": 1148189,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-24 09:33:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Зола",
+      "title_en": "Zola",
+      "year": 2021,
+      "kinopoisk_id": 1162931,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-23 22:31:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Странное соседство",
       "title_en": "Strange Company",
       "year": 2021,
@@ -235,30 +261,245 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Rock, Paper, Scissors",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 709760,
-      "type": "movie",
+      "title_ru": "Формула 1: Гонять, чтобы выживать",
+      "title_en": "Formula 1: Drive to Survive",
+      "year": 2019,
+      "kinopoisk_id": 1240162,
+      "world_art_id": null,
+      "translator": "Пифагор",
+      "token": "441b544675c23c8af8cf6db44d786c9a2138efe2cf2ed38962223e9a38c8b0cf",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-22 20:16:01",
+      "added_date": "2020-03-03 12:15:20",
+      "update_date": "2021-03-28 00:02:46",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 124,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1240162.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "ВМВ",
-      "title_en": "LFG",
-      "year": 2021,
-      "kinopoisk_id": 4484950,
-      "type": "movie",
+      "title_ru": "Роллерша",
+      "title_en": "Derby Girl",
+      "year": 2020,
+      "kinopoisk_id": 1327336,
+      "world_art_id": null,
+      "translator": "Novamedia",
+      "token": "f1ae0b7240e382bcac3142aa037b9d8c3f7ad4963f31f1cf9bcb4046c1c80617",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-22 20:15:01",
+      "added_date": "2021-03-28 00:00:44",
+      "update_date": "2021-03-28 00:01:16",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 51,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1327336.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Хождение по мукам",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 1006683,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "6a3995ba42af7583797afceb9b0a33538511536303861d3d358d7dbf27333634",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-27 20:44:30",
+      "update_date": "2021-03-27 20:44:45",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1006683.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Платина",
+      "title_en": "",
+      "year": 2007,
+      "kinopoisk_id": 397403,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "10d4e090d7c8fb632a607f54c55bcaf972e1137e7b5e0dac453c590da7873828",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-27 20:43:26",
+      "update_date": "2021-03-27 20:43:58",
+      "block": false,
+      "translator_id": 92,
+      "quality": "DVDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/397403.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Обещанный Неверленд",
+      "title_en": "Yakusoku no Neverland",
+      "year": 2019,
+      "kinopoisk_id": 1179789,
+      "world_art_id": null,
+      "translator": "StudioBand",
+      "token": "5df9a036383da30a6ee65da3f4d8fe0b78b5e08cc5ede69d4ba11783f0fef60e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-09 12:24:52",
+      "update_date": "2021-03-27 19:32:37",
+      "block": false,
+      "translator_id": 66,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1179789.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Нерегулярные части",
@@ -904,170 +1145,6 @@
             13,
             14,
             15
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рокко Скьявоне",
-      "title_en": "Rocco Schiavone",
-      "year": 2016,
-      "kinopoisk_id": 1227553,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "482b78da286643981f681fe6e21918c7e30e41ffeb0caa0d74a4660dfcbcdbf9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-21 09:08:03",
-      "update_date": "2021-03-26 07:52:42",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1227553.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Парадайз-Сити",
-      "title_en": "Paradise City",
-      "year": 2021,
-      "kinopoisk_id": 892668,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "c1784e9dc04928a2611813f72c76653a7fda4ffc07d7f5f9edaf5f2fb089d00d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-26 07:49:42",
-      "update_date": "2021-03-26 07:50:27",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/892668.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Леонардо",
-      "title_en": "Leonardo",
-      "year": 2021,
-      "kinopoisk_id": 1330386,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "e40fb648c8277580fd0dda7d76ff5047705187a7e69287430f65b5b3a6969a32",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-25 07:35:41",
-      "update_date": "2021-03-26 07:49:21",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1330386.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Гений",
-      "title_en": "Genius",
-      "year": 2017,
-      "kinopoisk_id": 975848,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "366ea9b227d6950eeb706a1f68500d43059390cb3afb77f75835bc1589d6850e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-23 08:29:41",
-      "update_date": "2021-03-26 07:48:38",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/975848.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "DOTA: Кровь дракона",
-      "title_en": "Dota: Dragon's Blood",
-      "year": 2021,
-      "kinopoisk_id": 4364733,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "66ab92f016f75d30f6e1f038043195ed6c5a327620a298faaca559cbc6834bfa",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-26 07:44:18",
-      "update_date": "2021-03-26 07:46:41",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4364733.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

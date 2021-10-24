@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Продлёнка",
+      "title_en": "Dopunska nastava",
+      "year": 2019,
+      "kinopoisk_id": 1274738,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-29 01:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Здесь и сейчас",
+      "title_en": "Aquí y ahora",
+      "year": 2019,
+      "kinopoisk_id": 1076382,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-29 01:29:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Театр сумасшедших 3",
       "title_en": "Theatre of the Deranged III",
       "year": 2019,
@@ -235,30 +261,244 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "План ограбления",
-      "title_en": "The Assault",
-      "year": 2017,
-      "kinopoisk_id": 854233,
-      "type": "movie",
+      "title_ru": "З: Начало всего",
+      "title_en": "Z: The Beginning of Everything",
+      "year": 2015,
+      "kinopoisk_id": 925036,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "ce370b94cad608aced2acafd993c6e73b0c5ca24bc5e8f75304f86c845f2ae00",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-27 20:23:02",
+      "added_date": "2020-12-04 22:24:33",
+      "update_date": "2020-12-04 22:25:20",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/925036.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Царь-птица",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1117970,
-      "type": "movie",
+      "title_ru": "Джонатан Стрендж и мистер Норрелл",
+      "title_en": "Jonathan Strange &amp; Mr Norrell",
+      "year": 2015,
+      "kinopoisk_id": 807474,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "5556e5da7bb0e10f3037f3392442bd5644386ebfa21032e70f7de9350a1f4455",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-27 20:21:01",
+      "added_date": "2020-12-04 22:23:40",
+      "update_date": "2020-12-04 22:24:18",
       "block": false,
-      "translator": "Субтитры",
-      "translator_id": 97,
-      "quality": "WEBRip"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/807474.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Проклятье",
+      "title_en": "Damnation",
+      "year": 2017,
+      "kinopoisk_id": 1007813,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "6d7f465934bc6276c59a5c0e5d7f2edccd50ec4b7e6c6ee86368887351808e18",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-04 22:22:35",
+      "update_date": "2020-12-04 22:23:24",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1007813.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Братья Харди",
+      "title_en": "The Hardy Boys",
+      "year": 2020,
+      "kinopoisk_id": 1322697,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "dacb5cafeb1b4a83d6217fce95c94c36fbf62dfd372f6594ab1a98d53cf95726",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-04 17:05:35",
+      "update_date": "2020-12-04 21:39:28",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1322697.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Любовницы",
+      "title_en": "Mistresses",
+      "year": 2013,
+      "kinopoisk_id": 674032,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "11d1beaf3e395d322689dcd0edfa6faeeb71c5f50c6b18ecfe84b9ac2fd36a30",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-04 20:04:26",
+      "update_date": "2020-12-04 20:24:15",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/674032.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Большой рот",
@@ -1756,177 +1996,6 @@
             19,
             20,
             21
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Игра скорпиона",
-      "title_en": "Bicchoo Ka Khel",
-      "year": 2020,
-      "kinopoisk_id": 1403516,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "c021d29903394ff9d9cc8ba515381fcd173a66da08abbff675910f8b44adea20",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-25 18:47:04",
-      "update_date": "2020-12-03 13:44:47",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1403516.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ромул",
-      "title_en": "Romulus",
-      "year": 2020,
-      "kinopoisk_id": 1273065,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "bf0af09dc5c703a74c55aa514e6120ec8fc0f6b7ef7a7aa37e4d89ddee70de98",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-07 09:39:03",
-      "update_date": "2020-12-03 08:50:48",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1273065.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Восстание Техаса",
-      "title_en": "Texas Rising",
-      "year": 2015,
-      "kinopoisk_id": 838740,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "d9d244dea36a64fba79b6f19318c36c26204db27dcfaeafcd0e48895cb7de205",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-03 02:32:07",
-      "update_date": "2020-12-03 02:32:50",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/838740.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Череп и кости",
-      "title_en": "Crossbones",
-      "year": 2014,
-      "kinopoisk_id": 733151,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "ccde4446e713d072eda704a521aca948a24f5be8c602f1218fe0c6ef36b93094",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-03 02:28:51",
-      "update_date": "2020-12-03 02:31:33",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/733151.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Гори, Мадрид",
-      "title_en": "Arde Madrid",
-      "year": 2018,
-      "kinopoisk_id": 1243974,
-      "world_art_id": null,
-      "translator": "WestFilm",
-      "token": "35728e7c832956cba03108b11f273fb0cf7654841761869811252edf4ad7fd73",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-03 01:43:59",
-      "update_date": "2020-12-03 01:46:24",
-      "block": false,
-      "translator_id": 167,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1243974.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

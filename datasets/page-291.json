@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Грань времени",
+      "title_en": "Synchronic",
+      "year": 2020,
+      "kinopoisk_id": 1193013,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-12 16:47:02",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Линия горизонта",
+      "title_en": "Horizon Line",
+      "year": 2020,
+      "kinopoisk_id": 1237079,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-12 16:45:02",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Лучшие годы жизни",
       "title_en": "Les plus belles années d'une vie",
       "year": 2019,
@@ -235,30 +261,194 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Любовь. Боль. Севда",
-      "title_en": "Love Pain Sevdah",
-      "year": 2019,
-      "kinopoisk_id": 1265679,
-      "type": "movie",
+      "title_ru": "Сквозь снег",
+      "title_en": "Snowpiercer",
+      "year": 2020,
+      "kinopoisk_id": 1040428,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "1cbf0bfa596ad5a427125181e6ad87b0a949509180c7fe96b5eb14c6ba1d292a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-11 12:33:01",
+      "added_date": "2020-07-13 14:26:50",
+      "update_date": "2020-07-13 14:26:50",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1040428.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Что мы говорим, что мы делаем",
-      "title_en": "Les choses qu'on dit, les choses qu'on fait",
-      "year": 2020,
-      "kinopoisk_id": 1387198,
-      "type": "movie",
+      "title_ru": "Восход Черной Земли",
+      "title_en": "Black Earth Rising",
+      "year": 2018,
+      "kinopoisk_id": 1108994,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "372c050e0d02ad3d06c49c06c89212f9db83a97aca1e6b5f69a72dad1e5750d4",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-11 12:32:01",
+      "added_date": "2020-07-13 13:48:39",
+      "update_date": "2020-07-13 13:48:39",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1108994.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Свеча в гробнице: Затерянные подземелья",
+      "title_en": "Long ling mi ku (Candle in the Tomb: The Wrath of Time)",
+      "year": 2020,
+      "kinopoisk_id": 1363125,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "1ccdbe10c4a77684b08b25cc159a42ef54b22b7ee45f660ab2e2111f7d0cd871",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-13 13:30:26",
+      "update_date": "2020-07-13 13:30:26",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1363125.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Жизнь на Марсе",
+      "title_en": "Raipeu on Maseu",
+      "year": 2018,
+      "kinopoisk_id": 1112104,
+      "world_art_id": null,
+      "translator": "SoftBox",
+      "token": "a24a88a6d5b8b4e84754d8fc6d3aaf645f05c1f560fed4acaf6d3fab5f5620cf",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-13 09:16:57",
+      "update_date": "2020-07-13 09:16:57",
+      "block": false,
+      "translator_id": 106,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1112104.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Рита",
+      "title_en": "Rita",
+      "year": 2012,
+      "kinopoisk_id": 742763,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "9f841eb8d486310d5d84920c73a26552f2e1447b9a8d941b414e3c8d9719cc22",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-13 08:25:49",
+      "update_date": "2020-07-13 08:25:49",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/742763.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Мужчина во мне",
@@ -1014,182 +1204,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Поиск",
-      "title_en": "Historia de un Crimen: La Busqueda (The Search)",
-      "year": 2020,
-      "kinopoisk_id": 1389231,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "bcc8a25a1c26b8b523d0875045402349cfe465df5f351e545101984116e9a4ad",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-11 13:47:40",
-      "update_date": "2020-07-11 13:47:40",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1389231.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Муж на 100 дней",
-      "title_en": "Baekilui nanggunnim",
-      "year": 2018,
-      "kinopoisk_id": 1112449,
-      "world_art_id": null,
-      "translator": "SoftBox",
-      "token": "f610500e8cb4b32ad1981ff74f448d8f9ab5d9b5e6ca90578de8e36a5702fab3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-11 10:02:05",
-      "update_date": "2020-07-11 10:02:05",
-      "block": false,
-      "translator_id": 106,
-      "quality": "HDTVRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1112449.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Двенадцать",
-      "title_en": "De Twaalf",
-      "year": 2019,
-      "kinopoisk_id": 1245332,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "ced0b74045a2b1dfe474031f8bd5e7ae14de2eac1c7bc95af3e012863708a231",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-11 09:59:36",
-      "update_date": "2020-07-11 09:59:36",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1245332.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Стая",
-      "title_en": "La jauría (The Pack)",
-      "year": 2020,
-      "kinopoisk_id": 1225661,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "eab48c6316baf27cd6c8dcec9387869046e549ec69bbf7ed5ea8e1d4a1417736",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-11 09:18:40",
-      "update_date": "2020-07-11 09:18:40",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1225661.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дорожное шутошествие",
-      "title_en": "Jestination Unknown",
-      "year": 2019,
-      "kinopoisk_id": 10350924,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "189892f4b490ac0775f78bbe7853d92ea6cebc3dd02264f4c6d5c429914bcbfd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-11 09:16:24",
-      "update_date": "2020-07-11 09:16:24",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/10350924.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

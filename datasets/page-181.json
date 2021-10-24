@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Средоточие боли",
+      "title_en": "Trigger Point",
+      "year": 2021,
+      "kinopoisk_id": 4291751,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-21 12:46:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Рой",
+      "title_en": "La nuée",
+      "year": 2020,
+      "kinopoisk_id": 1286423,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-21 12:45:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Другая правда",
       "title_en": "Curveball",
       "year": 2020,
@@ -235,30 +261,202 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Во имя зла",
-      "title_en": "For the Sake of Vicious",
-      "year": 2021,
-      "kinopoisk_id": 1312868,
-      "type": "movie",
+      "title_ru": "Любовь Пён Хёка",
+      "title_en": "Byeon Hyeokui sarang",
+      "year": 2017,
+      "kinopoisk_id": 1047916,
+      "world_art_id": null,
+      "translator": "GREEN TEA",
+      "token": "912a43004ae198a714e9c901b1d7cef933227d88e9424f011d2a0f19bf9b5e05",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-20 23:30:01",
+      "added_date": "2020-11-22 10:45:35",
+      "update_date": "2020-11-22 10:47:05",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 31,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1047916.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Ночью приходят волки",
-      "title_en": "At Night Comes Wolves",
-      "year": 2021,
-      "kinopoisk_id": 1188182,
-      "type": "movie",
+      "title_ru": "Великолепный брак",
+      "title_en": "Choigoui gyeolhon",
+      "year": 2014,
+      "kinopoisk_id": 861671,
+      "world_art_id": null,
+      "translator": "GREEN TEA",
+      "token": "2d5dbed17a44fc6743a14cf8fc4243aca6a163e3aa791319f2f35a42687e55af",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-20 23:29:02",
+      "added_date": "2020-11-22 10:44:33",
+      "update_date": "2020-11-22 10:45:20",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 31,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/861671.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "(Не)удачный выбор",
+      "title_en": "Mismatched",
+      "year": 2020,
+      "kinopoisk_id": 1417276,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "eb90fb57ce94d29f748398b028f33495f06b8fc9e12928aa21f3cf03c8e6a1a3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-11-21 08:28:09",
+      "update_date": "2020-11-22 08:12:36",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1417276.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Земля-616",
+      "title_en": "Marvel's 616",
+      "year": 2020,
+      "kinopoisk_id": 1257203,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "0b215c5c10ff332a11ebc9a4687d0a8126ead21a9b055667d034a7456e7340c2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-11-21 08:26:53",
+      "update_date": "2020-11-22 08:12:09",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1257203.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Вавилон",
+      "title_en": "Babil",
+      "year": 2020,
+      "kinopoisk_id": 1316546,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "887b925897bb54f0d2ac302193f5abce5d8637e7fdc8d119bce96686d7cbc24d",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-02-26 10:15:56",
+      "update_date": "2020-11-22 08:11:05",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1316546.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Кошкин дом",
@@ -889,184 +1087,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Возвращённые",
-      "title_en": "The Returned",
-      "year": 2015,
-      "kinopoisk_id": 804476,
-      "world_art_id": null,
-      "translator": "Jaskier",
-      "token": "6e462cb6b0b0d66156e2729b3455aa3c08ca034a25eac36f57d58f0fb1d9e8ec",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-21 14:47:21",
-      "update_date": "2020-11-21 14:50:20",
-      "block": false,
-      "translator_id": 36,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/804476.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Особое мнение",
-      "title_en": "Minority Report",
-      "year": 2015,
-      "kinopoisk_id": 900057,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "3d785fa50a01afeb2297c266af6388edcd2e37d762469850614fe938f6062f99",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-21 14:43:39",
-      "update_date": "2020-11-21 14:45:55",
-      "block": false,
-      "translator_id": 48,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/900057.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Взгляд в прошлое",
-      "title_en": "Hindsight",
-      "year": 2015,
-      "kinopoisk_id": 840341,
-      "world_art_id": null,
-      "translator": "HamsterStudio",
-      "token": "959263dcf67de8190511d1e2fea6938e098003d94ee7f760b29b10cc097fdf38",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-21 14:40:25",
-      "update_date": "2020-11-21 14:42:51",
-      "block": false,
-      "translator_id": 32,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/840341.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Раскопки",
-      "title_en": "Dig",
-      "year": 2015,
-      "kinopoisk_id": 841568,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "d333e7b005c2c2e79db7cd00b9bdc55e0215f2a84df36445927ae0eaa2f7628a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-21 14:36:02",
-      "update_date": "2020-11-21 14:39:10",
-      "block": false,
-      "translator_id": 48,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/841568.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Парни что надо",
-      "title_en": "The Right Stuff",
-      "year": 2020,
-      "kinopoisk_id": 1239434,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "3a752d55f61931e4cf00c715f66307d2b4e7b49933797e0587363d8b734416a6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-10 09:54:24",
-      "update_date": "2020-11-21 08:31:22",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1239434.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

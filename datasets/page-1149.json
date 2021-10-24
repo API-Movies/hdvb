@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title_ru": "Маленький клиент",
+      "title_en": "Eorin uiroein",
+      "year": 2019,
+      "kinopoisk_id": 1206600,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-09-04 23:05:01",
+      "block": false,
+      "translator": "den904",
+      "translator_id": 19,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Битва",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1178289,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-09-04 23:03:01",
+      "block": [
+        "RU"
+      ],
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Смерть и жизнь Джона Ф. Донована",
       "title_en": "The Death and Life of John F. Donovan",
       "year": 2018,
@@ -242,32 +270,6 @@
       "translator": "Дубляж",
       "translator_id": 82,
       "quality": "TS"
-    },
-    {
-      "title_ru": "Последний год",
-      "title_en": "The Final Year",
-      "year": 2017,
-      "kinopoisk_id": 1101330,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-09-03 15:25:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Виктория и Альберт: королевская свадьба",
-      "title_en": "Victoria &amp; Albert: The Royal Wedding",
-      "year": 2018,
-      "kinopoisk_id": 9424514,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-09-03 15:24:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
     }
   ]
 }

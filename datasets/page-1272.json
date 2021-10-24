@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title_ru": "Лови момент",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 994634,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-09 12:51:06",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сирано. Успеть до премьеры",
+      "title_en": "Edmond",
+      "year": 2018,
+      "kinopoisk_id": 1137812,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-09 12:16:08",
+      "block": [
+        "RU"
+      ],
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Лимонадный рот",
       "title_en": "Lemonade Mouth",
       "year": 2011,
@@ -241,32 +269,6 @@
       "translator": "Дубляж [Лицензия]",
       "translator_id": 107,
       "quality": "BluRay"
-    },
-    {
-      "title_ru": "Чайка",
-      "title_en": "The Seagull",
-      "year": 2018,
-      "kinopoisk_id": 915662,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-05 15:09:23",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Время монстров",
-      "title_en": "The Head",
-      "year": 2018,
-      "kinopoisk_id": 1036250,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-05 15:08:53",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
     }
   ]
 }

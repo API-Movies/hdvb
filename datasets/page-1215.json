@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Завтра будет новый день",
+      "title_en": "Domani è un altro giorno",
+      "year": 2019,
+      "kinopoisk_id": 1192904,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-06-15 17:07:43",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Дочь волка",
+      "title_en": "Daughter of the Wolf",
+      "year": 2019,
+      "kinopoisk_id": 1147874,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-06-15 17:07:39",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Дорогая сестра",
       "title_en": "Nong Hak",
       "year": 2016,
@@ -233,34 +259,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Тёмные горы",
-      "title_en": "Dark Highlands",
-      "year": 2018,
-      "kinopoisk_id": 930055,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-06-14 18:15:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Пираньи Неаполя",
-      "title_en": "La paranza dei bambini",
-      "year": 2019,
-      "kinopoisk_id": 1193418,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-06-14 17:34:51",
-      "block": [
-        "RU"
-      ],
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
     }
   ]
 }
