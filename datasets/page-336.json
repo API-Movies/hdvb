@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "title_ru": "Кровь на ее значке",
+      "title_en": "Blood on Her Badge",
+      "year": 2020,
+      "kinopoisk_id": 1448082,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-03 00:47:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Хосе",
+      "title_en": "José",
+      "year": 2018,
+      "kinopoisk_id": 1160308,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-03 00:45:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сам напросился",
+      "title_en": "Asking for It",
+      "year": 2020,
+      "kinopoisk_id": 1234103,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-03 00:42:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "В поисках Агнес",
+      "title_en": "Finding Agnes",
+      "year": 2020,
+      "kinopoisk_id": 1445154,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-03 00:40:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Марго и Марго",
+      "title_en": "La belle et la belle",
+      "year": 2018,
+      "kinopoisk_id": 1113696,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-03 00:39:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Создай меня",
       "title_en": "Make Me Up",
       "year": 2018,
@@ -196,69 +261,196 @@
       "quality": "HDTV"
     },
     {
-      "title_ru": "Ангельское дерево",
-      "title_en": "The Angel Tree",
+      "title_ru": "Чужое",
+      "title_en": "",
+      "year": 2014,
+      "kinopoisk_id": 839113,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "34dca9545a1f7d62c90f2f377f97031d90e4579862a5430140d93a176aee5829",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-03 00:46:09",
+      "update_date": "2020-05-03 00:46:09",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/839113.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Затерянные в космосе",
+      "title_en": "Lost in Space",
+      "year": 2018,
+      "kinopoisk_id": 993176,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "ed13c4b4c6cf7151cc3ae62219d774090c8f7f4b6cca04f95fef1d232de1576b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-03 00:21:26",
+      "update_date": "2020-05-03 00:21:26",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/993176.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=147584",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ликвидация",
+      "title_en": "",
+      "year": 2007,
+      "kinopoisk_id": 378244,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "77347038f5d61831fce4ceed13c6b3b8da39e24c9271176dc5e98fc73fa007c2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-02 23:12:28",
+      "update_date": "2020-05-02 23:12:28",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/378244.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Эйфория",
+      "title_en": "Euphoria",
+      "year": 2019,
+      "kinopoisk_id": 1178445,
+      "world_art_id": null,
+      "translator": "Novamedia",
+      "token": "914a1ec34d6ab9913d4894408d67d8281baaa7c9a800f6886c35ea43ad2984c6",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-02 20:47:04",
+      "update_date": "2020-05-02 20:47:04",
+      "block": false,
+      "translator_id": 51,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1178445.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Факультатив",
+      "title_en": "Extracurricular / Ingansuoep",
       "year": 2020,
-      "kinopoisk_id": 1434835,
-      "type": "movie",
+      "kinopoisk_id": 1258177,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "3b0804190888126397c96b787e0b6a95d3a41ecc03e99aca1619b5d6155c8b22",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-02 14:31:01",
+      "added_date": "2020-05-02 19:25:38",
+      "update_date": "2020-05-02 19:25:38",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Скандал в 97-ом",
-      "title_en": "A Night in 97 / Scandal in 97 / Scandal in '97",
-      "year": 2020,
-      "kinopoisk_id": 1308601,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-02 14:30:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Свои люди",
-      "title_en": "De Lo Mio",
-      "year": 2019,
-      "kinopoisk_id": 1248598,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-02 14:29:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Члены семьи",
-      "title_en": "Family Members / Los miembros de la familia",
-      "year": 2019,
-      "kinopoisk_id": 1223497,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-02 14:28:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "День, когда Долорес осталась одна",
-      "title_en": "One Day, Dolores Was on Her Own / Dolores un día se quedó sola",
-      "year": 2019,
-      "kinopoisk_id": 12084582,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-02 14:27:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1258177.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Дед Мазаев и Зайцевы",
@@ -1071,187 +1263,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Погружение",
-      "title_en": "",
-      "year": 2013,
-      "kinopoisk_id": 783193,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "cf24b5be4410fa7445f98269a15d4aecd0ed88db64a1500946a86cd5ce386349",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-30 23:14:54",
-      "update_date": "2020-04-30 23:14:54",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/783193.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Последнее королевство",
-      "title_en": "The Last Kingdom",
-      "year": 2015,
-      "kinopoisk_id": 863829,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "089d5f10cee4d5fcc63083e9979bb0c6d7d7b35b291eea4913107802374a17ac",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-30 23:10:47",
-      "update_date": "2020-04-30 23:10:47",
-      "block": false,
-      "translator_id": 60,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/863829.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=124846",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Лес любви: Ещё глубже",
-      "title_en": "The Forest of Love: Deep Cut",
-      "year": 2020,
-      "kinopoisk_id": 1368114,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "72f5bcb9c75848260fa029736adafcbcbcf25cdcf533a5eb65b742b1655703e1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-30 21:23:06",
-      "update_date": "2020-04-30 21:23:06",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1368114.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дэйв",
-      "title_en": "Dave",
-      "year": 2020,
-      "kinopoisk_id": 1245489,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "fa7bb5dc356f8c0c6e4c6b797ddcc4b96f27e3118698eb09cf95113417a18064",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-30 18:15:08",
-      "update_date": "2020-04-30 18:15:08",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1245489.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Крепость Бадабер",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1048576,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "0c94fec4b2df5e413362baeb3c419471d48a7bbc31bc16e8776ffdf136003c30",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-30 00:50:06",
-      "update_date": "2020-04-30 00:50:06",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1048576.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

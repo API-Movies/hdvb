@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "title_ru": "Мы",
+      "title_en": "Us",
+      "year": 2019,
+      "kinopoisk_id": 1122138,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-30 13:13:29",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Призраки",
+      "title_en": "Hjemsøkt",
+      "year": 2017,
+      "kinopoisk_id": 1095014,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-30 06:22:09",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Звёздные войны: Последние джедаи",
+      "title_en": "Star Wars: Episode VIII - The Last Jedi",
+      "year": 2017,
+      "kinopoisk_id": 718223,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-30 03:16:49",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Геошторм",
+      "title_en": "Geostorm",
+      "year": 2017,
+      "kinopoisk_id": 597129,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-30 03:10:23",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Звездный десант",
+      "title_en": "Starship Troopers",
+      "year": 1997,
+      "kinopoisk_id": 6025,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-30 00:48:11",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Наше время",
       "title_en": "Nuestro tiempo",
       "year": 2018,
@@ -196,73 +261,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "WEB-DLRip"
-    },
-    {
-      "title_ru": "Власть",
-      "title_en": "Vice",
-      "year": 2018,
-      "kinopoisk_id": 1044045,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-29 00:22:58",
-      "block": [
-        "RU"
-      ],
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Великий детектив",
-      "title_en": "Da zhen shen huo sang",
-      "year": 2019,
-      "kinopoisk_id": 1062805,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-29 00:02:26",
-      "block": false,
-      "translator": "den904",
-      "translator_id": 19,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Волны",
-      "title_en": "Swell",
-      "year": 2019,
-      "kinopoisk_id": 979161,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-28 18:25:55",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Встретимся на той стороне",
-      "title_en": "This Side of the Dirt",
-      "year": 2018,
-      "kinopoisk_id": 995633,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-28 18:20:54",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Плывущие по течению",
-      "title_en": "We Are Boats",
-      "year": 2018,
-      "kinopoisk_id": 1047375,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-28 18:18:30",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
     }
   ]
 }

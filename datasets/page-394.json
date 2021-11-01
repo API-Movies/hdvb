@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "title_ru": "M",
+      "title_en": "M",
+      "year": 2017,
+      "kinopoisk_id": 940039,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-04 00:02:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Миф",
+      "title_en": "Myth",
+      "year": 2020,
+      "kinopoisk_id": 1025111,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-04 00:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Стандарт",
+      "title_en": "The Standard",
+      "year": 2020,
+      "kinopoisk_id": 12681044,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-03 23:58:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Материнский инстинкт",
+      "title_en": "Maternal / Hogar",
+      "year": 2019,
+      "kinopoisk_id": 1292109,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-03 23:55:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Предательство",
+      "title_en": "Traición / Betrayal",
+      "year": 2018,
+      "kinopoisk_id": 996745,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-03 23:49:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Витория, 3 марта",
       "title_en": "Vitoria, 3 de marzo",
       "year": 2018,
@@ -196,69 +261,183 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Захват",
-      "title_en": "Seized / Rizk",
-      "year": 2020,
-      "kinopoisk_id": 1064514,
-      "type": "movie",
+      "title_ru": "Один",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 1072964,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "0c51234848318810d7fd852c03b2c2ef919e37ff2e89b5a64fb812780103341d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-03 00:07:02",
+      "added_date": "2019-01-24 15:28:18",
+      "update_date": "2019-01-26 13:31:21",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "DVDRip"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1072964.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Напугать Джули / Напугать Джули до смерти",
-      "title_en": "Let's Scare Julie / Let's Scare Julie to Death",
-      "year": 2020,
-      "kinopoisk_id": 1169038,
-      "type": "movie",
+      "title_ru": "Год культуры",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1206901,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "84e8af063f658d40f7c60d602692cde7987deab7ef2dbd8ff25001d192470ca3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-02 21:06:02",
+      "added_date": "2018-11-21 15:03:59",
+      "update_date": "2019-01-24 00:58:36",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1206901.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Позывные",
-      "title_en": "A Call to Spy / Untitled Female Driven WW / Spy Thriller",
-      "year": 2020,
-      "kinopoisk_id": 1403071,
-      "type": "movie",
+      "title_ru": "Шестой пост",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1112943,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "49e33fe1f9e1fa70e578551d6085f3105067d9f29e698f500dcabcfabd2d0b2f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-02 21:04:01",
+      "added_date": "2019-01-10 12:30:13",
+      "update_date": "2019-01-11 04:58:44",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "HDTVRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1112943.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "2067: Петля времени",
-      "title_en": "2067 / Subject 14",
-      "year": 2020,
-      "kinopoisk_id": 609581,
-      "type": "movie",
+      "title_ru": "Страна приливов",
+      "title_en": "Tidelands",
+      "year": 2018,
+      "kinopoisk_id": 1118017,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "4b30b234c5b3db623d8bc97b9716e953b0ae3c392fca677c8628d6350656841d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-02 21:01:02",
+      "added_date": "2018-12-18 22:50:55",
+      "update_date": "2019-01-11 03:53:14",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1118017.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Вампиры в Бронксе",
-      "title_en": "Vampires vs. the Bronx",
-      "year": 2020,
-      "kinopoisk_id": 1191666,
-      "type": "movie",
+      "title_ru": "Вторая первая любовь",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1138857,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "7cb1c10baa1068011c7903d53db1d77b7d11176ed05644b78bb7be3f344e4d0a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-02 19:21:02",
+      "added_date": "2019-01-06 01:39:34",
+      "update_date": "2019-01-06 13:40:22",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DLRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1138857.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Призраки дома на холме",
@@ -896,279 +1075,6 @@
             9,
             10,
             11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "ХБ",
-      "title_en": "",
-      "year": 2013,
-      "kinopoisk_id": 745204,
-      "world_art_id": null,
-      "translator": "Перевод не требуется",
-      "token": "4c363aa64a383db15d7d917553d6288178acf7e89e3795cb7494c271b50a8c59",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-09-19 16:38:19",
-      "update_date": "2018-11-25 18:44:24",
-      "block": false,
-      "translator_id": 103,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/745204.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 19,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Купчино",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1110933,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "e3be0494672132979ce6861873f91845a03894a6688f6bbd12e08545c825dde6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-11-12 15:47:27",
-      "update_date": "2018-11-24 20:08:22",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1110933.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Боец 2: Рождение легенды",
-      "title_en": "",
-      "year": 2008,
-      "kinopoisk_id": 428980,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "79efe89b07029dc27e04c0027dbb74bc7bb027f09b39a500cc6b469f98dfebc3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-11-16 20:47:24",
-      "update_date": "2018-11-16 21:10:58",
-      "block": false,
-      "translator_id": 92,
-      "quality": "DVDRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/428980.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мажор",
-      "title_en": "",
-      "year": 2014,
-      "kinopoisk_id": 820638,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "73da2fd14a57999cae48a49c0d8cbe32b796ae19b18dea9f56e2a03e2b28545c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-10-26 22:40:07",
-      "update_date": "2018-11-16 20:42:13",
-      "block": [
-        "RU"
-      ],
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/820638.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=112341",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Боец",
-      "title_en": "",
-      "year": 2004,
-      "kinopoisk_id": 260377,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "a3dc651d0d28ea83889d6164e5099ffad235941af0a45b3b7b2e5ba95bffb4f0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-11-16 16:30:59",
-      "update_date": "2018-11-16 16:31:10",
-      "block": false,
-      "translator_id": 92,
-      "quality": "DVDRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/260377.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "title_ru": "Предупреждение",
+      "title_en": "Warning",
+      "year": 2021,
+      "kinopoisk_id": 1192465,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-15 22:48:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Поездка",
+      "title_en": "I onde dager",
+      "year": 2021,
+      "kinopoisk_id": 1439939,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-15 22:47:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Хэллоуин убивает",
+      "title_en": "Halloween Kills",
+      "year": 2021,
+      "kinopoisk_id": 1287542,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-15 22:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пылающий мир",
+      "title_en": "The Blazing World",
+      "year": 2021,
+      "kinopoisk_id": 1331391,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-15 18:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Needle in a Timestack",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1108874,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-15 15:38:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Хороший, плохой, коп",
       "title_en": "Copshop",
       "year": 2021,
@@ -196,69 +261,710 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Запрос в друзья",
-      "title_en": "Friend Request",
-      "year": 2020,
-      "kinopoisk_id": 1296276,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-14 12:57:03",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Культ Амитивилля",
-      "title_en": "Amityville Cult",
+      "title_ru": "Корпорация «Заговор»",
+      "title_en": "Inside Job",
       "year": 2021,
-      "kinopoisk_id": 4423718,
-      "type": "movie",
+      "kinopoisk_id": 1263653,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "df71a77a1ec7215c17ca1455309078731803883ce8707551f8c7be732ea55217",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-14 12:54:05",
+      "added_date": "2021-10-23 22:13:10",
+      "update_date": "2021-10-23 22:13:47",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://img.imgilall.me/movies/franchise/5/1/5/8/4/0/0/0/0/0/610x900_51584.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Американский преступник",
-      "title_en": "American Criminal",
+      "title_ru": "Ты",
+      "title_en": "You",
+      "year": 2018,
+      "kinopoisk_id": 1115630,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "4f15b8a53248612dff344de6dabf2b9beebf6eaa245b38aad2f99f2b4506623e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-01-23 21:29:43",
+      "update_date": "2021-10-23 17:01:15",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1115630.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Голубая кровь",
+      "title_en": "Blue Bloods",
+      "year": 2010,
+      "kinopoisk_id": 503546,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "3ccd4aaa7254875062995a2fc324fca14a427c30ba2e48261aadae926f27a628",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-05 15:28:45",
+      "update_date": "2021-10-23 16:53:52",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/503546.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=31612",
+      "serial_episodes": [
+        {
+          "season_number": 11,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 12,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Убийства в одном здании",
+      "title_en": "Only Murders in the Building",
+      "year": 2021,
+      "kinopoisk_id": 4295380,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "3a07382842659c23eff445a51b3018edc060b5c455098756633d1a00b7db65ea",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-09-07 01:37:00",
+      "update_date": "2021-10-23 15:40:12",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4295380.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Американская история ужасов",
+      "title_en": "American Horror Story",
+      "year": 2011,
+      "kinopoisk_id": 589167,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "5cc141b7232473294bdc8d507e228727254863fb533eef7693128bc181e80567",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-16 00:45:39",
+      "update_date": "2021-10-23 15:38:02",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/589167.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135497",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 7,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "season_number": 8,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 9,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "season_number": 10,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "S. W. A. T.: Спецназ города ангелов",
+      "title_en": "S.W.A.T.",
+      "year": 2017,
+      "kinopoisk_id": 1040432,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "19414f3e38d023b0857ce9893f3cce3fc8b49a2cceb87be46551ebd84c5834d2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-11-12 14:11:31",
+      "update_date": "2021-10-23 13:28:25",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1040432.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Частный детектив Магнум",
+      "title_en": "Magnum P.I.",
+      "year": 2018,
+      "kinopoisk_id": 1134829,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "942cd81c6a8a148ad2f6df5d042f23842b9606e12407ce49f50043be621e315e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-05 15:26:33",
+      "update_date": "2021-10-23 13:28:21",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1134829.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Гранчестер",
+      "title_en": "Grantchester",
+      "year": 2014,
+      "kinopoisk_id": 840574,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "be31fa1c62605afc2a0ba6c3f98aa35b9b557cc13aec300bbe18a348afa37ff3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-09-04 11:37:29",
+      "update_date": "2021-10-23 11:31:05",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/840574.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 6,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "По правде говоря",
+      "title_en": "Truth Be Told",
       "year": 2019,
-      "kinopoisk_id": 980984,
-      "type": "movie",
+      "kinopoisk_id": 1140088,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "70e5907ff453312a82f9f5ae608422e605f1337039a2031333711d3c7b23186a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-14 12:53:01",
+      "added_date": "2020-05-09 18:40:05",
+      "update_date": "2021-10-23 10:31:25",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1140088.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Дистанция спасения",
-      "title_en": "Distancia de rescate",
+      "title_ru": "Девушка в лесу",
+      "title_en": "The Girl in the Woods",
       "year": 2021,
-      "kinopoisk_id": 1236485,
-      "type": "movie",
+      "kinopoisk_id": 4477468,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "69b5b0cabbad552892e102ef1046b577e89cf7ec1883b002eb47f52242dd1f14",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-14 01:43:02",
+      "added_date": "2021-10-22 08:42:30",
+      "update_date": "2021-10-23 10:30:48",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4477468.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Перекрёстный огонь",
-      "title_en": "Nou fo",
-      "year": 2021,
-      "kinopoisk_id": 1147320,
-      "type": "movie",
+      "title_ru": "Пожарная часть 19",
+      "title_en": "Station 19",
+      "year": 2018,
+      "kinopoisk_id": 1112969,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "c8d6867554310d12ff33d5a6ee7f988cec3c5acbe70166b8735cb0d05c8fb615",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-14 01:42:01",
+      "added_date": "2020-02-28 11:23:53",
+      "update_date": "2021-10-23 10:29:12",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1112969.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Майя и три воина",
+      "title_en": "Maya and the Three",
+      "year": 2021,
+      "kinopoisk_id": 1178761,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "276f68de9bcadcdf0114c8b6c292cdcaa69e73c0d7eedc6af7fc5a16ce338b47",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-10-23 10:27:28",
+      "update_date": "2021-10-23 10:28:51",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1178761.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Замок и ключ / Ключи Локков",
@@ -871,558 +1577,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Адская кухня с Константином Ивлевым",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 6666661111,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "3b765b05e46f00af3826437ed0fc2b11de8867ecdf2db6e9189a14b5709c971f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-10-11 23:14:41",
-      "update_date": "2021-10-22 22:09:45",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/6666661111.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 19,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "El Barón",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1235935,
-      "world_art_id": null,
-      "translator": "многоголосый закадровый",
-      "token": "26adc2450ad6f4b1f7854ac7f6e90ed9f95729ffb7c2c01a9f70f6011b945dcd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-10-05 18:04:14",
-      "update_date": "2021-10-22 20:14:27",
-      "block": false,
-      "translator_id": 89,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1235935.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Лок и ключ",
-      "title_en": "Locke & Key",
-      "year": 2020,
-      "kinopoisk_id": 774797,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "234f618121143fd9a13bb1b97f6a181952c63cf11e5241ce1620ab06c9de471a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-10-22 14:32:40",
-      "update_date": "2021-10-22 19:46:14",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/774797.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Инсайт",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 4473741,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "2ea8d299da215a2e47edd16f4413099703bb04908432c24b622a39fed3feb296",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-10-18 18:26:50",
-      "update_date": "2021-10-22 19:14:16",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4473741.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Майя и три воина",
-      "title_en": "Maya and the Three",
-      "year": 2021,
-      "kinopoisk_id": 1178761,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "73a922817c48fd637ca41b44498958e4d4c0837ebe998bd579c369bd44ac5ba2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-10-22 14:33:31",
-      "update_date": "2021-10-22 18:25:31",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1178761.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Закон и порядок. Специальный корпус",
-      "title_en": "Law &amp; Order: Special Victims Unit",
-      "year": 1999,
-      "kinopoisk_id": 184288,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "3a29eea9226831b71a5c348c2706f5ba5b543c5fcf0cb4682e1936dc86bbe1ab",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-12 16:31:25",
-      "update_date": "2021-10-22 16:21:16",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/184288.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=125557",
-      "serial_episodes": [
-        {
-          "season_number": 22,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "season_number": 23,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Пожарная часть 19",
-      "title_en": "Station 19",
-      "year": 2018,
-      "kinopoisk_id": 1112969,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "5df43ca3e61944dbb33f1955d6e1206370df8938d832dcee99e6d165de1a3add",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-13 13:47:23",
-      "update_date": "2021-10-22 16:20:56",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1112969.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Анатомия страсти",
-      "title_en": "Grey's Anatomy",
-      "year": 2005,
-      "kinopoisk_id": 277535,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "71887ba53449f2718bb3960dfe43f7455257b1d3530491384ec89b1a09e9fcbf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-13 13:48:41",
-      "update_date": "2021-10-22 14:35:43",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/277535.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=125429",
-      "serial_episodes": [
-        {
-          "season_number": 17,
-          "episodes_count": 17,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17
-          ]
-        },
-        {
-          "season_number": 18,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Закон и порядок: Организованная преступность",
-      "title_en": "Law &amp; Order: Organized Crime",
-      "year": 2021,
-      "kinopoisk_id": 1408795,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "268595cab0b7ea1d6cba4c9264ec3ff5831f44b7e8b9c1aeacf9c3c5e2cbad2a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-02 14:57:35",
-      "update_date": "2021-10-22 14:31:17",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1408795.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бескрайнее небо",
-      "title_en": "The Big Sky",
-      "year": 2020,
-      "kinopoisk_id": 1355289,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "67d02db3c33330897506915463a06244f046c30f0871b3b79900f013e3662588",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-18 12:38:26",
-      "update_date": "2021-10-22 14:30:42",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1355289.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "По правде говоря",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1140088,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "faff8bba7a30394577d4f42985a8766a45c53b3c38df73f6564fba3684d4f6a0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-08-20 10:19:09",
-      "update_date": "2021-10-22 12:09:23",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1140088.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Титаны",
-      "title_en": "Titans",
-      "year": 2018,
-      "kinopoisk_id": 462353,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "9e58e8a9c9ad36dfbe109940ce853d20a06af72469165d94e44d08f122ada825",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-02 08:14:31",
-      "update_date": "2021-10-22 08:44:42",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/462353.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

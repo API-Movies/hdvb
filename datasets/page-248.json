@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "title_ru": "Кайна",
+      "title_en": "Caina",
+      "year": 2020,
+      "kinopoisk_id": 6180106,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-26 10:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Истории конца света",
+      "title_en": "Armageddon Tales",
+      "year": 2021,
+      "kinopoisk_id": 1445329,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-26 10:43:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Полет за мечтой",
+      "title_en": "Il grande passo",
+      "year": 2019,
+      "kinopoisk_id": 1262163,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-26 10:00:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Что скрывает вода",
+      "title_en": "What Lies Below",
+      "year": 2020,
+      "kinopoisk_id": 1214235,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-26 09:59:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Полночное небо",
+      "title_en": "The Midnight Sky",
+      "year": 2020,
+      "kinopoisk_id": 1281449,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-26 02:03:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Клаустрофобы: Квест в Москве",
       "title_en": "Follow Me",
       "year": 2020,
@@ -196,69 +261,240 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "По шаткой земле",
-      "title_en": "Crossing Shaky Ground",
-      "year": 2020,
-      "kinopoisk_id": 1380688,
-      "type": "movie",
+      "title_ru": "Прорвёмся",
+      "title_en": "Ssam, maiwei",
+      "year": 2017,
+      "kinopoisk_id": 1043837,
+      "world_art_id": null,
+      "translator": "Мобильное телевидение",
+      "token": "00ce9b96ebda65098358c07ec9c821af31378d6bb1dd9a9eb59f48159785193e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-25 23:55:02",
+      "added_date": "2020-09-06 13:59:19",
+      "update_date": "2020-09-06 14:51:29",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 133,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1043837.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Вечеринка под кровавой луной",
-      "title_en": "Tiec Trang Mau / Tiệc Trăng Máu / Blood Moon Party",
-      "year": 2020,
-      "kinopoisk_id": 4369371,
-      "type": "movie",
+      "title_ru": "Молокососы",
+      "title_en": "Skins",
+      "year": 2007,
+      "kinopoisk_id": 324657,
+      "world_art_id": null,
+      "translator": "DoubleRec",
+      "token": "6f676caf700b2ac00557e1d7d96ca64e2ffb7e12200cf5f12a9753906e4830f0",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-25 23:54:01",
+      "added_date": "2020-08-23 20:56:58",
+      "update_date": "2020-09-06 09:58:00",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 175,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/324657.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Где царит красота",
-      "title_en": "The Unlikely Encounter / Where Beauty Reigns",
-      "year": 2020,
-      "kinopoisk_id": 9313816,
-      "type": "movie",
+      "title_ru": "Дурная кровь",
+      "title_en": "The Bad Seed",
+      "year": 2018,
+      "kinopoisk_id": 1164744,
+      "world_art_id": null,
+      "translator": "WestFilm",
+      "token": "7a8c4a2cc648fec88edabb6b29eb04e6af4066fdbb1c2b3d655638aeda3debf1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-25 23:53:02",
+      "added_date": "2020-09-06 03:32:05",
+      "update_date": "2020-09-06 03:33:29",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 167,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1164744.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Сын",
-      "title_en": "Son",
-      "year": 2021,
-      "kinopoisk_id": 1322888,
-      "type": "movie",
+      "title_ru": "Помощники",
+      "title_en": "Helpsters",
+      "year": 2019,
+      "kinopoisk_id": 1316581,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "b3b9399ae9f9af22089976b865db261aeec17da8841e71f8c01324699acf1845",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-25 23:50:01",
+      "added_date": "2020-09-06 03:29:13",
+      "update_date": "2020-09-06 03:31:20",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1316581.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Минари",
-      "title_en": "Minari",
-      "year": 2020,
-      "kinopoisk_id": 1286541,
-      "type": "movie",
+      "title_ru": "Тарантула",
+      "title_en": "Tarantula",
+      "year": 2017,
+      "kinopoisk_id": 1112834,
+      "world_art_id": null,
+      "translator": "2x2",
+      "token": "853307654592f8cde41f8957c18a0dfec698e984109c85e6f5c4b131578a047a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-25 23:49:01",
+      "added_date": "2020-09-06 03:26:18",
+      "update_date": "2020-09-06 03:27:45",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 1,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1112834.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Марс",
@@ -866,216 +1102,6 @@
           "episodes": [
             1,
             2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Завещание принцессы",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 1044854,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "3bf38272b0f46ce0862d948381a8eee10986ab7288b969bc1a6f51fd4fe5790b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-05 21:25:34",
-      "update_date": "2020-09-05 21:27:21",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1044854.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бумажный дом",
-      "title_en": "La casa de papel",
-      "year": 2017,
-      "kinopoisk_id": 1046206,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "a957d0c0d683f996fee47ad46c2a11ee797b7a54855739d452247f55d9540ac4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-17 09:35:39",
-      "update_date": "2020-09-05 20:48:04",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1046206.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Страшные сказки: Город ангелов",
-      "title_en": "Penny Dreadful: City of Angels",
-      "year": 2020,
-      "kinopoisk_id": 1254206,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "0a56b100c4686a5f15d24cafca33048b0c3702d115d53dd8763585601efceda8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-01 15:09:09",
-      "update_date": "2020-09-05 20:44:52",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1254206.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Страшные сказки: Город ангелов",
-      "title_en": "Penny Dreadful: City of Angels",
-      "year": 2020,
-      "kinopoisk_id": 1254206,
-      "world_art_id": null,
-      "translator": "Amedia",
-      "token": "d3c9d1e7aa7035cf4b45cccb7d5e5155ce927d9e5065e9adfac008512b38d698",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-03 10:41:25",
-      "update_date": "2020-09-05 20:43:17",
-      "block": false,
-      "translator_id": 7,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1254206.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Загрузка",
-      "title_en": "Upload",
-      "year": 2020,
-      "kinopoisk_id": 1127489,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "0749912691b7b11e56cb7558ca8bf7d0aec41728efb748e994416cb6b495b284",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-27 19:27:54",
-      "update_date": "2020-09-05 20:39:20",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1127489.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]
