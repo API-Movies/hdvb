@@ -1,264 +1,600 @@
 {
   "items": [
     {
-      "title_ru": "Девочки",
-      "title_en": "Chavalas",
-      "year": 2021,
-      "kinopoisk_id": 1355662,
+      "title_ru": "Разделитель",
+      "title_en": "The Divide",
+      "year": 2011,
+      "kinopoisk_id": null,
       "type": "movie",
       "iframe_url": "",
-      "added_date": "2021-10-27 15:24:01",
+      "added_date": "1970-01-01 03:00:00",
+      "block": false,
+      "translator": "",
+      "translator_id": 0,
+      "quality": ""
+    },
+    {
+      "title_ru": "Венди",
+      "title_en": "Wendy",
+      "year": 2020,
+      "kinopoisk_id": 710403,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-27 22:35:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Живущие среди нас",
+      "title_en": "Living Among Us",
+      "year": 2018,
+      "kinopoisk_id": 808317,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-27 22:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "G. I. Joe. Бросок кобры: Снейк Айз",
+      "title_en": "Snake Eyes",
+      "year": 2021,
+      "kinopoisk_id": 1154837,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-27 22:33:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Отчаянные аферистки",
+      "title_en": "Queenpins",
+      "year": 2021,
+      "kinopoisk_id": 1263450,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-27 22:32:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Мистериум. Журнал 64",
+      "title_en": "Journal 64",
+      "year": 2018,
+      "kinopoisk_id": 1045598,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-27 22:31:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Клыки ночи",
+      "title_en": "Night Teeth",
+      "year": 2021,
+      "kinopoisk_id": 1302489,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-27 22:30:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Застрявшие вместе",
+      "title_en": "8 Rue de l\\'Humanite",
+      "year": 2021,
+      "kinopoisk_id": 4368943,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-27 22:29:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Её заветное желание",
+      "title_en": "Josee to Tora to Sakana-tachi",
+      "year": 2020,
+      "kinopoisk_id": 1398967,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-27 22:28:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "В преддверии Рождества",
+      "title_en": "Too Close for Christmas",
+      "year": 2020,
+      "kinopoisk_id": 1436402,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-27 22:27:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "В западне",
+      "title_en": "Till Death",
+      "year": 2021,
+      "kinopoisk_id": 1355141,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-27 22:26:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "100% волк",
+      "title_en": "100% Wolf",
+      "year": 2020,
+      "kinopoisk_id": 1204003,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-27 22:25:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "В лесу сегодня не до сна 2",
+      "title_en": "W lesie dzis nie zasnie nikt 2",
+      "year": 2021,
+      "kinopoisk_id": 4414744,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-27 19:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Под гипнозом",
+      "title_en": "Hypnotic",
+      "year": 2021,
+      "kinopoisk_id": 4437848,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-27 19:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пять моих бывших подружек",
+      "title_en": "My Last Five Girlfriends",
+      "year": 2009,
+      "kinopoisk_id": 391901,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-27 18:26:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Мизери",
+      "title_en": "Misery",
+      "year": 1990,
+      "kinopoisk_id": 1574,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-27 18:25:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Резня в Рэдвуде",
+      "title_en": "The Redwood Massacre",
+      "year": 2014,
+      "kinopoisk_id": 806348,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-27 18:24:02",
+      "block": false,
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Переводчик",
+      "title_en": "The Translator",
+      "year": 2020,
+      "kinopoisk_id": 1288122,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-27 15:35:02",
       "block": false,
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "TS"
     },
     {
-      "title_ru": "Логово",
-      "title_en": "Lair",
+      "title_ru": "Французский вестник. Приложение к газете «Либерти. Канзас ивнинг сан»",
+      "title_en": "The French Dispatch",
       "year": 2021,
-      "kinopoisk_id": 1266728,
+      "kinopoisk_id": 1211076,
       "type": "movie",
       "iframe_url": "",
-      "added_date": "2021-10-27 02:55:01",
+      "added_date": "2021-10-27 15:33:01",
       "block": false,
       "translator": "многоголосый закадровый",
       "translator_id": 89,
-      "quality": "WEB-DL"
+      "quality": "TS"
     },
     {
-      "title_ru": "Время пришло",
-      "title_en": "Time Now",
-      "year": 2019,
-      "kinopoisk_id": 1282310,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-26 20:43:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Спасение Слоун",
-      "title_en": "Saving Sloane",
+      "title_ru": "Тайна-Айат: Мёртворождённый",
+      "title_en": "Sir-Ayet: Ölü Dogan",
       "year": 2021,
-      "kinopoisk_id": 1321772,
+      "kinopoisk_id": 13352694,
       "type": "movie",
       "iframe_url": "",
-      "added_date": "2021-10-26 20:42:01",
+      "added_date": "2021-10-27 15:32:02",
       "block": false,
       "translator": "многоголосый закадровый",
       "translator_id": 89,
-      "quality": "WEB-DL"
+      "quality": "TS"
     },
     {
-      "title_ru": "Уроки испанского",
-      "title_en": "Language Lessons",
+      "title_ru": "Один из нас лжёт",
+      "title_en": "One Of Us Is Lying",
       "year": 2021,
-      "kinopoisk_id": 4369304,
-      "type": "movie",
+      "kinopoisk_id": 1311209,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "c940c7236e98d0f421aac9b64118b96b7ca2cab2ddc198b7e26362cfe08b1758",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-26 20:41:01",
+      "added_date": "2021-10-08 08:31:33",
+      "update_date": "2021-10-22 08:42:12",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1311209.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Паранормальные явления",
-      "title_en": "Attached: Paranormal",
+      "title_ru": "Новая Золотая гора",
+      "title_en": "New Gold Mountain",
       "year": 2021,
-      "kinopoisk_id": 1389888,
-      "type": "movie",
+      "kinopoisk_id": 4503040,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "127e72f889e3bf6bf15b61ff3c3400e6061ae0176cb703a0a0c5c9bb65f00815",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-26 20:40:04",
+      "added_date": "2021-10-14 09:21:51",
+      "update_date": "2021-10-22 08:41:41",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4503040.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Женщины-неудачницы",
-      "title_en": "Women Is Losers",
-      "year": 2021,
-      "kinopoisk_id": 1195716,
-      "type": "movie",
+      "title_ru": "Американская история ужасов",
+      "title_en": "American Horror Story",
+      "year": 2011,
+      "kinopoisk_id": 589167,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "96823f9677c8f8cea02322a6ff41839a0f743ee9b10bd35d4fa7d29cf9b58239",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-26 02:38:01",
+      "added_date": "2021-08-27 09:54:52",
+      "update_date": "2021-10-22 08:36:29",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/589167.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 10,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Подводный дом",
-      "title_en": "The Deep House",
-      "year": 2021,
-      "kinopoisk_id": 1346857,
-      "type": "movie",
+      "title_ru": "Все существа, большие и малые",
+      "title_en": "All Creatures Great and Small",
+      "year": 2020,
+      "kinopoisk_id": 1309507,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "b9179a59499c2ec0423f6e46e2b4cb461b5bf8b75a1f5956c4d8d0f18d36d12f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-26 02:36:01",
+      "added_date": "2020-12-28 14:46:44",
+      "update_date": "2021-10-22 08:33:57",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1309507.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 7,
+          "episodes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Дорогуша",
-      "title_en": "Sweetheart",
-      "year": 2021,
-      "kinopoisk_id": 1297781,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-26 02:35:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Фрэнк",
-      "title_en": "Frank",
-      "year": 2021,
-      "kinopoisk_id": 4366621,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-26 02:34:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Шум",
+      "title_ru": "Улики из прошлого. Индийская невеста",
       "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1421579,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-25 20:11:02",
-      "block": false,
+      "year": 2021,
+      "kinopoisk_id": 4528025,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "26d9e97b550b94f3f517fb2427f6414a2496adc87c4ef28404f358ef9368c729",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-10-22 00:53:42",
+      "update_date": "2021-10-22 00:54:57",
+      "block": false,
       "translator_id": 92,
-      "quality": "TS"
+      "quality": "WEBRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4528025.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 1,
+          "episodes": [
+            1
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Дракулов",
+      "title_ru": "Chapelwaite",
       "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1412230,
-      "type": "movie",
+      "year": 0,
+      "kinopoisk_id": 1355158,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "c96d3e6f617918a021cb715d7f0227a823b3adbeb3ee93b8c2ec5c43c5c371c8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-25 20:10:01",
+      "added_date": "2021-08-25 02:21:04",
+      "update_date": "2021-10-22 00:51:40",
       "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1355158.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Охота на дьявола",
+      "title_en": "",
+      "year": 2016,
+      "kinopoisk_id": 989198,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "7a3604b238990e8c8ef2b5243b82ec640307953c7ef938121325192afd82d4d9",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-10-21 23:00:46",
+      "update_date": "2021-10-21 23:02:36",
+      "block": false,
       "translator_id": 92,
-      "quality": "TS"
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/989198.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Тем больнее падать",
-      "title_en": "The Harder They Fall",
+      "title_ru": "Покемон: Эволюции (Эволюции Покемонов)",
+      "title_en": "Pokémon Evolutions",
       "year": 2021,
-      "kinopoisk_id": 1289685,
-      "type": "movie",
+      "kinopoisk_id": 15356258,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "5db4b3716e250401d71199dde2e29f21e9b2edacd8b1f0d11bdead659ec7831f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-25 20:09:01",
+      "added_date": "2021-09-09 20:45:18",
+      "update_date": "2021-10-21 22:49:32",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/15356258.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Проклятье Лиззи Борден",
-      "title_en": "The Curse of Lizzie Borden",
+      "title_ru": "Девушка в лесу",
+      "title_en": "The Girl in the Woods",
       "year": 2021,
-      "kinopoisk_id": 15293106,
-      "type": "movie",
+      "kinopoisk_id": 4477468,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "523cc900cc298dbef4dc5049bd686f9f8c02e93b03f2095a2ee5087ff15a37e5",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-25 20:08:01",
+      "added_date": "2021-10-21 22:13:51",
+      "update_date": "2021-10-21 22:47:05",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4477468.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Новая Литва",
-      "title_en": "Nova Lituania",
-      "year": 2019,
-      "kinopoisk_id": 1165865,
-      "type": "movie",
+      "title_ru": "Один из нас лжёт",
+      "title_en": "One Of Us Is Lying",
+      "year": 0,
+      "kinopoisk_id": 1311209,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "732ad933053f64fcd78f995174e17bc875317be9ec9ccf868a3fd1db1913fd9f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-25 20:05:01",
+      "added_date": "2021-10-07 19:41:21",
+      "update_date": "2021-10-21 22:13:40",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Предвыборная кампания",
-      "title_en": "The Campaign",
-      "year": 2020,
-      "kinopoisk_id": 1265931,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-25 20:04:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Хэллоуин убивает",
-      "title_en": "Halloween Kills",
-      "year": 2021,
-      "kinopoisk_id": 1287542,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-25 20:03:01",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Хороший, плохой, коп",
-      "title_en": "Copshop",
-      "year": 2021,
-      "kinopoisk_id": 1404360,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-25 20:02:02",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Секс, ложь и убийство",
-      "title_en": "Deadly Seduction",
-      "year": 2021,
-      "kinopoisk_id": 2000945,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-25 04:13:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Список желаний",
-      "title_en": "La lista de los deseos",
-      "year": 2020,
-      "kinopoisk_id": 1237625,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-25 04:11:04",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1311209.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Приморская деревня Ча-ча-ча",
@@ -643,457 +979,6 @@
             22,
             23,
             24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Коса",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1445244,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "e0eaa9db91eca1ddb127a925fd9e4806f73bd8f32c255cbad5a1990ab6184bf2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-08-25 02:23:48",
-      "update_date": "2021-10-20 01:57:03",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1445244.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Chapelwaite",
-      "title_en": "",
-      "year": 0,
-      "kinopoisk_id": 1355158,
-      "world_art_id": null,
-      "translator": "Кириллица",
-      "token": "c14afd1ce31968a92a33a8000af65f9a723887506bab656ce0d342ce00174c18",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-08-24 21:42:10",
-      "update_date": "2021-10-19 22:00:09",
-      "block": false,
-      "translator_id": 123,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1355158.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Подпольная империя",
-      "title_en": "Boardwalk Empire",
-      "year": 2010,
-      "kinopoisk_id": 474779,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "8e5eb1df1911afe11f580a3d5c161907502336ed417271b8ea65ebc7140d7c22",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-11 23:00:41",
-      "update_date": "2021-10-19 21:21:46",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/474779.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Убийства в одном здании",
-      "title_en": "Only Murders in the Building",
-      "year": 2021,
-      "kinopoisk_id": 4295380,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "d2f2fc1c47711d959f55cd53fab547734a43df2f7a2f98860513c87967090554",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-08-31 11:43:13",
-      "update_date": "2021-10-19 14:48:24",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4295380.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Американский гость",
-      "title_en": "The American Guest",
-      "year": 2019,
-      "kinopoisk_id": 1219376,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "f30d470ffb72329f8f86e6cc481af9033a3f1d40dcf94493a5c997f87358ffab",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-09-28 09:09:17",
-      "update_date": "2021-10-19 06:59:59",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1219376.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Моя жизнь — убийство",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1282413,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "b6132e90ca2b0fa02be5fa4c36e2da28596645ddc8e4954a6af338bb28964be6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-08-19 12:03:39",
-      "update_date": "2021-10-19 06:57:51",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1282413.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Жертва любви",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1171924,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "eeb20dd0a8eb5306746a14837ece6092f8693d22fb766b4f6a98d21372de815d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-10-17 01:23:52",
-      "update_date": "2021-10-19 01:11:23",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1171924.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Видеть",
-      "title_en": "See",
-      "year": 2019,
-      "kinopoisk_id": 1171911,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "ed7efbc4da3c4552e2d314fba0c9ca83fd6e475a193ade2beaec88510eb1eaf5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-09 18:10:51",
-      "update_date": "2021-10-19 01:10:46",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1171911.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Розуэлл, Нью-Мексико",
-      "title_en": "Roswell, New Mexico",
-      "year": 2019,
-      "kinopoisk_id": 1113649,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "4dc4c8a97fc7903843434c846113c036a55f10fde9e857bcf5bc67b265c65d85",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-18 13:53:06",
-      "update_date": "2021-10-19 01:10:25",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1113649.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кобра",
-      "title_en": "Cobra",
-      "year": 2020,
-      "kinopoisk_id": 1253001,
-      "world_art_id": null,
-      "translator": "Кравец",
-      "token": "564d3ec2d8872e2326443bb2a97ed923a17310f38d75a3e0cc73f022f2020ba5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-10-18 21:42:31",
-      "update_date": "2021-10-18 21:56:05",
-      "block": false,
-      "translator_id": 85,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1253001.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

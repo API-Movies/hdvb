@@ -1,264 +1,543 @@
 {
   "items": [
     {
-      "title_ru": "Трэшовое кино",
-      "title_en": "Trashsploitation",
-      "year": 2018,
-      "kinopoisk_id": 1057110,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-11 16:21:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Между нами свет",
-      "title_en": "The Light Between Us",
-      "year": 2020,
-      "kinopoisk_id": 1450730,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-11 16:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Контрактор",
-      "title_en": "The Contractor / El Contratista",
-      "year": 2018,
-      "kinopoisk_id": 1003857,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-11 16:19:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Красивые плутовки и смертельная ложь",
-      "title_en": "Pretty Cheaters, Deadly Lies",
-      "year": 2020,
-      "kinopoisk_id": 1347671,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-11 16:18:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мне плевать, если мы войдём в историю как варвары",
-      "title_en": "Îmi este indiferent daca în istorie vom intra ca barbari",
-      "year": 2018,
-      "kinopoisk_id": 1161958,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-11 16:16:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Легенда о волках",
-      "title_en": "Wolfwalkers",
-      "year": 2020,
-      "kinopoisk_id": 958541,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-11 12:30:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Выпускной",
-      "title_en": "The Prom",
-      "year": 2020,
-      "kinopoisk_id": 1280354,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-11 12:11:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Подольские курсанты",
+      "title_ru": "Junior Majeur",
       "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1191022,
+      "year": 2017,
+      "kinopoisk_id": 1100639,
       "type": "movie",
       "iframe_url": "",
-      "added_date": "2020-12-11 05:26:02",
+      "added_date": "2020-12-11 21:23:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Отогрей мое сердце",
+      "title_en": "",
+      "year": 2016,
+      "kinopoisk_id": 994625,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 21:22:02",
       "block": false,
       "translator": "Не требуется",
       "translator_id": 92,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Real Artists",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 975661,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 21:21:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Между нами",
+      "title_en": "Between Us",
+      "year": 2016,
+      "kinopoisk_id": 918405,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 21:20:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Мы продолжаем",
+      "title_en": "We Go On",
+      "year": 2016,
+      "kinopoisk_id": 861428,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 21:19:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "1915",
+      "title_en": "1915",
+      "year": 2015,
+      "kinopoisk_id": 851874,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 21:18:01",
+      "block": false,
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "В поисках огня",
+      "title_en": "Digging for Fire",
+      "year": 2015,
+      "kinopoisk_id": 841810,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 21:17:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Пикси",
-      "title_en": "Pixie",
-      "year": 2020,
-      "kinopoisk_id": 1296668,
+      "title_ru": "Сломленный",
+      "title_en": "Banghwanghaneun kalnal",
+      "year": 2014,
+      "kinopoisk_id": 839186,
       "type": "movie",
       "iframe_url": "",
-      "added_date": "2020-12-11 00:34:01",
+      "added_date": "2020-12-11 21:16:02",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "HDTV"
     },
     {
-      "title_ru": "Охотник на монстров",
-      "title_en": "Monster Hunter",
-      "year": 2020,
-      "kinopoisk_id": 1038789,
+      "title_ru": "Странный цвет слёз твоего тела",
+      "title_en": "L\\'étrange couleur des larmes de ton corps",
+      "year": 2013,
+      "kinopoisk_id": 740837,
       "type": "movie",
       "iframe_url": "",
-      "added_date": "2020-12-11 00:33:02",
+      "added_date": "2020-12-11 21:15:01",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "BDRip"
     },
     {
-      "title_ru": "Заклятье: Другая сторона",
-      "title_en": "Andra sidan",
-      "year": 2020,
-      "kinopoisk_id": 1330635,
+      "title_ru": "Соблазнитель 2",
+      "title_en": "Kokowääh 2",
+      "year": 2012,
+      "kinopoisk_id": 663698,
       "type": "movie",
       "iframe_url": "",
-      "added_date": "2020-12-11 00:32:01",
+      "added_date": "2020-12-11 21:14:01",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
     },
     {
-      "title_ru": "Мать",
-      "title_en": "Äiti / Aiti / A Mother",
-      "year": 2019,
-      "kinopoisk_id": 1101437,
+      "title_ru": "Семейный консультант",
+      "title_en": "Temptation: Confessions of a Marriage Counselor",
+      "year": 2013,
+      "kinopoisk_id": 630022,
       "type": "movie",
       "iframe_url": "",
-      "added_date": "2020-12-11 00:31:02",
+      "added_date": "2020-12-11 21:13:02",
+      "block": false,
+      "translator": "одноголосый закадровый",
+      "translator_id": 93,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Добро пожаловать на борт",
+      "title_en": "Bienvenue à bord",
+      "year": 2011,
+      "kinopoisk_id": 606656,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 21:12:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Искусство любить",
+      "title_en": "L\\'art d\\'aimer",
+      "year": 2011,
+      "kinopoisk_id": 557611,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 21:11:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Балбесы 3D",
+      "title_en": "Olsen-banden på de bonede gulve",
+      "year": 2010,
+      "kinopoisk_id": 461095,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 21:10:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Врата в 3D",
+      "title_en": "The Hole",
+      "year": 2009,
+      "kinopoisk_id": 422398,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 21:09:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Чудо святой Анны",
+      "title_en": "Miracle at St. Anna",
+      "year": 2008,
+      "kinopoisk_id": 385236,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 21:08:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Один в темноте 2",
+      "title_en": "Alone in the Dark II",
+      "year": 2008,
+      "kinopoisk_id": 273553,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 21:07:01",
       "block": false,
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "BDRip"
     },
     {
-      "title_ru": "9 раз Лейла",
-      "title_en": "9 Kere Leyla",
-      "year": 2020,
-      "kinopoisk_id": 1347960,
+      "title_ru": "Танго Чарли",
+      "title_en": "Tango Charlie",
+      "year": 2005,
+      "kinopoisk_id": 90877,
       "type": "movie",
       "iframe_url": "",
-      "added_date": "2020-12-11 00:30:01",
+      "added_date": "2020-12-11 21:06:02",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Герои Энвелла: Выйти из игры",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1219260,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 19:19:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Пусть говорят",
-      "title_en": "Let Them All Talk",
-      "year": 2020,
-      "kinopoisk_id": 1293172,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-10 22:03:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Декретный отрыв",
-      "title_en": "Alles is zoals het zou moeten zijn",
-      "year": 2020,
-      "kinopoisk_id": 1229272,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-10 20:28:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Стендап по дружбе",
-      "title_en": "Standing Up for Sunny",
+      "title_ru": "Под твоей кроватью",
+      "title_en": "Under Your Bed / Anda yua beddo",
       "year": 2019,
-      "kinopoisk_id": 799742,
+      "kinopoisk_id": 1246713,
       "type": "movie",
       "iframe_url": "",
-      "added_date": "2020-12-10 20:27:02",
+      "added_date": "2020-12-11 16:29:02",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
     },
     {
-      "title_ru": "Дикая парочка",
-      "title_en": "Wild Mountain Thyme",
+      "title_ru": "Скрытые вещи",
+      "title_en": "Kakushigoto / Kakushigoto: My Dad's Secret Ambition",
       "year": 2020,
-      "kinopoisk_id": 1262046,
-      "type": "movie",
+      "kinopoisk_id": 1330567,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "0602c7870149e467f58ba5d51fd7532dd8b54b7008456a25fb2a3effa14042a2",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-10 19:56:01",
+      "added_date": "2020-04-17 08:53:00",
+      "update_date": "2020-04-17 08:53:00",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1330567.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Экстрасенсы",
-      "title_en": "The Psychics",
-      "year": 2019,
-      "kinopoisk_id": 1193165,
-      "type": "movie",
+      "title_ru": "Богатый детектив. Баланс: Неограничен",
+      "title_en": "Fugou Keiji: Balance: Unlimited",
+      "year": 2020,
+      "kinopoisk_id": 1764482,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "d4f5b42c03b2d2ea4aac5f9b5189ea822cdb8e5ba6c2709bd8017e37ea16489c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-10 14:35:01",
+      "added_date": "2020-04-17 08:52:35",
+      "update_date": "2020-04-17 08:52:35",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1764482.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Дрожь",
-      "title_en": "Tremor Iê",
-      "year": 2019,
-      "kinopoisk_id": 1275311,
-      "type": "movie",
+      "title_ru": "Дьяволы",
+      "title_en": "Devils / Diavoli",
+      "year": 2020,
+      "kinopoisk_id": 1186085,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "6c8293c19cfc3f2426a40d2a7517bae14e0d9d7273ab4d372a9837879c2311dd",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-10 14:34:02",
+      "added_date": "2020-04-17 08:52:05",
+      "update_date": "2020-04-17 08:52:05",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1186085.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Взгляд изнутри: Сараево, любовь моя",
-      "title_en": "SEE Factory Sarajevo mon amour",
-      "year": 2019,
-      "kinopoisk_id": 1278856,
-      "type": "movie",
+      "title_ru": "Телевикторина",
+      "title_en": "Quiz",
+      "year": 2020,
+      "kinopoisk_id": 1261996,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "23460f80605147488c3527233c181eb50fb08bdb33fcebd9886eb6d556f102d7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-10 14:33:02",
+      "added_date": "2020-04-16 21:57:59",
+      "update_date": "2020-04-16 21:57:59",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1261996.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Спайды",
+      "title_en": "Spides",
+      "year": 2020,
+      "kinopoisk_id": 1209350,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "516e373c21a4cf8d4cd5154e87a5f0b7670ba905c57beeca1a24f7451e6db7d2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-16 21:49:41",
+      "update_date": "2020-04-16 21:49:41",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1209350.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Полиция Чикаго",
+      "title_en": "Chicago P.D.",
+      "year": 2014,
+      "kinopoisk_id": 763776,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "f6b1d89e6ce8247f5e524d495814d409ce2ffd2ac396667b1815dd7a6eb3f4e9",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-16 21:46:11",
+      "update_date": "2020-04-16 21:46:11",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/763776.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=91387",
+      "serial_episodes": [
+        {
+          "season_number": 7,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Бог обмана",
+      "title_en": "Shi Huang Zhi Shen",
+      "year": 2020,
+      "kinopoisk_id": 1764312,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "ee60dc3e05dc3a3eedb992fddd21382be483a7e02a559e1c3b27d6c31f8ea244",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-16 16:13:50",
+      "update_date": "2020-04-16 16:13:50",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1764312.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Чикаго в огне",
+      "title_en": "Chicago Fire",
+      "year": 2012,
+      "kinopoisk_id": 669668,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "0c1553ea643b41b5b8025a505bd1c237f223e04800d3424342c3815a7c9801ae",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-16 16:12:07",
+      "update_date": "2020-04-16 16:12:07",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/669668.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=86875",
+      "serial_episodes": [
+        {
+          "season_number": 8,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Управдомша",
@@ -688,264 +967,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мир на земле",
-      "title_en": "Fred til lands",
-      "year": 2019,
-      "kinopoisk_id": 1266752,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "5a9910404f8ca1949ed985c6b0e88dd6b70e6e98884204ee94fadefde5e98a71",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-15 09:37:00",
-      "update_date": "2020-04-15 09:37:00",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1266752.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "М убийца",
-      "title_en": "M - Eine Stadt sucht einen Mörder",
-      "year": 2019,
-      "kinopoisk_id": 1110948,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "07ec49e7ec8516126d67a874de4403d4e1bd1214e36f2b721e099e48d5c72938",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-15 09:35:13",
-      "update_date": "2020-04-15 09:35:13",
-      "block": false,
-      "translator_id": 60,
-      "quality": "BluRay",
-      "poster": "https://st.kp.yandex.net/images/film_big/1110948.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рыбалка для школьниц после занятий",
-      "title_en": "Houkago Teibou Nisshi",
-      "year": 2020,
-      "kinopoisk_id": 1365991,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "1dc589301163c09f86212a3c520199280c26de62bb4c93e08feb023d0b8330f5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-15 09:34:14",
-      "update_date": "2020-04-15 09:34:14",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1365991.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Торгсин",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 1039734,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "3748b158196ab2d45929a9b1884134bfdb50b0cbb02e75e85efc4b3b0ea7ed2d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-15 08:33:16",
-      "update_date": "2020-04-15 08:33:16",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1039734.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Последнее путешествие Викингов",
-      "title_en": "Vikingernes sidste rejse",
-      "year": 2020,
-      "kinopoisk_id": 1765360,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "b55490cf65326a06ad81aaf29c49ebde59e117cb8ff5461209842af9db859a30",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-14 21:50:10",
-      "update_date": "2020-04-14 21:50:10",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1765360.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Радебанк",
-      "title_en": "Rådebank",
-      "year": 2020,
-      "kinopoisk_id": 1339453,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "14164c7121cbac69e64a390e02286481fe0aaa34782fe5e542edeff07967f471",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-14 21:49:13",
-      "update_date": "2020-04-14 21:49:13",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1339453.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сжигая мосты",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 1044994,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "4183a6760106c085ec751903ab52efe4b26636232fdfa20d776e2a00d05a1fa1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-14 17:26:23",
-      "update_date": "2020-04-14 17:26:23",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1044994.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Город, в котором меня нет",
-      "title_en": "Boku dake ga inai machi",
-      "year": 2016,
-      "kinopoisk_id": 957840,
-      "world_art_id": null,
-      "translator": "AniDUB",
-      "token": "adff301154418f7d4ddcdaf066a59c70b68e7b6f87f864866d5df5f59ceddbb9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-14 17:23:46",
-      "update_date": "2020-04-14 17:23:46",
-      "block": false,
-      "translator_id": 105,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/957840.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]
