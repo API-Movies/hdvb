@@ -261,6 +261,34 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Рок-н-ролл",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 5678543,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "9536db717b57a7614bafbe3f0051f22e035b09e67624e0f59aeedd5f7edf6aa5",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-01-08 02:27:52",
+      "update_date": "2020-01-08 02:27:52",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/5678543.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Кремниевая долина",
       "title_en": "Silicon Valley",
       "year": 2014,
@@ -983,38 +1011,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Оккупированные",
-      "title_en": "Okkupert",
-      "year": 2015,
-      "kinopoisk_id": 891787,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "88e17644f2995e831cfda5fbe0bb03c61f2211e709c8980a6c9644479715d4d0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-01 16:54:37",
-      "update_date": "2020-01-01 16:54:37",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/891787.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

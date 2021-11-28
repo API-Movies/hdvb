@@ -261,6 +261,48 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Умник",
+      "title_en": "",
+      "year": 2013,
+      "kinopoisk_id": 737672,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "85344b90b724ecad1af70ff4066ca442af9989c0e67831abbcb7083e95ad730d",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-03 02:35:47",
+      "update_date": "2020-07-03 02:35:47",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/737672.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Раненые птицы",
       "title_en": "Yarali Kuslar",
       "year": 2019,
@@ -1525,45 +1567,6 @@
             20,
             21,
             22
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сельская госпожа",
-      "title_en": "Hanım Köylü",
-      "year": 2016,
-      "kinopoisk_id": 1046212,
-      "world_art_id": null,
-      "translator": "одноголосый закадровый",
-      "token": "8b69e502bb1c4bc47185a0bf7e43aa9591da97e9f2817f9b32d325eca43702a1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-30 21:37:51",
-      "update_date": "2020-06-30 21:37:51",
-      "block": false,
-      "translator_id": 93,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1046212.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

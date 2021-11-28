@@ -261,6 +261,40 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "3%",
+      "title_en": "3%",
+      "year": 2016,
+      "kinopoisk_id": 1007455,
+      "world_art_id": null,
+      "translator": "HamsterStudio",
+      "token": "13f9fda2dcd8f10e7a370555cb9b390041dbbe17a6fdc34574083d6298f1ea63",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-08-31 12:53:24",
+      "update_date": "2019-08-31 12:54:04",
+      "block": false,
+      "translator_id": 32,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1007455.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135817",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Страна Рождества",
       "title_en": "NOS4A2",
       "year": 2019,
@@ -910,40 +944,6 @@
             6,
             8,
             9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Барри",
-      "title_en": "Barry",
-      "year": 2018,
-      "kinopoisk_id": 972587,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "1ad9f2b5fb461d8a0ab4fbef408834feada230a4497ee6ac8a1952f10988db0b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-27 11:29:52",
-      "update_date": "2019-08-27 11:30:34",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/972587.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=147763",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

@@ -261,6 +261,36 @@
       "quality": "HDTV"
     },
     {
+      "title_ru": "Испанец",
+      "title_en": "",
+      "year": 2015,
+      "kinopoisk_id": 927709,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "9a57b843c2c0b85bf9b40d7d36fb5ccd77f3398136aa4effd5f6be93eb510fcb",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-13 12:38:40",
+      "update_date": "2020-05-13 12:38:40",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/927709.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Мэри и Майк",
       "title_en": "Mary &amp; Mike",
       "year": 2018,
@@ -1028,35 +1058,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мистер Бин",
-      "title_en": "Mr. Bean",
-      "year": 1990,
-      "kinopoisk_id": 161087,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "dad53177da55ead5f125cf2e3475924cd6e1191e7187f9512adb359aeee2456a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-12 10:29:21",
-      "update_date": "2020-05-12 10:29:21",
-      "block": false,
-      "translator_id": 126,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/161087.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
           ]
         }
       ]

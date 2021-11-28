@@ -266,6 +266,56 @@
       "year": 2001,
       "kinopoisk_id": 79564,
       "world_art_id": null,
+      "translator": "двухголосый закадровый",
+      "token": "5fafae1951de58eb7b217468f584af1e07d4beb4abc735a3953942e16ba86641",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-16 22:05:42",
+      "update_date": "2021-01-16 22:07:30",
+      "block": false,
+      "translator_id": 81,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/79564.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 6,
+          "episodes_count": 24,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "24 часа",
+      "title_en": "24",
+      "year": 2001,
+      "kinopoisk_id": 79564,
+      "world_art_id": null,
       "translator": "одноголосый закадровый",
       "token": "cc4b3e340f15af09a49c474ac5a6109781f4724ce210f6b417b3d33997242c2e",
       "type": "serial",
@@ -1386,60 +1436,6 @@
             7,
             8,
             9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ночная смена",
-      "title_en": "The Night Shift",
-      "year": 2014,
-      "kinopoisk_id": 716703,
-      "world_art_id": null,
-      "translator": "Gears Media",
-      "token": "13fb3a1ef28b63686242947032f5a4c78eb6a2e8aa369ec9d09c7d3b94368d72",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-15 18:08:55",
-      "update_date": "2021-01-15 18:10:08",
-      "block": false,
-      "translator_id": 28,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/716703.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

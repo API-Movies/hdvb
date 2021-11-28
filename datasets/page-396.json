@@ -261,6 +261,42 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Эйфория",
+      "title_en": "Euphoria",
+      "year": 2019,
+      "kinopoisk_id": 1178445,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "2d88dcc8e7f2e91b9032945690e3828838f130b58e2a868cfffd65cbe274af11",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-06-17 19:22:08",
+      "update_date": "2019-07-31 14:41:25",
+      "block": [
+        "RU"
+      ],
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1178445.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Тёмная сеть",
       "title_en": "Dark/Web",
       "year": 2019,
@@ -1288,45 +1324,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мир Дикого Запада",
-      "title_en": "Westworld",
-      "year": 2016,
-      "kinopoisk_id": 195523,
-      "world_art_id": null,
-      "translator": "Дубляж [Лицензия]",
-      "token": "81405a34ab9c3d7556d15d7fb373d3a44e894a08db3f995aa7515b1864ca8410",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-13 15:12:17",
-      "update_date": "2019-07-13 15:12:29",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 107,
-      "quality": "4К",
-      "poster": "https://st.kp.yandex.net/images/film_big/195523.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135148",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

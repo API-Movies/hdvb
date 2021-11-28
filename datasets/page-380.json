@@ -261,6 +261,44 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Левиус",
+      "title_en": "Levius",
+      "year": 2019,
+      "kinopoisk_id": 1249497,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "31e875a29c77a2cc9c9b625743d21f3816803ac62100e3b872939801a7a7516a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-28 20:12:49",
+      "update_date": "2019-11-28 20:12:49",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1249497.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Смертоносный",
       "title_en": "Mortel",
       "year": 2019,
@@ -997,92 +1035,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Доктор Рихтер",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 991705,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "1e678689c4ba5565c7cfb65ff0803fe1ff601d127c5bf1e3be87e4f1abb376be",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-22 00:56:26",
-      "update_date": "2019-11-22 00:56:26",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/991705.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 24,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
           ]
         }
       ]

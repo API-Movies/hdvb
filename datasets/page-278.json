@@ -261,6 +261,56 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Алиенист",
+      "title_en": "The Alienist",
+      "year": 2018,
+      "kinopoisk_id": 968829,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "ca992e9b84bbaa093483f48a994ce0753d24a195166e7e3ff25298994eed3606",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-23 02:34:44",
+      "update_date": "2020-08-12 23:12:31",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/968829.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Подсудимый",
       "title_en": "Pigoin",
       "year": 2017,
@@ -1029,45 +1079,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мне плохо",
-      "title_en": "I Feel Bad",
-      "year": 2018,
-      "kinopoisk_id": 1137263,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "e13283e4ed4a13e125a0d5b551079469887a449fc309332c4356566bbe61fd1c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-12 03:44:06",
-      "update_date": "2020-08-12 04:04:24",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1137263.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

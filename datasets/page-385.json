@@ -261,6 +261,42 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Немедленное реагирование",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1200875,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "1473e04a7825a06804787f1e7c214e64985e0dc109b77beb99e4b23a25e02d76",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-10-25 22:51:40",
+      "update_date": "2019-10-25 22:51:40",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1200875.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Свадьбы и разводы",
       "title_en": "",
       "year": 2018,
@@ -923,37 +959,6 @@
             5,
             6,
             7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Война миров",
-      "title_en": "The War of the Worlds",
-      "year": 2019,
-      "kinopoisk_id": 1135437,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "9af6485006e260f51ec8801774aa253ae16fe8fc0b108362e6fc538801f6ff8e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-18 00:15:42",
-      "update_date": "2019-10-18 00:15:42",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1135437.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
           ]
         }
       ]

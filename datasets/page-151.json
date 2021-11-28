@@ -261,6 +261,46 @@
       "quality": "TS"
     },
     {
+      "title_ru": "Светлячок",
+      "title_en": "Firefly",
+      "year": 2002,
+      "kinopoisk_id": 178720,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "66dd344eaec934c8884958d17f93bac5af4cf4012ec7304575d3cc3e1e2ca7ac",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-21 19:20:41",
+      "update_date": "2021-01-21 20:26:19",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/178720.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Теряя Элис",
       "title_en": "Losing Alice",
       "year": 2020,
@@ -1247,42 +1287,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дракула",
-      "title_en": "Dracula",
-      "year": 2013,
-      "kinopoisk_id": 698086,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "26f20c22dd0072b75f88215e494f016c847e946f857b54979fcc332aecbcc8e6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-19 20:47:56",
-      "update_date": "2021-01-19 20:48:46",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/698086.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

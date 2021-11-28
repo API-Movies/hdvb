@@ -261,6 +261,40 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Притворство",
+      "title_en": "The Act",
+      "year": 2019,
+      "kinopoisk_id": 1179113,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "d797664572327006dc24e8f1f6dd1353a13e4f01f165a66d66c8770a4bd33b93",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-16 21:19:33",
+      "update_date": "2020-06-16 21:19:33",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1179113.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Кобра Кай",
       "title_en": "Cobra Kai",
       "year": 2018,
@@ -1199,83 +1233,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Под куполом",
-      "title_en": "Under the Dome",
-      "year": 2013,
-      "kinopoisk_id": 574704,
-      "world_art_id": null,
-      "translator": "Пифагор",
-      "token": "439acbad59a9642f47c2924c040ca135984a8b97bd11b4cc4d7b44f8c6f2f3dd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-15 07:19:45",
-      "update_date": "2020-06-15 07:19:45",
-      "block": false,
-      "translator_id": 124,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/574704.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=119598",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

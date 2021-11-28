@@ -261,6 +261,36 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Шучу",
+      "title_en": "Kidding",
+      "year": 2018,
+      "kinopoisk_id": 1161788,
+      "world_art_id": null,
+      "translator": "Кубик в Кубе",
+      "token": "313ecd3ae4162b9c1b5ba17b70a74c0329a0f741ecf4f4dd2c6d5a965887624a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2018-10-15 13:05:38",
+      "update_date": "2018-10-15 13:05:38",
+      "block": false,
+      "translator_id": 86,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1161788.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=150032",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Луис Мигель: Сериал",
       "title_en": "Luis Miguel: La Serie",
       "year": 2018,
@@ -1529,25 +1559,6 @@
       "quality": "HDTV",
       "poster": "https://st.kp.yandex.net/images/film_big/927789.jpg",
       "trailer": "",
-      "serial_episodes": []
-    },
-    {
-      "title_ru": "",
-      "title_en": "",
-      "year": 0,
-      "kinopoisk_id": null,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "0583f4851edb2c2cf05a32fa6e402f6b7692b6889f4ca5e94cdce3495c41db0c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-14 21:10:15",
-      "update_date": null,
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/0.jpg",
-      "trailer": "https://www.youtube.com/embed/k46eyAPGeLA",
       "serial_episodes": []
     }
   ]

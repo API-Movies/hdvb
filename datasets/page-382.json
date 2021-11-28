@@ -261,6 +261,48 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Отчим",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1161789,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "df3e3703fa209319a407a613d43c476689eb0519afaccef9550fbac3dead992c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-14 23:50:43",
+      "update_date": "2019-11-14 23:50:43",
+      "block": false,
+      "translator_id": 92,
+      "quality": "HDTV",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1161789.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Доктор Мартин",
       "title_en": "Doc Martin",
       "year": 2004,
@@ -1028,54 +1070,6 @@
             9,
             10,
             11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Конец ***го мира",
-      "title_en": "The End of the F***ing World",
-      "year": 2017,
-      "kinopoisk_id": 1071384,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "1d3fe1b648e859fd8d017cfcfdc64a8ab85d0f96cd25b1b624e5b88e6439ccd6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-06 00:07:20",
-      "update_date": "2019-11-06 00:07:20",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1071384.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=145340",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

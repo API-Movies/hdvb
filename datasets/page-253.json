@@ -261,6 +261,36 @@
       "quality": "BDRip"
     },
     {
+      "title_ru": "Обитатели холмов",
+      "title_en": "Watership Down",
+      "year": 2018,
+      "kinopoisk_id": 977741,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "63be87c697b6d7824ceefb27c6e64d0409d9b0cd8fad1766772ea44b8d721fdf",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-09-10 19:33:34",
+      "update_date": "2020-09-10 19:35:10",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/977741.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Здесь есть тот, кого я люблю",
       "title_en": "Suki na hito ga iru koto",
       "year": 2016,
@@ -1139,34 +1169,6 @@
             27,
             29,
             31
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дом малютки",
-      "title_en": "",
-      "year": 2010,
-      "kinopoisk_id": 521786,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "f396f7e71e65dded63a4c4da0689fc5bb1d3a3bf696eba0f337901a65dc3287a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-07 06:44:44",
-      "update_date": "2020-09-10 06:18:47",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/521786.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
           ]
         }
       ]

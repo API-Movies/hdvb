@@ -261,6 +261,42 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Пандора",
+      "title_en": "Pandora",
+      "year": 2019,
+      "kinopoisk_id": 1263499,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "3828bc3dd2b69e76ee3b1d36788af2885ca0dc47fc79c7e2286ca4990af1b8ee",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-06 08:56:02",
+      "update_date": "2020-12-15 06:56:11",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1263499.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Хрупкие создания",
       "title_en": "Tiny Pretty Things",
       "year": 2020,
@@ -1359,64 +1395,6 @@
       "poster": "https://www.kinopoisk.ru/images/film_big/.jpg",
       "trailer": "",
       "serial_episodes": []
-    },
-    {
-      "title_ru": "Пандора",
-      "title_en": "Pandora",
-      "year": 2019,
-      "kinopoisk_id": 1263499,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "b35664640e0e1566c14f40822f1e9aa598b3c97434e84297ac22b3a8ae0518fc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-02 22:19:58",
-      "update_date": "2020-12-14 13:26:03",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1263499.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
     }
   ]
 }

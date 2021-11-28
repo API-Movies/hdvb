@@ -261,6 +261,96 @@
       "quality": "TS"
     },
     {
+      "title_ru": "Миллиарды",
+      "title_en": "Billions",
+      "year": 2016,
+      "kinopoisk_id": 863009,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "106585c1e44ffd3c78461dd50d7a187aa5f980af8292b161a16cdca869488ea4",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-14 17:48:52",
+      "update_date": "2021-10-03 17:00:52",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/863009.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135689",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ходячие мертвецы",
+      "title_en": "The Walking Dead",
+      "year": 2010,
+      "kinopoisk_id": 508161,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "3ecb883a33dd744af67bfb64c9959e34f4292329d839a4e1b6c86da67f22a5c9",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-08-15 13:54:06",
+      "update_date": "2021-10-03 16:59:19",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/508161.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 11,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Все как у людей",
       "title_en": "",
       "year": 2021,
@@ -1269,79 +1359,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ek Thi Begum",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1372292,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "1f67361115638fac80d6902d9f624a50b19eca1218677fc154c9806f3ec761b7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-10-01 08:48:24",
-      "update_date": "2021-10-01 08:49:05",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1372292.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мастер и Маргарита",
-      "title_en": "",
-      "year": 2005,
-      "kinopoisk_id": 79429,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "4fdc5b5c76174bf489bb16e48345087ebee217bcb4da4249fe2cbf68d1873630",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-09-30 22:03:07",
-      "update_date": "2021-09-30 22:04:32",
-      "block": false,
-      "translator_id": 92,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/79429.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

@@ -261,6 +261,38 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Устаревший",
+      "title_en": "Obsolete",
+      "year": 2019,
+      "kinopoisk_id": 111,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "654add02371857a60947de0629ca3e6040c1446928134c64156ef0215be7db14",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-03 17:55:54",
+      "update_date": "2019-12-03 17:55:54",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/111.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Венская кровь",
       "title_en": "Vienna Blood",
       "year": 2019,
@@ -1166,44 +1198,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Левиус",
-      "title_en": "Levius",
-      "year": 2019,
-      "kinopoisk_id": 1249497,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "31e875a29c77a2cc9c9b625743d21f3816803ac62100e3b872939801a7a7516a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-28 20:12:49",
-      "update_date": "2019-11-28 20:12:49",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1249497.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

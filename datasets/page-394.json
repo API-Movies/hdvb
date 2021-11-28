@@ -261,6 +261,42 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Люцифер",
+      "title_en": "Lucifer",
+      "year": 2015,
+      "kinopoisk_id": 893621,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "d0d8e96d78e73dda46d78427a105f1913765d5360d5d62859148c6fa94a99202",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-08-20 21:00:25",
+      "update_date": "2019-08-20 21:03:35",
+      "block": false,
+      "translator_id": 15,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/893621.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&trailer_id=120980",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Благие знамения",
       "title_en": "Good Omens",
       "year": 2019,
@@ -993,41 +1029,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Самый громкий голос в комнате",
-      "title_en": "The Loudest Voice",
-      "year": 2019,
-      "kinopoisk_id": 1162901,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "640a49c473777273a639d5f1f9b1fa082c9c36f96ddc7bf3e6a37b657d319ce7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-06-30 21:10:04",
-      "update_date": "2019-08-13 10:46:29",
-      "block": [
-        "RU"
-      ],
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1162901.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
           ]
         }
       ]

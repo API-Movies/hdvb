@@ -261,6 +261,47 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Во плоти",
+      "title_en": "In the Flesh",
+      "year": 2013,
+      "kinopoisk_id": 733342,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "f26181fcdfb53cad9cc45f4e8ce5def4cfcbdf127f48460e7d444d28dac2ef6f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-11-16 02:26:36",
+      "update_date": "2020-11-16 02:31:48",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/733342.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Ребенок Розмари",
       "title_en": "Rosemary\\'s Baby",
       "year": 2014,
@@ -959,45 +1000,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Искусственный интеллект",
-      "title_en": "Intelligence",
-      "year": 2014,
-      "kinopoisk_id": 740776,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "b4d9ef552ab01685d0e5949042d395a2a549edafad16766878d39dd3ba8085c2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-15 01:57:34",
-      "update_date": "2020-11-15 02:00:39",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/740776.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

@@ -261,6 +261,64 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Пандора",
+      "title_en": "Pandora",
+      "year": 2019,
+      "kinopoisk_id": 1263499,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "b35664640e0e1566c14f40822f1e9aa598b3c97434e84297ac22b3a8ae0518fc",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-10-02 22:19:58",
+      "update_date": "2020-12-14 13:26:03",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1263499.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Голос перемен",
       "title_en": "Small Axe",
       "year": 2020,
@@ -1184,78 +1242,6 @@
             12,
             13,
             14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бесстыдники",
-      "title_en": "Shameless",
-      "year": 2004,
-      "kinopoisk_id": 405520,
-      "world_art_id": null,
-      "translator": "Alexfilm",
-      "token": "4f8f9c9b9a56eaf1a2fe5a813443a26ac16a873367c804fbba86cf0d565ded72",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-12 12:27:54",
-      "update_date": "2020-12-12 12:29:27",
-      "block": false,
-      "translator_id": 3,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/405520.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
           ]
         }
       ]

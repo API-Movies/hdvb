@@ -261,6 +261,48 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Дивизион",
+      "title_en": "A Divisão",
+      "year": 2019,
+      "kinopoisk_id": 1130339,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "d3764203d2e5347f36acf814160d21b81929101a5d06606b4d03d5c776faa0e2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-09-28 18:16:09",
+      "update_date": "2020-10-13 21:35:53",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1130339.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Каин. Исключение из правил",
       "title_en": "Caïn",
       "year": 2012,
@@ -1072,42 +1114,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Тигтон",
-      "title_en": "Tigtone",
-      "year": 2018,
-      "kinopoisk_id": 1142458,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "902cdf3e45a1f525fd2f1f657e56a58797983eb9e67709cf3bfe7283cc215faf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-14 20:20:45",
-      "update_date": "2020-10-12 20:13:51",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1142458.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

@@ -266,6 +266,58 @@
       "year": 2018,
       "kinopoisk_id": 978854,
       "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "b3f3bf69cb2c984c92fc01ce068b5cfe4eb02afae0eeabaf6a4715008324370e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-17 20:49:08",
+      "update_date": "2020-06-17 20:49:08",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/978854.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140183",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Плащ и Кинжал",
+      "title_en": "Cloak &amp; Dagger",
+      "year": 2018,
+      "kinopoisk_id": 978854,
+      "world_art_id": null,
       "translator": "LostFilm",
       "token": "fbc2433fcc8136079ca89222464a924cbed3cb17096f02c40f8ac79194139f35",
       "type": "serial",
@@ -1248,40 +1300,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Притворство",
-      "title_en": "The Act",
-      "year": 2019,
-      "kinopoisk_id": 1179113,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "d797664572327006dc24e8f1f6dd1353a13e4f01f165a66d66c8770a4bd33b93",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-16 21:19:33",
-      "update_date": "2020-06-16 21:19:33",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1179113.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

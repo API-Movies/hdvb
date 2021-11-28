@@ -261,6 +261,36 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Мальчик мой",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1338532,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "a1cf7eb1ee234656a918297396d4d219ba338b680cde85f8b3366cd272e8e5fa",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-09-27 19:34:03",
+      "update_date": "2020-09-27 19:55:37",
+      "block": false,
+      "translator_id": 92,
+      "quality": "HDTV",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1338532.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Дети ветра",
       "title_en": "",
       "year": 0,
@@ -1264,40 +1294,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Утопия",
-      "title_en": "Utopia",
-      "year": 2020,
-      "kinopoisk_id": 1155539,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "e7a9f0a01d86f0c1013b8f63a086520d665a63e3cd6423aaf824a727d8226aad",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-26 11:23:17",
-      "update_date": "2020-09-26 11:23:48",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1155539.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

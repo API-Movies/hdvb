@@ -261,6 +261,35 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Телевикторина",
+      "title_en": "Quiz",
+      "year": 2020,
+      "kinopoisk_id": 1261996,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "23460f80605147488c3527233c181eb50fb08bdb33fcebd9886eb6d556f102d7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-16 21:57:59",
+      "update_date": "2020-04-16 21:57:59",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1261996.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Спайды",
       "title_en": "Spides",
       "year": 2020,
@@ -939,40 +968,6 @@
           "episodes": [
             1,
             2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Торгсин",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 1039734,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "3748b158196ab2d45929a9b1884134bfdb50b0cbb02e75e85efc4b3b0ea7ed2d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-15 08:33:16",
-      "update_date": "2020-04-15 08:33:16",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1039734.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

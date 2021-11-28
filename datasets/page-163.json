@@ -266,6 +266,45 @@
       "year": 2020,
       "kinopoisk_id": 1800723,
       "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "ce2f409e9753ce627802b693083110db34b7ba595b9056b4dac04b1e8b7c96ef",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-25 09:20:11",
+      "update_date": "2021-01-03 09:37:00",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1800723.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "С наступлением темноты",
+      "title_en": "After Dark: The Series, Sundown Time",
+      "year": 2020,
+      "kinopoisk_id": 1800723,
+      "world_art_id": null,
       "translator": "Ultradox",
       "token": "7cbfb1a45da7e282d74118e1b8a66c5a229ca1c65f9174cc7e0412c78f99ee47",
       "type": "serial",
@@ -1045,40 +1084,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Алиса в Пограничье",
-      "title_en": "Alice in Borderland (Imawa no Kuni no Arisu)",
-      "year": 2020,
-      "kinopoisk_id": 1293403,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "bbbc9830250720c5c402e25013e32c5a1e2cf9d053c70bc85907da56fc83aca7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-11 09:33:24",
-      "update_date": "2020-12-31 09:18:28",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1293403.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

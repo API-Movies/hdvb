@@ -261,6 +261,48 @@
       "quality": "HDTV"
     },
     {
+      "title_ru": "Всеамериканский",
+      "title_en": "All American",
+      "year": 2018,
+      "kinopoisk_id": 1117951,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "60dfa59183b6b97164dc620c41ab55887b9ac59f3808528d65fd14bfcbd06f72",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-10 21:30:13",
+      "update_date": "2020-03-10 21:30:13",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1117951.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Медперсонал",
       "title_en": "Nurses",
       "year": 2019,
@@ -933,42 +975,6 @@
             1,
             2,
             3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Линкольн Райм: Охота на Собирателя костей",
-      "title_en": "Lincoln Rhyme: Hunt for the Bone Collector",
-      "year": 2020,
-      "kinopoisk_id": 1209836,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "aa4f1d7bf820bf13cec724299cbf220dc37b182b6b941e89376b9e3842baec99",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-05 08:36:56",
-      "update_date": "2020-03-05 08:36:56",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1209836.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
           ]
         }
       ]

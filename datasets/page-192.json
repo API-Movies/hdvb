@@ -261,6 +261,35 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Чёрный нарцисс",
+      "title_en": "Black Narcissus",
+      "year": 2020,
+      "kinopoisk_id": 1304213,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "cec00adcdf6fea34a6c4938b8b90269b35d381502e5ccfed4dab303b5c53ddb7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-11-24 13:47:48",
+      "update_date": "2020-11-24 15:01:03",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1304213.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "За и против",
       "title_en": "Friheden",
       "year": 2018,
@@ -1150,36 +1179,6 @@
           "episodes": [
             1,
             2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Разменная монета",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 5686756,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "9155e3c2581af9fd3ece64642de717e2cc2318a1d5bdcc397cb922a7bb6b87a5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-23 00:34:51",
-      "update_date": "2020-11-23 00:39:43",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/5686756.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

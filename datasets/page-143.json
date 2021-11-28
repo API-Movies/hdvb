@@ -261,6 +261,40 @@
       "quality": "WEB-DL"
     },
     {
+      "title_ru": "Вдова",
+      "title_en": "The Widow",
+      "year": 2019,
+      "kinopoisk_id": 1177490,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "4f5cdde28db31f063ad36cd4d1d1e67866a9525ac5072926017c008a6826a302",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-01 13:09:30",
+      "update_date": "2021-02-01 13:10:15",
+      "block": false,
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1177490.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Дуайт в сияющих доспехах",
       "title_en": "Dwight in Shining Armor",
       "year": 2019,
@@ -1205,36 +1239,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Что знает Оливия",
-      "title_en": "Olive Kitteridge",
-      "year": 2014,
-      "kinopoisk_id": 784529,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "00131e456f0f7d074a79171a69c41e56975855f1b91f06dbd8ae1b305967fc4b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-29 21:06:34",
-      "update_date": "2021-01-29 21:08:03",
-      "block": false,
-      "translator_id": 60,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/784529.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]
