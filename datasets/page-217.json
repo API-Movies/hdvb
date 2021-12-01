@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "title_ru": "Мимикрия",
+      "title_en": "Jangsanbeom",
+      "year": 2017,
+      "kinopoisk_id": 1046025,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-20 18:12:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Том и Джерри: Гигантское приключение",
+      "title_en": "Tom and Jerry\\'s Giant Adventure",
+      "year": 2013,
+      "kinopoisk_id": 756478,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-20 18:11:00",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Мисс Стивенс",
+      "title_en": "Miss Stevens",
+      "year": 2015,
+      "kinopoisk_id": 737538,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-20 18:10:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Висельник",
+      "title_en": "Gallowwalkers",
+      "year": 2012,
+      "kinopoisk_id": 261098,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-20 18:09:01",
+      "block": false,
+      "translator": "одноголосый закадровый",
+      "translator_id": 93,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "От винта 2",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1239328,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-20 14:48:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Лига Справедливости: Трон Атлантиды",
+      "title_en": "Justice League: Throne of Atlantis",
+      "year": 2015,
+      "kinopoisk_id": 841282,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-20 11:49:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "BDRemux"
+    },
+    {
+      "title_ru": "Thibaan и BNK48: от всего сердца",
+      "title_en": "Thibaan × BNK48",
+      "year": 2020,
+      "kinopoisk_id": 1403898,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-20 10:59:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Клеймо",
+      "title_en": "The Stigma / O Estigma",
+      "year": 2018,
+      "kinopoisk_id": 1397866,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-20 10:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Малек",
       "title_en": "Malek",
       "year": 2019,
@@ -157,108 +261,166 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Создавая чудовищ",
-      "title_en": "Making Monsters",
+      "title_ru": "Полицейский отчёт 2.0",
+      "title_en": "Police Diary 2.0",
       "year": 2019,
-      "kinopoisk_id": 1144489,
-      "type": "movie",
+      "kinopoisk_id": 1335046,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "6fa4dd77c2ab36d3bd3c7ff9e3ef6ea68b2a7c6e16f203b8db54f5114cf2c0e5",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-19 15:25:01",
+      "added_date": "2020-10-07 18:35:51",
+      "update_date": "2020-10-26 16:17:27",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1335046.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Неисправимые романтики",
-      "title_en": "Los últimos románticos",
-      "year": 2019,
-      "kinopoisk_id": 1083136,
-      "type": "movie",
+      "title_ru": "Виртуозы",
+      "title_en": "Hustle",
+      "year": 2004,
+      "kinopoisk_id": 231993,
+      "world_art_id": null,
+      "translator": "Fox Crime",
+      "token": "29e2c03a582bbdc4e5836fd579f5b5e600cdae30e7d6c47ff9f9869a082dc66f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-19 15:24:01",
+      "added_date": "2020-10-20 23:34:57",
+      "update_date": "2020-10-26 12:37:18",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Распутники",
-      "title_en": "Libertins",
-      "year": 2019,
-      "kinopoisk_id": 1266257,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-19 15:23:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Гиганты сущего одиночества",
-      "title_en": "Giants Being Lonely",
-      "year": 2021,
-      "kinopoisk_id": 1289478,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-19 15:21:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сублимация в Черную пятницу",
-      "title_en": "Black Friday Subliminal",
-      "year": 2021,
-      "kinopoisk_id": 1333691,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-19 15:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Разделитель",
-      "title_en": "The Divide",
-      "year": 2011,
-      "kinopoisk_id": null,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "1970-01-01 03:00:00",
-      "block": false,
-      "translator": "",
-      "translator_id": 0,
-      "quality": ""
-    },
-    {
-      "title_ru": "Разделитель",
-      "title_en": "The Divide",
-      "year": 2011,
-      "kinopoisk_id": null,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "1970-01-01 03:00:00",
-      "block": false,
-      "translator": "",
-      "translator_id": 0,
-      "quality": ""
-    },
-    {
-      "title_ru": "Бывшая",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1313593,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-19 12:54:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEBRip"
+      "translator_id": 184,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/231993.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 7,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 8,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "The Investigation",
@@ -1244,70 +1406,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Купель дьявола",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1209217,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "14a4d35832f8aebef6e1822224a9fbd67e4b9ec8e33239d22e9310e5deb493de",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-25 21:31:59",
-      "update_date": "2020-10-25 21:33:32",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1209217.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Стыд. Испания",
-      "title_en": "Skam España",
-      "year": 2018,
-      "kinopoisk_id": 1200364,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "38513911ba6e88795521dc2e71f01d1f36dfe54f74386f2d812fd0c6543adfcf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-06 22:16:43",
-      "update_date": "2020-10-25 21:31:14",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1200364.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

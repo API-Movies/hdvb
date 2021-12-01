@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "title_ru": "Новости со всех концов света",
+      "title_en": "News of the World",
+      "year": 2020,
+      "kinopoisk_id": 1281108,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-02 01:59:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Не лечи меня",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1207408,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-02 01:58:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Жизнь за год",
+      "title_en": "Life in a Year",
+      "year": 2020,
+      "kinopoisk_id": 1044785,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-02 01:57:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Body Brokers",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1266030,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-02 01:56:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Час истины",
+      "title_en": "Hour of Lead",
+      "year": 2020,
+      "kinopoisk_id": 1238802,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-02 01:55:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Температура замерзания",
+      "title_en": "Centigrade",
+      "year": 2020,
+      "kinopoisk_id": 1193097,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-02 01:54:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Твое имя",
+      "title_en": "Kimi no na wa.",
+      "year": 2016,
+      "kinopoisk_id": 958722,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-02 01:53:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Секса не будет!!!",
+      "title_en": "Blockers",
+      "year": 2018,
+      "kinopoisk_id": 719155,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-02 01:52:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Охана: В поисках сокровища",
       "title_en": "Finding Ohana",
       "year": 2021,
@@ -157,108 +261,92 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Белая снежинка",
-      "title_en": "Little White Snowflake",
-      "year": 2020,
-      "kinopoisk_id": 12885984,
-      "type": "movie",
+      "title_ru": "Сожители",
+      "title_en": "Crashing",
+      "year": 2016,
+      "kinopoisk_id": 954874,
+      "world_art_id": null,
+      "translator": "HamsterStudio",
+      "token": "daf7a5cbc832079b8226bdd5220e4b7f47f0f8131cdcea9c3774fdab38a700d5",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-28 13:28:01",
+      "added_date": "2020-08-19 21:11:44",
+      "update_date": "2020-08-19 21:13:17",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 32,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/954874.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Плотоядные",
-      "title_en": "Headcheese the Movie",
-      "year": 2020,
-      "kinopoisk_id": 1354622,
-      "type": "movie",
+      "title_ru": "Киллер Севен",
+      "title_en": "Scissor Seven",
+      "year": 2019,
+      "kinopoisk_id": 1342761,
+      "world_art_id": null,
+      "translator": "NewStation",
+      "token": "44d75a88bc60737e6793582a03addc21347e0b67c945949966b28e96d5659fcf",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-28 13:27:01",
+      "added_date": "2020-08-19 21:09:52",
+      "update_date": "2020-08-19 21:10:46",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Твёрдый пластик",
-      "title_en": "Hard Plastic",
-      "year": 2020,
-      "kinopoisk_id": 11142628,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-28 13:26:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Здесь и сейчас",
-      "title_en": "For the Time Being / Tal día hizo un año",
-      "year": 2020,
-      "kinopoisk_id": 1341420,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-28 13:25:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Деньги на стол",
-      "title_en": "Cashing Out",
-      "year": 2020,
-      "kinopoisk_id": 1084814,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-28 13:24:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "",
-      "title_en": "10 Horas para o Natal",
-      "year": 2020,
-      "kinopoisk_id": 1295283,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-28 13:23:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Две дороги на запад",
-      "title_en": "Two Ways to Go West",
-      "year": 2020,
-      "kinopoisk_id": 1069365,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-28 13:22:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Усыпальница: Последняя тайна",
-      "title_en": "La cripta, el último secreto /  The Crypt. The Last Secret",
-      "year": 2020,
-      "kinopoisk_id": 1446771,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-28 13:21:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 138,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1342761.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Жизнь и приключения робота-подростка",
@@ -1248,90 +1336,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Метод",
-      "title_en": "Bangbeop",
-      "year": 2020,
-      "kinopoisk_id": 1290945,
-      "world_art_id": null,
-      "translator": "двухголосый закадровый",
-      "token": "fb8a36fe290e68b9dfea5fe2a6348415e8de5286a5aa0382a86e5615f48d9981",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-18 03:16:34",
-      "update_date": "2020-08-18 03:20:25",
-      "block": false,
-      "translator_id": 81,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1290945.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Небесный замок",
-      "title_en": "SKY kaeseul",
-      "year": 2018,
-      "kinopoisk_id": 1187966,
-      "world_art_id": null,
-      "translator": "SoftBox",
-      "token": "1083da85741df27a29c4631a6fd404f3d4245c105fde9338f06d1e980f6d4d66",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-18 02:31:51",
-      "update_date": "2020-08-18 03:09:58",
-      "block": false,
-      "translator_id": 106,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1187966.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
           ]
         }
       ]

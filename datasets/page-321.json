@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "title_ru": "Прощай, Бабочка",
+      "title_en": "Goodbye, Butterfly",
+      "year": 2020,
+      "kinopoisk_id": 1330842,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-16 15:55:03",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "#c_училища",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1236016,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-16 11:04:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Никому не говори",
+      "title_en": "Don't Tell a Soul",
+      "year": 2021,
+      "kinopoisk_id": 1186112,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-16 03:49:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "По следу оленя",
+      "title_en": "Buck Run",
+      "year": 2021,
+      "kinopoisk_id": 993477,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-16 03:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Чёртов ад",
+      "title_en": "Bloody Hell",
+      "year": 2020,
+      "kinopoisk_id": 1236234,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-16 03:47:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Американская кожа",
+      "title_en": "American Skin",
+      "year": 2021,
+      "kinopoisk_id": 1262056,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-16 03:46:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Территория девственниц",
+      "title_en": "Virgin Territory",
+      "year": 2007,
+      "kinopoisk_id": 88121,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-16 01:52:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Держи удар",
+      "title_en": "Vechtmeisje",
+      "year": 2020,
+      "kinopoisk_id": 1138014,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-16 01:18:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Полная Жесть",
       "title_en": "The Bleak",
       "year": 2019,
@@ -157,108 +261,91 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Говард и Королевство хаоса",
-      "title_en": "Howard Lovecraft and the Kingdom of Madness",
-      "year": 2018,
-      "kinopoisk_id": 1197957,
-      "type": "movie",
+      "title_ru": "Скрестив мечи",
+      "title_en": "Crossing Swords",
+      "year": 2020,
+      "kinopoisk_id": 1198083,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "0a0494a7b88cf00801fd83170f6604f9182d931bb8523501b20c07d3dbbb354d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-15 19:58:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DLRip"
+      "added_date": "2020-06-12 20:11:58",
+      "update_date": "2020-06-12 20:11:58",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1198083.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Говард и Подводное королевство",
-      "title_en": "Howard Lovecraft &amp; the Undersea Kingdom",
+      "title_ru": "Джеймстаун",
+      "title_en": "Jamestown",
       "year": 2017,
-      "kinopoisk_id": 1036311,
-      "type": "movie",
+      "kinopoisk_id": 1004925,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "cccd85c1c18cbedca760bd31996c9f7ddb773771f38e4ab703bedcc8479c4d0e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-15 19:57:01",
+      "added_date": "2020-06-12 17:41:40",
+      "update_date": "2020-06-12 17:41:40",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Говард Лавкрафт и Замерзшее Королевство",
-      "title_en": "Howard Lovecraft and the Frozen Kingdom",
-      "year": 2016,
-      "kinopoisk_id": 940328,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-15 19:56:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DLRip"
-    },
-    {
-      "title_ru": "Два отца",
-      "title_en": "Um Pai no Meio do Caminho",
-      "year": 2021,
-      "kinopoisk_id": 1355414,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-15 18:23:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Смертельная зона",
-      "title_en": "Outside the Wire",
-      "year": 2021,
-      "kinopoisk_id": 1274606,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-15 17:59:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дрожь земли: Остров крикунов",
-      "title_en": "Tremors: Shrieker Island",
-      "year": 2020,
-      "kinopoisk_id": 1301868,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-15 17:08:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Женский взгляд",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1817972,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-15 08:56:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Прыг Скок в поисках сокровищ",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1260096,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-01-15 08:55:02",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1004925.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140085",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "В густом лесу",
@@ -1451,76 +1538,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Журавль в небе",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1049562,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "229ffeaf792301ad02ea950b942edc4b65a69208ac36b28f8d3dab2c19bf4e29",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-11 17:42:22",
-      "update_date": "2020-06-11 17:42:22",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1049562.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Постановка",
-      "title_en": "Staged",
-      "year": 2020,
-      "kinopoisk_id": 1384808,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "182a195f3449e87f02af46a0fc6b7f4afc29c5162da45db101106cc1527750cc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-11 16:26:56",
-      "update_date": "2020-06-11 16:26:56",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1384808.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

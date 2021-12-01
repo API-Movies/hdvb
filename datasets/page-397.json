@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "title_ru": "День господа",
+      "title_en": "Menendez Parte 1: El día del Señor",
+      "year": 2020,
+      "kinopoisk_id": 985773,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-30 20:16:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Заклинание",
+      "title_en": "Spell",
+      "year": 2020,
+      "kinopoisk_id": 1291301,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-30 20:14:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Его дом",
+      "title_en": "His House",
+      "year": 2020,
+      "kinopoisk_id": 1159760,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-30 20:12:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Чёрный Джек: Подлинная история Джека Райана",
+      "title_en": "Blackjack: The Jackie Ryan Story",
+      "year": 2020,
+      "kinopoisk_id": 1297483,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-30 20:11:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Неограниченный кредит",
+      "title_en": "On the Arm",
+      "year": 2020,
+      "kinopoisk_id": 983723,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-30 09:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Отвернись и беги",
+      "title_en": "Look the Other Way and Run",
+      "year": 2020,
+      "kinopoisk_id": 1239724,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-30 09:27:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Джон Бронко",
+      "title_en": "John Bronco",
+      "year": 2020,
+      "kinopoisk_id": 1355198,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-30 09:26:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Присмотреть за домом: ночь, когда бы спасен мозг Зигфрида",
+      "title_en": "Housesitter: The Night They Saved Siegfried's Brain",
+      "year": 2018,
+      "kinopoisk_id": 386221,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-30 09:25:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Ожидание",
       "title_en": "Expectante",
       "year": 2020,
@@ -157,108 +261,104 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Чёрный дрозд",
-      "title_en": "Blackbird (La decisión)",
-      "year": 2020,
-      "kinopoisk_id": 1174220,
-      "type": "movie",
+      "title_ru": "Стартап",
+      "title_en": "StartUp",
+      "year": 2016,
+      "kinopoisk_id": 972878,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "ce0eccd0b53d0d5fcb5be27248e3523d4b488ca262a75d04f1344f229584bc61",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-29 10:03:01",
+      "added_date": "2019-07-24 20:04:26",
+      "update_date": "2019-07-25 15:16:24",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/972878.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=134058",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Рождество в Миддлтоне",
-      "title_en": "Middleton Christmas",
-      "year": 2020,
-      "kinopoisk_id": 1307779,
-      "type": "movie",
+      "title_ru": "Благие знамения",
+      "title_en": "Good Omens",
+      "year": 2019,
+      "kinopoisk_id": 585727,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "b1085e3e96340d3601261b9273a84f7bd0f6078fa7b7b1f8897a37364fadeee6",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-28 23:19:02",
+      "added_date": "2019-07-24 20:02:39",
+      "update_date": "2019-07-24 20:03:46",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Колдовство: Новый ритуал",
-      "title_en": "The Craft: Legacy",
-      "year": 2020,
-      "kinopoisk_id": 1044213,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-28 23:17:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "23 прогулки",
-      "title_en": "23 Walks",
-      "year": 2020,
-      "kinopoisk_id": 1257258,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-28 23:15:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Кошки против собак 3: Лапы, объединяйтесь",
-      "title_en": "Cats &amp; Dogs 3: Paws Unite",
-      "year": 2020,
-      "kinopoisk_id": 1393649,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-28 21:22:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "INTO_нация Большой Одессы",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 996620,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-28 16:13:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Пара на праздники",
-      "title_en": "Holidate",
-      "year": 2020,
-      "kinopoisk_id": 1245693,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-28 13:27:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Коварная тренерша",
-      "title_en": "The Wrong Cheerleader Coach",
-      "year": 2020,
-      "kinopoisk_id": 1428543,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-28 12:16:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/585727.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Вероника Марс",
@@ -1334,71 +1434,6 @@
         {
           "season_number": 2,
           "episodes_count": 0
-        }
-      ]
-    },
-    {
-      "title_ru": "Крик",
-      "title_en": "Scream: The TV Series",
-      "year": 2015,
-      "kinopoisk_id": 841605,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "8b6701bfb9e21bcf41a739a66f43ad8cb8ae6f4c0909f5f547074fc8e37448f2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-09 19:28:01",
-      "update_date": "2019-07-09 19:28:05",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/841605.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=125225",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Грязные деньги",
-      "title_en": "Dark Mon£y",
-      "year": 2019,
-      "kinopoisk_id": 1213642,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "5426d8da90d0634ba3eae91d3dcec936d3210debf70ac915b9e297958e122a49",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-09 16:54:51",
-      "update_date": "2019-07-09 16:54:54",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1213642.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
         }
       ]
     }

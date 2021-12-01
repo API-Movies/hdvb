@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "title_ru": "Фильм Чарли",
+      "title_en": "Charlie's Movie",
+      "year": 2020,
+      "kinopoisk_id": 1432175,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 00:07:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Независимые",
+      "title_en": "The Independents",
+      "year": 2020,
+      "kinopoisk_id": 934271,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 00:05:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Трафик",
+      "title_en": "Crisis",
+      "year": 2021,
+      "kinopoisk_id": 1237488,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 00:04:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Акеларре",
+      "title_en": "Akelarre",
+      "year": 2020,
+      "kinopoisk_id": 1254396,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 00:03:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вопрос каузальности",
+      "title_en": "A Matter of Causality",
+      "year": 2020,
+      "kinopoisk_id": 1264684,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 00:02:05",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Истинная любовь",
+      "title_en": "True Love",
+      "year": 2012,
+      "kinopoisk_id": 588617,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-11 16:09:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Звук острова Блок",
+      "title_en": "The Block Island Sound",
+      "year": 2020,
+      "kinopoisk_id": 1180777,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-11 15:53:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Веселые Расплюевские дни",
+      "title_en": "",
+      "year": 1966,
+      "kinopoisk_id": 45756,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-11 09:55:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "DVDRip"
+    },
+    {
       "title_ru": "День города",
       "title_en": "",
       "year": 2021,
@@ -157,108 +261,88 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Тетради",
-      "title_en": "The Notebooks",
-      "year": 2021,
-      "kinopoisk_id": 4369026,
-      "type": "movie",
+      "title_ru": "Каменская 3",
+      "title_en": "",
+      "year": 2003,
+      "kinopoisk_id": 425071,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "ea61367e9909a9b9350b8f5a69b606fff9b56b92a513966ccf4b9fa02e7242f4",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-10 15:18:02",
+      "added_date": "2020-09-05 00:41:18",
+      "update_date": "2020-09-05 00:42:16",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/425071.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Зимнее озеро",
-      "title_en": "The Winter Lake",
-      "year": 2021,
-      "kinopoisk_id": 1244063,
-      "type": "movie",
+      "title_ru": "Каменская 2",
+      "title_en": "",
+      "year": 2002,
+      "kinopoisk_id": 94334,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "fbccc5b0cebffa27ea1a9f3fb193e273c65eaff0480ccf6f15b9004c666ffefe",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-10 15:17:01",
+      "added_date": "2020-09-05 00:40:20",
+      "update_date": "2020-09-05 00:41:03",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Каньонлендс",
-      "title_en": "The Canyonlands",
-      "year": 2021,
-      "kinopoisk_id": 1266766,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-10 15:16:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Убийственная мода",
-      "title_en": "Slaxx",
-      "year": 2021,
-      "kinopoisk_id": 1238745,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-10 15:15:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Озарение",
-      "title_en": "Road to Damascus",
-      "year": 2021,
-      "kinopoisk_id": 1442309,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-10 15:14:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Как проснуться от кошмара?",
-      "title_en": "How to Stop a Recurring Dream",
-      "year": 2021,
-      "kinopoisk_id": 1237313,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-10 15:12:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Кровь на короне",
-      "title_en": "Just Noise / Blood on the Crown",
-      "year": 2021,
-      "kinopoisk_id": 1302874,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-10 15:11:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Братья по крови: гражданская война",
-      "title_en": "Blood Brothers / Blood Brothers: Civil War",
-      "year": 2021,
-      "kinopoisk_id": 1395869,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-10 15:10:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/94334.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Бешеная",
@@ -1334,72 +1418,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Взлет",
-      "title_en": "Rise",
-      "year": 2018,
-      "kinopoisk_id": 1022825,
-      "world_art_id": null,
-      "translator": "Contentica",
-      "token": "d215042736c37a21ead77a332bff74aae31fa116867507ae5f3a342b2752095d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-03 17:00:10",
-      "update_date": "2020-09-03 17:02:53",
-      "block": false,
-      "translator_id": 129,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1022825.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Стреляющие горы",
-      "title_en": "",
-      "year": 2011,
-      "kinopoisk_id": 565125,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "b6476c79ca9622c4251c141497924578190ba549acc77e13dcec7fba3a21f79e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-03 16:58:30",
-      "update_date": "2020-09-03 16:59:43",
-      "block": false,
-      "translator_id": 92,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/565125.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

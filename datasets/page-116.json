@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "title_ru": "Отряд самоубийц: Миссия навылет",
+      "title_en": "The Suicide Squad",
+      "year": 2021,
+      "kinopoisk_id": 1008477,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-06 15:30:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Параноидальные плёнки 06:06:06",
+      "title_en": "Paranoia Tapes 06:06:06",
+      "year": 2020,
+      "kinopoisk_id": 1170043,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-06 15:10:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Моби",
+      "title_en": "Moby Doc",
+      "year": 2021,
+      "kinopoisk_id": 961007,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-06 15:09:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Внутри алмаза",
+      "title_en": "Inuti diamanten",
+      "year": 2020,
+      "kinopoisk_id": 1341287,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-06 15:08:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Святая Тринити",
+      "title_en": "Holy Trinity",
+      "year": 2019,
+      "kinopoisk_id": 1190274,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-06 15:07:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Лоботрясы",
+      "title_en": "Fils de plouc",
+      "year": 2021,
+      "kinopoisk_id": 4372205,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-06 15:06:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Освобождение",
+      "title_en": "Disencumber",
+      "year": 2021,
+      "kinopoisk_id": 13361452,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-06 15:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Жизнь в аренду",
+      "title_en": "Affittasi Vita",
+      "year": 2019,
+      "kinopoisk_id": 1259297,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-06 15:03:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Убийство в Сорт-Осгоре",
       "title_en": "Meurtres dans les Landes",
       "year": 2017,
@@ -157,108 +261,69 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Марфа",
-      "title_en": "Marfa",
-      "year": 2021,
-      "kinopoisk_id": 1266824,
-      "type": "movie",
+      "title_ru": "Марокканская мафия",
+      "title_en": "Mocro Maffia",
+      "year": 2018,
+      "kinopoisk_id": 1179946,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "4c0a637f6609594912bf72a520e30045072b4972cc02b5f038cc112ced9186fd",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-05 21:53:01",
+      "added_date": "2021-01-29 11:31:05",
+      "update_date": "2021-03-12 11:39:30",
       "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1179946.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Семь смертных грехов",
+      "title_en": "Nanatsu no Taizai: The Seven Deadly Sins",
+      "year": 2014,
+      "kinopoisk_id": 843954,
+      "world_art_id": null,
       "translator": "многоголосый закадровый",
+      "token": "9ead268b8a94f3386f649cf2b70fa93fc0673981072438a1b3c3ff762898c8ba",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-12 11:13:47",
+      "update_date": "2021-03-12 11:14:55",
+      "block": false,
       "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Aftermath",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1291447,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-05 09:04:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Убийство в Мартиге",
-      "title_en": "Crime à Martigues",
-      "year": 2016,
-      "kinopoisk_id": 987050,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-05 09:03:02",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "WEB-DLRip"
-    },
-    {
-      "title_ru": "Бег с затравленным",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1082030,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-05 08:58:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Лайф без Хоуп",
-      "title_en": "Life Without Hope",
-      "year": 2020,
-      "kinopoisk_id": 1124877,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-05 00:29:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Смертельное любовное письмо",
-      "title_en": "Deadly Love Letter",
-      "year": 2021,
-      "kinopoisk_id": 1435481,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-05 00:28:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Поставщик снов",
-      "title_en": "Dream Runner",
-      "year": 2020,
-      "kinopoisk_id": 1426039,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-05 00:27:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Переходя черту",
-      "title_en": "Crossing the Line",
-      "year": 2020,
-      "kinopoisk_id": 1372092,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-05 00:26:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/843954.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Семь смертных грехов",
@@ -1461,72 +1526,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Любовь матери",
-      "title_en": "Любов матері",
-      "year": 2020,
-      "kinopoisk_id": 74700074,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "dcfda3e70f2d8d75b6d46e014782de8aac8f702e5dc0c6d013bab078ffae9296",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-10 15:29:32",
-      "update_date": "2021-03-10 15:31:11",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/74700074.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дилер",
-      "title_en": "Caïd",
-      "year": 2021,
-      "kinopoisk_id": 4355985,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "7b9e59521fb083398a356b6524ea7b9760cd647539f6a2eb6c76b5dcfbb4ea78",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-10 14:23:33",
-      "update_date": "2021-03-10 14:47:28",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4355985.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

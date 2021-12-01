@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "title_ru": "Тот самый год",
+      "title_en": "This Is the Year",
+      "year": 2021,
+      "kinopoisk_id": 1138951,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-24 20:36:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Одинокий волк",
+      "title_en": "Lone Wolf",
+      "year": 2021,
+      "kinopoisk_id": 1282652,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-24 20:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "К востоку от гор",
+      "title_en": "East of the Mountains",
+      "year": 2021,
+      "kinopoisk_id": 1203423,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-24 20:33:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Райские птицы",
+      "title_en": "Birds of Paradise",
+      "year": 2021,
+      "kinopoisk_id": 1347459,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-24 20:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Апачи-Джанкшен",
+      "title_en": "Apache Junction",
+      "year": 2021,
+      "kinopoisk_id": 4367634,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-24 20:29:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "После пробуждения",
+      "title_en": "Time Is Up",
+      "year": 2021,
+      "kinopoisk_id": 1449918,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-24 20:26:02",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "My Little Pony: Новое поколение",
+      "title_en": "My Little Pony: A New Generation",
+      "year": 2021,
+      "kinopoisk_id": 1322857,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-24 16:52:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ниндзя в клеточку 2",
+      "title_en": "Ternet Ninja 2",
+      "year": 2021,
+      "kinopoisk_id": 13387604,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-24 16:25:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Мэделин и Купер",
       "title_en": "Madeline &amp; Cooper",
       "year": 2018,
@@ -157,108 +261,85 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Главный герой",
-      "title_en": "Free Guy",
-      "year": 2021,
-      "kinopoisk_id": 1199100,
-      "type": "movie",
+      "title_ru": "Как продавать наркотики онлайн",
+      "title_en": "How To Sell Drugs Online",
+      "year": 2019,
+      "kinopoisk_id": 1246988,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "808cd6cd4aad2386dd83171aeea2ef1195e1499a668ce24f43aae9091d25b1a1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-09-24 15:31:02",
+      "added_date": "2020-07-22 10:21:41",
+      "update_date": "2021-07-28 09:17:06",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1246988.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Клаустрофобы 2: Лига выживших",
-      "title_en": "Escape Room 2",
+      "title_ru": "Неуязвимый",
+      "title_en": "Invincible",
       "year": 2021,
-      "kinopoisk_id": 1243567,
-      "type": "movie",
+      "kinopoisk_id": 1171895,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "b01fc69df2ea2d2414deae7bd082f1215977b5f68f77e4fc5b21987fc9217da2",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-09-24 15:30:01",
+      "added_date": "2021-07-04 20:43:22",
+      "update_date": "2021-07-28 02:10:14",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Я создан для тебя",
-      "title_en": "Ich bin dein Mensch",
-      "year": 2021,
-      "kinopoisk_id": 1410079,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-24 08:02:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Беспокойный",
-      "title_en": "Les intranquilles",
-      "year": 2021,
-      "kinopoisk_id": 1415783,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-23 21:49:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Эйфель",
-      "title_en": "Eiffel",
-      "year": 2021,
-      "kinopoisk_id": 1294875,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-23 21:48:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Совершенный труп",
-      "title_en": "Cadáver Exquisito",
-      "year": 2021,
-      "kinopoisk_id": 1273681,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-23 21:47:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "По течению",
-      "title_en": "The River Runner",
-      "year": 2021,
-      "kinopoisk_id": 15293256,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-23 21:45:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Каскадёрши: Нерассказанная голливудская история",
-      "title_en": "Stuntwomen: The Untold Hollywood Story",
-      "year": 2020,
-      "kinopoisk_id": 1412488,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-23 21:44:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1171895.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Зачарованные",
@@ -1259,75 +1340,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кунг-фу",
-      "title_en": "Kung Fu",
-      "year": 2021,
-      "kinopoisk_id": 1355507,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "354ee567a39658c7bf250b3cc4ae1428219688660b9382803b58400601c57d41",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-09 09:26:53",
-      "update_date": "2021-07-23 08:55:55",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1355507.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Хостел Дейз",
-      "title_en": "Hostel Daze",
-      "year": 2019,
-      "kinopoisk_id": 1330988,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "6936fe894247a6e3096729c17b49a990ef0993de92f5f8e8012b4c4ba744c5cb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-07-23 08:26:28",
-      "update_date": "2021-07-23 08:26:56",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1330988.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

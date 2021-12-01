@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "title_ru": "Гоблин",
+      "title_en": "Goblin",
+      "year": 2020,
+      "kinopoisk_id": 1317925,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-01 07:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дино Дана",
+      "title_en": "Dino Dana: The Movie",
+      "year": 2020,
+      "kinopoisk_id": 1384181,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-01 07:02:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Король Стейтен-Айленда",
+      "title_en": "The King of Staten Island",
+      "year": 2020,
+      "kinopoisk_id": 1236644,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-01 07:01:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Пустошь тьмы и зла",
+      "title_en": "The Dark and the Wicked",
+      "year": 2020,
+      "kinopoisk_id": 1259607,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-01 07:00:02",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Вдова",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 999460,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-01 06:58:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Как Надя пошла за водкой",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1402924,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-01 06:57:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Волшебное зеркало, или Двойные неприятности",
+      "title_en": "Unheimlich perfekte Freunde",
+      "year": 2019,
+      "kinopoisk_id": 1387149,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-31 12:52:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Путь прорастания травинки",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 1204201,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-31 12:51:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Сакура и демоны",
       "title_en": "Kirschblüten &amp; Dämonen",
       "year": 2019,
@@ -157,108 +261,143 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "День господа",
-      "title_en": "Menendez Parte 1: El día del Señor",
-      "year": 2020,
-      "kinopoisk_id": 985773,
-      "type": "movie",
+      "title_ru": "Под куполом",
+      "title_en": "Under the Dome",
+      "year": 2013,
+      "kinopoisk_id": 574704,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "421037652e339d8a5f976b72332bfc3812678be49f40985058a5eefeedc94251",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-30 20:16:01",
+      "added_date": "2019-08-08 12:46:44",
+      "update_date": "2019-08-09 09:29:24",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/574704.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=119598",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Заклинание",
-      "title_en": "Spell",
-      "year": 2020,
-      "kinopoisk_id": 1291301,
-      "type": "movie",
+      "title_ru": "Лемони Сникет: 33 несчастья",
+      "title_en": "A Series of Unfortunate Events",
+      "year": 2017,
+      "kinopoisk_id": 930544,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "ec1e04bcf42193dcb53d0fb9c88289a704e759b8dad09a228c8e622f45dbb517",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-30 20:14:01",
+      "added_date": "2019-08-08 12:15:50",
+      "update_date": "2019-08-08 18:03:23",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Его дом",
-      "title_en": "His House",
-      "year": 2020,
-      "kinopoisk_id": 1159760,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-30 20:12:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Чёрный Джек: Подлинная история Джека Райана",
-      "title_en": "Blackjack: The Jackie Ryan Story",
-      "year": 2020,
-      "kinopoisk_id": 1297483,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-30 20:11:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Неограниченный кредит",
-      "title_en": "On the Arm",
-      "year": 2020,
-      "kinopoisk_id": 983723,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-30 09:30:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Отвернись и беги",
-      "title_en": "Look the Other Way and Run",
-      "year": 2020,
-      "kinopoisk_id": 1239724,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-30 09:27:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Джон Бронко",
-      "title_en": "John Bronco",
-      "year": 2020,
-      "kinopoisk_id": 1355198,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-30 09:26:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Присмотреть за домом: ночь, когда бы спасен мозг Зигфрида",
-      "title_en": "Housesitter: The Night They Saved Siegfried's Brain",
-      "year": 2018,
-      "kinopoisk_id": 386221,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-30 09:25:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/930544.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=136239",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
       "title_ru": "«У» значит убийцы",
@@ -1023,106 +1162,6 @@
             18,
             19,
             20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Стартап",
-      "title_en": "StartUp",
-      "year": 2016,
-      "kinopoisk_id": 972878,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "ce0eccd0b53d0d5fcb5be27248e3523d4b488ca262a75d04f1344f229584bc61",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-24 20:04:26",
-      "update_date": "2019-07-25 15:16:24",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/972878.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=134058",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Благие знамения",
-      "title_en": "Good Omens",
-      "year": 2019,
-      "kinopoisk_id": 585727,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "b1085e3e96340d3601261b9273a84f7bd0f6078fa7b7b1f8897a37364fadeee6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-24 20:02:39",
-      "update_date": "2019-07-24 20:03:46",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/585727.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

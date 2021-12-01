@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "title_ru": "Выпускной",
+      "title_en": "The Prom",
+      "year": 2020,
+      "kinopoisk_id": 1280354,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 12:11:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Подольские курсанты",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1191022,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 05:26:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пикси",
+      "title_en": "Pixie",
+      "year": 2020,
+      "kinopoisk_id": 1296668,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 00:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Охотник на монстров",
+      "title_en": "Monster Hunter",
+      "year": 2020,
+      "kinopoisk_id": 1038789,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 00:33:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Заклятье: Другая сторона",
+      "title_en": "Andra sidan",
+      "year": 2020,
+      "kinopoisk_id": 1330635,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 00:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Мать",
+      "title_en": "Äiti / Aiti / A Mother",
+      "year": 2019,
+      "kinopoisk_id": 1101437,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 00:31:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "9 раз Лейла",
+      "title_en": "9 Kere Leyla",
+      "year": 2020,
+      "kinopoisk_id": 1347960,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-11 00:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пусть говорят",
+      "title_en": "Let Them All Talk",
+      "year": 2020,
+      "kinopoisk_id": 1293172,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-10 22:03:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Декретный отрыв",
       "title_en": "Alles is zoals het zou moeten zijn",
       "year": 2020,
@@ -157,108 +261,81 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Семейное Древо",
-      "title_en": "The Family Tree",
+      "title_ru": "Король тигров: Убийство, хаос и безумие",
+      "title_en": "Tiger King: Murder, Mayhem and Madness",
       "year": 2020,
-      "kinopoisk_id": 1165183,
-      "type": "movie",
+      "kinopoisk_id": 1363058,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "550c4e6937b1144e7508e1e1995113ce44770a5b8c2db1ac9bbda0badbd73af3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-10 01:13:01",
+      "added_date": "2020-04-05 19:37:35",
+      "update_date": "2020-04-05 19:37:35",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1363058.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Брачные игры",
-      "title_en": "Sexual Animals",
-      "year": 2020,
-      "kinopoisk_id": 1017803,
-      "type": "movie",
+      "title_ru": "Час",
+      "title_en": "The Hour",
+      "year": 2011,
+      "kinopoisk_id": 574433,
+      "world_art_id": null,
+      "translator": "Профессиональный (многоголосый)",
+      "token": "9bb67584479d76216b0eed3fd3218e4e580655897f5aa74b17c0386c38a28576",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-10 01:11:02",
+      "added_date": "2020-04-05 16:21:21",
+      "update_date": "2020-04-05 16:21:21",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Рождественские зомби",
-      "title_en": "Christmas Zombies",
-      "year": 2020,
-      "kinopoisk_id": 12906940,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-10 01:10:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Быстро и грязно",
-      "title_en": "The Quick and Dirty",
-      "year": 2019,
-      "kinopoisk_id": 1295606,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-10 01:08:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Последний чемпион",
-      "title_en": "The Last Champion",
-      "year": 2020,
-      "kinopoisk_id": 978017,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-10 01:07:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Восставшие: одержимость",
-      "title_en": "The Facility / The Rizen: Possession / The Rizen 2",
-      "year": 2020,
-      "kinopoisk_id": 906757,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-10 01:05:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Монстры, созданные человеком",
-      "title_en": "Monsters of Man",
-      "year": 2020,
-      "kinopoisk_id": 1037479,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-10 01:03:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Виктория",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1438350,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-09 23:39:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
+      "translator_id": 126,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/574433.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Детективное агентство «Лунный свет»",
@@ -1128,155 +1205,6 @@
             21,
             22,
             23
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Волшебники",
-      "title_en": "The Magicians",
-      "year": 2015,
-      "kinopoisk_id": 875215,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "3e49cd05e41174cd017cdf246a6d4d59e970c54d6fb332b1416a5f55d60ddbb2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-03 20:50:55",
-      "update_date": "2020-04-03 20:50:55",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/875215.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=120386",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Человек будущего",
-      "title_en": "Future Man",
-      "year": 2017,
-      "kinopoisk_id": 958578,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "04e65f98bbde5590d30ccc527c4d4fa5a2f48d82158350f10406ad447261088b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-03 18:48:36",
-      "update_date": "2020-04-03 18:48:36",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/958578.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]
