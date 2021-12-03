@@ -1,6 +1,100 @@
 {
   "items": [
     {
+      "title_ru": "Богемская рапсодия",
+      "title_en": "Bohemian Rhapsody",
+      "year": 2018,
+      "kinopoisk_id": 568289,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-31 17:58:07",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Галвестон",
+      "title_en": "Galveston",
+      "year": 2018,
+      "kinopoisk_id": 696499,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-31 12:38:58",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Проклятие монахини",
+      "title_en": "The Nun",
+      "year": 2018,
+      "kinopoisk_id": 991225,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-31 12:34:33",
+      "block": false,
+      "translator": "Дубляж [Звук с TS]",
+      "translator_id": 108,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Великий уравнитель 2",
+      "title_en": "The Equalizer 2",
+      "year": 2018,
+      "kinopoisk_id": 840294,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-30 23:59:56",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "МЭГ",
+      "title_en": "Meg",
+      "year": 2018,
+      "kinopoisk_id": 918627,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-30 23:56:47",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Джиперс Криперс 3",
+      "title_en": "Jeepers Creepers 3",
+      "year": 2017,
+      "kinopoisk_id": 409178,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-30 15:54:22",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Хантер Киллер",
+      "title_en": "Hunter Killer",
+      "year": 2018,
+      "kinopoisk_id": 589787,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-30 01:00:57",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
       "title_ru": "22 мили",
       "title_en": "Mile 22",
       "year": 2018,
@@ -174,97 +268,6 @@
       "translator": "Дубляж [Звук с TS]",
       "translator_id": 108,
       "quality": "BDRip"
-    },
-    {
-      "title_ru": "Альфа",
-      "title_en": "Alpha",
-      "year": 2018,
-      "kinopoisk_id": 934956,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-26 14:33:35",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Суперсемейка 2",
-      "title_en": "The Incredibles 2",
-      "year": 2018,
-      "kinopoisk_id": 839650,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-26 14:27:07",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Килиманджара",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 993589,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-26 01:19:55",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Крым",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 984364,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-25 22:52:58",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Шпион, который меня кинул",
-      "title_en": "The Spy Who Dumped Me",
-      "year": 2018,
-      "kinopoisk_id": 1044982,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-25 22:41:52",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Ремнант: Всё ещё вижу тебя",
-      "title_en": "I Still See You",
-      "year": 2018,
-      "kinopoisk_id": 660774,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-25 21:15:55",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "22 мили",
-      "title_en": "Mile 22",
-      "year": 2018,
-      "kinopoisk_id": 921938,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-23 22:23:59",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
     }
   ]
 }

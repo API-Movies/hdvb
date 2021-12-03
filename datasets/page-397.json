@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Гоблин",
+      "title_en": "Goblin",
+      "year": 2020,
+      "kinopoisk_id": 1317925,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-01 07:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дино Дана",
+      "title_en": "Dino Dana: The Movie",
+      "year": 2020,
+      "kinopoisk_id": 1384181,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-01 07:02:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Король Стейтен-Айленда",
+      "title_en": "The King of Staten Island",
+      "year": 2020,
+      "kinopoisk_id": 1236644,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-01 07:01:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Пустошь тьмы и зла",
+      "title_en": "The Dark and the Wicked",
+      "year": 2020,
+      "kinopoisk_id": 1259607,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-01 07:00:02",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Вдова",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 999460,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-01 06:58:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Как Надя пошла за водкой",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1402924,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-01 06:57:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Волшебное зеркало, или Двойные неприятности",
+      "title_en": "Unheimlich perfekte Freunde",
+      "year": 2019,
+      "kinopoisk_id": 1387149,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-31 12:52:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Путь прорастания травинки",
       "title_en": "",
       "year": 2017,
@@ -170,95 +261,68 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "День господа",
-      "title_en": "Menendez Parte 1: El día del Señor",
-      "year": 2020,
-      "kinopoisk_id": 985773,
-      "type": "movie",
+      "title_ru": "Война и мир",
+      "title_en": "War &amp; Peace",
+      "year": 2016,
+      "kinopoisk_id": 893150,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "2614ae9811093cdba789c11ff8a61026d61ad435f76e2e9fc1363e2d64f95601",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-30 20:16:01",
+      "added_date": "2019-08-06 00:35:00",
+      "update_date": "2019-08-06 00:35:24",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/893150.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=129166",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Заклинание",
-      "title_en": "Spell",
-      "year": 2020,
-      "kinopoisk_id": 1291301,
-      "type": "movie",
+      "title_ru": "Это футбол",
+      "title_en": "This Is Football",
+      "year": 2019,
+      "kinopoisk_id": 9170224,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "28cad8817bbfa41373a2d23319dc160d558c930a868fbed1bb497c8265c95184",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-30 20:14:01",
+      "added_date": "2019-08-02 12:43:22",
+      "update_date": "2019-08-04 22:18:20",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Его дом",
-      "title_en": "His House",
-      "year": 2020,
-      "kinopoisk_id": 1159760,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-30 20:12:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Чёрный Джек: Подлинная история Джека Райана",
-      "title_en": "Blackjack: The Jackie Ryan Story",
-      "year": 2020,
-      "kinopoisk_id": 1297483,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-30 20:11:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Неограниченный кредит",
-      "title_en": "On the Arm",
-      "year": 2020,
-      "kinopoisk_id": 983723,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-30 09:30:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Отвернись и беги",
-      "title_en": "Look the Other Way and Run",
-      "year": 2020,
-      "kinopoisk_id": 1239724,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-30 09:27:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Джон Бронко",
-      "title_en": "John Bronco",
-      "year": 2020,
-      "kinopoisk_id": 1355198,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-30 09:26:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/9170224.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Развод",
@@ -1044,79 +1108,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Почти человек",
-      "title_en": "Almost Human",
-      "year": 2013,
-      "kinopoisk_id": 733636,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "3505b77c32ac0c99de99eab419e07a109836c75f3c4710a5d2773882eaae2a2d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-16 01:12:04",
-      "update_date": "2019-07-16 13:14:36",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/733636.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=83595",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Табу",
-      "title_en": "Taboo",
-      "year": 2017,
-      "kinopoisk_id": 932068,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "fe0aa2bb12aa7650bba352e9c35db5e0d8c2748a6f49d464b4a7f3b4b643e898",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-16 01:09:17",
-      "update_date": "2019-07-16 13:13:53",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/932068.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140922",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

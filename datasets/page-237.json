@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Бар «Дубовая комната»",
+      "title_en": "The Oak Room",
+      "year": 2020,
+      "kinopoisk_id": 1290383,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-04 00:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Травкомен: Глава 1",
+      "title_en": "The Gingerweed Man: Chapter 1",
+      "year": 2021,
+      "kinopoisk_id": 4397689,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-04 00:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Каждый твой вдох",
+      "title_en": "Every Breath You Take",
+      "year": 2021,
+      "kinopoisk_id": 689884,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-04 00:56:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Городской ковбой",
+      "title_en": "Concrete Cowboy",
+      "year": 2021,
+      "kinopoisk_id": 1291216,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-04 00:55:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Саамская кровь",
+      "title_en": "Sameblod",
+      "year": 2016,
+      "kinopoisk_id": 954265,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-03 22:20:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "В Плэйнвью",
+      "title_en": "In Plainview",
+      "year": 2018,
+      "kinopoisk_id": 1022471,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-03 15:21:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кукольный террор",
+      "title_en": "Tiny Terrors",
+      "year": 2018,
+      "kinopoisk_id": 1120206,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-03 01:09:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Убийственная красота",
       "title_en": "Good Deed / Lethal Beauty / Sorority Stalker",
       "year": 2018,
@@ -170,95 +261,164 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Обман по-голливудски",
-      "title_en": "Hollywood.Con",
-      "year": 2021,
-      "kinopoisk_id": 1160146,
-      "type": "movie",
+      "title_ru": "Уэнтуорт",
+      "title_en": "Wentworth",
+      "year": 2013,
+      "kinopoisk_id": 772254,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "2efe2dcc896faf569525a8f12e7526a03f07cd10c0f997df00afc497fd4d188b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-02 21:14:01",
+      "added_date": "2020-07-26 00:32:04",
+      "update_date": "2020-10-05 13:36:35",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/772254.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=84709",
+      "serial_episodes": [
+        {
+          "season_number": 7,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 8,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Хакер",
-      "title_en": "Hacker",
-      "year": 2018,
-      "kinopoisk_id": 1035790,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-02 21:13:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ченс",
-      "title_en": "Chance",
+      "title_ru": "Петра",
+      "title_en": "Petra",
       "year": 2020,
-      "kinopoisk_id": 1117007,
-      "type": "movie",
+      "kinopoisk_id": 1306028,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "290b486e615b67b8c83961d45b9b722ff3a3d7000bb7988f8d29ce7ea3ebf0d8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-02 21:11:02",
+      "added_date": "2020-09-20 09:01:39",
+      "update_date": "2020-10-05 09:11:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1306028.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Вольная пташка",
-      "title_en": "Free Byrd",
-      "year": 2021,
-      "kinopoisk_id": 720489,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-02 21:10:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Пчелка Майя: Медовый движ",
-      "title_en": "Maya the Bee 3: The Golden Orb",
-      "year": 2021,
-      "kinopoisk_id": 1349327,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-02 21:09:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Я не Он",
-      "title_en": "I'm Not Him",
-      "year": 2021,
-      "kinopoisk_id": 1393484,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-02 21:08:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Эскобар",
-      "title_en": "Loving Pablo",
+      "title_ru": "Незнакомец",
+      "title_en": "Bimilui sup (Secret Forest)",
       "year": 2017,
-      "kinopoisk_id": 929885,
-      "type": "movie",
+      "kinopoisk_id": 1009086,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "90d150de7be03e15c6405eba90ffdd04a2087bb50c2e6ec29bb9979404d2d4e1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-02 18:02:01",
+      "added_date": "2020-08-17 00:22:21",
+      "update_date": "2020-10-05 08:56:00",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1009086.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Вдали",
+      "title_en": "Away",
+      "year": 2020,
+      "kinopoisk_id": 1178875,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "a2feb305bd5fd1e424c2c24c0d3dca7244ce1779cd00d4a392f24dc51080feb9",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-09-07 23:53:58",
+      "update_date": "2020-10-05 01:24:55",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1178875.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Врумиз",
@@ -1271,291 +1431,6 @@
             118,
             119,
             120
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Эмили в Париже",
-      "title_en": "Emily in Paris",
-      "year": 2020,
-      "kinopoisk_id": 1190441,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "086da70d4920d50112ee2229c47727a9d13575cf40e188565b79b4e421f1bf77",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-02 20:08:39",
-      "update_date": "2020-10-02 20:17:47",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1190441.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Агент особого назначения",
-      "title_en": "",
-      "year": 2010,
-      "kinopoisk_id": 461838,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "87a73a23d50c6c0b7dca4d164cdee93ae1cd58c2e519dacf6b4966679d923b61",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-02 19:42:09",
-      "update_date": "2020-10-02 19:51:19",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/461838.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Добро пожаловать на Канары",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 1009125,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "b3aba639699b7d8759190c87bb2d0db68c685c0045767ef6b744bc726c555a93",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-02 19:37:41",
-      "update_date": "2020-10-02 19:39:03",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1009125.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Секс в другом городе",
-      "title_en": "The L Word",
-      "year": 2004,
-      "kinopoisk_id": 181150,
-      "world_art_id": null,
-      "translator": "GoldTeam",
-      "token": "6bb0c9594962420f687a033e1275efc504e840af2606679d23401245c9a173e9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-02 15:43:16",
-      "update_date": "2020-10-02 16:08:59",
-      "block": false,
-      "translator_id": 141,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/181150.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

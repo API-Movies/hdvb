@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Кровь на ее значке",
+      "title_en": "Blood on Her Badge",
+      "year": 2020,
+      "kinopoisk_id": 1448082,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-03 00:47:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Хосе",
+      "title_en": "José",
+      "year": 2018,
+      "kinopoisk_id": 1160308,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-03 00:45:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сам напросился",
+      "title_en": "Asking for It",
+      "year": 2020,
+      "kinopoisk_id": 1234103,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-03 00:42:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "В поисках Агнес",
+      "title_en": "Finding Agnes",
+      "year": 2020,
+      "kinopoisk_id": 1445154,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-03 00:40:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Марго и Марго",
+      "title_en": "La belle et la belle",
+      "year": 2018,
+      "kinopoisk_id": 1113696,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-03 00:39:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Создай меня",
+      "title_en": "Make Me Up",
+      "year": 2018,
+      "kinopoisk_id": 1211790,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-03 00:38:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Циркач",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1795514,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-02 22:49:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Любовь без размера",
       "title_en": "",
       "year": 2020,
@@ -170,95 +261,181 @@
       "quality": "HDTV"
     },
     {
-      "title_ru": "Ангельское дерево",
-      "title_en": "The Angel Tree",
+      "title_ru": "Северяне",
+      "title_en": "Vikingane / Norsemen",
+      "year": 2016,
+      "kinopoisk_id": 1142539,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "211da7ba7aec5ceb0fe849093582fccfc79acafbe3a06502c78777cbb6683695",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-02-22 12:19:10",
+      "update_date": "2020-02-22 12:19:10",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1142539.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Чужестранка",
+      "title_en": "Outlander",
+      "year": 2014,
+      "kinopoisk_id": 818284,
+      "world_art_id": null,
+      "translator": "Кириллица",
+      "token": "9a9b04351103837f7edcebad8b58bb856b3b51c52582b51c28e1a0a29ae3576a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-02-21 22:09:10",
+      "update_date": "2020-02-21 22:09:10",
+      "block": false,
+      "translator_id": 123,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/818284.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Пуэрта 7",
+      "title_en": "Puerta 7",
       "year": 2020,
-      "kinopoisk_id": 1434835,
-      "type": "movie",
+      "kinopoisk_id": 1333642,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "dd5007b4673c0f1b48b844a8bfc00de3c4054aa18b32a56d07047e822d8c605b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-02 14:31:01",
+      "added_date": "2020-02-21 21:29:40",
+      "update_date": "2020-02-21 21:29:40",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Скандал в 97-ом",
-      "title_en": "A Night in 97 / Scandal in 97 / Scandal in '97",
-      "year": 2020,
-      "kinopoisk_id": 1308601,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-02 14:30:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Свои люди",
-      "title_en": "De Lo Mio",
-      "year": 2019,
-      "kinopoisk_id": 1248598,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-02 14:29:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Члены семьи",
-      "title_en": "Family Members / Los miembros de la familia",
-      "year": 2019,
-      "kinopoisk_id": 1223497,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-02 14:28:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "День, когда Долорес осталась одна",
-      "title_en": "One Day, Dolores Was on Her Own / Dolores un día se quedó sola",
-      "year": 2019,
-      "kinopoisk_id": 12084582,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-02 14:27:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ужасные джунгли",
-      "title_en": "Terrible jungle",
-      "year": 2020,
-      "kinopoisk_id": 1286246,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-02 14:23:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Омен. Наследие",
-      "title_en": "Letto numero 6",
-      "year": 2020,
-      "kinopoisk_id": 1229795,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-02 14:22:02",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1333642.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Погоня за американской мечтой",
@@ -834,108 +1011,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Hi-Fi",
-      "title_en": "High Fidelity",
-      "year": 2020,
-      "kinopoisk_id": 1165440,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "de1f6e8037580e39d1e64d2d01175e105ee131ed9188dbf547570ec3602ef3b5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-18 19:26:07",
-      "update_date": "2020-02-18 19:26:07",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1165440.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Убийства Вальгаллы",
-      "title_en": "The Valhalla Murders / Brot",
-      "year": 2019,
-      "kinopoisk_id": 1200397,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "025a609af9c2ef811c90c53d03cb7781bcae59e2073c1dd75ed32ea4672d1307",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-17 23:52:39",
-      "update_date": "2020-02-17 23:52:39",
-      "block": false,
-      "translator_id": 14,
-      "quality": "HDTV",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1200397.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Плохие банки",
-      "title_en": "Bad Banks",
-      "year": 2018,
-      "kinopoisk_id": 1162804,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "8f098e3e06bf83bfbbad3e603b80aea14d2e23fc38acc390cefd6229fe2e73d7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-17 23:50:17",
-      "update_date": "2020-02-17 23:50:17",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1162804.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]
