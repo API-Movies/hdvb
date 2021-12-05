@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "title_ru": "Злая ночь",
+      "title_en": "La mala noche",
+      "year": 2019,
+      "kinopoisk_id": 1087544,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-10 14:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Птичий Глаз",
+      "title_en": "Bird's Eye",
+      "year": 2019,
+      "kinopoisk_id": 1256552,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-10 14:27:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Чёрный дрозд",
+      "title_en": "Blackbird (La decisión)",
+      "year": 2020,
+      "kinopoisk_id": 1174220,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-10 12:27:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Зарыватели",
+      "title_en": "The Planters",
+      "year": 2019,
+      "kinopoisk_id": 976119,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-10 01:14:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Семейное Древо",
+      "title_en": "The Family Tree",
+      "year": 2020,
+      "kinopoisk_id": 1165183,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-10 01:13:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Брачные игры",
+      "title_en": "Sexual Animals",
+      "year": 2020,
+      "kinopoisk_id": 1017803,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-10 01:11:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Рождественские зомби",
+      "title_en": "Christmas Zombies",
+      "year": 2020,
+      "kinopoisk_id": 12906940,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-10 01:10:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Быстро и грязно",
+      "title_en": "The Quick and Dirty",
+      "year": 2019,
+      "kinopoisk_id": 1295606,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-10 01:08:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Последний чемпион",
+      "title_en": "The Last Champion",
+      "year": 2020,
+      "kinopoisk_id": 978017,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-10 01:07:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Восставшие: одержимость",
       "title_en": "The Facility / The Rizen: Possession / The Rizen 2",
       "year": 2020,
@@ -144,121 +261,92 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Невероятная история Острова роз",
-      "title_en": "L\\'incredibile storia dell\\'isola delle rose",
-      "year": 2020,
-      "kinopoisk_id": 1264438,
-      "type": "movie",
+      "title_ru": "Святой Майк",
+      "title_en": "Sankt Maik",
+      "year": 2017,
+      "kinopoisk_id": 1022007,
+      "world_art_id": null,
+      "translator": "Fox",
+      "token": "9dcf63ec9f8a8fe1a0db70a815112bce8abbd28a99f1463875273edccd2f2df1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-09 13:22:01",
+      "added_date": "2020-03-31 18:53:41",
+      "update_date": "2020-03-31 18:53:41",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 26,
+      "quality": "HDTV",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1022007.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Золотая рыбка",
-      "title_en": "Die Goldfische",
-      "year": 2019,
-      "kinopoisk_id": 1108851,
-      "type": "movie",
+      "title_ru": "Серая зона",
+      "title_en": "Greyzone",
+      "year": 2018,
+      "kinopoisk_id": 1115721,
+      "world_art_id": null,
+      "translator": "ViruseProject",
+      "token": "72ab85763bdc252e5edc8f7e1e742f139594f86ef69c85081fd9e11548f9e098",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-09 09:32:02",
+      "added_date": "2020-03-31 13:50:47",
+      "update_date": "2020-03-31 13:50:47",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Полное погружение",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1390625,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-09 00:55:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Хуманус",
-      "title_en": "HUMANUS",
-      "year": 2020,
-      "kinopoisk_id": 35656756,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-09 00:54:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Линька",
-      "title_en": "Shedding",
-      "year": 2020,
-      "kinopoisk_id": 1191895,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-09 00:52:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Айны",
-      "title_en": "Ainu Mosir / Ainu moshiri",
-      "year": 2020,
-      "kinopoisk_id": 1292674,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-09 00:51:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Рождественский герой",
-      "title_en": "A Christmas Hero",
-      "year": 2020,
-      "kinopoisk_id": 1272646,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-09 00:49:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "12 этаж",
-      "title_en": "12th Floor",
-      "year": 2019,
-      "kinopoisk_id": 8838870,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-09 00:48:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Последнее письмо",
-      "title_en": "Last Letter",
-      "year": 2020,
-      "kinopoisk_id": 1178968,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-09 00:45:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 72,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1115721.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Фантастическая звезда онлайн 2: Эпизод Оракул",
@@ -1019,87 +1107,6 @@
             22,
             23,
             24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Наследие",
-      "title_en": "Legacies",
-      "year": 2018,
-      "kinopoisk_id": 1120247,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "13d654fd95877f8955a2d9962b8c224220eb9cd3fd9eca5c49bd37c7ae641b4d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-27 12:08:25",
-      "update_date": "2020-03-27 12:08:25",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1120247.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Заместитель",
-      "title_en": "Deputy",
-      "year": 2020,
-      "kinopoisk_id": 1245494,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "cd191c78bf70662096c99fc1ab3761c3552742e3e6cf8d36c528db133257c6ba",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-27 12:05:31",
-      "update_date": "2020-03-27 12:05:31",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1245494.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

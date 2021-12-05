@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "title_ru": "Голоса",
+      "title_en": "Voices",
+      "year": 2020,
+      "kinopoisk_id": 1217141,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-29 12:23:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "11 секунд",
+      "title_en": "Acquitted by Faith",
+      "year": 2020,
+      "kinopoisk_id": 761715,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-29 12:21:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Восхождение убийцы",
+      "title_en": "A Killer Rising",
+      "year": 2020,
+      "kinopoisk_id": 1389444,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-29 12:20:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Телохранитель бабушки",
+      "title_en": "Lucky Grandma",
+      "year": 2019,
+      "kinopoisk_id": 1248556,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-29 10:04:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Чёрный дрозд",
+      "title_en": "Blackbird (La decisión)",
+      "year": 2020,
+      "kinopoisk_id": 1174220,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-29 10:03:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Рождество в Миддлтоне",
+      "title_en": "Middleton Christmas",
+      "year": 2020,
+      "kinopoisk_id": 1307779,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-28 23:19:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Колдовство: Новый ритуал",
+      "title_en": "The Craft: Legacy",
+      "year": 2020,
+      "kinopoisk_id": 1044213,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-28 23:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "23 прогулки",
+      "title_en": "23 Walks",
+      "year": 2020,
+      "kinopoisk_id": 1257258,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-28 23:15:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Кошки против собак 3: Лапы, объединяйтесь",
       "title_en": "Cats &amp; Dogs 3: Paws Unite",
       "year": 2020,
@@ -157,108 +261,110 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Террор Нуллиус",
-      "title_en": "Terror Nullius",
-      "year": 2018,
-      "kinopoisk_id": 1200414,
-      "type": "movie",
+      "title_ru": "Черное зеркало",
+      "title_en": "Black Mirror",
+      "year": 2011,
+      "kinopoisk_id": 655800,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "8f935363e64f553557dc1ba4fcc9fa7daa32f7d61cdeb851e6b9a2cfd932ff62",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-28 11:56:01",
+      "added_date": "2019-06-21 12:50:40",
+      "update_date": "2019-06-21 12:53:11",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/655800.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135634",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Вирусный",
-      "title_en": "Viral (Phee Toh Ra Sap)",
-      "year": 2018,
-      "kinopoisk_id": 1244248,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-28 11:55:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Когда спадёт жар",
-      "title_en": "When the Fever Breaks",
+      "title_ru": "Приятные хлопоты",
+      "title_en": "Good Trouble",
       "year": 2019,
-      "kinopoisk_id": 855359,
-      "type": "movie",
+      "kinopoisk_id": 1111888,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "feeb9156173b3d43ee9670f43b0746331469f02d0b46923bc3399e78292c0058",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-28 11:53:02",
+      "added_date": "2019-06-19 21:59:43",
+      "update_date": "2019-06-19 21:59:48",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Пей свою кровь",
-      "title_en": "Beber de tu sangre",
-      "year": 2020,
-      "kinopoisk_id": 45674565,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-27 22:59:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Заблудшие ангелы",
-      "title_en": "Lost Angelas",
-      "year": 2019,
-      "kinopoisk_id": 696256,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-27 22:57:05",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Спа",
-      "title_en": "Thalasso",
-      "year": 2020,
-      "kinopoisk_id": 1235265,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-27 22:56:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Три драмы",
-      "title_en": "Three Dramas",
-      "year": 2020,
-      "kinopoisk_id": 1403643,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-27 22:54:03",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Письма от Чарли",
-      "title_en": "Charlie's Letters / WWII: The Long Road Home",
-      "year": 2019,
-      "kinopoisk_id": 1191009,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-10-27 22:53:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1111888.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Янки",
@@ -892,70 +998,6 @@
       "quality": "WEB-DL",
       "poster": "https://st.kp.yandex.net/images/film_big/972587.jpg",
       "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=147763",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "12 часов",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1269616,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "16fe680dc902064f46ba5f2ca883bbf66360ab7cb92e67c808aa74369432baf1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-06-02 22:54:17",
-      "update_date": "2019-06-02 23:45:17",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1269616.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Падение Ордена",
-      "title_en": "Knightfall",
-      "year": 2017,
-      "kinopoisk_id": 1007957,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "23ddbf2586267bf505e856e68d8384045621fc9561f6ec07aa988ee717f79a50",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-04-23 15:02:44",
-      "update_date": "2019-06-02 15:40:16",
-      "block": [
-        "RU"
-      ],
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1007957.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=144757",
       "serial_episodes": [
         {
           "season_number": 2,

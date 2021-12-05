@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "title_ru": "Темная гавань",
+      "title_en": "Dark Harbor",
+      "year": 2019,
+      "kinopoisk_id": 1201730,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-26 00:34:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Восхождение",
+      "title_en": "The Climb",
+      "year": 2019,
+      "kinopoisk_id": 1168534,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-25 16:59:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Последняя смена",
+      "title_en": "The Last Shift",
+      "year": 2020,
+      "kinopoisk_id": 1284490,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-25 16:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Призраки фермы Грэйди",
+      "title_en": "The Haunting of Grady Farm",
+      "year": 2019,
+      "kinopoisk_id": 936935,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-25 16:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Штамм 100",
+      "title_en": "Strain 100",
+      "year": 2020,
+      "kinopoisk_id": 969036,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-25 16:56:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Свет в моей руке",
+      "title_en": "Mio on the Shore / Watashi wa hikari wo nigitteiru / Watashi wa hikari o nigitte iru",
+      "year": 2019,
+      "kinopoisk_id": 1256132,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-25 16:55:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Наш последний разговор",
+      "title_en": "When We Last Spoke",
+      "year": 2020,
+      "kinopoisk_id": 1178599,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-25 16:54:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сводные братья",
+      "title_en": "Half Brothers",
+      "year": 2020,
+      "kinopoisk_id": 1282217,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-25 16:53:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Будущая невеста",
       "title_en": "This Much",
       "year": 2020,
@@ -157,108 +261,72 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Фалько",
-      "title_en": "Falco",
-      "year": 2019,
-      "kinopoisk_id": 1332440,
-      "type": "movie",
+      "title_ru": "Апачи",
+      "title_en": "Apaches",
+      "year": 2017,
+      "kinopoisk_id": 484465,
+      "world_art_id": null,
+      "translator": "Мобильное телевидение",
+      "token": "dff25dca17c0e98cf2aa32f657a039e6493c346691f8e23a1d4047ebb55bf44e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-23 15:30:02",
+      "added_date": "2020-05-04 23:00:24",
+      "update_date": "2020-05-04 23:00:24",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 133,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/484465.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "На грани",
-      "title_en": "Wit's End",
-      "year": 2020,
-      "kinopoisk_id": 1407591,
-      "type": "movie",
+      "title_ru": "Двойной блюз",
+      "title_en": "",
+      "year": 2013,
+      "kinopoisk_id": 776427,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "c1c55c3a1a797f769bd5063499681d8362302da8b2f9cc33857f89a289aceec0",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-23 15:29:01",
+      "added_date": "2020-05-04 18:47:28",
+      "update_date": "2020-05-04 18:47:28",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Шепчуший",
-      "title_en": "The Surreal Project",
-      "year": 2019,
-      "kinopoisk_id": 1181623,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-23 15:27:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Любовные чары",
-      "title_en": "Loves Spell",
-      "year": 2020,
-      "kinopoisk_id": 1396214,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-23 15:26:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Похищенный",
-      "title_en": "Bound by Law / Black Market Baby / Stolen in Plain Sight",
-      "year": 2020,
-      "kinopoisk_id": 1355960,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-23 15:25:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сталкер в пустыне",
-      "title_en": "The Desert Stalker",
-      "year": 2019,
-      "kinopoisk_id": 11235086,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-23 15:24:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ателофобия 2",
-      "title_en": "Atelophobia: Throes of a Monarch",
-      "year": 2019,
-      "kinopoisk_id": 959222,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-23 15:22:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Палиндром",
-      "title_en": "Palindrome",
-      "year": 2020,
-      "kinopoisk_id": 1278096,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-23 15:21:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/776427.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Чужие дети",
@@ -1267,73 +1335,6 @@
             1,
             2,
             3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Эти глаза напротив",
-      "title_en": "",
-      "year": 2015,
-      "kinopoisk_id": 840923,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "359a25f0633b8f6b2b0df43d54e9b9ffeb6cc2cf47ca79cb7f78b60eee3ee416",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-01 23:23:33",
-      "update_date": "2020-05-01 23:23:33",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/840923.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Голливуд",
-      "title_en": "Hollywood",
-      "year": 2020,
-      "kinopoisk_id": 1244418,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "481fdc84adb00ae52bc47daa67b912ffddfdc6513f63afa636c5fc740ca9dd13",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-01 22:00:36",
-      "update_date": "2020-05-01 22:00:36",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1244418.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
           ]
         }
       ]

@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "title_ru": "Берлин, Александерплац",
+      "title_en": "Berlin Alexanderplatz",
+      "year": 2020,
+      "kinopoisk_id": 1038423,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-24 14:53:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Все оттенки Токио",
+      "title_en": "Lost Girls and Love Hotels",
+      "year": 2020,
+      "kinopoisk_id": 455623,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-24 09:01:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Здравствуй, папа, Новый год!",
+      "title_en": "Daddy\\'s Home",
+      "year": 2015,
+      "kinopoisk_id": 484428,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-24 02:51:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Мистер Одиночка",
+      "title_en": "Mr Lonesome",
+      "year": 2019,
+      "kinopoisk_id": 1291089,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-23 22:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Долли Партон: Рождество на площади",
+      "title_en": "Dolly Parton's Christmas on the Square",
+      "year": 2020,
+      "kinopoisk_id": 1288709,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-23 22:50:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мы короли",
+      "title_en": "We the Kings",
+      "year": 2018,
+      "kinopoisk_id": 983589,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-23 21:46:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Лето'85",
+      "title_en": "Été 85",
+      "year": 2020,
+      "kinopoisk_id": 1275788,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-23 21:45:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Жена художника",
+      "title_en": "The Artist's Wife",
+      "year": 2020,
+      "kinopoisk_id": 1121828,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-23 21:43:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "День курка",
+      "title_en": "Boss Level",
+      "year": 2020,
+      "kinopoisk_id": 1101569,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-23 21:41:03",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Мой дедушка — инопланетянин",
       "title_en": "Moj dida je pao s Marsa",
       "year": 2019,
@@ -144,121 +261,88 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Родина",
-      "title_en": "Gimtine",
+      "title_ru": "Бар «На грудь»",
+      "title_en": "",
       "year": 2019,
-      "kinopoisk_id": 1293415,
-      "type": "movie",
+      "kinopoisk_id": 1330098,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "9a234222d1585967df9c3832fd5e1943786798c8a63a47ccc12811476b611851",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-23 05:37:01",
+      "added_date": "2019-12-31 18:03:42",
+      "update_date": "2019-12-31 18:03:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1330098.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Похить меня!",
-      "title_en": "Kidnap Me",
-      "year": 2017,
-      "kinopoisk_id": 854837,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-23 05:34:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ctrl+Alt+Хэллоуин",
-      "title_en": "Ctrl+Alt+Trick/Treat",
-      "year": 2020,
-      "kinopoisk_id": 13374176,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-23 05:32:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Карнавал горя",
-      "title_en": "Carnival of Sorrows",
-      "year": 2018,
-      "kinopoisk_id": 839166,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-23 05:30:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Апрельские цветы",
-      "title_en": "April Flowers",
-      "year": 2017,
-      "kinopoisk_id": 891007,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-23 05:29:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "1982",
-      "title_en": "1982",
+      "title_ru": "Сосед",
+      "title_en": "El vecino",
       "year": 2019,
-      "kinopoisk_id": 1143762,
-      "type": "movie",
+      "kinopoisk_id": 1236775,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "d50b779f08a20b70937ee25cc5ef117606b4fb4e27a8219d07c744079e7b2fad",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-23 05:28:01",
+      "added_date": "2019-12-31 17:00:14",
+      "update_date": "2019-12-31 17:00:14",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Юношеские мечты",
-      "title_en": "Rêves de jeunesse",
-      "year": 2019,
-      "kinopoisk_id": 1271972,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-23 00:31:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Залог",
-      "title_en": "Dambo",
-      "year": 2020,
-      "kinopoisk_id": 1237995,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-23 00:05:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мечник",
-      "title_en": "Geomgaek",
-      "year": 2020,
-      "kinopoisk_id": 1045893,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-11-23 00:03:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1236775.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Когда зовёт сердце",
@@ -931,81 +1015,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мистер Робот",
-      "title_en": "Mr. Robot",
-      "year": 2015,
-      "kinopoisk_id": 859908,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "c1722a2fea3659fa5a306c77be1d351ccc98387f81d7e6267ed3df2878564948",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-25 10:24:45",
-      "update_date": "2019-12-25 10:24:45",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/859908.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=134055",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Затерянные в космосе",
-      "title_en": "Lost in Space",
-      "year": 2018,
-      "kinopoisk_id": 993176,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "c411f1386bf7d64a4495f1a5812ae36d72d97d676a707a7ad5aa616727ba73ea",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-24 20:40:28",
-      "update_date": "2019-12-24 20:40:28",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/993176.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=147584",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

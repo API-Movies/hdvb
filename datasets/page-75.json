@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "title_ru": "Сиделка",
+      "title_en": "Help",
+      "year": 2021,
+      "kinopoisk_id": 4383925,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-19 01:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дорогой Эван Хансен",
+      "title_en": "Dear Evan Hansen",
+      "year": 2021,
+      "kinopoisk_id": 1322912,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-19 01:29:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Новое Евангелие",
+      "title_en": "Das Neue Evangelium",
+      "year": 2020,
+      "kinopoisk_id": 1396043,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-19 01:28:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Нарушенная клятва",
+      "title_en": "Broken Covenant",
+      "year": 2021,
+      "kinopoisk_id": 57546756,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-19 01:27:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "",
+      "title_en": "Brain Freeze",
+      "year": 2021,
+      "kinopoisk_id": 1346773,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-19 01:22:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Северный бастион",
+      "title_en": "BAC Nord",
+      "year": 2020,
+      "kinopoisk_id": 1281654,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-19 01:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Посылка Адама",
+      "title_en": "Adam's Package",
+      "year": 2021,
+      "kinopoisk_id": 1267836,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-19 01:18:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Черный пес",
+      "title_en": "Black Dog",
+      "year": 1998,
+      "kinopoisk_id": 1985,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-18 18:56:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Чёрная Вдова",
+      "title_en": "Black Widow",
+      "year": 2021,
+      "kinopoisk_id": 823956,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-18 18:55:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Небесный конь",
       "title_en": "A Horse from Heaven",
       "year": 2018,
@@ -144,121 +261,106 @@
       "quality": "TS"
     },
     {
-      "title_ru": "В Ибадане",
-      "title_en": "In Ibadan",
+      "title_ru": "Сирены",
+      "title_en": "Sirene",
+      "year": 2017,
+      "kinopoisk_id": 1388509,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "ec1b54bc2932f1d819576d4af6d7f26e9b1a728810a49d7e08bf2d322bca0de7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-06-15 09:08:51",
+      "update_date": "2021-06-25 20:29:55",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1388509.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Элита",
+      "title_en": "The A List",
+      "year": 2018,
+      "kinopoisk_id": 1211317,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "74d360b61d2ef135d1619c4bac7dd281842662459a2e14db1e3b6f4d35c4cb71",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-06-25 13:24:24",
+      "update_date": "2021-06-25 16:26:23",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1211317.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Хрустальный",
+      "title_en": "",
       "year": 2021,
-      "kinopoisk_id": 14389388,
-      "type": "movie",
+      "kinopoisk_id": 4360157,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "81eff6b88523d453ac02784b5a295bb436fac3e73d92b70d9b3816fd5be9a367",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-09-18 15:48:01",
+      "added_date": "2021-04-20 18:01:52",
+      "update_date": "2021-06-25 16:06:56",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Я ношу тебя с собой",
-      "title_en": "I Carry You with Me",
-      "year": 2020,
-      "kinopoisk_id": 1328565,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-18 15:43:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Огонь внутри",
-      "title_en": "Fuego adentro",
-      "year": 2020,
-      "kinopoisk_id": 1331075,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-18 15:42:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Афроамерика",
-      "title_en": "African America",
-      "year": 2021,
-      "kinopoisk_id": 13920016,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-18 15:40:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Поток",
-      "title_en": "Streamline",
-      "year": 2021,
-      "kinopoisk_id": 1302062,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-18 15:36:35",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Бал безумных женщин",
-      "title_en": "Le bal des folles",
-      "year": 2021,
-      "kinopoisk_id": 1448679,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-18 15:34:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Рыба, плавающая брюхом вверх",
-      "title_en": "Ein Fisch, der auf dem Rücken schwimmt",
-      "year": 2020,
-      "kinopoisk_id": 1334901,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-18 15:28:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Глубоко в лесу",
-      "title_en": "Deep in the Forest",
-      "year": 2021,
-      "kinopoisk_id": 1347858,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-18 15:26:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "",
-      "title_en": "Descarrilados",
-      "year": 2021,
-      "kinopoisk_id": 1398035,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-18 01:19:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4360157.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Домина",
@@ -1414,112 +1516,6 @@
       "serial_episodes": [
         {
           "season_number": 5,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Хитрости",
-      "title_en": "Hacks",
-      "year": 2021,
-      "kinopoisk_id": 4467466,
-      "world_art_id": null,
-      "translator": "Novamedia",
-      "token": "eec1f42019d1a120c41f772b72835290855407544c374923768d1d07801d3b7c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-06-20 21:45:44",
-      "update_date": "2021-06-23 21:56:53",
-      "block": false,
-      "translator_id": 51,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4467466.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Стриптизёры",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 4445827,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "18f8f09256d8e1bb6d52c194839fc15a500822140a37fb0ab822801b928fa4f8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-25 09:38:22",
-      "update_date": "2021-06-22 20:23:38",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4445827.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Смешанный лицей",
-      "title_en": "Mixte",
-      "year": 2021,
-      "kinopoisk_id": 1404674,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "d24f0678c2fef69e5873d07ff17a28417bfff7524038897e3fd1fd753470ec41",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-06-14 11:51:32",
-      "update_date": "2021-06-22 19:35:38",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1404674.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 8,
           "episodes": [
             1,

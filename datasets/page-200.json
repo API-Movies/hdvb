@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "title_ru": "Последовательность",
+      "title_en": "Sequence",
+      "year": 2013,
+      "kinopoisk_id": 754997,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-09 00:10:01",
+      "block": false,
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "У матросов нет вопросов",
+      "title_en": "",
+      "year": 1981,
+      "kinopoisk_id": 42474,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-08 18:55:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Позывной «Карим»",
+      "title_en": "Karim",
+      "year": 2020,
+      "kinopoisk_id": 1304244,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-08 18:54:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Зоя",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1289029,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-08 18:49:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Фетровый роман",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1842834,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-08 10:31:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Зоя Космодемьянская",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4365698,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-07 22:29:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Монстр",
+      "title_en": "Monster",
+      "year": 2020,
+      "kinopoisk_id": 760666,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-07 21:46:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Недобоги",
+      "title_en": "Undergods",
+      "year": 2021,
+      "kinopoisk_id": 1120448,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-07 21:42:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Бумажные тигры",
       "title_en": "The Paper Tigers",
       "year": 2021,
@@ -157,108 +261,78 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Две полоски",
-      "title_en": "Positive",
-      "year": 2020,
-      "kinopoisk_id": 1225170,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-07 02:16:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ночная смена",
-      "title_en": "Night Shift",
-      "year": 2021,
-      "kinopoisk_id": 989605,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-07 02:15:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Я, мама, моя мать и я",
-      "title_en": "Moi, maman, ma mère et moi",
+      "title_ru": "Бальтазар",
+      "title_en": "Balthazar",
       "year": 2018,
-      "kinopoisk_id": 1069408,
-      "type": "movie",
+      "kinopoisk_id": 1210572,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "6eb44da2496a988cce303582cdb500473057453ed1eafda84a006f2f7ade6d28",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-07 02:14:01",
+      "added_date": "2020-11-08 00:02:34",
+      "update_date": "2020-11-18 11:34:51",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1210572.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "И с тех пор я сошла с ума",
-      "title_en": "Depois a Louca Sou Eu / And They Say I Am the Crazy One",
-      "year": 2019,
-      "kinopoisk_id": 1307092,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-07 02:13:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Убийца с разбитым сердцем",
-      "title_en": "The Hart-Break Killer",
-      "year": 2019,
-      "kinopoisk_id": 1229890,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-06 22:10:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Современная жизнь – отстой",
-      "title_en": "Modern Life Is Rubbish",
-      "year": 2017,
-      "kinopoisk_id": 707955,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-06 21:31:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Снежное чудовище",
-      "title_en": "Snow Monster",
+      "title_ru": "Южный ветер. Возвращение",
+      "title_en": "Juzni vetar",
       "year": 2020,
-      "kinopoisk_id": 78980774,
-      "type": "movie",
+      "kinopoisk_id": 1302593,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "57b0b887dbeda39091f75e6e8feaaeb780aedaf0796a36624699cf6b7180dc9b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-06 21:01:02",
+      "added_date": "2020-09-18 13:49:23",
+      "update_date": "2020-11-18 08:09:47",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Маошань",
-      "title_en": "Maoshan",
-      "year": 2021,
-      "kinopoisk_id": 79126645,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-06 20:59:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1302593.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Вишнёвый сезон",
@@ -1087,82 +1161,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Гари и его демоны",
-      "title_en": "Gary and His Demons",
-      "year": 2018,
-      "kinopoisk_id": 1145673,
-      "world_art_id": null,
-      "translator": "2x2",
-      "token": "54d0e8f2b7501ca2cfa69efa92a757a3314206de99618fa4fd3e71e2063928bf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-16 19:20:11",
-      "update_date": "2020-11-16 19:21:22",
-      "block": false,
-      "translator_id": 1,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1145673.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Московский нуар",
-      "title_en": "Dirigenten",
-      "year": 2018,
-      "kinopoisk_id": 1192770,
-      "world_art_id": null,
-      "translator": "ViruseProject",
-      "token": "f11a2e1ebe50ee5e8f795925864c7ab08c93427c048083b4ed0850a56bf102eb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-16 19:16:20",
-      "update_date": "2020-11-16 19:19:00",
-      "block": false,
-      "translator_id": 72,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1192770.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]
