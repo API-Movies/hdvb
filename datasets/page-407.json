@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Настоящие",
+      "title_en": "Real",
+      "year": 2020,
+      "kinopoisk_id": 1181393,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-09 21:56:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Ген Казановы",
       "title_en": "Casanovagen",
       "year": 2018,
@@ -248,17 +261,254 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Киллер по вызову",
-      "title_en": "Lucky Day",
-      "year": 2019,
-      "kinopoisk_id": 1047875,
-      "type": "movie",
+      "title_ru": "СМЕРШ. Продолжение",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1203030,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "8acb733293b60f0f63ea76a05e88a61dcb828bc11f0396372b5280d18af57998",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-09 09:36:01",
+      "added_date": "2019-04-28 14:58:07",
+      "update_date": "2019-05-18 20:00:37",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1203030.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Американские боги",
+      "title_en": "American Gods",
+      "year": 2017,
+      "kinopoisk_id": 591843,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "176ecec702c400d173cd09a3078778ce56f966e6dc51398ce341692da9cc52ef",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-04-05 14:39:44",
+      "update_date": "2019-04-28 15:48:03",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/591843.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=139987",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "СМЕРШ",
+      "title_en": "",
+      "year": 2007,
+      "kinopoisk_id": 450142,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "dee4ab337269d098b307cd8972b6f4e3edff5cfcbd4cbecb3c0dd3bdf643acd6",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-04-28 14:57:02",
+      "update_date": "2019-04-28 14:57:30",
+      "block": false,
+      "translator_id": 92,
+      "quality": "DVDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/450142.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Подсудимый",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1178003,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "587813cc1767dd19e3319df97c1995307bb91c5a1dcebd38368c30ca4406129c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-04-23 23:41:31",
+      "update_date": "2019-04-27 12:33:02",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1178003.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Покои",
+      "title_en": "Chambers",
+      "year": 2019,
+      "kinopoisk_id": 1144177,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "e96285b291908054cbbcec64f02f4fc13988c2317a9728fba04b051d6f683a3b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-04-27 01:49:18",
+      "update_date": "2019-04-27 10:18:57",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1144177.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Плащ и Кинжал",
+      "title_en": "Cloak &amp; Dagger",
+      "year": 2018,
+      "kinopoisk_id": 978854,
+      "world_art_id": null,
+      "translator": "KosharaSerials",
+      "token": "46624d5de52f27ae969bba5a696a75efa21110ecc601d60d651a876024c98cf8",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-04-12 12:56:06",
+      "update_date": "2019-04-27 01:18:42",
+      "block": false,
+      "translator_id": 111,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/978854.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140183",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мертвое озеро",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1043854,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "5296849d665abd5b8b152fbcf9d0aa6560a987c11a61368c0ba4dfcee11edb94",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-03-14 00:35:08",
+      "update_date": "2019-04-25 14:39:09",
+      "block": [
+        "RU"
+      ],
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1043854.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Кобра Кай",
@@ -711,288 +961,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Лучше, чем люди",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 996399,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "27e596d8c1db180952cba4dbcf9b845a48ad60c1959b9354a1b01854c2e45278",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-11-23 12:27:48",
-      "update_date": "2019-03-01 11:23:05",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/996399.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Пустыня",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1183606,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "f805bc756cc230eb20e067c78518b7c48bf3b00cdd73449c2e0509cca9fd4f2f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-02-25 13:06:33",
-      "update_date": "2019-02-25 14:59:33",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1183606.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Лапси",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1047269,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "d41d378e3cbf608ef07e38bba1cc22b0cad8c43a19b2811db2f76ea480b59128",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-01-04 11:38:11",
-      "update_date": "2019-02-22 13:56:09",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1047269.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=145418",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Фронт",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 843641,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "2ff8c5693d571eb6b9e2c3770b441d694ca8641fade99b07974d1071153abbe2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-02-04 13:56:27",
-      "update_date": "2019-02-15 10:04:07",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/843641.jpg",
-      "trailer": "https://kp.cdn.yandex.net/843641/kinopoisk.ru-Front-259473.mp4",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ланцет",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1046036,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "5757cbaaba2c4c64ab0a6e86c85b4461908147ea2f8810b8483b92c4e3bf067f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-01-28 16:46:47",
-      "update_date": "2019-02-10 11:47:32",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1046036.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Султан моего сердца",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1111704,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "f8d2febd2b392b526a803c8ac0614f934355b62400560bd1a22e8e94a8280a89",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-01-08 22:42:18",
-      "update_date": "2019-02-02 15:22:34",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1111704.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 24,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Возмездие",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1112970,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "4030fbffc7f8b7ff0bd4a4ce99e14be999872b246a3df6f3e1718c326bccf57a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-01-28 22:55:55",
-      "update_date": "2019-02-02 12:29:40",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1112970.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

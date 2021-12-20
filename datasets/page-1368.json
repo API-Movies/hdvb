@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title_ru": "На границе миров",
+      "title_en": "Gräns",
+      "year": 2018,
+      "kinopoisk_id": 1101939,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-28 17:27:27",
+      "block": [
+        "RU"
+      ],
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Солнце",
       "title_en": "Solis",
       "year": 2018,
@@ -248,19 +263,6 @@
       "translator": "Дубляж",
       "translator_id": 82,
       "quality": "BluRay"
-    },
-    {
-      "title_ru": "",
-      "title_en": "",
-      "year": 0,
-      "kinopoisk_id": null,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "1970-01-01 03:00:00",
-      "block": false,
-      "translator": "",
-      "translator_id": 0,
-      "quality": ""
     }
   ]
 }

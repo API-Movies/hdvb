@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Помни меня",
+      "title_en": "Remember Me",
+      "year": 2019,
+      "kinopoisk_id": 1032510,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-07 09:39:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Повестка",
       "title_en": "Citation",
       "year": 2020,
@@ -248,17 +261,219 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "От печали до радости",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1283727,
-      "type": "movie",
+      "title_ru": "Шучу",
+      "title_en": "Kidding",
+      "year": 2018,
+      "kinopoisk_id": 1161788,
+      "world_art_id": null,
+      "translator": "Coldfilm",
+      "token": "45ad45ce94b8948e3b5cf06ff050ad3f48717d398f62b11759c48fa29ac4a43f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-06 08:44:02",
+      "added_date": "2018-10-15 13:08:53",
+      "update_date": "2018-10-15 13:08:53",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "HDTV"
+      "translator_id": 15,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1161788.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=150032",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Шучу",
+      "title_en": "Kidding",
+      "year": 2018,
+      "kinopoisk_id": 1161788,
+      "world_art_id": null,
+      "translator": "Newstudio",
+      "token": "f2502733289368ebfb2b8c35b462e6212ec6a865cd136eadd0dec95732e8b6ee",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2018-10-15 13:08:12",
+      "update_date": "2018-10-15 13:08:12",
+      "block": false,
+      "translator_id": 48,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1161788.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=150032",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Шучу",
+      "title_en": "Kidding",
+      "year": 2018,
+      "kinopoisk_id": 1161788,
+      "world_art_id": null,
+      "translator": "Украинский",
+      "token": "ee2c77a3ae56fc92e2f1fe54bda115811befb80b9fce0e280891517b6bd28d58",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2018-10-15 13:07:02",
+      "update_date": "2018-10-15 13:07:02",
+      "block": false,
+      "translator_id": 101,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1161788.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=150032",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Шучу",
+      "title_en": "Kidding",
+      "year": 2018,
+      "kinopoisk_id": 1161788,
+      "world_art_id": null,
+      "translator": "Кубик в Кубе",
+      "token": "313ecd3ae4162b9c1b5ba17b70a74c0329a0f741ecf4f4dd2c6d5a965887624a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2018-10-15 13:05:38",
+      "update_date": "2018-10-15 13:05:38",
+      "block": false,
+      "translator_id": 86,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1161788.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=150032",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Луис Мигель: Сериал",
+      "title_en": "Luis Miguel: La Serie",
+      "year": 2018,
+      "kinopoisk_id": 1115554,
+      "world_art_id": null,
+      "translator": "Sunshine Studio",
+      "token": "37a45325a33f0e260bc4605f65804b12a70403dcca1a20000f12ff74b3f8511c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2018-10-15 12:53:12",
+      "update_date": "2018-10-15 12:53:12",
+      "block": false,
+      "translator_id": 67,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1115554.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Всеамериканский",
+      "title_en": "All American",
+      "year": 2018,
+      "kinopoisk_id": 1117951,
+      "world_art_id": null,
+      "translator": "Newstudio",
+      "token": "cd7156229cf2d9649a96046aa115c76c48a9d68891a65d37963bee36da7d432e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2018-10-15 12:39:28",
+      "update_date": "2018-10-15 12:39:28",
+      "block": false,
+      "translator_id": 48,
+      "quality": "WEBRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1117951.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 1,
+          "episodes": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Плач",
+      "title_en": "The Cry",
+      "year": 2018,
+      "kinopoisk_id": 1153445,
+      "world_art_id": null,
+      "translator": "Newstudio",
+      "token": "ba444a7e571c41b3caacbdede97cde8af15096ac5af433cdc73a4d24630d31e5",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2018-10-15 12:37:19",
+      "update_date": "2018-10-15 12:37:19",
+      "block": false,
+      "translator_id": 48,
+      "quality": "WEBRip",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmE0NDIzOTUtMzliMC00MDc3LTgzM2MtZDgyYjY5YjA5MWM1XkEyXkFqcGdeQXVyNTY2MzkxMjc@._V1_SY1000_CR0,0,702,1000_AL_.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=154336",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Титаны",
@@ -1360,158 +1575,6 @@
           ]
         }
       ]
-    },
-    {
-      "title_ru": "Красные браслеты",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 891366,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "d1fb8a17cef5d09b9b753e2e0c77a85da506d4b5cb6f8ea6f74aec0e4aad94bf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-08-18 11:35:53",
-      "update_date": "2018-08-18 11:35:53",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/891366.jpg",
-      "trailer": "https://kp.cdn.yandex.net/891366/kinopoisk.ru-Krasnie-brasleti-304832.mp4",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Надежда как свидетельство жизни",
-      "title_en": "",
-      "year": 2008,
-      "kinopoisk_id": 406136,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "eff3c237f8400d7a4e46221129328f0c52d95b09ca9dfec9d8dee546c65e9bda",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-31 15:05:04",
-      "update_date": null,
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/406136.jpg",
-      "trailer": "",
-      "serial_episodes": []
-    },
-    {
-      "title_ru": "Пес",
-      "title_en": "",
-      "year": 2015,
-      "kinopoisk_id": 927789,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "9ebaaae5038c708e848d2bb1023c2fec67229b7481f22d522b1d9aadca8e4c21",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-30 23:56:10",
-      "update_date": null,
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/927789.jpg",
-      "trailer": "",
-      "serial_episodes": []
-    },
-    {
-      "title_ru": "",
-      "title_en": "",
-      "year": 0,
-      "kinopoisk_id": null,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "0583f4851edb2c2cf05a32fa6e402f6b7692b6889f4ca5e94cdce3495c41db0c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-14 21:10:15",
-      "update_date": null,
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/0.jpg",
-      "trailer": "https://www.youtube.com/embed/k46eyAPGeLA",
-      "serial_episodes": []
-    },
-    {
-      "title_ru": "",
-      "title_en": "",
-      "year": 0,
-      "kinopoisk_id": null,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "1b7b4dd669276189a5df2c1e36bbcafb7968e55cd5cda1b4a1d624c4b33621e4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-10-11 20:04:24",
-      "update_date": null,
-      "block": false,
-      "translator_id": 14,
-      "quality": "CAMRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/0.jpg",
-      "trailer": "https://www.youtube.com/embed/k46eyAPGeLA",
-      "serial_episodes": []
-    },
-    {
-      "title_ru": "Форт Боярд",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1281917,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "5cd2a1846519c004319ff3c4132d86fec7c6e038a8cf873a8c77e0814cda32f1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-10-16 13:15:05",
-      "update_date": null,
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1281917.jpg",
-      "trailer": "",
-      "serial_episodes": []
-    },
-    {
-      "title_ru": "",
-      "title_en": "",
-      "year": 0,
-      "kinopoisk_id": null,
-      "world_art_id": null,
-      "translator": "",
-      "token": "",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "1970-01-01 03:00:00",
-      "update_date": null,
-      "block": false,
-      "translator_id": 0,
-      "quality": "",
-      "poster": "https://www.kinopoisk.ru/images/film_big/.jpg",
-      "trailer": "",
-      "serial_episodes": []
     }
   ]
 }

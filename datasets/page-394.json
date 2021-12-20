@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Я существую",
+      "title_en": "I Am That",
+      "year": 2020,
+      "kinopoisk_id": 1000854,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-24 14:59:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Долгая ночь",
       "title_en": "Longa noite",
       "year": 2019,
@@ -248,17 +261,227 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Рождённые с саблей",
-      "title_en": "Zrodzeni do szabli",
+      "title_ru": "Кровавый бард",
+      "title_en": "Bard of Blood",
       "year": 2019,
-      "kinopoisk_id": 1302016,
-      "type": "movie",
+      "kinopoisk_id": 1177880,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "84e2e9264a90059174a395fa26d4a08efba0bb502e972abb31961fc567affb58",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-23 05:46:01",
+      "added_date": "2019-09-30 21:57:40",
+      "update_date": "2019-09-30 21:57:40",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1177880.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Горизонт",
+      "title_en": "Skylines",
+      "year": 2019,
+      "kinopoisk_id": 1268559,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "35d051c55ca91b29a4afdadc418f02c4f4913180184f6d1573c256f8c96f0100",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-09-30 20:46:47",
+      "update_date": "2019-09-30 20:46:47",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1268559.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Горизонт",
+      "title_en": "Skylines",
+      "year": 2019,
+      "kinopoisk_id": 1268559,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "a59f849f7a97ddefe3a04e444e8ba24ffccc43dc6a28172460609fe1e470a002",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-09-30 08:36:05",
+      "update_date": "2019-09-30 08:36:05",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1268559.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Пенниуорт",
+      "title_en": "Pennyworth",
+      "year": 2019,
+      "kinopoisk_id": 1142552,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "a5b14394b5d8d14b04050551110055edd921cb6a62e2855fce5af8ea31dd02db",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-09-30 08:24:21",
+      "update_date": "2019-09-30 08:24:21",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1142552.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Горячее свидание",
+      "title_en": "Hot Date",
+      "year": 2017,
+      "kinopoisk_id": 7603386,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "55d66d5caec9e2fc5b16073306a06b15886e70b94586d3f45075a0c026d3cee2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-09-29 23:52:49",
+      "update_date": "2019-09-29 23:52:49",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/7603386.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Клуб первых жён",
+      "title_en": "First Wives Club",
+      "year": 2019,
+      "kinopoisk_id": 7546362,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "50c0b4486ce386c1e1cfceec80426c20fe9ee27c5f5e3ea0784f3ebea20baf87",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-09-29 23:40:07",
+      "update_date": "2019-09-29 23:40:07",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/7546362.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "",
+      "title_en": "",
+      "year": 0,
+      "kinopoisk_id": null,
+      "world_art_id": null,
+      "translator": "",
+      "token": "",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "1970-01-01 03:00:00",
+      "update_date": "2019-09-29 19:26:39",
+      "block": false,
+      "translator_id": 0,
+      "quality": "",
+      "poster": "https://www.kinopoisk.ru/images/film_big/.jpg",
+      "trailer": "",
+      "serial_episodes": []
     },
     {
       "title_ru": "Бойтесь ходячих мертвецов",
@@ -724,248 +947,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Моя жизнь — убийство",
-      "title_en": "My Life is Murder",
-      "year": 2019,
-      "kinopoisk_id": 1282413,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "0e1a5de27429e0bdff31eb05fa2056dad6545079b46c751beb5bb8ba639f3d96",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-17 15:51:49",
-      "update_date": "2019-09-23 09:16:01",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1282413.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Пришельцы из прошлого",
-      "title_en": "Fremvandrerne",
-      "year": 2019,
-      "kinopoisk_id": 1212764,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "7880ce2fc8ab6758ca5ae4414f2c9d7767d665932acbaa957a9ab295a85d8245",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-23 13:32:49",
-      "update_date": "2019-09-23 09:13:29",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1212764.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Пирсон",
-      "title_en": "Pearson",
-      "year": 2019,
-      "kinopoisk_id": 1115520,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "d4d2c29b949e637dba66093a69e2afdabeaf2c63a063b8a893fb633488e5502e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-18 15:59:41",
-      "update_date": "2019-09-23 08:26:17",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1115520.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Острые козырьки",
-      "title_en": "Peaky Blinders",
-      "year": 2013,
-      "kinopoisk_id": 716587,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "dfc6a8c2e6e4c57c9607da47dcddc8d468b6095854be1d5eb18d6a1360f67c34",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-26 11:18:41",
-      "update_date": "2019-09-23 08:18:18",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/716587.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=134056",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Снегопад",
-      "title_en": "Snowfall",
-      "year": 2017,
-      "kinopoisk_id": 909854,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "6a9f216c62cc3f9452ce673a13c26ed2ed13830f02d10579c1a4dd717fa12b63",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-11 22:05:06",
-      "update_date": "2019-09-23 01:15:59",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/909854.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=141427",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Шоу Шермана",
-      "title_en": "Sherman's Showcase",
-      "year": 2019,
-      "kinopoisk_id": 1153386,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "542ac73773988530289903d0cd49d8598b55767917e26481f259b247584f821f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-30 19:26:38",
-      "update_date": "2019-09-23 00:20:41",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1153386.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кайфоломы / Киллджойс",
-      "title_en": "Killjoys",
-      "year": 2015,
-      "kinopoisk_id": 891589,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "4f5a6fe90018950fca228b3f5bf151622bb6e25312716c8d05a78ece35e763c4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-20 16:22:38",
-      "update_date": "2019-09-21 14:37:35",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/891589.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=117215",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

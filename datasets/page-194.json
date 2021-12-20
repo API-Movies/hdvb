@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Вознесение",
+      "title_en": "Ascension",
+      "year": 2018,
+      "kinopoisk_id": 972488,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-01 23:23:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Калипсо",
       "title_en": "Calypso",
       "year": 2019,
@@ -248,17 +261,493 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Туалетный аллигатор",
-      "title_en": "Toilet Gator",
-      "year": 2017,
-      "kinopoisk_id": 874320,
-      "type": "movie",
+      "title_ru": "Фарго",
+      "title_en": "Fargo",
+      "year": 2014,
+      "kinopoisk_id": 767379,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "64186397071c8e7fe6e8fe2436479554318d6ba30a5d9c0e04963a257fa0219b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-31 23:16:01",
+      "added_date": "2019-07-01 20:51:27",
+      "update_date": "2020-12-01 23:55:30",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/767379.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=139810",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Судная ночь",
+      "title_en": "The Purge",
+      "year": 2018,
+      "kinopoisk_id": 1021557,
+      "world_art_id": null,
+      "translator": "Пифагор",
+      "token": "94fe36889aa4ae2fc3524515942b0565aae6deb36551076ab0d929b813fa3892",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-01 23:44:39",
+      "update_date": "2020-12-01 23:45:22",
+      "block": false,
+      "translator_id": 124,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1021557.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=150471",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Отыграть назад",
+      "title_en": "The Undoing",
+      "year": 2020,
+      "kinopoisk_id": 1209420,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "8262ec522cbab538b03bc5155e414c50ac1229f5f4c732784b81a8292ad8a827",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-27 09:50:57",
+      "update_date": "2020-12-01 23:19:43",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1209420.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Звёздные войны: Повстанцы",
+      "title_en": "Star Wars: Rebels",
+      "year": 2014,
+      "kinopoisk_id": 803148,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "a91050e89332f945c2a52477ff24420fee1c20fa48de9efdd1b869952badb351",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-01 21:47:09",
+      "update_date": "2020-12-01 22:38:44",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/803148.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 21,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 21,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мистер Пиклз",
+      "title_en": "Mr. Pickles",
+      "year": 2013,
+      "kinopoisk_id": 842986,
+      "world_art_id": null,
+      "translator": "2x2",
+      "token": "e9641693bf8178c999ae8504b9423ffad831dda68fb6b25fd5b9eeb3ee13f3c9",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-01 20:38:45",
+      "update_date": "2020-12-01 20:42:10",
+      "block": false,
+      "translator_id": 1,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/842986.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=109052",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "1994",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1178824,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "d1af9d69348220c791b4027975ad7522e052305e81f2ee6cde9ce9161e2dd466",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-11-24 17:11:01",
+      "update_date": "2020-12-01 18:48:56",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1178824.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Фарго",
+      "title_en": "Fargo",
+      "year": 2014,
+      "kinopoisk_id": 767379,
+      "world_art_id": null,
+      "translator": "Novamedia",
+      "token": "2ac8aff6675f95bd6507912f501febbc81ba4e8e4954262accc5e1648e5c1b57",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-04 10:15:51",
+      "update_date": "2020-12-01 17:15:09",
+      "block": false,
+      "translator_id": 51,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/767379.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=139810",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Команда «Мстители»",
+      "title_en": "Avengers Assemble",
+      "year": 2013,
+      "kinopoisk_id": 714433,
+      "world_art_id": null,
+      "translator": "HamsterStudio",
+      "token": "ef58f490b121d09cea41529bbb9a70237f11471a50520ad5a592b9415850b258",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-01 17:03:41",
+      "update_date": "2020-12-01 17:04:28",
+      "block": false,
+      "translator_id": 32,
+      "quality": "WEB-DLRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/714433.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 23,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Команда «Мстители»",
@@ -995,312 +1484,6 @@
             38,
             39,
             40
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кузей Гюней",
-      "title_en": "Kuzey Güney",
-      "year": 2011,
-      "kinopoisk_id": 622126,
-      "world_art_id": null,
-      "translator": "многоголосый закадровый",
-      "token": "dcedc80a61a11b314d0354d5834e63d87aa0525960a45cba514a1da06c147e59",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-30 19:29:11",
-      "update_date": "2020-11-30 19:52:15",
-      "block": false,
-      "translator_id": 89,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/622126.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 40,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Шервуд",
-      "title_en": "Sherwood",
-      "year": 2019,
-      "kinopoisk_id": 1245444,
-      "world_art_id": null,
-      "translator": "NewStation",
-      "token": "e0f7abcaa62ae8e40e6f7f1ec496df1bb2b8977089a0e54cf493efda1ca2143d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-30 17:10:41",
-      "update_date": "2020-11-30 17:12:49",
-      "block": false,
-      "translator_id": 138,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1245444.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мстители: Всегда вместе",
-      "title_en": "Avengers",
-      "year": 1999,
-      "kinopoisk_id": 441415,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "31f498406ad167d3da8a211ee1d33c8d64e28148c99b0ab900ed94e531d53c4f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-30 17:05:49",
-      "update_date": "2020-11-30 17:07:18",
-      "block": false,
-      "translator_id": 82,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/441415.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "В поиске",
-      "title_en": "Looking",
-      "year": 2014,
-      "kinopoisk_id": 724702,
-      "world_art_id": null,
-      "translator": "двухголосый закадровый",
-      "token": "b11e8c89c4299e10238ee5f0f3daed614509f1e4235656f5084da1f3b8e9abc5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-30 17:01:59",
-      "update_date": "2020-11-30 17:04:21",
-      "block": false,
-      "translator_id": 81,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/724702.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "В поиске",
-      "title_en": "Looking",
-      "year": 2014,
-      "kinopoisk_id": 724702,
-      "world_art_id": null,
-      "translator": "Alt Pro",
-      "token": "a20ee25d53acab799c596a796dd34cc64feae55be20ad90a4d678918284def86",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-30 17:00:53",
-      "update_date": "2020-11-30 17:01:46",
-      "block": false,
-      "translator_id": 5,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/724702.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Зыбучие пески",
-      "title_en": "Quicksand",
-      "year": 2019,
-      "kinopoisk_id": 1203037,
-      "world_art_id": null,
-      "translator": "Кубик в Кубе",
-      "token": "e174a3128c445125a624ab5d153c4f516b73c0fba79d030e4d8fadf46dad36ce",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-30 16:51:20",
-      "update_date": "2020-11-30 16:52:57",
-      "block": false,
-      "translator_id": 86,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1203037.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мистер Хутен и Леди Александра",
-      "title_en": "Hooten &amp; the Lady",
-      "year": 2016,
-      "kinopoisk_id": 992628,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "8b0f14c2bec55d57802d1cf03c37f487f5a72cdb25af2accc2f9e0b3861c2807",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-30 16:18:46",
-      "update_date": "2020-11-30 16:23:45",
-      "block": false,
-      "translator_id": 82,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/992628.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Убийства по алфавиту",
-      "title_en": "The ABC Murders",
-      "year": 2018,
-      "kinopoisk_id": 1162802,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "d648e5f4660808c718ff6738ad080f2ffac4ccf5966c512f4c209d472110f6c0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-30 16:09:25",
-      "update_date": "2020-11-30 16:13:14",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1162802.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
           ]
         }
       ]

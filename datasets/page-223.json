@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title_ru": "Скованные",
+      "title_en": "Chained the Movie",
+      "year": 2018,
+      "kinopoisk_id": 1321896,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-04 00:29:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Бенни тебя любит",
       "title_en": "Benny Loves You",
       "year": 2019,
@@ -248,17 +261,434 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Малолетние преступники / Малолетние преступники: Новый мировой порядок",
-      "title_en": "Juvenile Delinquents / Juvenile Delinquents: New World Order",
-      "year": 2020,
-      "kinopoisk_id": 1168384,
-      "type": "movie",
+      "title_ru": "Робин Гуд",
+      "title_en": "Robin Hood",
+      "year": 2006,
+      "kinopoisk_id": 399155,
+      "world_art_id": null,
+      "translator": "ТВ-3",
+      "token": "17a6cc304400dca0ad77a868ecc7b25833690c1b70b4069b6ba3650afdecfa20",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-02 12:24:01",
+      "added_date": "2020-10-26 22:39:30",
+      "update_date": "2020-10-26 22:41:58",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 100,
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/399155.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ночью и днём",
+      "title_en": "Nit i dia",
+      "year": 2016,
+      "kinopoisk_id": 977941,
+      "world_art_id": null,
+      "translator": "ViruseProject",
+      "token": "c1a3c0c9cbf8ebf591fc26eac7ffe068368eeb1f86d5e08b7d8c429c4c714e7f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-26 22:36:57",
+      "update_date": "2020-10-26 22:38:05",
+      "block": false,
+      "translator_id": 72,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/977941.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Все, что она хотела",
+      "title_en": "Everything She Ever Wanted",
+      "year": 2009,
+      "kinopoisk_id": 565210,
+      "world_art_id": null,
+      "translator": "Профессиональный (многоголосый)",
+      "token": "70b24a35a0be8b45a071066a37963587d606d17a73a0061f210daa182710055c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-26 22:34:54",
+      "update_date": "2020-10-26 22:36:33",
+      "block": false,
+      "translator_id": 126,
+      "quality": "DVDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/565210.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Рождественские дни",
+      "title_en": "Días de Navidad",
+      "year": 2019,
+      "kinopoisk_id": 1236776,
+      "world_art_id": null,
+      "translator": "WestFilm",
+      "token": "b8fdbfd4eaf54da5960b5e09aceb3c2554c6903e0b1f00df3d3068ed9f928fec",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-26 22:33:25",
+      "update_date": "2020-10-26 22:34:38",
+      "block": false,
+      "translator_id": 167,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1236776.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Неопределившиеся",
+      "title_en": "Undeclared",
+      "year": 2001,
+      "kinopoisk_id": 401607,
+      "world_art_id": null,
+      "translator": "одноголосый закадровый",
+      "token": "1c2823b39aa0f6c6701f7b880be3b88d287be9ccd8972ae6cb5d7d99cf148bc7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-13 20:07:05",
+      "update_date": "2020-10-26 21:55:01",
+      "block": false,
+      "translator_id": 93,
+      "quality": "DVDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/401607.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 17,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ход королевы",
+      "title_en": "The Queen's Gambit",
+      "year": 2020,
+      "kinopoisk_id": 1253633,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "2841e733a0e951b26f7c2c1eca0f6e7cba8d0c2442aa962a52ebfc825708734e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-26 20:24:51",
+      "update_date": "2020-10-26 20:25:35",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1253633.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Полицейский отчёт 2.0",
+      "title_en": "Police Diary 2.0",
+      "year": 2019,
+      "kinopoisk_id": 1335046,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "6fa4dd77c2ab36d3bd3c7ff9e3ef6ea68b2a7c6e16f203b8db54f5114cf2c0e5",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-07 18:35:51",
+      "update_date": "2020-10-26 16:17:27",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1335046.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Виртуозы",
+      "title_en": "Hustle",
+      "year": 2004,
+      "kinopoisk_id": 231993,
+      "world_art_id": null,
+      "translator": "Fox Crime",
+      "token": "29e2c03a582bbdc4e5836fd579f5b5e600cdae30e7d6c47ff9f9869a082dc66f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-20 23:34:57",
+      "update_date": "2020-10-26 12:37:18",
+      "block": false,
+      "translator_id": 184,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/231993.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 7,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 8,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "The Investigation",
@@ -743,561 +1173,6 @@
       "serial_episodes": [
         {
           "season_number": 8,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Морская полиция: Лос-Анджелес",
-      "title_en": "NCIS: Los Angeles",
-      "year": 2009,
-      "kinopoisk_id": 468820,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "c6520b060d6e5c53ffb19a3e3ad763bf1ba6fc0e7afb5c57442bc3cf27f0f5a4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-16 04:33:09",
-      "update_date": "2020-10-25 23:43:56",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/468820.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=78279",
-      "serial_episodes": [
-        {
-          "season_number": 10,
-          "episodes_count": 24,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Загадка острова Флатей",
-      "title_en": "Flateyjargátan",
-      "year": 2018,
-      "kinopoisk_id": 1201982,
-      "world_art_id": null,
-      "translator": "ViruseProject",
-      "token": "911eca421fabdaa42eb36363b2694ff6fc2f11338bab81e7b30b24d9e232ba17",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-25 23:41:41",
-      "update_date": "2020-10-25 23:42:30",
-      "block": false,
-      "translator_id": 72,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1201982.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Элементарно",
-      "title_en": "Elementary",
-      "year": 2012,
-      "kinopoisk_id": 661210,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "345a9380e24f7c760f87fb65a3c091d3122b8764d0664c884d5972db7a052dc5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-03 22:21:38",
-      "update_date": "2020-10-25 23:41:46",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/661210.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=70342",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 23,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 24,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 24,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 24,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 24,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 21,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21
-          ]
-        },
-        {
-          "season_number": 7,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Йоко",
-      "title_en": "Yoko",
-      "year": 2015,
-      "kinopoisk_id": 893393,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "10cefd8529f3f8f656cce481a87308c7a94ecbfd54cc7246b9b076af8e361e69",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-25 23:37:59",
-      "update_date": "2020-10-25 23:39:03",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/893393.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 52,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Континуум",
-      "title_en": "Continuum",
-      "year": 2012,
-      "kinopoisk_id": 609246,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "19b5d16b4c866f2ef3aad107f4e715c8346d8492b6ed00cdd520ec9e9e14298d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-25 21:40:27",
-      "update_date": "2020-10-25 22:11:30",
-      "block": false,
-      "translator_id": 43,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/609246.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Расследование",
-      "title_en": "The Investigation",
-      "year": 2020,
-      "kinopoisk_id": 1200321,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "0d2f8e85f1d1e76a3ff512804f2022b9144ee2cf78295b4d067ad0a242ce8458",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-11 09:00:47",
-      "update_date": "2020-10-25 21:33:49",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1200321.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Купель дьявола",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1209217,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "14a4d35832f8aebef6e1822224a9fbd67e4b9ec8e33239d22e9310e5deb493de",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-25 21:31:59",
-      "update_date": "2020-10-25 21:33:32",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1209217.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Стыд. Испания",
-      "title_en": "Skam España",
-      "year": 2018,
-      "kinopoisk_id": 1200364,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "38513911ba6e88795521dc2e71f01d1f36dfe54f74386f2d812fd0c6543adfcf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-06 22:16:43",
-      "update_date": "2020-10-25 21:31:14",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1200364.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
           "episodes_count": 8,
           "episodes": [
             1,

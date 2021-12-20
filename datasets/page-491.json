@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title_ru": "Палм-Спрингс",
+      "title_en": "Palm Springs",
+      "year": 2020,
+      "kinopoisk_id": 1245524,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-14 10:26:02",
+      "block": [
+        "UA",
+        "EU"
+      ],
+      "translator": "2x2",
+      "translator_id": 1,
+      "quality": "CAMRip"
+    },
+    {
       "title_ru": "Махинаторы",
       "title_en": "Schemers",
       "year": 2020,
@@ -246,19 +262,6 @@
       "translator": "Дубляж [Лицензия]",
       "translator_id": 107,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ад на границе",
-      "title_en": "Hell on the Border",
-      "year": 2019,
-      "kinopoisk_id": 1176055,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-13 11:33:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BDRip"
     }
   ]
 }
