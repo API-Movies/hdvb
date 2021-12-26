@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Стая",
+      "title_en": "Smecka",
+      "year": 2020,
+      "kinopoisk_id": 1269654,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-17 00:37:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ночной доктор",
+      "title_en": "Un médecin de nuit",
+      "year": 2020,
+      "kinopoisk_id": 1355621,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-17 00:36:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Навсегда",
       "title_en": "Between Forever",
       "year": 2021,
@@ -235,30 +261,239 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Предупреждение",
-      "title_en": "Warning",
+      "title_ru": "Темные лаборатории",
+      "title_en": "The Dark Labs",
       "year": 2021,
-      "kinopoisk_id": 1192465,
-      "type": "movie",
+      "kinopoisk_id": 1859801,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "d372f41a0beb28dbc4e53ba1626f4d7bd86af32537115c2ae53abf470c3bb629",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-15 22:48:02",
+      "added_date": "2021-08-21 10:19:28",
+      "update_date": "2021-08-21 10:20:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1859801.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Поездка",
-      "title_en": "I onde dager",
-      "year": 2021,
-      "kinopoisk_id": 1439939,
-      "type": "movie",
+      "title_ru": "The Chair",
+      "title_en": "",
+      "year": 0,
+      "kinopoisk_id": 1354402,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "422ecd10c8c3e2196eb2c0aa6a3f98a58304023e9d9cd2e08c8079b3c0499d5b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-15 22:47:01",
+      "added_date": "2021-08-21 10:18:29",
+      "update_date": "2021-08-21 10:19:03",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1354402.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Семья: Тайна Ворона",
+      "title_en": "Het Geheim van Raven",
+      "year": 2021,
+      "kinopoisk_id": 1851971,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "627ab077cf6e91648f747d8e5dfbe2bdb531b4468edccb9730e6237388b7664d",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-07-01 12:34:29",
+      "update_date": "2021-08-21 10:12:48",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1851971.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мейр из Исттауна",
+      "title_en": "Mare of Easttown",
+      "year": 2021,
+      "kinopoisk_id": 1254133,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "e457b936d63a09511951479e36c1945e9c6a387cf52506f93e5501d0e2368cd5",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-05-08 00:18:17",
+      "update_date": "2021-08-20 17:58:15",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1254133.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Семья: Тайна Ворона",
+      "title_en": "Het Geheim van Raven",
+      "year": 2021,
+      "kinopoisk_id": 1851971,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "1be36b5f1cb6b61967379db0b87e0f3ee3a7b4d9b5b23a7683d1effe0af8a853",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-07-01 20:19:09",
+      "update_date": "2021-08-20 17:57:42",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1851971.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Клиника счастья",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1412155,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "8fa9f22dd019f07b80df49d893d31341004a1202e2a9a291bb71f2137a3c25c9",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-05-19 08:52:34",
+      "update_date": "2021-08-20 17:56:48",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1412155.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "The Chair",
+      "title_en": "",
+      "year": 0,
+      "kinopoisk_id": 1354402,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "8a806bb7c2049aedf61837ff46ffe00257eb7263536471051521096fc205a9ac",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-08-20 13:48:23",
+      "update_date": "2021-08-20 13:48:55",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1354402.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Темные лаборатории",
@@ -914,238 +1149,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "В ритме жизни",
-      "title_en": "Physical",
-      "year": 2021,
-      "kinopoisk_id": 4398387,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "b62708e1323052e3c66bbb36c2ca28395c6a538f81d8a151ab8e8596827175af",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-06-19 09:49:59",
-      "update_date": "2021-08-19 12:05:50",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4398387.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Макдональд и Доддс",
-      "title_en": "McDonald &amp; Dodds",
-      "year": 2020,
-      "kinopoisk_id": 1302097,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "9933c9950f06f5815ed54dd7b602b36d73e11a3e9a6c48a94632b0278bcd52f1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-02 07:50:56",
-      "update_date": "2021-08-19 12:02:13",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1302097.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Крук: Ночной шёпот",
-      "title_en": "Kruk. Szepty slychac po zmroku",
-      "year": 2018,
-      "kinopoisk_id": 1157543,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "dba4ef2517f38a7e288fe00b611714eedbfbd244103c3c706f204d7ebd766509",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-07-11 08:45:32",
-      "update_date": "2021-08-19 12:00:43",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1157543.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Американские истории ужасов",
-      "title_en": "American Horror Stories",
-      "year": 2021,
-      "kinopoisk_id": 1385287,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "ff5ce8c7fedc4fd71fd12cc7ed5d198adac518230cc1c0fb67749213c5841706",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-07-15 13:11:31",
-      "update_date": "2021-08-19 11:19:16",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1385287.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Полосатая комната",
-      "title_en": "Zebrarummet (A Class Apart)",
-      "year": 2021,
-      "kinopoisk_id": 2003271,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "e7e2299569e1045655d50567174f69e1a30214bec2da18b7f480b36cfbbb55aa",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-08-19 08:59:09",
-      "update_date": "2021-08-19 08:59:39",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/2003271.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Narcos Vs Zombies",
-      "title_en": "",
-      "year": 0,
-      "kinopoisk_id": 1358453,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "d8f97d7b0dc7029e656f9b8fc3191d1a6196215dd1748d7671c7bce871c2edd7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-08-19 08:58:21",
-      "update_date": "2021-08-19 08:58:57",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1358453.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Современная любовь",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1163856,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "8714c23ed607370eb755e0f4c895029796a34f6ddcfa26854644a1b5dd1694c9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-08-19 08:55:50",
-      "update_date": "2021-08-19 08:58:42",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1163856.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

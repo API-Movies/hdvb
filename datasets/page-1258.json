@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Куриоса",
+      "title_en": "Curiosa",
+      "year": 2019,
+      "kinopoisk_id": 1098909,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-07-04 13:09:02",
+      "block": false,
+      "translator": "Дубляж [Звук с TS]",
+      "translator_id": 108,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Рокетмен",
+      "title_en": "Rocketman",
+      "year": 2019,
+      "kinopoisk_id": 627299,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-07-04 13:07:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "HDTV"
+    },
+    {
       "title_ru": "В дорогу с тарантеллой",
       "title_en": "Taranta on the road",
       "year": 2017,
@@ -233,32 +259,6 @@
       "translator": "Дубляж [Чистый звук]",
       "translator_id": 109,
       "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Шоссе для игроков",
-      "title_en": "She's Missing",
-      "year": 2019,
-      "kinopoisk_id": 852114,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-07-02 22:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DLRip"
-    },
-    {
-      "title_ru": "История о двух кухнях",
-      "title_en": "A Tale of Two Kitchens",
-      "year": 2019,
-      "kinopoisk_id": 1263390,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-07-02 22:18:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
     }
   ]
 }

@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "title_ru": "Бог грома",
+      "title_en": "Mortal",
+      "year": 2020,
+      "kinopoisk_id": 979779,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-01 22:58:02",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Древнекитайский кунг-фу сериал",
+      "title_en": "Ancient martial arts serial",
+      "year": 2020,
+      "kinopoisk_id": 55446645,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-01 22:01:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Приди ко мне",
       "title_en": "The Other Lamb",
       "year": 2019,
@@ -236,32 +265,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ноль",
-      "title_en": "Zero",
-      "year": 2018,
-      "kinopoisk_id": 1057991,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-01 09:01:02",
-      "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Темное наследие",
-      "title_en": "Inheritance",
-      "year": 2020,
-      "kinopoisk_id": 1208499,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-01 01:07:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
     }
   ]
 }

@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title_ru": "Снегоуборщик",
+      "title_en": "Cold Pursuit",
+      "year": 2019,
+      "kinopoisk_id": 1033233,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-28 11:39:33",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Красивый мальчик",
+      "title_en": "Beautiful Boy",
+      "year": 2018,
+      "kinopoisk_id": 462654,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-26 19:03:14",
+      "block": [
+        "RU"
+      ],
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Сезон чудес",
       "title_en": "The Miracle Season",
       "year": 2018,
@@ -239,32 +267,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Затерянные во льдах",
-      "title_en": "Arctic",
-      "year": 2018,
-      "kinopoisk_id": 1069265,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-24 23:06:18",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Мстители: Финал",
-      "title_en": "Avengers: Endgame",
-      "year": 2019,
-      "kinopoisk_id": 843650,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-24 22:01:59",
-      "block": false,
-      "translator": "den904",
-      "translator_id": 19,
-      "quality": "TS"
     }
   ]
 }

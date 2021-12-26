@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "title_ru": "Стражи Арктики",
+      "title_en": "Arctic Justice",
+      "year": 2019,
+      "kinopoisk_id": 909775,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-30 13:18:01",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Атлантика",
+      "title_en": "Atlantique",
+      "year": 2019,
+      "kinopoisk_id": 1256211,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-30 13:16:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Эрни и Джо: урегулирование кризисных ситуаций",
       "title_en": "Ernie &amp; Joe: Crisis Cops",
       "year": 2019,
@@ -232,32 +261,6 @@
       "block": false,
       "translator": "Не требуется",
       "translator_id": 92,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Ночь закрытых дверей",
-      "title_en": "",
-      "year": 2008,
-      "kinopoisk_id": 432654,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-29 21:48:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "DVDRip"
-    },
-    {
-      "title_ru": "Папочка",
-      "title_en": "Daddy",
-      "year": 2017,
-      "kinopoisk_id": 1045998,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-29 21:47:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
       "quality": "BluRay"
     }
   ]

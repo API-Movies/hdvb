@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Токио трясёт",
+      "title_en": "Tokyo Shaking",
+      "year": 2021,
+      "kinopoisk_id": 1343557,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-03 00:11:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Оленьи рога",
+      "title_en": "Antlers",
+      "year": 2021,
+      "kinopoisk_id": 1111424,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-03 00:10:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Глоток воздуха",
       "title_en": "A Mouthful of Air",
       "year": 2021,
@@ -235,30 +261,278 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Снег, чай и любовь",
-      "title_en": "Zapada, Ceai si Dragoste",
+      "title_ru": "Домоводство",
+      "title_en": "Home Economics",
       "year": 2021,
-      "kinopoisk_id": 15404268,
-      "type": "movie",
+      "kinopoisk_id": 1354556,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "f8519f7f4b2ff3e9b21526dcaa66c15351319f12126f248934a257aed642fdef",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-11-01 17:24:02",
+      "added_date": "2021-09-23 21:09:10",
+      "update_date": "2021-09-23 21:09:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1354556.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Приключения Пильи",
-      "title_en": "Pil",
+      "title_ru": "Семейка Крудс: Семейное древо",
+      "title_en": "The Croods: Family Tree",
       "year": 2021,
-      "kinopoisk_id": 4557207,
-      "type": "movie",
+      "kinopoisk_id": 15341442,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "a6fa7036fb7e589d9677bc1cfdc452cce27b32bd30d96a51b23f99f499febc4e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-11-01 16:34:02",
+      "added_date": "2021-09-23 11:51:42",
+      "update_date": "2021-09-23 17:21:19",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/15341442.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Выжившие",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1405927,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "114302571e716a1d6873a5a583fe3930cacf3e1924cbe3084bec0da5c08e6292",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-08-12 02:48:47",
+      "update_date": "2021-09-23 12:21:18",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1405927.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Звёздные войны: Видение",
+      "title_en": "Star Wars: Visions",
+      "year": 2021,
+      "kinopoisk_id": 4323345,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "421992c4888b68c5c9119c45481182f80218f6c6a2e2cbbc7694a3d9b3c2c337",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-09-23 08:01:45",
+      "update_date": "2021-09-23 08:02:30",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4323345.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Королевская служба летающих врачей",
+      "title_en": "RFDS",
+      "year": 2021,
+      "kinopoisk_id": 4366555,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "237b99005a63f35dadef1e64eb79fbbdfd675deb77459ad4aacb9372bcc9f5f4",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-08-19 12:08:07",
+      "update_date": "2021-09-23 08:01:03",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4366555.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Девять совсем незнакомых людей",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1261941,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "06e5ae09f91fd49f1e0dab0eeee0207324ffe5d51753f5e2b45ebe4837d75461",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-08-19 12:04:51",
+      "update_date": "2021-09-23 08:00:13",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1261941.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Инспектор Колиандро",
+      "title_en": "L'ispettore Coliandro",
+      "year": 2006,
+      "kinopoisk_id": 1112145,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "2f784a5511166c9db7ac37ec68fc2202a8ae12c1a180aaf0c218051298678261",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-09-16 08:38:22",
+      "update_date": "2021-09-23 07:12:32",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1112145.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ягуар",
+      "title_en": "Jaguar",
+      "year": 2021,
+      "kinopoisk_id": 1407997,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "9fde017298d2823b840dacf5d295767ed0564b0c5c672ff2d6abebbf6915436e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-09-23 07:11:28",
+      "update_date": "2021-09-23 07:12:03",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1407997.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Моя сестра лучше",
@@ -662,40 +936,6 @@
       ]
     },
     {
-      "title_ru": "Остров фантазий",
-      "title_en": "Fantasy Island",
-      "year": 2021,
-      "kinopoisk_id": 4479877,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "ff69ca35e419788f242e7433520df1028e83e8c5d9365b668201d6c9d34f63d4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-08-14 00:43:46",
-      "update_date": "2021-09-22 01:30:39",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4479877.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
       "title_ru": "Дежурство",
       "title_en": "Vigil",
       "year": 2021,
@@ -723,347 +963,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Моя веселая тетя",
-      "title_en": "Chicago Party Aunt",
-      "year": 2021,
-      "kinopoisk_id": 4530560,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "eb74c20116536f6f83626c0401637e29b1ee6b2f7fe600ce743650ed935df78a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-09-21 20:31:24",
-      "update_date": "2021-09-21 20:31:55",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4530560.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Молодые и сильные выживут",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1443805,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "e2dba884f0b08578a00180bc17fac393815cad5b03f6d1b153defc2df9e06157",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-17 19:26:55",
-      "update_date": "2021-09-21 20:27:59",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1443805.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Пентхаус",
-      "title_en": "Penteuhauseu",
-      "year": 2020,
-      "kinopoisk_id": 1346405,
-      "world_art_id": null,
-      "translator": "SoftBox",
-      "token": "372b935b60dbcc1582be7ffe441a3292b913313bbdd9a6178ee48453a4b66b26",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-05 19:23:40",
-      "update_date": "2021-09-21 13:03:14",
-      "block": false,
-      "translator_id": 106,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1346405.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 21,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Курс биологии",
-      "title_en": "A.P. Bio",
-      "year": 2017,
-      "kinopoisk_id": 1030256,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "87f60596c15ceb937115d691d29e5896623df1140a5b2228fef9e99b148213dd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-27 09:45:19",
-      "update_date": "2021-09-21 13:01:08",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1030256.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бен Ладен: Путь к терактам 9/11",
-      "title_en": "Bin Laden The Road to 9/11",
-      "year": 2021,
-      "kinopoisk_id": 1863302,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "dae0af73dcf54d701b3d08f1955e2e6e0ccf249d642e00abe5171782d0bab5ca",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-09-08 11:19:18",
-      "update_date": "2021-09-21 09:48:20",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1863302.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дежурство",
-      "title_en": "Vigil",
-      "year": 2021,
-      "kinopoisk_id": 1356505,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "d6ac53d57551e101db867902d953aac830e50fb333bd6502a8ca64759be2ec5e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-08-30 16:11:36",
-      "update_date": "2021-09-21 07:57:47",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1356505.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "",
-      "title_en": "",
-      "year": 0,
-      "kinopoisk_id": 4296469,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "e4b3c39cd4d879d666f3ce5dc68518fb825e4101bcdd1984a9cfe7e0bb81d352",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-08-19 12:07:30",
-      "update_date": "2021-09-21 07:56:37",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4296469.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]
