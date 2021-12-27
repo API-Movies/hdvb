@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title_ru": "Всё или ничего",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1138874,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-02-09 21:38:45",
+      "block": [
+        "RU"
+      ],
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Алита: Боевой ангел",
+      "title_en": "Alita: Battle Angel",
+      "year": 2019,
+      "kinopoisk_id": 88173,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-02-09 18:07:46",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Как не стать президентом",
       "title_en": "The Front Runner",
       "year": 2018,
@@ -245,32 +273,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Робин Гуд: Начало",
-      "title_en": "Robin Hood",
-      "year": 2018,
-      "kinopoisk_id": 927495,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-02-06 18:14:02",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Банды Индостана",
-      "title_en": "Thugs of Hindostan",
-      "year": 2018,
-      "kinopoisk_id": 1007448,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-02-06 15:12:42",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
     }
   ]
 }

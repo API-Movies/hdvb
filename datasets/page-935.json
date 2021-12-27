@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Прекрасные создания",
+      "title_en": "Beautiful Creatures",
+      "year": 2013,
+      "kinopoisk_id": 489438,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-30 21:45:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "В первый раз",
+      "title_en": "The First Time",
+      "year": 2012,
+      "kinopoisk_id": 572376,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-30 21:43:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Отверженные",
       "title_en": "Les Misérables",
       "year": 2012,
@@ -233,35 +259,6 @@
       "translator": "Дубляж",
       "translator_id": 82,
       "quality": "TS"
-    },
-    {
-      "title_ru": "Текст",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1234848,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-30 17:51:03",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Почти дома",
-      "title_en": "Almost Home",
-      "year": 2018,
-      "kinopoisk_id": 1023737,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-30 13:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
     }
   ]
 }

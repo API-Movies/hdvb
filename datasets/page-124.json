@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Ты мне не пара",
+      "title_en": "Sul più bello",
+      "year": 2020,
+      "kinopoisk_id": 1406604,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-26 23:23:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Моё тело вас закопает",
+      "title_en": "Il mio corpo vi seppellirà",
+      "year": 2021,
+      "kinopoisk_id": 1200799,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-26 23:22:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Дом на другой стороне",
       "title_en": "The Night House",
       "year": 2020,
@@ -235,30 +261,383 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Пончары. Глобальное закругление",
-      "title_en": "Extinct",
-      "year": 2021,
-      "kinopoisk_id": 1128826,
-      "type": "movie",
+      "title_ru": "Мандалорец",
+      "title_en": "The Mandalorian",
+      "year": 2019,
+      "kinopoisk_id": 1118138,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "2bc8d006353deb24e7e6e395e34a298235eac13afc02af3d7e6f64dab47a76ba",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-26 01:45:01",
+      "added_date": "2019-12-30 13:59:33",
+      "update_date": "2021-03-15 10:34:54",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1118138.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Опустошение",
-      "title_en": "Ravage",
-      "year": 2019,
-      "kinopoisk_id": 1120932,
-      "type": "movie",
+      "title_ru": "Призраки прошлого",
+      "title_en": "Bloodlands",
+      "year": 2020,
+      "kinopoisk_id": 1341789,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "9fbe10bf4ec159741708972846f21f1512e3cd798304584f5ff36337e55075eb",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-25 21:19:01",
+      "added_date": "2021-02-22 09:55:37",
+      "update_date": "2021-03-15 10:00:46",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1341789.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Альфа Гики",
+      "title_en": "Alpha Betas",
+      "year": 2021,
+      "kinopoisk_id": 1436611,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "8d1dc67491a83ff086caa92030a43292b63eb09de995b781ba8564a915dceaf2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-15 08:01:22",
+      "update_date": "2021-03-15 08:02:09",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1436611.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 1,
+          "episodes": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Идеалистка",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 2000005,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "612cb72bf0a6b36892257e00e4c3d03689cb5ea8e8cf9a2151b69f6dad6ce3e1",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-15 00:14:35",
+      "update_date": "2021-03-15 00:15:12",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/2000005.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Суррогатная мать",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1402929,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "15fe13faddcc5137e79235a9e77106a21880fbc329ac110539e0082e672e6915",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-14 19:49:11",
+      "update_date": "2021-03-14 19:51:10",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1402929.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Капкан",
+      "title_en": "",
+      "year": 2007,
+      "kinopoisk_id": 259385,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "0615763c357a0f03b42a970c979d05924bc4df5d161543b213ce6dde55137d7c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-14 19:44:00",
+      "update_date": "2021-03-14 19:46:31",
+      "block": false,
+      "translator_id": 92,
+      "quality": "DVDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/259385.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Охотник",
+      "title_en": "",
+      "year": 2006,
+      "kinopoisk_id": 257808,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "38672b10a8506a3eb19cad5d6335bda493cb832602ff30594a6d9010a96e04bc",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-14 19:42:24",
+      "update_date": "2021-03-14 19:43:51",
+      "block": false,
+      "translator_id": 92,
+      "quality": "DVDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/257808.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Alpha Betas",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1436611,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "438c5d3186ad03946958c1704662249e9fd00b0009529557c90242b77fdbd22b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-14 09:03:31",
+      "update_date": "2021-03-14 09:04:14",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1436611.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 1,
+          "episodes": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Виктория",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 45425005,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "b609e33746c8180030d01255b9009917fb5c2df2783700826cff063cd52162b0",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-14 00:04:39",
+      "update_date": "2021-03-14 00:05:13",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/45425005.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Реанимация",
+      "title_en": "Code Black",
+      "year": 2015,
+      "kinopoisk_id": 905071,
+      "world_art_id": null,
+      "translator": "Amedia",
+      "token": "0c61d4da5281fb6504c49bd1fb271a56dc1d1a5f7ebb07fc7383e9f467063827",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-13 21:36:46",
+      "update_date": "2021-03-13 21:38:46",
+      "block": false,
+      "translator_id": 7,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/905071.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Фишки. Деньги. Адвокаты",
@@ -662,521 +1041,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Улица потрошителя",
-      "title_en": "Ripper Street",
-      "year": 2012,
-      "kinopoisk_id": 677725,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "6811dd6eb7087a6b65a1c24b56b5df7ef6070eb4fe58a4efffde31fe8653ba23",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-12 21:50:17",
-      "update_date": "2021-03-12 21:51:16",
-      "block": false,
-      "translator_id": 48,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/677725.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сестра Джеки",
-      "title_en": "Nurse Jackie",
-      "year": 2009,
-      "kinopoisk_id": 406347,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "6865341f168f04e837b43317a6d954d5cd4f44bcbba491482db5fe0d88eef667",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-12 21:48:38",
-      "update_date": "2021-03-12 21:49:57",
-      "block": false,
-      "translator_id": 48,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/406347.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 7,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сестра Джеки",
-      "title_en": "Nurse Jackie",
-      "year": 2009,
-      "kinopoisk_id": 406347,
-      "world_art_id": null,
-      "translator": "Universal Russia",
-      "token": "ae4d0f4e2313bf944a90e9150f2a5b9668bb5e173b3f220feaec8ba911887afb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-12 21:48:19",
-      "update_date": "2021-03-12 21:49:54",
-      "block": false,
-      "translator_id": 70,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/406347.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Записки юного врача",
-      "title_en": "A Young Doctor\\'s Notebook &amp; Other Stories",
-      "year": 2012,
-      "kinopoisk_id": 687812,
-      "world_art_id": null,
-      "translator": "РЕН-ТВ",
-      "token": "dc947549c08168e58f664f36e52a78f49e4e1f9e1f299544818ec74d4280648d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-12 21:45:18",
-      "update_date": "2021-03-12 21:46:58",
-      "block": false,
-      "translator_id": 178,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/687812.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Топи",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1355060,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "a4de82639189d118453afdaa073c1cc12394d2d2c10bf92def9914339fbf7680",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-28 22:20:46",
-      "update_date": "2021-03-12 19:40:31",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1355060.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Племена Европы",
-      "title_en": "Tribes of Europa",
-      "year": 2021,
-      "kinopoisk_id": 1302772,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "f0354738bcd4dfabe30bbcfe76a11768b3879c84d19127a2722209b9ca82f96e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-23 10:53:16",
-      "update_date": "2021-03-12 19:32:59",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1302772.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Единственный",
-      "title_en": "The One",
-      "year": 2021,
-      "kinopoisk_id": 4385347,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "18b1bbf7b582fd46c0f6f007a2a3685b3b1f9890a8b6a87a34d6838922d6f608",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-12 15:47:00",
-      "update_date": "2021-03-12 19:32:03",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4385347.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Золотая кровь. Градус смерти",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1402886,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "fc950bc88887d14cd2839d6238306190211c5043375f925ad0e2c9d1f3f7b32c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-12 17:07:53",
-      "update_date": "2021-03-12 17:26:05",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1402886.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Золотая кровь. Черный Орлов",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1402885,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "80f29e19603ce04f4858a070205d0207913c5e25356ae1e972be7f095d58b697",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-05 18:36:05",
-      "update_date": "2021-03-12 17:09:37",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1402885.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Гриффины",
-      "title_en": "Family Guy",
-      "year": 1999,
-      "kinopoisk_id": 161101,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "c51950db13e80db505006b8947f632686f9d188f481d910be4cdadf3a44cc00b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-12 16:58:29",
-      "update_date": "2021-03-12 17:00:00",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/161101.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 17,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        },
-        {
-          "season_number": 18,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
           ]
         }
       ]

@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Девушка, которая боялась дождя",
+      "title_en": "Fear of Rain",
+      "year": 2021,
+      "kinopoisk_id": 1249726,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 07:44:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Непригодный: Психология Дональда Трампа",
+      "title_en": "Unfit: The Psychology of Donald Trump",
+      "year": 2020,
+      "kinopoisk_id": 12304596,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 01:07:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Встреча",
       "title_en": "Rendez-vous",
       "year": 2019,
@@ -235,30 +261,454 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Изумление",
-      "title_en": "Mersal",
-      "year": 2017,
-      "kinopoisk_id": 1029301,
-      "type": "movie",
+      "title_ru": "Кто ты — школа 2015",
+      "title_en": "Huayu - hakgyo 2015",
+      "year": 2015,
+      "kinopoisk_id": 922162,
+      "world_art_id": null,
+      "translator": "STEPonee",
+      "token": "837f95fe860aba2dd85dd5b6be64cda0907b70dbef4454f00b6cd7a9139bad1e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-06 18:17:02",
+      "added_date": "2020-08-08 21:17:08",
+      "update_date": "2020-08-08 21:19:13",
       "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "WEB-DL"
+      "translator_id": 65,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/922162.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Дым",
-      "title_en": "Smoke",
+      "title_ru": "Один доллар",
+      "title_en": "One Dollar",
       "year": 2018,
-      "kinopoisk_id": 7790712,
-      "type": "movie",
+      "kinopoisk_id": 1178063,
+      "world_art_id": null,
+      "translator": "Newstudio",
+      "token": "f7f24c4a6874aa1b486255c83898b020fafa74ffac70dd3ad9533d929fa2f5a5",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-06 14:28:01",
+      "added_date": "2020-08-08 21:14:48",
+      "update_date": "2020-08-08 21:15:32",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 48,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1178063.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Школа 2017",
+      "title_en": "Hakgyo 2017",
+      "year": 2017,
+      "kinopoisk_id": 1045622,
+      "world_art_id": null,
+      "translator": "SoftBox",
+      "token": "fa91122e06892b40c5f65a5f89b32d72b03734b2dcc883eb3dbf15a14dac73e1",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-08 21:13:04",
+      "update_date": "2020-08-08 21:14:24",
+      "block": false,
+      "translator_id": 106,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1045622.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Король старшей школы",
+      "title_en": "Gogyocheosewang",
+      "year": 2014,
+      "kinopoisk_id": 840928,
+      "world_art_id": null,
+      "translator": "GREEN TEA",
+      "token": "15e24ae8fd5bcdc9d20d8376ca87ae0e1d54f41a66911c5bbf76a768f5d7d79b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-08 21:11:58",
+      "update_date": "2020-08-08 21:12:34",
+      "block": false,
+      "translator_id": 31,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/840928.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 17,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Спираль",
+      "title_en": "Engrenages",
+      "year": 2005,
+      "kinopoisk_id": 579634,
+      "world_art_id": null,
+      "translator": "WestFilm",
+      "token": "243aae13e5960201f1a68a305aaaabfd7536f64c853618cfbccaab59ee294187",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-08 21:07:12",
+      "update_date": "2020-08-08 21:10:34",
+      "block": false,
+      "translator_id": 167,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/579634.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 7,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Спираль",
+      "title_en": "Engrenages",
+      "year": 2005,
+      "kinopoisk_id": 579634,
+      "world_art_id": null,
+      "translator": "GreenРай Studio",
+      "token": "086faeb73b7f1630e241ec72b73fb6ab22dfc27f6d376859dcd04b90d7eb8bb4",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-08 21:05:35",
+      "update_date": "2020-08-08 21:06:28",
+      "block": false,
+      "translator_id": 143,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/579634.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Спираль",
+      "title_en": "Engrenages",
+      "year": 2005,
+      "kinopoisk_id": 579634,
+      "world_art_id": null,
+      "translator": "ViruseProject",
+      "token": "f3a0d0d3ea4a0c72ebf404e0a056b083604ae90db3f3af4acffc08d36b934a32",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-08 21:04:40",
+      "update_date": "2020-08-08 21:05:19",
+      "block": false,
+      "translator_id": 72,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/579634.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Сшиватели",
+      "title_en": "Stitchers",
+      "year": 2015,
+      "kinopoisk_id": 891594,
+      "world_art_id": null,
+      "translator": "Кириллица",
+      "token": "a34a39fdbca689cf94a880023e09faee07de1aff77468b2479ab64ea04987ff7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-08 19:45:01",
+      "update_date": "2020-08-08 19:56:52",
+      "block": false,
+      "translator_id": 123,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/891594.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Крошка Доррит",
+      "title_en": "Little Dorrit",
+      "year": 2008,
+      "kinopoisk_id": 431109,
+      "world_art_id": null,
+      "translator": "СВ-Дубль",
+      "token": "270b0c1b171d14cd14b45e7d28ae9e66e0b6e7e185e5f66f6439b9fa644bc7bf",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-08 19:40:59",
+      "update_date": "2020-08-08 19:43:20",
+      "block": false,
+      "translator_id": 166,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/431109.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Тайны Борго Ларичи",
@@ -704,421 +1154,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кондор",
-      "title_en": "Condor",
-      "year": 2018,
-      "kinopoisk_id": 1044830,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "9a1147765ca2d4eb7a2ab31fe7458a6a32f471eea0d7ef0c989e3fbaffee93c4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-25 15:23:50",
-      "update_date": "2020-08-08 14:43:20",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1044830.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=149068",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Обманутая",
-      "title_en": "The Deceived",
-      "year": 2020,
-      "kinopoisk_id": 10681614,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "57813af58d88edb3110734c91dd1145e497fd98a399396e9feb00c9aea74fe96",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-05 09:04:44",
-      "update_date": "2020-08-08 10:02:35",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/10681614.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Волшебники: Истории Аркадии",
-      "title_en": "Wizards",
-      "year": 2020,
-      "kinopoisk_id": 1113118,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "25109e29a694a3ea59515e2057887d76ada089987da82fa360133e40a90c1df4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-08 09:54:17",
-      "update_date": "2020-08-08 09:55:09",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1113118.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Открытое море",
-      "title_en": "Alta mar",
-      "year": 2019,
-      "kinopoisk_id": 1200404,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "f2978442057032f2a392b86bb6d9f414f8134e941b0c66dfa9a9050554f07e00",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-28 17:14:37",
-      "update_date": "2020-08-08 09:53:39",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1200404.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Правосудие",
-      "title_en": "Justified",
-      "year": 2010,
-      "kinopoisk_id": 500600,
-      "world_art_id": null,
-      "translator": "Jaskier",
-      "token": "01c2d3eb1ea3fb51ac9329f93273da2ecf82b204b98f19b60e8f7873df9298d3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-07 17:56:10",
-      "update_date": "2020-08-07 17:57:00",
-      "block": false,
-      "translator_id": 36,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/500600.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Правосудие",
-      "title_en": "Justified",
-      "year": 2010,
-      "kinopoisk_id": 500600,
-      "world_art_id": null,
-      "translator": "Fox",
-      "token": "44d3d932c9ee655d435db029f911191826cf63ad7762dedcacd81169ffa52bb2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-07 17:54:55",
-      "update_date": "2020-08-07 17:55:56",
-      "block": false,
-      "translator_id": 26,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/500600.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Открытое море",
-      "title_en": "Alta mar (High Seas)",
-      "year": 2019,
-      "kinopoisk_id": 1200404,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "f5fdd73808edb208f5c25212edb9d54a66f31761502e0c78aba93315d3ee7175",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-07 16:13:47",
-      "update_date": "2020-08-07 17:42:43",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1200404.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дождь",
-      "title_en": "The Rain",
-      "year": 2018,
-      "kinopoisk_id": 1112179,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "95c9420e6abeade22512c639e80d30a302e637b1d2e4bd8fc923b99fae461dc2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-07 16:24:48",
-      "update_date": "2020-08-07 16:25:39",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1112179.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=148849",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Обманутая",
-      "title_en": "The Deceived",
-      "year": 2020,
-      "kinopoisk_id": 10681614,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "d9275b86cb2da4e1dc8467a0cecd76e7e2c51535101b016481e48fe7d95b41f9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-04 15:07:23",
-      "update_date": "2020-08-07 14:30:07",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/10681614.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

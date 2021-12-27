@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Ctrl+Alt+Хэллоуин",
+      "title_en": "Ctrl+Alt+Trick/Treat",
+      "year": 2020,
+      "kinopoisk_id": 13374176,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-23 05:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Карнавал горя",
+      "title_en": "Carnival of Sorrows",
+      "year": 2018,
+      "kinopoisk_id": 839166,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-23 05:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Апрельские цветы",
       "title_en": "April Flowers",
       "year": 2017,
@@ -235,30 +261,316 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Афера по-голливудски",
-      "title_en": "The Comeback Trail",
-      "year": 2020,
-      "kinopoisk_id": 995474,
-      "type": "movie",
+      "title_ru": "Карнивал Роу",
+      "title_en": "Carnival Row",
+      "year": 2019,
+      "kinopoisk_id": 891433,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "0c466bba3c5b1321ee49fed7392c362ac6badddfe9dafd2badfb33a91f10ef0b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-22 02:14:01",
+      "added_date": "2019-08-30 11:29:53",
+      "update_date": "2019-08-30 16:44:33",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/891433.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Инферно Габриеля",
-      "title_en": "Gabriel's Inferno (Gabriel's Inferno: Part III)",
-      "year": 2020,
-      "kinopoisk_id": 11316854,
-      "type": "movie",
+      "title_ru": "Я – зомби",
+      "title_en": "iZombie",
+      "year": 2015,
+      "kinopoisk_id": 824275,
+      "world_art_id": null,
+      "translator": "HamsterStudio",
+      "token": "5e4307f520e7d937062626c34f1249c91c9ec30eca1046f46869eae860205eb2",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-22 02:13:01",
+      "added_date": "2019-08-30 16:19:04",
+      "update_date": "2019-08-30 16:19:58",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 32,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/824275.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=113726",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Игра престолов",
+      "title_en": "Game of Thrones",
+      "year": 2011,
+      "kinopoisk_id": 464963,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "db6ba6b8910f7d7b219d486786dc8c43b4baac232366b4a2f039021b70649c79",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-08-30 16:17:47",
+      "update_date": "2019-08-30 16:18:24",
+      "block": [
+        "RU"
+      ],
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/464963.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=141135",
+      "serial_episodes": [
+        {
+          "season_number": 8,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Проповедник",
+      "title_en": "Preacher",
+      "year": 2016,
+      "kinopoisk_id": 461353,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "8f65b08bf227fa5a3e265055b988d4e9489a2331900cea06858a7d3e1d0e752d",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-08-30 11:25:13",
+      "update_date": "2019-08-30 11:25:37",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/461353.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=129134",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Кайфоломы / Киллджойс",
+      "title_en": "Killjoys",
+      "year": 2015,
+      "kinopoisk_id": 891589,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "c1fae7f0ca7a9e39b765585c66dbc8093b8dbe1815413aa3d44b47bc5735cf94",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-08-30 11:24:24",
+      "update_date": "2019-08-30 11:24:52",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/891589.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=117215",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Форс-мажоры",
+      "title_en": "Suits",
+      "year": 2011,
+      "kinopoisk_id": 557806,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "0a3727b6182bc7586654dfc27b5fcaaaf5e8e063d72e8904e128aa3d30b11d61",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-08-30 11:22:30",
+      "update_date": "2019-08-30 11:23:02",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/557806.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=115606",
+      "serial_episodes": [
+        {
+          "season_number": 9,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Вероника Марс",
+      "title_en": "Veronica Mars",
+      "year": 2004,
+      "kinopoisk_id": 255670,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "233c3d9b61acafa5d24836b73d7064a86812941c5ead4538d94b60ce972c7069",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-08-30 11:21:26",
+      "update_date": "2019-08-30 11:22:03",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/255670.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=15308",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Амбиции",
+      "title_en": "Ambitions",
+      "year": 2019,
+      "kinopoisk_id": 1219282,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "f9d43f2507693a5d27aca3a40e4f31c2fa58610b9eaf49a3974b65faf54fd394",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-06-19 22:01:09",
+      "update_date": "2019-08-29 17:48:26",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1219282.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Джессика Джонс",
+      "title_en": "Jessica Jones",
+      "year": 2015,
+      "kinopoisk_id": 817508,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "bdf4886605e8522715635c14c78ead7d4797ea5084a437a02237562b7f19f9db",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-08-29 16:38:16",
+      "update_date": "2019-08-29 16:39:14",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/817508.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=128771",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Легион",
@@ -626,312 +938,6 @@
             9,
             10,
             11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сакральные игры",
-      "title_en": "Sacred Games",
-      "year": 2018,
-      "kinopoisk_id": 1118195,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "5a748e4b6e056bc9e5af96e085d4364500402daf0e832ae42f38791eea2799e7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-15 15:11:41",
-      "update_date": "2019-08-26 13:25:46",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1118195.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=149236",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сбой",
-      "title_en": "Glitch",
-      "year": 2015,
-      "kinopoisk_id": 891675,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "b459e4946e6ddf6a914e6f3e61606f1278ff70626b3d7072a6498eeb2c5f49f1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-26 11:18:16",
-      "update_date": "2019-08-26 11:21:28",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/891675.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=127467",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Благие знамения",
-      "title_en": "Good Omens",
-      "year": 2019,
-      "kinopoisk_id": 585727,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "fd0ce93435b7c2e584dbe160db1ab0a093db7dd5d2637103e9525548fe1ff6b2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-26 10:59:05",
-      "update_date": "2019-08-26 10:59:33",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/585727.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Оранжевый — хит сезона",
-      "title_en": "Orange Is the New Black",
-      "year": 2013,
-      "kinopoisk_id": 767164,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "685ccf72c9531df07cba505c3a76afe82c6e65f33919631e3b6d20030734e2b9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-26 10:57:33",
-      "update_date": "2019-08-26 10:58:38",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/767164.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=100341",
-      "serial_episodes": [
-        {
-          "season_number": 7,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "БИХЭППИ",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1231445,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "73b39594527993e6933fd4b7463e9304cd7258779d00ed50cd1353fadf7077a8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-13 02:07:25",
-      "update_date": "2019-08-25 20:48:10",
-      "block": [
-        "RU"
-      ],
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1231445.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чернобыль",
-      "title_en": "Chernobyl",
-      "year": 2019,
-      "kinopoisk_id": 1227803,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "1aa584a33fc3be6f9f6c2011859636445cafaf9d0314fb870efd3104c0a16c55",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-25 14:47:17",
-      "update_date": "2019-08-25 14:47:50",
-      "block": [
-        "RU"
-      ],
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1227803.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Баскетс",
-      "title_en": "Baskets",
-      "year": 2016,
-      "kinopoisk_id": 823468,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "66a5907aae19e53c15a7dcd7fb7abc13ab3087b2da1b31f7b18492835a75a2a7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-06-14 21:53:46",
-      "update_date": "2019-08-24 12:01:39",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/823468.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=130315",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Тьма",
-      "title_en": "Dark",
-      "year": 2017,
-      "kinopoisk_id": 1032606,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "4dbc5287ec90e482734ff87d40a5f6165a2accad84a656505316d4825a9b1b4b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-24 10:38:34",
-      "update_date": "2019-08-24 10:42:18",
-      "block": false,
-      "translator_id": 15,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1032606.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=144547",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Проповедник",
-      "title_en": "Preacher",
-      "year": 2016,
-      "kinopoisk_id": 461353,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "b9044ec5e8c2b62410a5a700753efd48f631ccc7082cec3939db6fba2f22bdec",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-24 01:15:44",
-      "update_date": "2019-08-24 01:38:12",
-      "block": false,
-      "translator_id": 15,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/461353.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=129134",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

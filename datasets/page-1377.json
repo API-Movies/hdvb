@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "title_ru": "Игрушки для взрослых",
+      "title_en": "The Happytime Murders",
+      "year": 2018,
+      "kinopoisk_id": 429363,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-09-30 14:01:10",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Тайна дома с часами",
+      "title_en": "The House with a Clock in Its Walls",
+      "year": 2018,
+      "kinopoisk_id": 652531,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-09-29 07:57:20",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Бои без правил",
       "title_en": "A Prayer Before Dawn",
       "year": 2017,
@@ -240,32 +269,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "HDTV"
-    },
-    {
-      "title_ru": "Мотылек",
-      "title_en": "Papillon",
-      "year": 2017,
-      "kinopoisk_id": 939411,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-09-17 22:53:31",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Вооружённый",
-      "title_en": "Armed",
-      "year": 2018,
-      "kinopoisk_id": 988243,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-09-17 21:11:46",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
     }
   ]
 }

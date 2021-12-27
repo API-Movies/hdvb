@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Кофе с корицей",
+      "title_en": "Café com Canela",
+      "year": 2017,
+      "kinopoisk_id": 1102841,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-03-07 22:48:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Глотай",
+      "title_en": "Swallow",
+      "year": 2019,
+      "kinopoisk_id": 1148990,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-03-07 21:28:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Становление",
       "title_en": "Becoming",
       "year": 2020,
@@ -233,35 +259,6 @@
       "translator": "Дубляж [Чистый звук]",
       "translator_id": 109,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Вторжение",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1045582,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-03-06 18:43:01",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Бладшот",
-      "title_en": "Bloodshot",
-      "year": 2020,
-      "kinopoisk_id": 512673,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-03-06 17:28:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
     }
   ]
 }

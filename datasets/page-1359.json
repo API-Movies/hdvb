@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Гринч",
+      "title_en": "The Grinch",
+      "year": 2018,
+      "kinopoisk_id": 738499,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-12-14 13:58:25",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Аквамен",
+      "title_en": "Aquaman",
+      "year": 2018,
+      "kinopoisk_id": 470178,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-12-14 12:28:33",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Простая просьба",
       "title_en": "A Simple Favor",
       "year": 2018,
@@ -233,34 +259,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "TS"
-    },
-    {
-      "title_ru": "Не чужие",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 933787,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-12-09 23:41:41",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Тим Талер, или Проданный смех",
-      "title_en": "Timm Thaler oder das verkaufte Lachen",
-      "year": 2017,
-      "kinopoisk_id": 904247,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-12-09 15:27:59",
-      "block": [
-        "RU"
-      ],
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
     }
   ]
 }

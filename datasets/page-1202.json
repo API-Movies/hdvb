@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "title_ru": "Они",
+      "title_en": "Haunt",
+      "year": 2019,
+      "kinopoisk_id": 1021116,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-09-14 22:01:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ты умеешь хранить секреты?",
+      "title_en": "Can You Keep a Secret?",
+      "year": 2019,
+      "kinopoisk_id": 1178301,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-09-14 21:59:02",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Жизнеобеспечение",
       "title_en": "3 Days with Dad",
       "year": 2019,
@@ -236,32 +265,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "BDRip"
-    },
-    {
-      "title_ru": "Дьявольские байки",
-      "title_en": "Devilish Tales",
-      "year": 2019,
-      "kinopoisk_id": 1264164,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-09-12 19:47:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сбежавшие миллионеры",
-      "title_en": "Runaway Millionaires",
-      "year": 2019,
-      "kinopoisk_id": 9055988,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-09-12 19:46:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
     }
   ]
 }

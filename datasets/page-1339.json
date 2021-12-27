@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title_ru": "Путь домой",
+      "title_en": "A Dog's Way Home",
+      "year": 2019,
+      "kinopoisk_id": 1100959,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-23 13:09:35",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Закатать в асфальт",
+      "title_en": "Dragged Across Concrete",
+      "year": 2018,
+      "kinopoisk_id": 1040748,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-23 10:51:09",
+      "block": [
+        "RU"
+      ],
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Дом вверх дном",
       "title_en": "Les dents, pipi et au lit",
       "year": 2018,
@@ -243,32 +271,6 @@
       "translator": "Дубляж",
       "translator_id": 82,
       "quality": "TS"
-    },
-    {
-      "title_ru": "Тень",
-      "title_en": "Ying",
-      "year": 2018,
-      "kinopoisk_id": 1045295,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-19 21:54:37",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Чужая ненависть",
-      "title_en": "The Hate U Give",
-      "year": 2018,
-      "kinopoisk_id": 1049279,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-19 19:24:51",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
     }
   ]
 }

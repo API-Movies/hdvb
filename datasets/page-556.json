@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "title_ru": "Аду",
+      "title_en": "Adú",
+      "year": 2020,
+      "kinopoisk_id": 1230764,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-30 21:14:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Зов джунглей",
+      "title_en": "Jungle Beat: The Movie",
+      "year": 2020,
+      "kinopoisk_id": 1371128,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-06-30 21:11:02",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Выборы",
       "title_en": "Lection",
       "year": 2019,
@@ -233,32 +262,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Экипаж",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 839818,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-30 13:44:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Шрек 2",
-      "title_en": "Shrek 2",
-      "year": 2004,
-      "kinopoisk_id": 5273,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-06-30 13:43:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "HDRip"
     }
   ]
 }

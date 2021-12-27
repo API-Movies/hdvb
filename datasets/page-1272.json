@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Вратарь",
+      "title_en": "Goalie",
+      "year": 2019,
+      "kinopoisk_id": 1146645,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-06-18 14:02:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Диджей Золушка",
+      "title_en": "Cinderela Pop / DJ Cinderella",
+      "year": 2019,
+      "kinopoisk_id": 1230602,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-06-18 14:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Американские животные",
       "title_en": "American Animals",
       "year": 2018,
@@ -237,36 +263,6 @@
       "translator": "Дубляж [Чистый звук]",
       "translator_id": 109,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Бегство рогатых викингов",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 542446,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-06-17 13:52:01",
-      "block": [
-        "RU"
-      ],
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Боль и слава",
-      "title_en": "Dolor y gloria",
-      "year": 2019,
-      "kinopoisk_id": 1138762,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-06-17 13:51:01",
-      "block": [
-        "RU"
-      ],
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
     }
   ]
 }
