@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Однажды на главной улице",
+      "title_en": "Once Upon a Main Street",
+      "year": 2020,
+      "kinopoisk_id": 1411087,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-16 22:29:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дерек умер",
+      "title_en": "Derek's Dead",
+      "year": 2020,
+      "kinopoisk_id": 1307030,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-16 22:28:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Авива",
+      "title_en": "Aviva",
+      "year": 2020,
+      "kinopoisk_id": 1274351,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-16 22:27:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Шары ярости",
+      "title_en": "Balls of Fury",
+      "year": 2007,
+      "kinopoisk_id": 196671,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-16 21:34:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "If I Only Had Christmas",
       "title_en": "",
       "year": 2020,
@@ -209,56 +261,241 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Колёса удачи",
-      "title_en": "Wheels of Fortune",
-      "year": 2020,
-      "kinopoisk_id": 1236324,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-16 00:12:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Рождество в Калифорнии",
-      "title_en": "A California Christmas",
-      "year": 2020,
-      "kinopoisk_id": 1411012,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-16 00:11:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Встряска",
-      "title_en": "Shook",
-      "year": 2020,
-      "kinopoisk_id": 1303604,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-12-15 22:24:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Мошонка",
-      "title_en": "The Scrotum",
+      "title_ru": "Улики",
+      "title_en": "Traces",
       "year": 2019,
-      "kinopoisk_id": 13386604,
-      "type": "movie",
+      "kinopoisk_id": 1238013,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "1504e8267d26ed642b3d7035e6ce66dfc67f7a54a5c86caaed9eef97e75cff4e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-15 22:22:01",
+      "added_date": "2019-12-30 15:34:56",
+      "update_date": "2019-12-30 15:34:56",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1238013.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Рождественская песнь",
+      "title_en": "A Christmas Carol",
+      "year": 2019,
+      "kinopoisk_id": 1244979,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "33e7337f7637b3c94352690f27299ab56e53e85c50c160ddcd018b11e35ee63e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-30 13:58:58",
+      "update_date": "2019-12-30 13:58:58",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1244979.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мастера меча онлайн",
+      "title_en": "Sword Art Online",
+      "year": 2012,
+      "kinopoisk_id": 691223,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "b2246752b49fd0ef746f68c85cb9a2a59ce94242844c2594f8dc3ae386f6c7b8",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-29 17:49:25",
+      "update_date": "2019-12-29 17:49:25",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/691223.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Однажды на RAI",
+      "title_en": "C'era una volta Studio Uno",
+      "year": 2019,
+      "kinopoisk_id": 45672123,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "f64ba7e068ef40cbb6a2346324c1787299088a1b44c0289d34f97a0ec16b7df1",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-29 17:49:17",
+      "update_date": "2019-12-29 17:49:17",
+      "block": false,
+      "translator_id": 115,
+      "quality": "HDTV",
+      "poster": "https://www.kinopoisk.ru/images/film_big/45672123.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "В поисках божественного рецепта",
+      "title_en": "Food Wars: Shokugeki no Soma",
+      "year": 2015,
+      "kinopoisk_id": 917288,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "37ba6fc836b3d0442914bf687a5c1f063998757c1d188891ea8766cdb2605057",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-28 14:38:36",
+      "update_date": "2019-12-28 14:38:36",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/917288.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мандалорец",
+      "title_en": "The Mandalorian",
+      "year": 2019,
+      "kinopoisk_id": 1118138,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "8d4933cc676053a9a504809d97e460a6ade4632050f244f84e9e954b42b0fc48",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-27 15:59:49",
+      "update_date": "2019-12-27 15:59:49",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1118138.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Жизнь без оружия",
+      "title_en": "No Guns Life",
+      "year": 2019,
+      "kinopoisk_id": 1309383,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "ea717393a94349cb224b783393465315dbe46867c1a5d9e65fb5993d4c61a8ba",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-27 15:58:53",
+      "update_date": "2019-12-27 15:58:53",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1309383.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Небо, где встретились звёзды",
@@ -768,247 +1005,6 @@
       "translator_id": 92,
       "quality": "WEB-DL",
       "poster": "https://www.kinopoisk.ru/images/film_big/1318615.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рестлинг-шоу от &quot;All Elite Wrestling&quot;",
-      "title_en": "All Elite Wrestling: Dynamite",
-      "year": 2019,
-      "kinopoisk_id": 1289010,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "d1049a7c23c79361185c7b11c19ae772093b5af69faedeba9692eb12c3adf821",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-23 18:03:51",
-      "update_date": "2019-12-23 18:03:51",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1289010.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Нежные листья, ядовитые корни",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1283443,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "18fc3ed12039e90263c0cdb91fb57957217d5ad9bb64efd7d5b4bcac90025e43",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-23 16:27:00",
-      "update_date": "2019-12-23 16:27:00",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1283443.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Переломный момент",
-      "title_en": "La faille",
-      "year": 2019,
-      "kinopoisk_id": 112,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "5955761530b97debf7cb8dc2c07f4bf0f538cb9487d82173ae7c783427b04988",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-23 11:32:23",
-      "update_date": "2019-12-23 11:32:23",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/112.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Картер",
-      "title_en": "Carter",
-      "year": 2018,
-      "kinopoisk_id": 1114920,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "60cdccced364da0e915c2eae8c48f8b0874bc13d76a353242918627aec4f0df2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-23 11:31:04",
-      "update_date": "2019-12-23 11:31:04",
-      "block": false,
-      "translator_id": 14,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/1114920.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=148383",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рождественская песнь",
-      "title_en": "A Christmas Carol",
-      "year": 2019,
-      "kinopoisk_id": 1244979,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "8026686a743b6e80b73185c7f091c6d70485c51da1211960f799bcd3870183fa",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-23 11:30:32",
-      "update_date": "2019-12-23 11:30:32",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1244979.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 1,
-          "episodes": [
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мистер Робот",
-      "title_en": "Mr. Robot",
-      "year": 2015,
-      "kinopoisk_id": 859908,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "253f4915e4ca800077e80e226df9bb630aa09775116e4ad5936de0bcdc253afa",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-23 11:03:51",
-      "update_date": "2019-12-23 11:03:51",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/859908.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=134055",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Тёмные начала",
-      "title_en": "His Dark Materials",
-      "year": 2019,
-      "kinopoisk_id": 1159922,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "7c62d037cb023e698e47cc932e3bb1568cd8b8f19e04be2f696262068bda326d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-23 09:15:32",
-      "update_date": "2019-12-23 09:15:32",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1159922.jpg",
       "trailer": "",
       "serial_episodes": [
         {
