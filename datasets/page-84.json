@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "title_ru": "Фальшивомонетчик",
+      "title_en": "Flag Day",
+      "year": 2021,
+      "kinopoisk_id": 673726,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-02 17:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Японский Бог",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1111927,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-02 17:23:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Отклонение",
+      "title_en": "Outlier",
+      "year": 2021,
+      "kinopoisk_id": 13793884,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-02 15:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Человек-паук 3: Враг в отражении",
+      "title_en": "Spider-Man 3",
+      "year": 2007,
+      "kinopoisk_id": 82441,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-02 14:09:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Маруся фореva!",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1338093,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-02 08:56:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кёртис",
+      "title_en": "Curtis",
+      "year": 2021,
+      "kinopoisk_id": 1198064,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-01 22:10:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Расшифровано",
+      "title_en": "Decrypted",
+      "year": 2021,
+      "kinopoisk_id": 1348555,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-01 21:08:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Гунда",
+      "title_en": "Gunda",
+      "year": 2020,
+      "kinopoisk_id": 1332702,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-01 20:39:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Империя волков",
       "title_en": "L\\'empire des loups",
       "year": 2005,
@@ -157,108 +261,360 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Перелом",
-      "title_en": "La fracture",
+      "title_ru": "Код 37: Отдел секс-преступлений",
+      "title_en": "Code 37",
+      "year": 2009,
+      "kinopoisk_id": 522164,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "9191b830c89f12e344c99a13068918179a081c50fba593cac8577a9958aafc06",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-03 22:39:57",
+      "update_date": "2021-08-04 21:19:00",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/522164.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Чёрный понедельник",
+      "title_en": "Black Monday",
+      "year": 2019,
+      "kinopoisk_id": 1056155,
+      "world_art_id": null,
+      "translator": "Кириллица",
+      "token": "23fb7fdcebb0613e2ae3495da3320257537cb29638ba1ccaa4842957ef225857",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-26 15:03:37",
+      "update_date": "2021-08-04 20:55:23",
+      "block": false,
+      "translator_id": 123,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1056155.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Кокаиновые ковбои. Короли Майами",
+      "title_en": "Cocaine Cowboys: The Kings of Miami",
       "year": 2021,
-      "kinopoisk_id": 1448362,
-      "type": "movie",
+      "kinopoisk_id": 15049206,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "7dd6abe33bb980b641b553d9b561a6de5bab05189ae0122a64f430b536563cb0",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-31 01:02:01",
+      "added_date": "2021-08-04 15:47:52",
+      "update_date": "2021-08-04 18:09:02",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/15049206.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Охотник. Первый пророк",
-      "title_en": "Avci Ilk Kehanet",
-      "year": 2021,
-      "kinopoisk_id": 1407339,
-      "type": "movie",
+      "title_ru": "Отмена действия",
+      "title_en": "Control Z",
+      "year": 2020,
+      "kinopoisk_id": 1355725,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "3d87e5ed4181cfe7848808e18fba30c61c58e20623741d7a727d7fdcc8597099",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-31 01:01:01",
+      "added_date": "2021-08-04 13:09:06",
+      "update_date": "2021-08-04 16:48:50",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1355725.jpg",
+      "trailer": "https://www.youtube.com/watch?v=P9rEPJ65UIw",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Плавучий маяк",
-      "title_en": "Lightships",
-      "year": 2021,
-      "kinopoisk_id": 1250983,
-      "type": "movie",
+      "title_ru": "Викинги",
+      "title_en": "Vikings",
+      "year": 2013,
+      "kinopoisk_id": 682255,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "4d844502ca17de626b294cd06314e7773f4f18eacebcb4fb76d581ed59bfecd1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-31 00:59:02",
+      "added_date": "2020-02-08 01:20:27",
+      "update_date": "2021-08-04 02:46:53",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Джастин Бибер: Наш мир",
-      "title_en": "Justin Bieber: Our World",
-      "year": 2021,
-      "kinopoisk_id": 4659059,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-31 00:54:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "На всех парах. Путешествие в Астурию",
-      "title_en": "¡A todo tren! Destino Asturias",
-      "year": 2021,
-      "kinopoisk_id": 1423599,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-31 00:52:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Амадей",
-      "title_en": "National Theatre Live: Amadeus",
-      "year": 2017,
-      "kinopoisk_id": 1044810,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-30 17:12:01",
-      "block": false,
-      "translator": "Субтитры",
-      "translator_id": 97,
-      "quality": "HDTVRip"
-    },
-    {
-      "title_ru": "The Bit Player",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1011078,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-30 11:41:02",
-      "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Проклятый чиновник",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 4411309,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-30 11:37:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/682255.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=144647",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Кулинарные поединки",
@@ -1057,212 +1413,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Внешние отмели",
-      "title_en": "Outer Banks",
-      "year": 2020,
-      "kinopoisk_id": 1264562,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "a5d3fb8997bd89ff3c14a3151015f83240a65258f93d4f307cf92a0a6d4469a8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-16 21:57:09",
-      "update_date": "2021-07-31 09:05:00",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1264562.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Джеллистоун",
-      "title_en": "Jellystone",
-      "year": 2021,
-      "kinopoisk_id": 1318808,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "831d58f6d2673195fa26f61f73008a1ced0e5a0e6556a4582b7d0f83c775cb11",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-07-31 09:03:31",
-      "update_date": "2021-07-31 09:04:04",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1318808.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Я и все остальные",
-      "title_en": "Ich und die anderen",
-      "year": 2021,
-      "kinopoisk_id": 1369770,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "fa9cf6163f0ab87cb752993e07a401ede6fd3c339a5c03081c5180d0d9636968",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-07-30 07:50:55",
-      "update_date": "2021-07-31 09:03:23",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1369770.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Центральный парк",
-      "title_en": "Central Park",
-      "year": 2020,
-      "kinopoisk_id": 1139898,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "0365e6829a1d00b8b374170e36ab0e2395a88a994b463b8769f9f18ce159ceb9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-25 08:03:44",
-      "update_date": "2021-07-31 09:01:28",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1139898.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Внешние отмели",
-      "title_en": "Outer Banks",
-      "year": 2020,
-      "kinopoisk_id": 1264562,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "b99ec4cec6a833134eb3672159856c941002dd320da275112ab18b2061232d2e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-07-30 13:53:13",
-      "update_date": "2021-07-30 21:47:31",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1264562.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

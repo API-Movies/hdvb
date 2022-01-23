@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "title_ru": "Три мушкетера",
+      "title_en": "D\\'Artacán y los tres Mosqueperros",
+      "year": 2021,
+      "kinopoisk_id": 4479839,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-18 19:30:02",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Демоник",
+      "title_en": "Demonic",
+      "year": 2021,
+      "kinopoisk_id": 2040002,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-18 19:29:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Феллини и духи",
+      "title_en": "Fellini degli spiriti",
+      "year": 2020,
+      "kinopoisk_id": 1444356,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-17 22:10:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пассажир",
+      "title_en": "Suraj Pe Mangal Bhari",
+      "year": 2020,
+      "kinopoisk_id": 1289658,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-17 22:09:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Последняя дуэль",
+      "title_en": "The Last Duel",
+      "year": 2021,
+      "kinopoisk_id": 1289738,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-17 20:29:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Живой концерт",
+      "title_en": "Live",
+      "year": 2020,
+      "kinopoisk_id": 1186253,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-17 20:28:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Разлучённые сёстры",
+      "title_en": "Im Feuer",
+      "year": 2020,
+      "kinopoisk_id": 974589,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-17 20:26:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пропавший",
+      "title_en": "Gone",
+      "year": 2021,
+      "kinopoisk_id": 15140954,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-17 20:25:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Свободный дух",
       "title_en": "Free Spirit",
       "year": 2019,
@@ -157,108 +261,198 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Пережить лето",
-      "title_en": "Summer Survivors",
-      "year": 2018,
-      "kinopoisk_id": 1103373,
-      "type": "movie",
+      "title_ru": "Повесть о конце света",
+      "title_en": "Shuumatsu no Walküre (Record of Ragnarok)",
+      "year": 2021,
+      "kinopoisk_id": 4294938,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "e849fff1956c820729047289c9406ce876b5f973e8257bb909ad03cd46426c7f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-17 00:46:01",
+      "added_date": "2021-06-17 14:56:04",
+      "update_date": "2021-06-17 20:03:11",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4294938.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Кто-то где-то",
-      "title_en": "Someone Somewhere",
+      "title_ru": "Чёрное лето",
+      "title_en": "Black Summer",
       "year": 2019,
-      "kinopoisk_id": 946983,
-      "type": "movie",
+      "kinopoisk_id": 1186526,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "ffdf94dec1ad086073eef6174c07a12c10b67f64b3de26d1162e917aa7852242",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-17 00:45:01",
+      "added_date": "2021-06-17 13:50:03",
+      "update_date": "2021-06-17 15:40:06",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1186526.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "От смерти до смерти",
-      "title_en": "Sepelenmis Ölümler Arasinda",
-      "year": 2020,
-      "kinopoisk_id": 1320738,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-17 00:44:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Скандалисты",
-      "title_en": "Ong Ngoai Tuoi 30",
-      "year": 2018,
-      "kinopoisk_id": 1325762,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-17 00:43:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мать уходит",
-      "title_en": "Mutter kündigt",
+      "title_ru": "Катла",
+      "title_en": "Katla",
       "year": 2021,
-      "kinopoisk_id": 1393876,
-      "type": "movie",
+      "kinopoisk_id": 1406577,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "ab87e87a221e44a9779277147acad2e1dafe4452077a1a26abe3a87a01dce97f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-17 00:42:01",
+      "added_date": "2021-06-17 13:48:40",
+      "update_date": "2021-06-17 15:39:35",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1406577.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Осознание поражает",
-      "title_en": "It Hits You When You Know It",
-      "year": 2020,
-      "kinopoisk_id": 1005840,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-17 00:41:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Гаванское Кирие",
-      "title_en": "Havana Kyrie",
-      "year": 2020,
-      "kinopoisk_id": 1166821,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-17 00:40:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Свадьба в Ромэнсе",
-      "title_en": "A Romance Wedding",
+      "title_ru": "По колено",
+      "title_en": "",
       "year": 2021,
-      "kinopoisk_id": 1446815,
-      "type": "movie",
+      "kinopoisk_id": 4363487,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "40ac9ae18c45b1e4bf7f37ec10434ebe0181b7dfe7aab4efdb9b7ad121232d14",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-17 00:39:01",
+      "added_date": "2021-03-04 02:07:16",
+      "update_date": "2021-06-17 15:12:52",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4363487.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Счастлива вопреки (Несмотря ни на что)",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 98080678,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "f16f0bd5d41bc47de5ee54ec0473194b3bbc31e4370ac1fe0d20d66b89828004",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-10 23:51:18",
+      "update_date": "2021-06-17 15:11:35",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/98080678.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Годзилла: Сингулярность",
@@ -833,181 +1027,6 @@
             1,
             2,
             3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Я и есть Джелаладдин",
-      "title_en": "Mendirman Jaloliddin (Bozkır Arslanı Celaleddin)",
-      "year": 2021,
-      "kinopoisk_id": 4381952,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "207b1de421ad5816537dd70174f4992e7a8f3dbee54af8537172af57d22f013f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-23 11:56:27",
-      "update_date": "2021-06-15 12:00:23",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4381952.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Внутри девятого номера",
-      "title_en": "Inside No. 9",
-      "year": 2014,
-      "kinopoisk_id": 818445,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "bb2cde955cd43c72cbe1aa590c6317f6f8496bfbdf26fb97fd0857b73582f26f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-11 13:06:39",
-      "update_date": "2021-06-15 11:03:37",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/818445.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 6,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Страховка",
-      "title_en": "Indemnity",
-      "year": 2021,
-      "kinopoisk_id": 4438722,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "0c6fa5d5f2a8a227b17bb79d9d1fe3ac0421bf057ef8fc02a9918fcd5960c729",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-25 12:05:16",
-      "update_date": "2021-06-15 11:03:21",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4438722.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Под прикрытием",
-      "title_en": "Eondeokeobeo (Undercover)",
-      "year": 2021,
-      "kinopoisk_id": 1392525,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "88b2e56ea8b18ee1dca92a737e4a8a6b14534c9ca9b74c165782ecf34792384d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-27 09:07:20",
-      "update_date": "2021-06-15 09:34:33",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1392525.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Джек Айриш",
-      "title_en": "Jack Irish",
-      "year": 2016,
-      "kinopoisk_id": 943890,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "514c9a3b228e53e202294f0b9b4428026c48b453cb1bed06e825bd5961f63efb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-06-14 09:24:31",
-      "update_date": "2021-06-15 09:33:05",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/943890.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

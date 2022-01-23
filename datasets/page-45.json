@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "title_ru": "Ночь в Хайфе",
+      "title_en": "Laila in Haifa",
+      "year": 2020,
+      "kinopoisk_id": 1395391,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-12 11:24:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Рождественская ярмарка",
+      "title_en": "It Takes a Christmas Village",
+      "year": 2021,
+      "kinopoisk_id": 4368923,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-12 11:22:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мелодия Рождества",
+      "title_en": "Christmas in Tune",
+      "year": 2021,
+      "kinopoisk_id": 4543777,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-12 11:21:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Предложение на рождество",
+      "title_en": "A Christmas Proposal",
+      "year": 2021,
+      "kinopoisk_id": 4510684,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-12 11:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Рождество семьи Честнат",
+      "title_en": "A Chestnut Family Christmas",
+      "year": 2021,
+      "kinopoisk_id": 4542693,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-12 11:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Les apparences",
+      "title_en": "Les Apparences",
+      "year": 2020,
+      "kinopoisk_id": 1266380,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-12 11:13:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Сыновья Сан-Луиса",
+      "title_en": "Los Hijos de San Luis",
+      "year": 2020,
+      "kinopoisk_id": 1346471,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-12 11:12:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Двое",
+      "title_en": "Dos",
+      "year": 2021,
+      "kinopoisk_id": 1383103,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-12 11:06:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Кровавые апельсины",
       "title_en": "Oranges sanguines",
       "year": 2021,
@@ -157,108 +261,205 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Даже мыши попадают в рай",
-      "title_en": "I mysi patrí do nebe",
-      "year": 2021,
-      "kinopoisk_id": 993076,
-      "type": "movie",
+      "title_ru": "Клуб нянь",
+      "title_en": "The Baby-Sitters Club",
+      "year": 2020,
+      "kinopoisk_id": 1245488,
+      "world_art_id": null,
+      "translator": "HDrezka Studio",
+      "token": "96ede649ac5ce1c19a88f27f7857b3a448ccc1740b5b28e43252931e266307ba",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-11 08:43:01",
+      "added_date": "2020-12-01 22:16:03",
+      "update_date": "2021-11-10 21:51:36",
       "block": false,
+      "translator_id": 33,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1245488.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Соединённые Штаты Ала",
+      "title_en": "United States of Al",
+      "year": 2021,
+      "kinopoisk_id": 1346680,
+      "world_art_id": null,
       "translator": "многоголосый закадровый",
+      "token": "6ae5ed3670c7541fe5b993fc43d1291cb4d3258a4ad92d195b03b10a50fd6cb9",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-11-10 21:46:59",
+      "update_date": "2021-11-10 21:48:29",
+      "block": false,
       "translator_id": 89,
-      "quality": "WEB-DL"
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1346680.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Американский беженец",
-      "title_en": "American Refugee",
-      "year": 2021,
-      "kinopoisk_id": 4472559,
-      "type": "movie",
+      "title_ru": "Американская история преступлений",
+      "title_en": "American Crime Story",
+      "year": 2016,
+      "kinopoisk_id": 745939,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "261e26d53dbcb93e0ac314553cbb8107f41c9b9782e51af6934a401b8b5d1b4e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-11 08:42:01",
+      "added_date": "2021-09-08 19:27:25",
+      "update_date": "2021-11-10 15:48:28",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/745939.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Вестсайдская история",
-      "title_en": "West Side Story",
-      "year": 2021,
-      "kinopoisk_id": 839653,
-      "type": "movie",
+      "title_ru": "Супергёрл",
+      "title_en": "Supergirl",
+      "year": 2015,
+      "kinopoisk_id": 880643,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "8d4b1cf7b1040dcf9e07b6d777516ddc3f785311f39b5b3caa7f659c088c964c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-11 08:39:01",
+      "added_date": "2021-03-31 09:22:31",
+      "update_date": "2021-11-10 13:14:51",
       "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/880643.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=122147",
+      "serial_episodes": [
+        {
+          "season_number": 6,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Мажоры на мели",
-      "title_en": "Pourris gâtés",
+      "title_ru": "Семья и немного справедливости",
+      "title_en": "",
       "year": 2021,
-      "kinopoisk_id": 1407526,
-      "type": "movie",
+      "kinopoisk_id": 4679750,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "976a84faa67065942f26d9b7ba9083061bbbbc77596594c5c216a95455b84f4b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-11 08:38:01",
+      "added_date": "2021-10-25 16:22:40",
+      "update_date": "2021-11-10 12:29:15",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Боль",
-      "title_en": "Hurt",
-      "year": 2021,
-      "kinopoisk_id": 1173056,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-12-10 19:58:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Единственная",
-      "title_en": "Horse Latitudes",
-      "year": 2021,
-      "kinopoisk_id": 1172043,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-12-10 19:57:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Событие",
-      "title_en": "L\\'événement",
-      "year": 2021,
-      "kinopoisk_id": 4368677,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-12-10 19:55:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сядь за руль моей машины",
-      "title_en": "Doraibu mai ka",
-      "year": 2021,
-      "kinopoisk_id": 4382259,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-12-10 19:54:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 92,
+      "quality": "HDTVRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4679750.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Звёздные войны: Видение",
@@ -936,163 +1137,6 @@
             7,
             8,
             9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кларисса",
-      "title_en": "Clarice",
-      "year": 2021,
-      "kinopoisk_id": 1355050,
-      "world_art_id": null,
-      "translator": "Кравец",
-      "token": "9a0397c5a512d381da8c61590ed68cc0725774e53473b956c1cfcd10b64ced82",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-18 12:27:51",
-      "update_date": "2021-11-07 10:05:24",
-      "block": false,
-      "translator_id": 85,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1355050.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сомнительный убийца",
-      "title_en": "The Unlikely Murderer",
-      "year": 2021,
-      "kinopoisk_id": 4369237,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "195ad65c511e20428e75936402e17b370416f044bfda07d64000e5a84e74fffd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-11-06 09:06:48",
-      "update_date": "2021-11-07 09:05:34",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4369237.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Я знаю, что это правда",
-      "title_en": "I Know This Much Is True",
-      "year": 2020,
-      "kinopoisk_id": 1115132,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "d5473c89f87fc9e368c363c1e477aa77d4410d92dfc4039c6836b2b6c82d21a2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-17 08:37:41",
-      "update_date": "2021-11-07 08:52:53",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1115132.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дура",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 865845664,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "0877fc44d1b50a27f84a2d92a799a1f05da43666ba55b168878e3a72f562c6b7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-11-06 23:52:20",
-      "update_date": "2021-11-06 23:53:51",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://i116.fastpic.org/big/2021/1106/78/99bdecd3570d2069cfb83cf834153a78.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кукловод",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 4683554,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "394c809c84b1b271e30214c564cd2ccc0d45d68139c9a1509bde77aa65ec8304",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-11-05 19:29:54",
-      "update_date": "2021-11-06 23:50:52",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4683554.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

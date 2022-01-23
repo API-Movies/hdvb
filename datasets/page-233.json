@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "title_ru": "В винном отражении",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1392597,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-28 17:30:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Ип Ман 4",
+      "title_en": "Yip Man 4",
+      "year": 2019,
+      "kinopoisk_id": 634254,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-28 09:34:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Разделитель",
+      "title_en": "The Divide",
+      "year": 2011,
+      "kinopoisk_id": null,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "1970-01-01 03:00:00",
+      "block": false,
+      "translator": "",
+      "translator_id": 0,
+      "quality": ""
+    },
+    {
+      "title_ru": "Stallone: Frank, That Is",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4300065,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-27 20:09:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Радхе",
+      "title_en": "Radhe",
+      "year": 2021,
+      "kinopoisk_id": 1302324,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-27 20:08:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Roohi",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1254924,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-27 20:07:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Лифчик",
+      "title_en": "Le soutien-gorge",
+      "year": 2018,
+      "kinopoisk_id": 1192139,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-27 20:06:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Земляне",
+      "title_en": "Earthlings",
+      "year": 2005,
+      "kinopoisk_id": 77413,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-27 20:05:01",
+      "block": false,
+      "translator": "одноголосый закадровый",
+      "translator_id": 93,
+      "quality": "DVDRip"
+    },
+    {
       "title_ru": "Зловещие мертвецы 2",
       "title_en": "Evil Dead II",
       "year": 1987,
@@ -157,108 +261,151 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Оно хочет крови!",
-      "title_en": "It Wants Blood!",
+      "title_ru": "Пробуждение",
+      "title_en": "Awake",
+      "year": 2012,
+      "kinopoisk_id": 580655,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "b7343c57476403a5606a8e56233985368a1d54d949c9e0ff71a8ef786828e0b8",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-27 01:17:35",
+      "update_date": "2020-10-27 01:23:27",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/580655.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Незнакомцы из ада",
+      "title_en": "Taineun jiokida",
       "year": 2019,
-      "kinopoisk_id": 1217761,
-      "type": "movie",
+      "kinopoisk_id": 1234855,
+      "world_art_id": null,
+      "translator": "SoftBox",
+      "token": "f9b4b9656d60922ca0363b421606934a15c9e4c99bb1dded3812c45765039476",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-26 12:39:01",
+      "added_date": "2020-10-27 01:09:46",
+      "update_date": "2020-10-27 01:11:26",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 106,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1234855.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Щепотка любви",
-      "title_en": "Hint of Love",
+      "title_ru": "Элегантная семья",
+      "title_en": "Uahan ga",
+      "year": 2019,
+      "kinopoisk_id": 1256142,
+      "world_art_id": null,
+      "translator": "SoftBox",
+      "token": "becba0580d2477c59ddbdbe5cf6a4c474957ae4193d1a555206002a65c59fcdb",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-27 01:07:55",
+      "update_date": "2020-10-27 01:09:34",
+      "block": false,
+      "translator_id": 106,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1256142.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Почти вся правда",
+      "title_en": "",
       "year": 2020,
-      "kinopoisk_id": 1394221,
-      "type": "movie",
+      "kinopoisk_id": 54674566,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "9fefe518502f169dc8301800ba30e9d28fad776cf619b551c0193e664a65b479",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-26 12:38:01",
+      "added_date": "2020-10-27 00:43:24",
+      "update_date": "2020-10-27 01:07:41",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Скверна Божественного Провидения",
-      "title_en": "The Corruption of Divine Providence",
-      "year": 2021,
-      "kinopoisk_id": 1075537,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-26 12:37:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сыграем?",
-      "title_en": "Shall We Play?",
-      "year": 2021,
-      "kinopoisk_id": 1302311,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-26 12:36:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сделано в Чайнатаун",
-      "title_en": "Made in Chinatown",
-      "year": 2021,
-      "kinopoisk_id": 1158166,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-26 12:35:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "",
-      "title_en": "Buiten is het Feest",
-      "year": 2020,
-      "kinopoisk_id": 1330915,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-26 12:34:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Чёрный ящик",
-      "title_en": "Black Box",
-      "year": 2021,
-      "kinopoisk_id": 1109414,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-26 12:31:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Хищники",
-      "title_en": "Endangered Species",
-      "year": 2021,
-      "kinopoisk_id": 4419513,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-26 12:30:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 92,
+      "quality": "WEBRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/54674566.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Чужая",
@@ -946,179 +1093,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сговор",
-      "title_en": "Hassel",
-      "year": 2017,
-      "kinopoisk_id": 1172510,
-      "world_art_id": null,
-      "translator": "ViruseProject",
-      "token": "6624922855f7ad3ce9d72146e81d45534064f2bdd560d9deec3e787fb9111604",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-25 23:49:03",
-      "update_date": "2020-10-25 23:49:45",
-      "block": false,
-      "translator_id": 72,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1172510.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Диккенсовщина",
-      "title_en": "Dickensian",
-      "year": 2015,
-      "kinopoisk_id": 934170,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "6c9a20afa08c82b895e93a582a4da634e6e075aa7da328dd8a08a9f0b277174a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-25 23:43:54",
-      "update_date": "2020-10-25 23:46:50",
-      "block": false,
-      "translator_id": 126,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/934170.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=128814",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Hi-Fi",
-      "title_en": "High Fidelity",
-      "year": 2020,
-      "kinopoisk_id": 1165440,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "a25a340aaa4a8889fd25712298c3a68b7e531135a9bbd957e4698dd2b739a4ca",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-20 17:26:18",
-      "update_date": "2020-10-25 23:46:13",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1165440.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бинни и призрак",
-      "title_en": "Binny und der Geist",
-      "year": 2013,
-      "kinopoisk_id": 913525,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "fda1c3bcb3e7fc815b841f034024f65899e6878b0df0e505266219d539753fbe",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-25 23:44:41",
-      "update_date": "2020-10-25 23:45:47",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/913525.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]
