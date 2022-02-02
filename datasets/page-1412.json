@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "title_ru": "Мотылек",
+      "title_en": "Papillon",
+      "year": 2017,
+      "kinopoisk_id": 939411,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-28 15:37:47",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Гофманиада",
+      "title_en": "",
+      "year": 2016,
+      "kinopoisk_id": 465181,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-27 21:47:22",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Репродукция",
+      "title_en": "Replicas",
+      "year": 2018,
+      "kinopoisk_id": 843790,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-27 17:17:35",
+      "block": [
+        "RU"
+      ],
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Несокрушимый",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 1007496,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-27 15:58:08",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Лукас",
       "title_en": "Lukas",
       "year": 2018,
@@ -207,58 +261,6 @@
       "translator": "Дубляж",
       "translator_id": 82,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "",
-      "title_en": "",
-      "year": 0,
-      "kinopoisk_id": null,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "1970-01-01 03:00:00",
-      "block": false,
-      "translator": "",
-      "translator_id": 0,
-      "quality": ""
-    },
-    {
-      "title_ru": "Слоны могут играть в футбол",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1008554,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-21 23:59:14",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Шестой пост",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1112943,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-21 23:52:34",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Вечерняя школа",
-      "title_en": "Night School",
-      "year": 2018,
-      "kinopoisk_id": 1044912,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-21 22:30:50",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
     }
   ]
 }

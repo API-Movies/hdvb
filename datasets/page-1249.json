@@ -1,6 +1,61 @@
 {
   "items": [
     {
+      "title_ru": "Добыча",
+      "title_en": "Strike",
+      "year": 2018,
+      "kinopoisk_id": 1159567,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-09-03 15:23:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Холостяк",
+      "title_en": "Shadaa",
+      "year": 2019,
+      "kinopoisk_id": 1193071,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-09-03 15:21:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Райские холмы",
+      "title_en": "Paradise Hills",
+      "year": 2019,
+      "kinopoisk_id": 1097391,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-09-03 15:11:02",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "den904",
+      "translator_id": 19,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Любовь на льду",
+      "title_en": "Love on Ice",
+      "year": 2017,
+      "kinopoisk_id": 1008989,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-09-03 15:10:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Влияние",
       "title_en": "Dhunki",
       "year": 2019,
@@ -207,58 +262,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "BDRip"
-    },
-    {
-      "title_ru": "Тайна моего отчима",
-      "title_en": "My Stepfather's Secret",
-      "year": 2019,
-      "kinopoisk_id": 1200175,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-09-02 12:19:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Хорошая игра",
-      "title_en": "Iyi Oyun",
-      "year": 2018,
-      "kinopoisk_id": 1172208,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-09-02 12:18:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Рождество в Энджел-Фоллс",
-      "title_en": "Christmas in Angel Falls",
-      "year": 2019,
-      "kinopoisk_id": 1109189,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-09-02 12:16:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Война Беннетта",
-      "title_en": "Bennett's War",
-      "year": 2019,
-      "kinopoisk_id": 1051239,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-09-02 12:14:02",
-      "block": false,
-      "translator": "den904",
-      "translator_id": 19,
-      "quality": "TS"
     }
   ]
 }

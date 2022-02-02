@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Анатомия антигероя: Искупление",
+      "title_en": "Anatomy of an Antihero: Redemption",
+      "year": 2021,
+      "kinopoisk_id": 1346854,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-09 13:36:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Агада",
+      "title_en": "Agadah",
+      "year": 2017,
+      "kinopoisk_id": 1005856,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-09 13:35:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Любовные советы",
+      "title_en": "Advice to Love By",
+      "year": 2021,
+      "kinopoisk_id": 4666513,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-09 13:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Военный пирог",
+      "title_en": "War Cake",
+      "year": 2022,
+      "kinopoisk_id": 1357749,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-09 01:09:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Инфракрасные сны",
       "title_en": "Ava",
       "year": 2022,
@@ -209,56 +261,285 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Укрась своё сердце",
-      "title_en": "Deck the Heart",
-      "year": 2021,
-      "kinopoisk_id": 1328614,
-      "type": "movie",
+      "title_ru": "Холодные берега",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1236244,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "62db8f25bfd7fca1f24cc39c99b1c16c226452aa7a5d648c130692c6b47c5ae2",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-07 23:50:01",
+      "added_date": "2019-12-01 20:19:34",
+      "update_date": "2021-12-30 15:33:31",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1236244.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Между двух огней",
-      "title_en": "Between Two Minds",
+      "title_ru": "Вторжение",
+      "title_en": "Invasion",
+      "year": 2021,
+      "kinopoisk_id": 1239664,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "3fc68f15441baad2e536b2b326728ec58dc18ba72f81c5894767d4bac3cf9539",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-10-26 02:49:58",
+      "update_date": "2021-12-30 15:26:26",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1239664.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Канат",
+      "title_en": "La corde",
+      "year": 2021,
+      "kinopoisk_id": 4510999,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "9c94e60b8ca764046eb2c485ded7ef85f01764ab271c6f25455aea3246c8f38f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-12-30 08:08:15",
+      "update_date": "2021-12-30 08:10:07",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://api-cdn.arte.tv/api/mami/v1/program/fr/RC-021792/1920x1080?ts=1345845600",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Кайфтаун",
+      "title_en": "Hightown",
       "year": 2020,
-      "kinopoisk_id": 1085394,
-      "type": "movie",
+      "kinopoisk_id": 1232982,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "1052ad67b49f572a0d56d997e94f8a2cd0fbe236df9039bc76af4458e4f4f5dd",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-07 23:49:01",
+      "added_date": "2020-07-14 08:51:39",
+      "update_date": "2021-12-30 08:10:04",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1232982.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Альтернативная земля",
-      "title_en": "Alternate Ground",
+      "title_ru": "Великие побеги с Морганом Фрименом",
+      "title_en": "Great Escapes with Morgan Freeman",
       "year": 2021,
-      "kinopoisk_id": 1197344,
-      "type": "movie",
+      "kinopoisk_id": 4479341,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "122d1cf1ef79e616ad237c46c14920b382c109cea3fd0b41fb05f3471bf1f574",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-07 23:47:01",
+      "added_date": "2021-11-11 08:39:21",
+      "update_date": "2021-12-30 08:08:01",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmRkNzVlODYtMjdhYy00OTVkLWJiYzItNGE0ZTFmYWE2NjM2XkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Код 355",
-      "title_en": "The 355",
+      "title_ru": "",
+      "title_en": "Der Palast",
       "year": 2022,
-      "kinopoisk_id": 1118222,
-      "type": "movie",
+      "kinopoisk_id": 4397306,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "4e111aa02cf655e558a4f8bd44519170f6522274174a940afc1547332add1418",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-07 20:12:01",
+      "added_date": "2021-12-29 08:35:52",
+      "update_date": "2021-12-30 08:06:20",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4397306.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Великие побеги с Морганом Фрименом",
+      "title_en": "Great Escapes with Morgan Freeman",
+      "year": 2021,
+      "kinopoisk_id": 4479341,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "a309fa8da62c898f601b78ca5c0c804351ec8a1123d35cb21c822744732cf259",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-11-10 19:20:49",
+      "update_date": "2021-12-29 19:50:25",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmRkNzVlODYtMjdhYy00OTVkLWJiYzItNGE0ZTFmYWE2NjM2XkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_FMjpg_UX1000_.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Торговый дом &quot;Эльдорадо&quot;",
+      "title_en": "KaDeWe",
+      "year": 2021,
+      "kinopoisk_id": 4397635,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "b91fdd3220a1c27ead72c2a34758e87b5bb1095a5eee448a43fec338c739b983",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-12-24 19:46:36",
+      "update_date": "2021-12-29 19:49:55",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://bilder.fernsehserien.de/sendung/hr/eldorado-kadewe_479721.png",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Сухая вода",
@@ -780,294 +1061,6 @@
             24,
             25,
             26
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кайфтаун",
-      "title_en": "Hightown",
-      "year": 2020,
-      "kinopoisk_id": 1232982,
-      "world_art_id": null,
-      "translator": "Novamedia",
-      "token": "bbcac479db51abdb52ce0a2c2ae825a94e4ea4b12f2c1b6f9e1e901dea4dfeb0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-17 22:07:30",
-      "update_date": "2021-12-28 12:46:36",
-      "block": false,
-      "translator_id": 51,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1232982.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Джо Пикетт",
-      "title_en": "Joe Pickett",
-      "year": 2021,
-      "kinopoisk_id": 4438738,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "f7f3fb859fe58fecc76bc343c5aff1f2dfbdfac628498af43f0dc5f2b56fb183",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-12-07 08:22:58",
-      "update_date": "2021-12-28 10:01:24",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4438738.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Умерь свой энтузиазм",
-      "title_en": "Curb Your Enthusiasm",
-      "year": 2000,
-      "kinopoisk_id": 277559,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "e3b4ff3f3d79235e70a3d2834dc004eeb96f5c58b85a3a7d881d5f30b8cb5a92",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-04 19:16:53",
-      "update_date": "2021-12-28 10:00:07",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/277559.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 10,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        },
-        {
-          "season_number": 11,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Очень британский скандал",
-      "title_en": "A Very British Scandal",
-      "year": 2021,
-      "kinopoisk_id": 4422313,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "8831defbe1300b4a85b50bbb1311581c2fdb436e49adac847192a69ae829565a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-12-27 11:38:20",
-      "update_date": "2021-12-28 09:59:35",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYTEyMjY5YzQtM2M3Zi00OTQ3LWI1ZTQtOTMxNmEyYzUzYTNjXkEyXkFqcGdeQXVyNjQ2MjQ4MzQ@._V1_FMjpg_UX1000_.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Джо Пикетт",
-      "title_en": "Joe Pickett",
-      "year": 2021,
-      "kinopoisk_id": 4438738,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "96d41b51a407e051af1acdebe3da2422a9cdc0e7cbd82d895a6357cca83bb248",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-12-07 08:15:50",
-      "update_date": "2021-12-27 21:04:05",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4438738.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Слепой расчет",
-      "title_en": "",
-      "year": 2014,
-      "kinopoisk_id": 839589,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "93388ef17b1681051c92ef72afd3b1d4f7cb8c1e9efbac01b1f03f5d282d190c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-12-27 16:07:35",
-      "update_date": "2021-12-27 16:08:15",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/839589.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Жизнь рассудит",
-      "title_en": "",
-      "year": 2013,
-      "kinopoisk_id": 823975,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "6f1fde359b18b561d8bd8f9aa421f4f8a9764207de14fa4e15c63f83e2e96c06",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-12-27 16:07:03",
-      "update_date": "2021-12-27 16:07:49",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "http://youpicture.org/images/2021/12/27/ps3turlvib03mi10byu4kechc.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "5:32",
-      "title_en": "5:32",
-      "year": 2021,
-      "kinopoisk_id": 4714902,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "8ee80d3af6bb7bb72d618911e08604640e908848733c6dcd11d468f5e9dcb1fa",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-12-04 13:38:42",
-      "update_date": "2021-12-27 16:07:25",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/4714902.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
           ]
         }
       ]

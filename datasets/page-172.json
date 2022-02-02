@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Под землёй",
+      "title_en": "Subterrânea",
+      "year": 2020,
+      "kinopoisk_id": 14355874,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-16 03:52:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Что я чувствую к тебе",
+      "title_en": "Lo que siento por ti",
+      "year": 2018,
+      "kinopoisk_id": 1191945,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-16 00:47:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Скандал",
+      "title_en": "Vacarme",
+      "year": 2020,
+      "kinopoisk_id": 1409429,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-16 00:46:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кот, мечтающий о севере",
+      "title_en": "Un Chat Rêve Du Nord",
+      "year": 2020,
+      "kinopoisk_id": 13988482,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-16 00:45:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Обручальное Кольцо",
       "title_en": "A Wedding Ring",
       "year": 2021,
@@ -209,56 +261,281 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Девушка и пистолет",
-      "title_en": "Babae at baril",
+      "title_ru": "Искатели сокровищ",
+      "title_en": "Detectorists",
+      "year": 2014,
+      "kinopoisk_id": 846937,
+      "world_art_id": null,
+      "translator": "Ozz",
+      "token": "24b3c231802b0f38bcfa21cc51dd51df5e0908e7dd75cc0770260187be48fa0c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-21 22:15:27",
+      "update_date": "2021-01-21 22:16:54",
+      "block": false,
+      "translator_id": 54,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/846937.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Отмена",
+      "title_en": "Undone",
       "year": 2019,
-      "kinopoisk_id": 1315961,
-      "type": "movie",
+      "kinopoisk_id": 1134447,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "e81c2729a8260d33c2dff39eedfe3776124196bf20e99870ca86a903e7106479",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-14 23:09:01",
+      "added_date": "2021-01-21 22:14:15",
+      "update_date": "2021-01-21 22:15:07",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1134447.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Балканский нуар",
-      "title_en": "A Balkan Noir",
+      "title_ru": "Невозможно поверить",
+      "title_en": "Unbelievable",
+      "year": 2019,
+      "kinopoisk_id": 1169469,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "552f26b49335720004625e012698e6e8dac0636e7055c28b8382c6940dd79626",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-21 22:12:35",
+      "update_date": "2021-01-21 22:13:57",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1169469.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Новый день",
+      "title_en": "Day Break",
+      "year": 2006,
+      "kinopoisk_id": 271964,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "9e26afe7c5095b5d9d4b86141a73215c0841e9eaa96b06f8c142c897a6501d25",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-21 22:11:05",
+      "update_date": "2021-01-21 22:11:53",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/271964.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Новый день",
+      "title_en": "Day Break",
+      "year": 2006,
+      "kinopoisk_id": 271964,
+      "world_art_id": null,
+      "translator": "ТВ-3",
+      "token": "9ff1357a5410e27ac38c95ea7bf52db133427479a735e4e58931af7d71525f75",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-21 22:10:43",
+      "update_date": "2021-01-21 22:11:50",
+      "block": false,
+      "translator_id": 100,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/271964.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Жертва",
+      "title_en": "The Victim",
+      "year": 2019,
+      "kinopoisk_id": 1120194,
+      "world_art_id": null,
+      "translator": "HDrezka Studio",
+      "token": "7941bec643d23f3d67dd6c4fb862d491df23a060d0f0b60d21a1fa866a6334fa",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-21 22:08:52",
+      "update_date": "2021-01-21 22:10:14",
+      "block": false,
+      "translator_id": 33,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1120194.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Алекс",
+      "title_en": "Alex",
       "year": 2017,
-      "kinopoisk_id": 1017095,
-      "type": "movie",
+      "kinopoisk_id": 1201820,
+      "world_art_id": null,
+      "translator": "ViruseProject",
+      "token": "42496cdb3719abd9dadacdb53f2b1edf1d173a4f6ec3cd4938bf88436cfa7a0a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-14 23:06:01",
+      "added_date": "2021-01-21 22:07:36",
+      "update_date": "2021-01-21 22:08:30",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Лебединая песня",
-      "title_en": "Swan Song",
-      "year": 2021,
-      "kinopoisk_id": 1295883,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-14 23:05:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Кровная месть",
-      "title_en": "Kuruthi",
-      "year": 2021,
-      "kinopoisk_id": 2000298,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-14 16:13:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 72,
+      "quality": "WEB-DL",
+      "poster": "https://img.imgilall.me/movies/franchise/6/9/7/2/0/0/0/0/0/0/610x900_6972.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "BBC: Голубая планета",
@@ -1004,278 +1281,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Пуленепробиваемые",
-      "title_en": "Bulletproof",
-      "year": 2018,
-      "kinopoisk_id": 1132323,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "24aa17763934afa8e757df5abf9d7f44f454b64810a63fe68119e6d0fcbe17d3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-20 18:36:17",
-      "update_date": "2021-01-20 18:36:58",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1132323.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Теряя Элис",
-      "title_en": "Losing Alice",
-      "year": 2020,
-      "kinopoisk_id": 1406228,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "bc4257e5b12c611e6cd9b4246f42affc237f0be80d05d962d9172b78d0eead34",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-19 09:16:55",
-      "update_date": "2021-01-20 08:40:39",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1406228.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мост",
-      "title_en": "Bron/Broen",
-      "year": 2011,
-      "kinopoisk_id": 574497,
-      "world_art_id": null,
-      "translator": "Amedia",
-      "token": "d27903ec00b2ea15a97cafcc0e8d5722d179dc2d4ab91e522f881d2e30ed3dff",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-20 02:38:44",
-      "update_date": "2021-01-20 02:52:18",
-      "block": false,
-      "translator_id": 7,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/574497.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Наши матери, наши отцы",
-      "title_en": "Unsere Mütter, unsere Väter",
-      "year": 2013,
-      "kinopoisk_id": 618935,
-      "world_art_id": null,
-      "translator": "многоголосый закадровый",
-      "token": "2c72d977ab8d6759d3d5bd3be424f63f100ecf005183069690f62924dd931051",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-19 23:51:04",
-      "update_date": "2021-01-19 23:51:23",
-      "block": false,
-      "translator_id": 89,
-      "quality": "BluRay",
-      "poster": "https://st.kp.yandex.net/images/film_big/618935.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Петербургский роман",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1181571,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "729f8a3034044882a100e86e00ba308fc078641480d43e03db277eb647ae95db",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-19 02:22:55",
-      "update_date": "2021-01-19 22:01:46",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1181571.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Батист",
-      "title_en": "Baptiste",
-      "year": 2019,
-      "kinopoisk_id": 1216583,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "f8db2c65a5f70db5ee95a3df22e2eb72f72f2a6ae1e072209c171dcf1b570989",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-19 21:02:28",
-      "update_date": "2021-01-19 21:04:25",
-      "block": false,
-      "translator_id": 117,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1216583.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ирландцы в Лондоне",
-      "title_en": "London Irish",
-      "year": 2013,
-      "kinopoisk_id": 804169,
-      "world_art_id": null,
-      "translator": "двухголосый закадровый",
-      "token": "e01fbe198b3181865e697e4e65996795847943b354d78ce51b69516982e2bdb8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-19 21:00:55",
-      "update_date": "2021-01-19 21:02:12",
-      "block": false,
-      "translator_id": 81,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/804169.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

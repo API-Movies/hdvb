@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Третий сорт",
+      "title_en": "De bas étage",
+      "year": 2021,
+      "kinopoisk_id": 1335801,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-13 00:04:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Главный герой",
+      "title_en": "Free Guy",
+      "year": 2021,
+      "kinopoisk_id": 1199100,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-13 00:01:01",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Невидимая угроза на карьере",
+      "title_en": "En el pozo / In the Quarry / Unsichtbare Bedrohung In the Quarry",
+      "year": 2019,
+      "kinopoisk_id": 6452534,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-12 23:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Дронини мандроны",
+      "title_en": "Дронині мандрони",
+      "year": 2020,
+      "kinopoisk_id": 568745654,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-12 23:56:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Мы, мёртвые",
       "title_en": "Aqerat",
       "year": 2017,
@@ -209,56 +261,274 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Большая ставка Nike",
-      "title_en": "Nike's Big Bet",
-      "year": 2021,
-      "kinopoisk_id": 4509297,
-      "type": "movie",
+      "title_ru": "Сёмин",
+      "title_en": "",
+      "year": 2009,
+      "kinopoisk_id": 474479,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "ad250b87d810f8074832230a06819fd6b45d817cd8d2beb1b91aa04933ee5d0b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-12 16:06:01",
+      "added_date": "2021-01-19 19:35:34",
+      "update_date": "2021-01-19 19:36:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/474479.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Убить всех политиков",
-      "title_en": "Kill All Politicians",
+      "title_ru": "Неизвестные лица",
+      "title_en": "Persons Unknown",
+      "year": 2010,
+      "kinopoisk_id": 471775,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "e23c77a2af4e46e3aba3466ee29d59310d281c921754afebc504ce873aebe946",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-19 10:39:35",
+      "update_date": "2021-01-19 10:40:09",
+      "block": false,
+      "translator_id": 82,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/471775.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Стальная звезда",
+      "title_en": "Tin Star",
       "year": 2017,
-      "kinopoisk_id": 1088123,
-      "type": "movie",
+      "kinopoisk_id": 981330,
+      "world_art_id": null,
+      "translator": "Novamedia",
+      "token": "730dea0922d5a3c7eab8b23b0530d48577b53f1426b91fe2bd125f331aea8481",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-12 16:04:01",
+      "added_date": "2020-12-10 21:05:44",
+      "update_date": "2021-01-19 10:12:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 51,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/981330.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Тихий омут",
-      "title_en": "Stillwater",
-      "year": 2021,
-      "kinopoisk_id": 1289692,
-      "type": "movie",
+      "title_ru": "Се Ля Ви",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 58768056,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "52738b98ddb4f8e0cf84e92bac06d039db407ed1c6611a7b530e573ca749f3f3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-12 02:10:01",
+      "added_date": "2021-01-17 15:03:08",
+      "update_date": "2021-01-19 02:26:56",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 92,
+      "quality": "WEBRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/58768056.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Агент 117: Из Африки с любовью",
-      "title_en": "OSS 117: Alerte rouge en Afrique noire",
-      "year": 2021,
-      "kinopoisk_id": 1323108,
-      "type": "movie",
+      "title_ru": "Гнездо",
+      "title_en": "The Nest",
+      "year": 2020,
+      "kinopoisk_id": 1297663,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "12182d7625d7a6c1d4ebebd7b7a0fdb80738eb766d7420e1f2969d7481e17cf2",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-12 02:09:01",
+      "added_date": "2021-01-18 21:45:10",
+      "update_date": "2021-01-18 21:45:44",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1297663.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Больница Никербокер",
+      "title_en": "The Knick",
+      "year": 2014,
+      "kinopoisk_id": 818708,
+      "world_art_id": null,
+      "translator": "Novamedia",
+      "token": "e508a8a769145cfeb63027d1d8c2221ff7eb03f9d257033b201c99eb2b547eab",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-15 17:30:00",
+      "update_date": "2021-01-18 20:47:04",
+      "block": false,
+      "translator_id": 51,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/818708.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Остаться в живых",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1118085,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "6b5cf809b0872c81cf0de41070ea9cc555c0e40bbcf7c0ce577e024133bdf2b8",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-18 20:09:28",
+      "update_date": "2021-01-18 20:10:40",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1118085.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Smoke",
@@ -707,230 +977,6 @@
             22,
             23,
             24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Убийство на троих",
-      "title_en": "",
-      "year": 2015,
-      "kinopoisk_id": 916134,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "094bf017ac6a117e48928d4e6e10158cc18793a1bf858331ace235b51a43175d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-17 19:44:47",
-      "update_date": "2021-01-17 19:46:25",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/916134.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Три лани на алмазной тропе",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 986420,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "646078a9b0e3f727f820a6eeffe71a0d852c91edd68ca9ade608eb648b406a48",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-17 19:42:39",
-      "update_date": "2021-01-17 19:44:19",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/986420.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Погоня за тремя зайцами",
-      "title_en": "",
-      "year": 2015,
-      "kinopoisk_id": 917381,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "d6df4560dcb1b50b78f519860aaddea00eda83de0ead06313d6576e645293807",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-17 19:40:29",
-      "update_date": "2021-01-17 19:42:12",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/917381.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Марафон для трёх граций",
-      "title_en": "",
-      "year": 2015,
-      "kinopoisk_id": 917340,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "c3b7fe41b1deed26da9f30b2031c06b5ce1f64b965922b0649965b49671d7cf8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-17 19:36:21",
-      "update_date": "2021-01-17 19:37:16",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/917340.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Траст",
-      "title_en": "Trust",
-      "year": 2018,
-      "kinopoisk_id": 1044759,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "05651e03af144ef03e099505b7eb481990bfe85b3cfbeebecf2569efcaa82db4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-17 18:34:47",
-      "update_date": "2021-01-17 18:43:43",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1044759.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=147908",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "30 сребреников",
-      "title_en": "30 Monedas",
-      "year": 2020,
-      "kinopoisk_id": 1236337,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "be254e98dc132884cb6bdec4d185f354cd4edbf70688d7187972cf89dc03cfec",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-29 17:15:17",
-      "update_date": "2021-01-17 16:06:57",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1236337.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Риэлторка",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1330033,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "172e5ecfdc97bded8b85b214312e7fb3a6646b59994bcb3806a4c0941a95d093",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-16 15:44:23",
-      "update_date": "2021-01-17 15:00:53",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1330033.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Мажоры на мели",
+      "title_en": "Pourris gâtés",
+      "year": 2021,
+      "kinopoisk_id": 1407526,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-11 08:38:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Боль",
+      "title_en": "Hurt",
+      "year": 2021,
+      "kinopoisk_id": 1173056,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-10 19:58:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Единственная",
+      "title_en": "Horse Latitudes",
+      "year": 2021,
+      "kinopoisk_id": 1172043,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-10 19:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Событие",
+      "title_en": "L\\'événement",
+      "year": 2021,
+      "kinopoisk_id": 4368677,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-10 19:55:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Сядь за руль моей машины",
       "title_en": "Doraibu mai ka",
       "year": 2021,
@@ -209,56 +261,279 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Моя любимая рождественская мелодия",
-      "title_en": "My Favorite Christmas Melody",
+      "title_ru": "Участок",
+      "title_en": "",
+      "year": 2003,
+      "kinopoisk_id": 89595,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "39a38cead7ba71ae3a26d005cfd2e9cfdb6c25730e904ad2ab9d0ccb1d191caf",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-10-24 21:25:35",
+      "update_date": "2021-10-24 21:26:37",
+      "block": false,
+      "translator_id": 92,
+      "quality": "DVDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/89595.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Гвардия",
+      "title_en": "",
+      "year": 2015,
+      "kinopoisk_id": 893995,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "2debd7d76b396aa9f302d6d8782343b880af85c370690368eb3bbc6b165f5001",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-10-24 21:24:12",
+      "update_date": "2021-10-24 21:25:24",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/893995.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Чисто английские убийства",
+      "title_en": "Midsomer Murders",
+      "year": 1997,
+      "kinopoisk_id": 251809,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "54f28f274e9526e49ee4849ce813fe101351a6d2d791c51df11c0e1d3ac57bf3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-04-06 10:08:18",
+      "update_date": "2021-10-24 09:50:35",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/251809.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 22,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Чисто английские убийства",
+      "title_en": "Midsomer Murders",
+      "year": 1997,
+      "kinopoisk_id": 251809,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "11b80dc07a132abf37c7db73e5b98382cae3ce23711070aac332691ee82fe3c9",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-04-05 10:09:56",
+      "update_date": "2021-10-24 09:26:21",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/251809.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 22,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Титаны",
+      "title_en": "Titans",
+      "year": 2018,
+      "kinopoisk_id": 462353,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "950ba6ff18914433e3a047eebd59e9a24728df1f96b9d1f82326f48d0351110b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-03 17:42:12",
+      "update_date": "2021-10-24 02:45:10",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/462353.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Проклятие брачного договора",
+      "title_en": "",
       "year": 2021,
-      "kinopoisk_id": 4746419,
-      "type": "movie",
+      "kinopoisk_id": 4668032,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "5f75f5037c5db58479738c740ca7077bd87c6a062af87b092fd567e8a74215ab",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-10 11:27:01",
+      "added_date": "2021-10-24 02:37:11",
+      "update_date": "2021-10-24 02:38:33",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "HDTV",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4668032.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "На одно лето",
-      "title_en": "Just for the Summer",
-      "year": 2020,
-      "kinopoisk_id": 1307284,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-12-10 11:25:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Рождественское семейное древо",
-      "title_en": "My Christmas Family Tree",
+      "title_ru": "Формула жизни",
+      "title_en": "",
       "year": 2021,
-      "kinopoisk_id": 4676143,
-      "type": "movie",
+      "kinopoisk_id": 4668041,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "ae3930549e5e9215bca88784ef5bb88946ab2f35e9f5b1771c79c7348208d3a4",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-10 11:23:01",
+      "added_date": "2021-10-24 02:36:34",
+      "update_date": "2021-10-24 02:38:04",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Рай",
-      "title_en": "Rakuen",
-      "year": 2019,
-      "kinopoisk_id": 1261602,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-12-10 11:22:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 92,
+      "quality": "WEBRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4668041.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Корпорация «Заговор»",
@@ -929,263 +1204,6 @@
             7,
             8,
             9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "По правде говоря",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1140088,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "faff8bba7a30394577d4f42985a8766a45c53b3c38df73f6564fba3684d4f6a0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-08-20 10:19:09",
-      "update_date": "2021-10-22 12:09:23",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1140088.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Титаны",
-      "title_en": "Titans",
-      "year": 2018,
-      "kinopoisk_id": 462353,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "9e58e8a9c9ad36dfbe109940ce853d20a06af72469165d94e44d08f122ada825",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-02 08:14:31",
-      "update_date": "2021-10-22 08:44:42",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/462353.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Убийства в одном здании",
-      "title_en": "Only Murders in the Building",
-      "year": 2021,
-      "kinopoisk_id": 4295380,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "364dc3f8f26a36039d3193ff5a8e38ffa08238a6c97959b3c78c454fdcb8cb3c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-09-01 04:38:05",
-      "update_date": "2021-10-22 08:43:38",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4295380.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Один из нас лжёт",
-      "title_en": "One Of Us Is Lying",
-      "year": 2021,
-      "kinopoisk_id": 1311209,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "c940c7236e98d0f421aac9b64118b96b7ca2cab2ddc198b7e26362cfe08b1758",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-10-08 08:31:33",
-      "update_date": "2021-10-22 08:42:12",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1311209.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Новая Золотая гора",
-      "title_en": "New Gold Mountain",
-      "year": 2021,
-      "kinopoisk_id": 4503040,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "127e72f889e3bf6bf15b61ff3c3400e6061ae0176cb703a0a0c5c9bb65f00815",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-10-14 09:21:51",
-      "update_date": "2021-10-22 08:41:41",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4503040.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Американская история ужасов",
-      "title_en": "American Horror Story",
-      "year": 2011,
-      "kinopoisk_id": 589167,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "96823f9677c8f8cea02322a6ff41839a0f743ee9b10bd35d4fa7d29cf9b58239",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-08-27 09:54:52",
-      "update_date": "2021-10-22 08:36:29",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/589167.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 10,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Улики из прошлого. Индийская невеста",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 4528025,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "26d9e97b550b94f3f517fb2427f6414a2496adc87c4ef28404f358ef9368c729",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-10-22 00:53:42",
-      "update_date": "2021-10-22 00:54:57",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4528025.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 1,
-          "episodes": [
-            1
           ]
         }
       ]

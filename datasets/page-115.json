@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Матери",
+      "title_en": "Madres",
+      "year": 2021,
+      "kinopoisk_id": 1445414,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-08 18:31:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Поднимем бокал за любовь",
+      "title_en": "Raise a Glass to Love",
+      "year": 2021,
+      "kinopoisk_id": 15209944,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-08 18:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Несправедливость: Боги среди нас",
+      "title_en": "Injustice",
+      "year": 2021,
+      "kinopoisk_id": 4524629,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-08 18:28:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Изгнание",
+      "title_en": "Desterro",
+      "year": 2020,
+      "kinopoisk_id": 10507176,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-08 18:26:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Мёртвые свиньи",
       "title_en": "Dead Pigs",
       "year": 2018,
@@ -209,56 +261,249 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Маленький Купер",
-      "title_en": "Little Cooper",
-      "year": 2020,
-      "kinopoisk_id": 14695940,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-07 23:13:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Супа модо",
-      "title_en": "Supa Modo",
-      "year": 2018,
-      "kinopoisk_id": 1112844,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-07 21:58:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Лукания",
-      "title_en": "Lucania",
-      "year": 2019,
-      "kinopoisk_id": 1098889,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-07 21:57:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Свет, Камера, Эмма",
-      "title_en": "Lights, Camera, Romance",
+      "title_ru": "Добро пожаловать в Утмарк",
+      "title_en": "Utmark",
       "year": 2021,
-      "kinopoisk_id": 1391381,
-      "type": "movie",
+      "kinopoisk_id": 1349589,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "9908182d01cf9908c8168f6444b6d5f5dfc28c170bee3b22b66479f445c81ea8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-07 21:54:01",
+      "added_date": "2021-04-30 18:38:34",
+      "update_date": "2021-05-07 12:29:57",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1349589.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мур-Мур",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4364709,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "fafbd917b9b443f5015bdd7a26ce30dd50b2be77bb2f11df7a45ebc73140f521",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-04-22 18:56:20",
+      "update_date": "2021-05-07 11:52:03",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4364709.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Милиционер с Рублёвки",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1385500,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "d1f0b94cf4349380518f8a7e67092e5a78209830addaa436efee5f701eeeefde",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-04-12 15:44:01",
+      "update_date": "2021-05-07 11:48:55",
+      "block": false,
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1385500.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 17,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Сокол и Зимний Солдат",
+      "title_en": "The Falcon and the Winter Soldier",
+      "year": 2021,
+      "kinopoisk_id": 1209203,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "d5f44242a604241e66db366c43780c2bf7bef5cdc6f8f3853231a320bda521a5",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-23 12:12:35",
+      "update_date": "2021-05-07 11:46:19",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1209203.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Дикая республика",
+      "title_en": "Wild Republic",
+      "year": 2021,
+      "kinopoisk_id": 1371707,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "ad7a0c34941f726179b77876d90a1258ef141db04b02e735f92d573777b7d657",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-04-16 09:28:11",
+      "update_date": "2021-05-07 09:23:36",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1371707.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Добро пожаловать в Утмарк",
+      "title_en": "Velkommen til Utmark (Welcome to Utmark)",
+      "year": 2021,
+      "kinopoisk_id": 1349589,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "1e98fe7b478ec821e3ae08ac006691aae94ac420746f1a8f4ec4f2d3518cf980",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-05-01 09:19:43",
+      "update_date": "2021-05-07 09:23:17",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1349589.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ramyug",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1227089,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "afc40283c5ee087073057ca4798abe9269b1e0fe5cc0d88d9957acb9e71ad342",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-05-07 09:19:40",
+      "update_date": "2021-05-07 09:20:16",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1227089.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Война семей",
@@ -809,283 +1054,6 @@
             3,
             4,
             5
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "По долгу службы",
-      "title_en": "Line of Duty",
-      "year": 2012,
-      "kinopoisk_id": 688829,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "e0dc4282b24b7f0876229f30ec59737f5fa2981602768e98e153b2b40528aedd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-23 08:31:38",
-      "update_date": "2021-05-04 09:11:35",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/688829.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 6,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Немцы",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1392767,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "c3fa679fe67c83cee426193533a8b6a0c958d2bae1241f12e73a838098454bb4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-28 01:37:54",
-      "update_date": "2021-05-04 00:50:58",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1392767.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сержант",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1320529,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "05b84ff6ddecaee86d6ddc57477f8cfc7140de3f94d95bf82438f549b289ba67",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-03 17:09:15",
-      "update_date": "2021-05-04 00:21:11",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1320529.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Любовь в рабочие недели",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 4382262,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "d4d95f754f60b31c9c3fe6dbc439553ae386f3275ff0ef37d27fa7693bdde4c2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-28 10:50:46",
-      "update_date": "2021-05-03 22:36:55",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4382262.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Тайны Броукенвуда",
-      "title_en": "The Brokenwood Mysteries",
-      "year": 2014,
-      "kinopoisk_id": 841729,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "f65a241da656323f3dbb181031114d7edc05a2abc41825fcbdbd78521e249d4f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-06 14:37:23",
-      "update_date": "2021-05-03 21:53:36",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/841729.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 7,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "По долгу службы",
-      "title_en": "Line of Duty",
-      "year": 2012,
-      "kinopoisk_id": 688829,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "2657c5d9d419dbe1873889d40bb891129c7a454af41342fdc016dcd6f57c078e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-22 11:57:44",
-      "update_date": "2021-05-03 09:55:30",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/688829.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 6,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "LEGO City Приключения",
-      "title_en": "Lego City Adventures",
-      "year": 2019,
-      "kinopoisk_id": 1263620,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "c1776d79455315296908db13d71c5f1f6c2906cac8465d63d03823d3b680433c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-02 23:43:17",
-      "update_date": "2021-05-02 23:50:51",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1263620.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
           ]
         }
       ]
