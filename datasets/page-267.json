@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Американский король",
+      "title_en": "The American King",
+      "year": 2020,
+      "kinopoisk_id": 1421199,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-05 16:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Лагерь перезагрузки",
+      "title_en": "Reboot Camp",
+      "year": 2021,
+      "kinopoisk_id": 1311378,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-05 15:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Смертельные слова",
+      "title_en": "Death Sentences",
+      "year": 2021,
+      "kinopoisk_id": 1397025,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-05 15:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Ночь",
       "title_en": "The Night / An Shab",
       "year": 2021,
@@ -222,43 +261,208 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Призраки локдауна",
-      "title_en": "The Lockdown Hauntings",
-      "year": 2021,
-      "kinopoisk_id": 1396730,
-      "type": "movie",
+      "title_ru": "В изоляции",
+      "title_en": "De utvalda",
+      "year": 2020,
+      "kinopoisk_id": 1347289,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "1c7ed48f469fb4eb9d49b745f465bdc3a6af27aa9f160320601abe8c0a353564",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-05 00:25:02",
+      "added_date": "2020-09-21 13:21:16",
+      "update_date": "2020-09-21 13:21:48",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1347289.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Тьма",
-      "title_en": "Dorcha / The Darkness",
-      "year": 2021,
-      "kinopoisk_id": 1192105,
-      "type": "movie",
+      "title_ru": "Агата и сыск. Королева брильянтов",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1306645,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "e0d8a2eee45cda1fa4586edcd04ec455f50b430baa63db068797c83fd10375c3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-05 00:24:01",
+      "added_date": "2020-09-19 14:51:19",
+      "update_date": "2020-09-21 13:10:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1306645.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Байкокрад",
-      "title_en": "The Bike Thief",
-      "year": 2021,
-      "kinopoisk_id": 1237288,
-      "type": "movie",
+      "title_ru": "Рысь",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 5654657,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "f8aa4f0711c11a35e71c464d95bede880165bb1f3e17caa0b9742d99d9581a54",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-05 00:22:01",
+      "added_date": "2020-09-20 22:45:20",
+      "update_date": "2020-09-21 12:28:16",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DLRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/5654657.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Заложники",
+      "title_en": "Hostages",
+      "year": 2019,
+      "kinopoisk_id": 1200648,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "a86b1e850ba96809901c1680e5aa8c8914cac4b28b1f3003a31ebbe997cbc487",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-22 12:01:30",
+      "update_date": "2020-09-20 21:15:11",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1200648.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Холландс Хоуп",
+      "title_en": "Hollands Hoop",
+      "year": 2014,
+      "kinopoisk_id": 820592,
+      "world_art_id": null,
+      "translator": "ViruseProject",
+      "token": "aa6d7d6e62165934bc24baf483b62d9e6269e6da402292d181e90dcb2ae63893",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-09-20 18:25:41",
+      "update_date": "2020-09-20 18:34:23",
+      "block": false,
+      "translator_id": 72,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/820592.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Комната 104",
@@ -1223,184 +1427,6 @@
             1,
             2,
             3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Догма дракона",
-      "title_en": "Dragon's Dogma",
-      "year": 2020,
-      "kinopoisk_id": 1392768,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "8bb5f0cdf82abcdc81bf93c42d820c276bb616c220d4da397a00d1f589542b02",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-18 08:29:25",
-      "update_date": "2020-09-18 08:30:20",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1392768.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дес",
-      "title_en": "Des",
-      "year": 2020,
-      "kinopoisk_id": 1328367,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "35f385a186d95275870c8e0ba9cc123e57a302c51bcacc4c850132b33ab90083",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-16 08:22:09",
-      "update_date": "2020-09-18 08:29:53",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1328367.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Игра влияния",
-      "title_en": "Jeux d\\'influence",
-      "year": 2018,
-      "kinopoisk_id": 1274286,
-      "world_art_id": null,
-      "translator": "двухголосый закадровый",
-      "token": "3b8bb3b66a8ee3352997dc4c5663ce9448e18dc59343d38c505ad2641f3892e6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-17 23:00:16",
-      "update_date": "2020-09-17 23:01:36",
-      "block": false,
-      "translator_id": 81,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1274286.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Альгамбра: Воспоминания о королевстве",
-      "title_en": "Alhambeura: gungjeoneui chueok",
-      "year": 2018,
-      "kinopoisk_id": 1111081,
-      "world_art_id": null,
-      "translator": "SoftBox",
-      "token": "a6556788850278c8f36fd9eefcad518ee15d4672def1c00be4d4bcb704d97b5e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-17 21:04:43",
-      "update_date": "2020-09-17 21:17:46",
-      "block": false,
-      "translator_id": 106,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/1111081.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "К2",
-      "title_en": "Deo keitu",
-      "year": 2016,
-      "kinopoisk_id": 994667,
-      "world_art_id": null,
-      "translator": "Мобильное телевидение",
-      "token": "55358b32214915a36052f0a5b9bc7b807afebdd7f2d606028ec681045caa9763",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-17 20:54:32",
-      "update_date": "2020-09-17 21:04:00",
-      "block": false,
-      "translator_id": 133,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/994667.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
           ]
         }
       ]

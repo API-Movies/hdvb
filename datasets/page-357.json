@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Little Pink House",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 935164,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 11:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Вышедшие из тени",
+      "title_en": "Out of the Shadows",
+      "year": 2017,
+      "kinopoisk_id": 934556,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 11:31:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Народ Америки",
+      "title_en": "American Folk",
+      "year": 2017,
+      "kinopoisk_id": 934490,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 11:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Собаки спешат на помощь",
       "title_en": "Rescue Dogs",
       "year": 2016,
@@ -222,43 +261,287 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Сын",
+      "title_ru": "Алёша",
       "title_en": "",
-      "year": 2014,
-      "kinopoisk_id": 745090,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 11:12:01",
-      "block": false,
+      "year": 2020,
+      "kinopoisk_id": 1328020,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "5356be525fc1a948712aabca641bb41a71a8de9e68773b5aef8e8de81cb05002",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-17 09:40:24",
+      "update_date": "2020-05-17 09:40:24",
+      "block": false,
       "translator_id": 92,
-      "quality": "WEB-DL"
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1328020.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Плохие ребята",
-      "title_en": "The Bad Guys",
-      "year": 2018,
-      "kinopoisk_id": 737631,
-      "type": "movie",
+      "title_ru": "Доктор Мартин",
+      "title_en": "Doc Martin",
+      "year": 2004,
+      "kinopoisk_id": 229803,
+      "world_art_id": null,
+      "translator": "Профессиональный (многоголосый)",
+      "token": "629dae9e51a80947dfbf567137737049b4dbde31c8adeec0d2632b4233d7fbdd",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-16 11:11:02",
+      "added_date": "2020-05-17 08:43:03",
+      "update_date": "2020-05-17 08:43:03",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 126,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/229803.jpg",
+      "trailer": "https://kp.cdn.yandex.net/229803/kinopoisk.ru-Doc-Martin-219577.mp4",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 7,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 8,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Five Star",
-      "title_en": "",
-      "year": 2014,
-      "kinopoisk_id": 701000,
-      "type": "movie",
+      "title_ru": "В лучшем мире",
+      "title_en": "The Good Place",
+      "year": 2016,
+      "kinopoisk_id": 977493,
+      "world_art_id": null,
+      "translator": "Профессиональный (многоголосый)",
+      "token": "b4fb6f7e61ac558c5f913f16631c270a5bdce1eee5eb904ac18d64d21bdb2527",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-16 11:10:01",
+      "added_date": "2020-05-17 00:17:11",
+      "update_date": "2020-05-17 00:17:11",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 126,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/977493.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135061",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Падение в мёртвые воды",
+      "title_en": "Deadwater Fell",
+      "year": 2020,
+      "kinopoisk_id": 1283882,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "c2174754e229932a582fd02c4eb4340d51171d58ac2180d8fd42a7de6d651a03",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-16 23:16:35",
+      "update_date": "2020-05-16 23:16:35",
+      "block": false,
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1283882.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Расправа",
@@ -796,384 +1079,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Открытое море",
-      "title_en": "Alta mar",
-      "year": 2019,
-      "kinopoisk_id": 1200404,
-      "world_art_id": null,
-      "translator": "AMS",
-      "token": "9f3284242e8510bd4b6394ae9d94dd347595c89eca4ac91fd830203572ac93b3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 14:31:49",
-      "update_date": "2020-05-16 14:31:49",
-      "block": false,
-      "translator_id": 139,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1200404.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чёрный список",
-      "title_en": "The Blacklist",
-      "year": 2013,
-      "kinopoisk_id": 741231,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "4c584c34bc15f23cc59d05cfe9ad8e776e2def9fb1201add9f31284395dcc738",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 14:25:54",
-      "update_date": "2020-05-16 14:25:54",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/741231.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=82734",
-      "serial_episodes": [
-        {
-          "season_number": 7,
-          "episodes_count": 19,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чисто английские убийства",
-      "title_en": "Midsomer Murders",
-      "year": 1997,
-      "kinopoisk_id": 251809,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "9e8e7d8d67d3a32c8fad1316c06c7a705adb4d92cdbf776c0a9a15eab100acb1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 12:23:16",
-      "update_date": "2020-05-16 12:23:16",
-      "block": false,
-      "translator_id": 126,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/251809.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        {
-          "season_number": 7,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        },
-        {
-          "season_number": 8,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 9,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 10,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 11,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        },
-        {
-          "season_number": 12,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        },
-        {
-          "season_number": 13,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 14,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 15,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 16,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        {
-          "season_number": 17,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        },
-        {
-          "season_number": 18,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 19,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 20,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ши-Ра и непобедимые принцессы",
-      "title_en": "She-Ra and the Princesses of Power",
-      "year": 2018,
-      "kinopoisk_id": 1115562,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "988592109a47b014d5eb930c754615a1f50fa2b8163847d8a00e3d84b103080c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 08:59:49",
-      "update_date": "2020-05-16 08:59:49",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1115562.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

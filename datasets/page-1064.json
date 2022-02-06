@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title_ru": "Рождество с корги",
+      "title_en": "A Very Corgi Christmas",
+      "year": 2019,
+      "kinopoisk_id": 1291745,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-07 11:25:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "После свадьбы",
+      "title_en": "After the Wedding",
+      "year": 2019,
+      "kinopoisk_id": 1126670,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-07 11:23:02",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Призрачный патруль",
+      "title_en": "Deadtectives",
+      "year": 2019,
+      "kinopoisk_id": 826382,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-07 09:45:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Дикая Лига",
       "title_en": "",
       "year": 2019,
@@ -220,45 +262,6 @@
       "translator": "Дубляж [Лицензия]",
       "translator_id": 107,
       "quality": "BluRay"
-    },
-    {
-      "title_ru": "В двух шагах от славы",
-      "title_en": "Twenty Feet from Stardom",
-      "year": 2013,
-      "kinopoisk_id": 731265,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-07 00:54:01",
-      "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "День матери",
-      "title_en": "Mothers and Daughters",
-      "year": 2016,
-      "kinopoisk_id": 681663,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-07 00:51:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Нет",
-      "title_en": "No",
-      "year": 2012,
-      "kinopoisk_id": 629951,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-07 00:49:02",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "HDTV"
     }
   ]
 }

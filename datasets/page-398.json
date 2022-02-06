@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "В погоне за дождём",
+      "title_en": "Chasing the Rain",
+      "year": 2020,
+      "kinopoisk_id": 631991,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-05 23:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Истории квартала 3",
+      "title_en": "Tales from the Hood 3",
+      "year": 2020,
+      "kinopoisk_id": 1331740,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-05 17:38:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Американский пирог представляет: правила для девочек",
+      "title_en": "American Pie Presents: Girls' Rules",
+      "year": 2020,
+      "kinopoisk_id": 1346860,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-05 17:04:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Ударная волна 2",
       "title_en": "Chai dan zhuan jia 2",
       "year": 2019,
@@ -222,43 +261,167 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Рождественская лотерея",
-      "title_en": "A Christmas Lottery / The Christmas Lottery",
-      "year": 2020,
-      "kinopoisk_id": 1446454,
-      "type": "movie",
+      "title_ru": "Джек Райан",
+      "title_en": "Jack Ryan",
+      "year": 2018,
+      "kinopoisk_id": 1008708,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "3cc302c1106782d0425475b9f1b45a8e112cd28924b05d371cb70d890ad382cb",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-04 21:57:02",
+      "added_date": "2019-12-12 01:07:32",
+      "update_date": "2019-12-12 01:07:32",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1008708.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=144151",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Похититель душ",
-      "title_en": "Chi hu shu sheng",
-      "year": 2020,
-      "kinopoisk_id": 1398917,
-      "type": "movie",
+      "title_ru": "Удивительная миссис Мейзел",
+      "title_en": "The Marvelous Mrs. Maisel",
+      "year": 2017,
+      "kinopoisk_id": 994468,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "e341df0555bce45478503f06a783df6e8265d6976bfefba84c5ddba551b77414",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-04 21:06:01",
+      "added_date": "2019-12-11 15:25:31",
+      "update_date": "2019-12-11 15:25:31",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/994468.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "",
-      "title_en": "Les châtelains / La forêt de mon père",
-      "year": 2020,
-      "kinopoisk_id": 1218157,
-      "type": "movie",
+      "title_ru": "Фантом",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1253979,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "09c1edad120777bb1988d1b0fe3ff273a117c943181ce4a538e6bcb818703d6e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-04 21:03:01",
+      "added_date": "2019-12-11 14:43:49",
+      "update_date": "2019-12-11 14:43:49",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1253979.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Касл-Рок",
+      "title_en": "Castle Rock",
+      "year": 2018,
+      "kinopoisk_id": 1040949,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "196f0652febf629622f3cd184bd0bdf89efbc7e3ca564bfe205f4cf942584827",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-11 14:32:26",
+      "update_date": "2019-12-11 14:32:26",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1040949.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=151100",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Кремниевая долина",
@@ -902,175 +1065,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Железный кулак",
-      "title_en": "Iron Fist",
-      "year": 2017,
-      "kinopoisk_id": 817510,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "88f57106ab5e9a013629d7179f6e82293c8ca9277d7c6d5197b1f6991399ebd4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-07 02:12:07",
-      "update_date": "2019-12-07 02:12:07",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/817510.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Удивительная миссис Мейзел",
-      "title_en": "The Marvelous Mrs. Maisel",
-      "year": 2017,
-      "kinopoisk_id": 994468,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "52e017195f4990969ee383f8c2511a27f104f17470a1f054b1d7d2a74a678600",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-06 22:31:05",
-      "update_date": "2019-12-06 22:31:05",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/994468.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Виргин Ривер",
-      "title_en": "Virgin River",
-      "year": 2019,
-      "kinopoisk_id": 1228232,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "764ca6651a82229d5f698985529cb89f946e4e3618a49877d8d147548459d5d1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-06 20:16:58",
-      "update_date": "2019-12-06 20:16:58",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1228232.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Избранный",
-      "title_en": "O Escolhido",
-      "year": 2019,
-      "kinopoisk_id": 1250069,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "67669ef342ee91aa3e0a7a4291039ea32686f35fe28d1f7ba240677f4b070695",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-06 20:01:42",
-      "update_date": "2019-12-06 20:01:42",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1250069.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

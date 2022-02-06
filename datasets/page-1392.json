@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "title_ru": "Вдовы",
+      "title_en": "Widows",
+      "year": 2018,
+      "kinopoisk_id": 965901,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-01-25 16:49:15",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Частная война",
+      "title_en": "A Private War",
+      "year": 2018,
+      "kinopoisk_id": 707404,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-01-25 15:34:20",
+      "block": [
+        "RU"
+      ],
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Хэллфест",
+      "title_en": "Hell Fest",
+      "year": 2018,
+      "kinopoisk_id": 602865,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-01-24 21:59:31",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Сможете ли вы меня простить?",
       "title_en": "Can You Ever Forgive Me?",
       "year": 2018,
@@ -229,45 +270,6 @@
       "translator": "Дубляж [Лицензия]",
       "translator_id": 107,
       "quality": "BluRay"
-    },
-    {
-      "title_ru": "Ничего себе каникулы!",
-      "title_en": "Premières vacances",
-      "year": 2018,
-      "kinopoisk_id": 1062849,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-01-21 17:01:24",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Две королевы",
-      "title_en": "Mary Queen of Scots",
-      "year": 2018,
-      "kinopoisk_id": 696247,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-01-21 16:00:51",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Химера",
-      "title_en": "Braid",
-      "year": 2018,
-      "kinopoisk_id": 1047565,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-01-21 15:00:42",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
     }
   ]
 }

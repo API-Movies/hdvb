@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Макс",
+      "title_en": "Max",
+      "year": 2015,
+      "kinopoisk_id": 811642,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-14 15:03:57",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Между делом",
+      "title_en": "Unfinished Business",
+      "year": 2015,
+      "kinopoisk_id": 677683,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-14 14:13:26",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Тёмное зеркало",
+      "title_en": "Look Away",
+      "year": 2018,
+      "kinopoisk_id": 1027785,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-14 12:58:17",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Без меня",
       "title_en": "",
       "year": 2018,
@@ -224,49 +263,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "BDRip"
-    },
-    {
-      "title_ru": "Кислота",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1042556,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-08 20:02:07",
-      "block": [
-        "RU"
-      ],
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Любовник моей жены",
-      "title_en": "Amoureux de ma femme",
-      "year": 2018,
-      "kinopoisk_id": 1101696,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-08 16:59:14",
-      "block": [
-        "RU"
-      ],
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Школа",
-      "title_en": "The School",
-      "year": 2018,
-      "kinopoisk_id": 1040485,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-08 16:10:29",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
     }
   ]
 }

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Летние войны",
+      "title_en": "Samâ uôzu",
+      "year": 2009,
+      "kinopoisk_id": 470034,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-01 00:07:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "В равновесии",
+      "title_en": "En équilibre",
+      "year": 2015,
+      "kinopoisk_id": 861708,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-01 00:06:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Назови своё имя",
+      "title_en": "Tell Me Your Name",
+      "year": 2018,
+      "kinopoisk_id": 852467,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-01 00:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Осторожно: Грамп!",
       "title_en": "Here Comes the Grump",
       "year": 2018,
@@ -220,48 +259,6 @@
       "translator": "одноголосый закадровый",
       "translator_id": 93,
       "quality": "BluRay"
-    },
-    {
-      "title_ru": "Дикая Лига",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1111734,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-10-31 21:52:02",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Сельма в городе призраков",
-      "title_en": "Dia de Muertos",
-      "year": 2019,
-      "kinopoisk_id": 957174,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-10-31 21:51:01",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Арахисовый сокол",
-      "title_en": "The Peanut Butter Falcon",
-      "year": 2019,
-      "kinopoisk_id": 925389,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-10-31 21:48:01",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
     }
   ]
 }

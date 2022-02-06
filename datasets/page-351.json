@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Энди",
+      "title_en": "Andy",
+      "year": 2019,
+      "kinopoisk_id": 1189973,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-19 00:16:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Посылка",
+      "title_en": "Postal",
+      "year": 2019,
+      "kinopoisk_id": 1200855,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-18 20:22:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Красный кошмар",
+      "title_en": "The Red Nightmare",
+      "year": 2021,
+      "kinopoisk_id": 13978498,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-18 15:44:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "",
       "title_en": "Summer Knight",
       "year": 2019,
@@ -222,43 +261,141 @@
       "quality": "HDTV"
     },
     {
-      "title_ru": "Body Brokers",
+      "title_ru": "Родительское право",
       "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1266030,
-      "type": "movie",
+      "year": 2018,
+      "kinopoisk_id": 1373681,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "b8f890d7471022fdd5fd91444ea4586ab2d1c14db694693c85d60958674529fb",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-18 08:00:02",
+      "added_date": "2020-05-27 17:59:52",
+      "update_date": "2020-05-27 17:59:52",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1373681.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Барбоскины на даче",
-      "title_en": "",
+      "title_ru": "Миссис Америка",
+      "title_en": "Mrs. America",
       "year": 2020,
-      "kinopoisk_id": 1249181,
-      "type": "movie",
+      "kinopoisk_id": 1221477,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "db7a3e2064147e805b6bacf48ee94cfb90dc41377ad0ca539f45739a52a4d477",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-18 07:59:01",
+      "added_date": "2020-05-27 17:59:51",
+      "update_date": "2020-05-27 17:59:51",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1221477.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Серебряные коньки",
+      "title_ru": "Тень дракона",
       "title_en": "",
       "year": 2020,
-      "kinopoisk_id": 1225587,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-18 07:58:02",
-      "block": false,
+      "kinopoisk_id": 1334374,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "d8a330b16e2b2be833d3cc56e488d5383c647561c2d074de4fd408e70e73ef71",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-27 17:00:34",
+      "update_date": "2020-05-27 17:00:34",
+      "block": false,
       "translator_id": 92,
-      "quality": "WEB-DL"
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1334374.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мышеловка для кота",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1377937,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "c9735ee24d23abdf6103d1e1908ccd53d7df957f7f125884e29e0b2eb8adedb1",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-27 14:33:40",
+      "update_date": "2020-05-27 14:33:40",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1377937.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Пуленепробиваемые",
@@ -1025,154 +1162,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дрянь",
-      "title_en": "Fleabag",
-      "year": 2016,
-      "kinopoisk_id": 991739,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "e9b0c376bff8ae14cc71503bd34e6c4f565ebdd6722773fb2e179c8fd80b1adc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-25 14:34:11",
-      "update_date": "2020-05-25 14:34:11",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/991739.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Беги",
-      "title_en": "Run",
-      "year": 2020,
-      "kinopoisk_id": 1202314,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "1c442adfe2c4f051a729a9fb1365659e9be7cc49c13859c6c5d4ab8d2fd67bac",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-25 14:32:48",
-      "update_date": "2020-05-25 14:32:48",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1202314.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ши-Ра и непобедимые принцессы",
-      "title_en": "She-Ra and the Princesses of Power",
-      "year": 2018,
-      "kinopoisk_id": 1115562,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "5af790a1a81004ba539414447af13e4c5990f90a7263659a3c15e952820de3ee",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-25 09:43:43",
-      "update_date": "2020-05-25 09:43:43",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1115562.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Таинственный путь",
-      "title_en": "Mystery Road",
-      "year": 2018,
-      "kinopoisk_id": 1161756,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "6de60475a6b559b3a9a4488d883a3cdd28501690dbb84a62cd3d004a2d008d07",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-25 09:41:48",
-      "update_date": "2020-05-25 09:41:48",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1161756.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

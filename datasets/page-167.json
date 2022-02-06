@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Бумажный тигр",
+      "title_en": "Paper Tiger",
+      "year": 2021,
+      "kinopoisk_id": 1267682,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-25 00:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Лусала",
+      "title_en": "Lusala",
+      "year": 2019,
+      "kinopoisk_id": 1278304,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-25 00:15:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Плохих профессий не бывает",
+      "title_en": "Il n'y a pas de faux métier",
+      "year": 2020,
+      "kinopoisk_id": 1440611,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-25 00:14:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Дважды ты",
       "title_en": "Dos Veces Tú",
       "year": 2019,
@@ -222,43 +261,439 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Воины Силат: Смертельный договор",
-      "title_en": "Geran",
-      "year": 2019,
-      "kinopoisk_id": 1317692,
-      "type": "movie",
+      "title_ru": "Койот",
+      "title_en": "Coyote",
+      "year": 2021,
+      "kinopoisk_id": 1322889,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "e89eb8ea29739557630398238ed9ed3293558e731c58d48cbc87642b9dca64df",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-23 22:36:01",
+      "added_date": "2021-01-11 00:32:44",
+      "update_date": "2021-01-30 02:30:09",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1322889.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Мосли",
-      "title_en": "Mosley",
+      "title_ru": "Ветреный",
+      "title_en": "Hercai",
+      "year": 2019,
+      "kinopoisk_id": 1236515,
+      "world_art_id": null,
+      "translator": "двухголосый закадровый",
+      "token": "de21753d7835a66960c292856ee0e2b36487d9a6ccf8ea76864c0967c3597f7d",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-29 23:38:46",
+      "update_date": "2021-01-29 23:39:29",
+      "block": false,
+      "translator_id": 81,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1236515.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 26,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Подкидыш",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1334723,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "7a4602a2854ad10686cf46c0212bf8dd64274e24e92699c8dd6326516a232f88",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-29 22:33:39",
+      "update_date": "2021-01-29 22:33:54",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1334723.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Наседка",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1338248,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "225a053cf619f02ad40017ae2344be30c1027cf80c4b046f7f001be3ed2cf655",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-29 22:32:20",
+      "update_date": "2021-01-29 22:33:30",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1338248.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Изменишь мне — умрёшь!",
+      "title_en": "Barampimyeon jukneunda",
       "year": 2020,
-      "kinopoisk_id": 8936290,
-      "type": "movie",
+      "kinopoisk_id": 1390690,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "4e9ad4331619f768524c50f336d74761e468e771a2422c90cf7c2af46e12397a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-23 22:35:01",
+      "added_date": "2020-12-03 18:04:08",
+      "update_date": "2021-01-29 21:12:05",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1390690.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 32,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Белым по белому",
-      "title_en": "White on White",
-      "year": 2019,
-      "kinopoisk_id": 1198644,
-      "type": "movie",
+      "title_ru": "Медиум",
+      "title_en": "Medium",
+      "year": 2005,
+      "kinopoisk_id": 257785,
+      "world_art_id": null,
+      "translator": "Профессиональный (многоголосый)",
+      "token": "c5fd26d7298d6109ddaeff4612fa52d03072ac0e11cdaff0c3cdb74a527db5bd",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-23 22:33:02",
+      "added_date": "2021-01-29 21:08:38",
+      "update_date": "2021-01-29 21:10:25",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 126,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/257785.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 22,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 22,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 22,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "season_number": 7,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Что знает Оливия",
@@ -1111,283 +1546,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Стас всё сдаст",
-      "title_en": "Stath Lets Flats",
-      "year": 2018,
-      "kinopoisk_id": 1172525,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "d579083afba77fe6e336c80251a5c40144d19f7be0f9454e53fbb610f48b8d5c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-28 18:24:44",
-      "update_date": "2021-01-28 18:34:51",
-      "block": false,
-      "translator_id": 117,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1172525.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ученица",
-      "title_en": "L\\'allieva",
-      "year": 2016,
-      "kinopoisk_id": 1037619,
-      "world_art_id": null,
-      "translator": "ShowJet",
-      "token": "1ad506d0991ff35fcdce1cb4156d1f3eb1cf53fe3553a5b7863599a1c444de96",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-28 18:33:07",
-      "update_date": "2021-01-28 18:34:48",
-      "block": false,
-      "translator_id": 125,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1037619.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Юна из гостиницы Юраги",
-      "title_en": "Yuragi-sou no Yuuna-san",
-      "year": 2018,
-      "kinopoisk_id": 1191537,
-      "world_art_id": null,
-      "translator": "StudioBand",
-      "token": "afa385b6f9e01c1d836702793f86fe383a3b41c71ebbd8183e19a36cce04ee5a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-28 18:19:36",
-      "update_date": "2021-01-28 18:24:01",
-      "block": false,
-      "translator_id": 66,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1191537.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Астра, затерянная в космосе",
-      "title_en": "Kanata no Astra",
-      "year": 2019,
-      "kinopoisk_id": 1282043,
-      "world_art_id": null,
-      "translator": "StudioBand",
-      "token": "f748abea53cd621ad619c478f1ebd3b350cea7918dbec2ccc05eec879906c760",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-28 18:17:52",
-      "update_date": "2021-01-28 18:18:59",
-      "block": false,
-      "translator_id": 66,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1282043.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Укушенная",
-      "title_en": "Bitten",
-      "year": 2014,
-      "kinopoisk_id": 799284,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "97bbbe89dd58a8b9d429df0f55dd41f8241b8657a5c677f095258d2632a53d98",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-28 18:16:31",
-      "update_date": "2021-01-28 18:17:58",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/799284.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Тюряга",
-      "title_en": "Superjail!",
-      "year": 2007,
-      "kinopoisk_id": 376727,
-      "world_art_id": null,
-      "translator": "HamsterStudio",
-      "token": "92e901d1dd60d29f46aeafcf96b5904d1ceee79adecb41d2062cd41b0b20ff85",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-28 18:14:40",
-      "update_date": "2021-01-28 18:16:16",
-      "block": false,
-      "translator_id": 32,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/376727.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]
