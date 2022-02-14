@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "title_ru": "Ковёр-самолёт",
+      "title_en": "Hodja fra Pjort",
+      "year": 2018,
+      "kinopoisk_id": 989309,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-01 15:51:51",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Высшее общество",
+      "title_en": "High Life",
+      "year": 2018,
+      "kinopoisk_id": 989142,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-01 15:50:00",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Лабиринты прошлого",
+      "title_en": "Todos lo saben",
+      "year": 2018,
+      "kinopoisk_id": 965063,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-01 11:00:48",
+      "block": [
+        "RU"
+      ],
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "В ожидании чуда",
       "title_en": "Waiting for the Miracle to Come",
       "year": 2017,
@@ -224,45 +265,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Грязь",
-      "title_en": "Slime",
-      "year": 2018,
-      "kinopoisk_id": 9434772,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-29 22:40:33",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Плохой человек",
-      "title_en": "The Bad Man",
-      "year": 2018,
-      "kinopoisk_id": 1414512,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-29 22:38:35",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Бисби 17",
-      "title_en": "Bisbee '17",
-      "year": 217,
-      "kinopoisk_id": 1110468,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-29 18:43:53",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "DVDRip"
     }
   ]
 }

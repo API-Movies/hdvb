@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title_ru": "Газгольдер. Клубаре",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1103873,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-11-05 22:17:51",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "2x2",
+      "translator_id": 1,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Форсаж",
+      "title_en": "The Fast and the Furious",
+      "year": 2001,
+      "kinopoisk_id": 666,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-11-05 21:21:41",
+      "block": false,
+      "translator": "2x2",
+      "translator_id": 1,
+      "quality": "CAMRip"
+    },
+    {
+      "title_ru": "Разрушитель вечеринки",
+      "title_en": "Haunting on Fraternity Row",
+      "year": 2018,
+      "kinopoisk_id": 1006092,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-11-05 16:39:11",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Кристофер Робин",
       "title_en": "Christopher Robin",
       "year": 2018,
@@ -223,45 +265,6 @@
       "translator": "Дубляж [Лицензия]",
       "translator_id": 107,
       "quality": "BluRay"
-    },
-    {
-      "title_ru": "МЭГ",
-      "title_en": "Meg",
-      "year": 2018,
-      "kinopoisk_id": 918627,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-30 23:56:47",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Джиперс Криперс 3",
-      "title_en": "Jeepers Creepers 3",
-      "year": 2017,
-      "kinopoisk_id": 409178,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-30 15:54:22",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Хантер Киллер",
-      "title_en": "Hunter Killer",
-      "year": 2018,
-      "kinopoisk_id": 589787,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-30 01:00:57",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
     }
   ]
 }

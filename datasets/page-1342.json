@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title_ru": "Проклятие плачущей",
+      "title_en": "The Curse of La Llorona",
+      "year": 2019,
+      "kinopoisk_id": 1084329,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-28 11:51:01",
+      "block": false,
+      "translator": "Дубляж [Звук с TS]",
+      "translator_id": 108,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Королевский корги",
+      "title_en": "The Queen's Corgi",
+      "year": 2019,
+      "kinopoisk_id": 1047996,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-28 11:24:01",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Капитан Марвел",
+      "title_en": "Captain Marvel",
+      "year": 2019,
+      "kinopoisk_id": 843859,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-05-28 10:04:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Вспомнить всё",
       "title_en": "Total Recall",
       "year": 2012,
@@ -222,45 +264,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Интерстеллар",
-      "title_en": "Interstellar",
-      "year": 2014,
-      "kinopoisk_id": 258687,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-05-26 10:21:04",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "4К"
-    },
-    {
-      "title_ru": "Небоскрёб",
-      "title_en": "Skyscraper",
-      "year": 2018,
-      "kinopoisk_id": 1041734,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-05-26 10:20:39",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "4К"
-    },
-    {
-      "title_ru": "Великий уравнитель 2",
-      "title_en": "The Equalizer 2",
-      "year": 2018,
-      "kinopoisk_id": 840294,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-05-26 10:20:09",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "4К"
     }
   ]
 }

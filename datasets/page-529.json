@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Клиент",
+      "title_en": "The Client",
+      "year": 1994,
+      "kinopoisk_id": 3000,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-28 00:16:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Моё бабье лето",
+      "title_en": "Mein Altweibersommer",
+      "year": 2020,
+      "kinopoisk_id": 1391104,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-27 23:25:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Стены памяти",
+      "title_en": "Les murs du souvenir",
+      "year": 2019,
+      "kinopoisk_id": 1264105,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-27 23:24:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
       "title_ru": "Мост забытых влюбленных",
       "title_en": "Le pont des oubliés",
       "year": 2019,
@@ -220,45 +259,6 @@
       "translator": "Профессиональный (многоголосый) [Лицензия]",
       "translator_id": 110,
       "quality": "BDRip"
-    },
-    {
-      "title_ru": "Близость",
-      "title_en": "Proximity",
-      "year": 2020,
-      "kinopoisk_id": 1182264,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-26 21:46:02",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Muse: Теория Симуляции",
-      "title_en": "Muse: Simulation Theory / Simulation Theory Film",
-      "year": 2020,
-      "kinopoisk_id": 1399049,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-26 20:45:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Перезагрузка",
-      "title_en": "ReRUN",
-      "year": 2018,
-      "kinopoisk_id": 879780,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-26 20:44:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
     }
   ]
 }
