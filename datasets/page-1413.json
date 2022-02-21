@@ -1,6 +1,73 @@
 {
   "items": [
     {
+      "title_ru": "Колетт",
+      "title_en": "Colette",
+      "year": 2018,
+      "kinopoisk_id": 963094,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-12-03 16:54:13",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Братья Систерс",
+      "title_en": "The Sisters Brothers",
+      "year": 2018,
+      "kinopoisk_id": 968375,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-12-03 16:16:02",
+      "block": [
+        "RU"
+      ],
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Патрик",
+      "title_en": "Patrick",
+      "year": 2018,
+      "kinopoisk_id": 1011011,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-12-03 14:49:03",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Хэллоуин",
+      "title_en": "Halloween",
+      "year": 2018,
+      "kinopoisk_id": 472369,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-12-03 13:12:53",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Пришелец",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1118067,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-12-03 00:16:31",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Багровая мята",
       "title_en": "Peppermint",
       "year": 2018,
@@ -194,71 +261,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "HDTVRip"
-    },
-    {
-      "title_ru": "Дэрроу и Дэрроу 2",
-      "title_en": "Darrow &amp; Darrow 2",
-      "year": 2018,
-      "kinopoisk_id": 1133216,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-12-01 00:54:12",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Смертельная жажда",
-      "title_en": "DeadThirsty",
-      "year": 2017,
-      "kinopoisk_id": 1096334,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-12-01 00:48:04",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DLRip"
-    },
-    {
-      "title_ru": "Плюшевый мишка",
-      "title_en": "Ursinho",
-      "year": 2018,
-      "kinopoisk_id": 1112454,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-12-01 00:31:23",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Проблемы серых пришельцев",
-      "title_en": "Gray Matter",
-      "year": 2018,
-      "kinopoisk_id": 920975,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-12-01 00:07:10",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Да, шеф!",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 974204,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-11-30 23:10:13",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
     }
   ]
 }

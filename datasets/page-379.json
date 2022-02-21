@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "title_ru": "У холмов есть глаза 2",
+      "title_en": "The Hills Have Eyes II",
+      "year": 2007,
+      "kinopoisk_id": 257413,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-05 14:45:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Добровольцы",
+      "title_en": "",
+      "year": 1958,
+      "kinopoisk_id": 44239,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-05 14:44:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Щелчок любви",
+      "title_en": "Taking a Shot at Love",
+      "year": 2021,
+      "kinopoisk_id": 13606088,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-05 12:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Моя мать сошла с ума",
+      "title_en": "Meine Mutter spielt verrückt",
+      "year": 2019,
+      "kinopoisk_id": 1199932,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-05 11:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Темная ночь, страшная ночь",
+      "title_en": "Deep Night, Frightening Night",
+      "year": 2018,
+      "kinopoisk_id": 86969674,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-05 11:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Царь Обезьян: Слёзы безжалости",
       "title_en": "The Tears of the Great Sage",
       "year": 2020,
@@ -196,69 +261,222 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Война меж двух миров",
-      "title_en": "A World of Worlds / 2 Worlds of War",
+      "title_ru": "Прикуп",
+      "title_en": "The Take",
+      "year": 2009,
+      "kinopoisk_id": 487211,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "e6ab39632a8803940691e83738c8b1a1964592c1ee8b85d61b9e56decc70e46b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-15 12:58:50",
+      "update_date": "2020-04-15 12:58:50",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/487211.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Счастье по договору",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 1047606,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "e9e1f85a95eb395384c361ddf111dd5bcb1cc0d4fcffd8d7eae78aa8279c59ae",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-15 09:46:29",
+      "update_date": "2020-04-15 09:46:29",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1047606.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мир на земле",
+      "title_en": "Fred til lands",
+      "year": 2019,
+      "kinopoisk_id": 1266752,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "5a9910404f8ca1949ed985c6b0e88dd6b70e6e98884204ee94fadefde5e98a71",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-15 09:37:00",
+      "update_date": "2020-04-15 09:37:00",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1266752.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "М убийца",
+      "title_en": "M - Eine Stadt sucht einen Mörder",
+      "year": 2019,
+      "kinopoisk_id": 1110948,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "07ec49e7ec8516126d67a874de4403d4e1bd1214e36f2b721e099e48d5c72938",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-15 09:35:13",
+      "update_date": "2020-04-15 09:35:13",
+      "block": false,
+      "translator_id": 60,
+      "quality": "BluRay",
+      "poster": "https://st.kp.yandex.net/images/film_big/1110948.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Рыбалка для школьниц после занятий",
+      "title_en": "Houkago Teibou Nisshi",
       "year": 2020,
-      "kinopoisk_id": 1417219,
-      "type": "movie",
+      "kinopoisk_id": 1365991,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "1dc589301163c09f86212a3c520199280c26de62bb4c93e08feb023d0b8330f5",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-05 02:50:03",
+      "added_date": "2020-04-15 09:34:14",
+      "update_date": "2020-04-15 09:34:14",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1365991.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Джок",
-      "title_en": "Jock",
-      "year": 2011,
-      "kinopoisk_id": 582134,
-      "type": "movie",
+      "title_ru": "Торгсин",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 1039734,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "3748b158196ab2d45929a9b1884134bfdb50b0cbb02e75e85efc4b3b0ea7ed2d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-05 01:46:02",
+      "added_date": "2020-04-15 08:33:16",
+      "update_date": "2020-04-15 08:33:16",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1039734.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Дьявол в деталях",
-      "title_en": "The Devil\\'s in the Details",
-      "year": 2013,
-      "kinopoisk_id": 655703,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-05 01:45:02",
-      "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Проклятие ведьмы",
-      "title_en": "The Reckoning",
+      "title_ru": "Последнее путешествие Викингов",
+      "title_en": "Vikingernes sidste rejse",
       "year": 2020,
-      "kinopoisk_id": 1208400,
-      "type": "movie",
+      "kinopoisk_id": 1765360,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "b55490cf65326a06ad81aaf29c49ebde59e117cb8ff5461209842af9db859a30",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-04 23:36:01",
+      "added_date": "2020-04-14 21:50:10",
+      "update_date": "2020-04-14 21:50:10",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Спонтанность",
-      "title_en": "Spontaneous",
-      "year": 2020,
-      "kinopoisk_id": 1113061,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-04 20:15:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1765360.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Радебанк",
@@ -953,327 +1171,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Небо в цвету!",
-      "title_en": "Appare-Ranman!",
-      "year": 2020,
-      "kinopoisk_id": 1346489,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "6eb0c077021205593a0840c8f0f0c59cd7b18b8e2f2e25058641c5124f31363a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-11 08:29:24",
-      "update_date": "2020-04-11 08:29:24",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1346489.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Обмани меня",
-      "title_en": "Lie to Me",
-      "year": 2009,
-      "kinopoisk_id": 428930,
-      "world_art_id": null,
-      "translator": "ТВ-3",
-      "token": "75513d6fb39ef0b8d2b1c5504d78d97ac88d8b264ebd558e940e4ec57f89a489",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-10 22:21:12",
-      "update_date": "2020-04-10 22:21:12",
-      "block": false,
-      "translator_id": 100,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/428930.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=33555",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 22,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Пивные братья",
-      "title_en": "Brews Brothers",
-      "year": 2020,
-      "kinopoisk_id": 1302451,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "0bda2d635cf60e06cd4136add2d904991cdd3c0773ae2ea2be0af54fb95d412b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-10 21:34:41",
-      "update_date": "2020-04-10 21:34:41",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1302451.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Судебный процесс",
-      "title_en": "Il Processo / The Trial",
-      "year": 2019,
-      "kinopoisk_id": 1283030,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "72a61d01b0bfbb17b244977df860fcd2e70acb12e911ca22bea981a2943c975c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-10 20:36:43",
-      "update_date": "2020-04-10 20:36:43",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1283030.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Священная ложь",
-      "title_en": "Sacred Lies",
-      "year": 2018,
-      "kinopoisk_id": 1159316,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "7f26e1bfb79b7e7c0c7aeb91aacf3fc022c4a505b404ab6175cb76b79e453294",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-10 11:19:27",
-      "update_date": "2020-04-10 11:19:27",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1159316.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Анатомия страсти",
-      "title_en": "Grey's Anatomy",
-      "year": 2005,
-      "kinopoisk_id": 277535,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "9c0b6bbc7c209eddfde455bc58c1d9b09d17c3cecc70ef7b16df11b2ad685a66",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-10 11:16:37",
-      "update_date": "2020-04-10 11:16:37",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/277535.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=125429",
-      "serial_episodes": [
-        {
-          "season_number": 16,
-          "episodes_count": 21,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Доктор Вера",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 56554542,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "1b1fdfa11e314995bbee77a99124437f424340edec5cb316c6401541f7e527e1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-10 06:37:50",
-      "update_date": "2020-04-10 06:37:50",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/56554542.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 30,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30
           ]
         }
       ]

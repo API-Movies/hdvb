@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "title_ru": "Загнанная",
+      "title_en": "Hunted",
+      "year": 2020,
+      "kinopoisk_id": 1259454,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-15 05:25:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Девушка, подающая надежды",
+      "title_en": "Promising Young Woman",
+      "year": 2020,
+      "kinopoisk_id": 1236567,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-15 05:24:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Новости со всех концов света",
+      "title_en": "News of the World",
+      "year": 2020,
+      "kinopoisk_id": 1281108,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-15 05:23:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Локдаун",
+      "title_en": "Locked Down",
+      "year": 2021,
+      "kinopoisk_id": 1406397,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-15 05:22:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Земля",
+      "title_en": "Bhoomi",
+      "year": 2021,
+      "kinopoisk_id": 1302359,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-15 05:18:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Американский дебошир",
       "title_en": "American Brawler",
       "year": 2017,
@@ -196,69 +261,204 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Срок",
-      "title_en": "The Bid",
-      "year": 2021,
-      "kinopoisk_id": 1120498,
-      "type": "movie",
+      "title_ru": "Цепляясь за Лед",
+      "title_en": "Spinning Out",
+      "year": 2020,
+      "kinopoisk_id": 1202056,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "245ac740ffe63b540cfa9ccd22fa4b2e702dece9128c84c8ebd0351d2df640d8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-14 00:07:02",
+      "added_date": "2020-01-06 09:28:07",
+      "update_date": "2020-01-06 09:28:07",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1202056.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Король Атлантиды",
-      "title_en": "Kungen av Atlantis",
+      "title_ru": "Вампирские войны",
+      "title_en": "V-Wars",
       "year": 2019,
-      "kinopoisk_id": 915529,
-      "type": "movie",
+      "kinopoisk_id": 1142624,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "c90337a226691c165a381bd3be481e2c2518bdf05090393db59f1e257a67f50a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-14 00:06:01",
+      "added_date": "2020-01-05 22:07:00",
+      "update_date": "2020-01-05 22:07:00",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1142624.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Джимми Мак",
-      "title_en": "Jimmy Mack",
-      "year": 2019,
-      "kinopoisk_id": 1337473,
-      "type": "movie",
+      "title_ru": "Мессия",
+      "title_en": "Messiah",
+      "year": 2020,
+      "kinopoisk_id": 1328045,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "e2ccba0c3574e4e3b897e886c04e03433e243a4f670c26a43b3055d24c792401",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-14 00:05:02",
+      "added_date": "2020-01-05 11:13:11",
+      "update_date": "2020-01-05 11:13:11",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1328045.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Пианист от бога",
-      "title_en": "God of the Piano",
+      "title_ru": "Сумерки",
+      "title_en": "The Gloaming",
       "year": 2019,
-      "kinopoisk_id": 1240767,
-      "type": "movie",
+      "kinopoisk_id": 1254336,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "b26b4d3e7c04074a5a506825805d95e72a53ec27e5e9f879ad3f51a62e4369a3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-14 00:04:01",
+      "added_date": "2020-01-04 21:11:27",
+      "update_date": "2020-01-04 21:11:27",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1254336.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Из пекла",
-      "title_en": "From the Furnace",
-      "year": 2019,
-      "kinopoisk_id": 956844,
-      "type": "movie",
+      "title_ru": "Бэнкрофт",
+      "title_en": "Bancroft",
+      "year": 2017,
+      "kinopoisk_id": 1105437,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "4842726ca25362216a6fc079ec3e291a412a1ffedfa0f8f508b343e5f667fff7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-14 00:03:02",
+      "added_date": "2020-01-04 12:00:33",
+      "update_date": "2020-01-04 12:00:33",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1105437.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Дракула",
+      "title_en": "Dracula",
+      "year": 2020,
+      "kinopoisk_id": 1202266,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "cd09c3f0a7eb2999f61cc5c58c481ae95f7a5fdac2852d9811178a4fe2c7cc68",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-01-04 11:26:27",
+      "update_date": "2020-01-04 11:26:27",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1202266.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
     },
     {
       "title_ru": "План Б",
@@ -790,220 +990,6 @@
             1,
             2,
             3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мастера меча онлайн",
-      "title_en": "Sword Art Online",
-      "year": 2012,
-      "kinopoisk_id": 691223,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "b2246752b49fd0ef746f68c85cb9a2a59ce94242844c2594f8dc3ae386f6c7b8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-29 17:49:25",
-      "update_date": "2019-12-29 17:49:25",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/691223.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Однажды на RAI",
-      "title_en": "C'era una volta Studio Uno",
-      "year": 2019,
-      "kinopoisk_id": 45672123,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "f64ba7e068ef40cbb6a2346324c1787299088a1b44c0289d34f97a0ec16b7df1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-29 17:49:17",
-      "update_date": "2019-12-29 17:49:17",
-      "block": false,
-      "translator_id": 115,
-      "quality": "HDTV",
-      "poster": "https://www.kinopoisk.ru/images/film_big/45672123.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "В поисках божественного рецепта",
-      "title_en": "Food Wars: Shokugeki no Soma",
-      "year": 2015,
-      "kinopoisk_id": 917288,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "37ba6fc836b3d0442914bf687a5c1f063998757c1d188891ea8766cdb2605057",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-28 14:38:36",
-      "update_date": "2019-12-28 14:38:36",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/917288.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мандалорец",
-      "title_en": "The Mandalorian",
-      "year": 2019,
-      "kinopoisk_id": 1118138,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "8d4933cc676053a9a504809d97e460a6ade4632050f244f84e9e954b42b0fc48",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-27 15:59:49",
-      "update_date": "2019-12-27 15:59:49",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1118138.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Жизнь без оружия",
-      "title_en": "No Guns Life",
-      "year": 2019,
-      "kinopoisk_id": 1309383,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "ea717393a94349cb224b783393465315dbe46867c1a5d9e65fb5993d4c61a8ba",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-27 15:58:53",
-      "update_date": "2019-12-27 15:58:53",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1309383.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Небо, где встретились звёзды",
-      "title_en": "Hoshiai no Sora (Stars Align)",
-      "year": 2019,
-      "kinopoisk_id": 1309732,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "a5b3ed7634e578130830e7e5036e91f6b512fe5abae954e6f58d5d0113130ae4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-27 15:58:28",
-      "update_date": "2019-12-27 15:58:28",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1309732.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]
