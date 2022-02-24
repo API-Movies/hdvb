@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Черная медуза",
+      "title_en": "Black Medusa",
+      "year": 2021,
+      "kinopoisk_id": 4428467,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-02-12 19:21:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Под землёй",
+      "title_en": "Souterrain",
+      "year": 2022,
+      "kinopoisk_id": 1356104,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-02-12 19:20:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Антикварное мошенничество",
+      "title_en": "Gu dong ju zhong ju",
+      "year": 2021,
+      "kinopoisk_id": 1334315,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-02-12 19:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Убить Пиночета",
       "title_en": "Matar a Pinochet",
       "year": 2020,
@@ -222,67 +261,190 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Я хочу вернуть тебя",
-      "title_en": "I Want You Back",
-      "year": 2022,
-      "kinopoisk_id": 4397744,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-02-11 19:46:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Космический рассвет",
-      "title_en": "Cosmic Dawn",
-      "year": 2022,
-      "kinopoisk_id": 1412109,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-02-11 19:45:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Заложница: Найти пропавшую",
-      "title_en": "Catch the Fair One",
-      "year": 2021,
-      "kinopoisk_id": 1336574,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-02-11 19:44:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Последний министр",
+      "title_ru": "Штрафбат",
       "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1236796,
+      "year": 2004,
+      "kinopoisk_id": 84342,
       "world_art_id": null,
       "translator": "Не требуется",
-      "token": "6775e9d0b7504c1c6537992bf89a12081e29fbf38b22fdacadd9155e4e39806d",
+      "token": "c56f6cae4bc74e66e0f99c41ecbb2fe8347ec4726b0c6d2302049f71b55974eb",
       "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-05-23 13:08:35",
-      "update_date": "2022-02-19 02:09:10",
+      "added_date": "2022-02-20 15:55:55",
+      "update_date": "2022-02-20 16:36:02",
       "block": false,
       "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1236796.jpg",
+      "quality": "DVDRip",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/84342.jpg",
       "trailer": "",
       "serial_episodes": [
         {
           "season_number": 1,
-          "episodes_count": 15,
+          "episodes_count": 11,
           "episodes": [
             1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Власть в ночном городе. Книга четвёртая: Сила",
+      "title_en": "Power Book IV: Force",
+      "year": 2022,
+      "kinopoisk_id": 1346744,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "4e98f089c06012af1e09b7a2ba66d10f43aa8a121e833a90e93c40ca1da0e91a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2022-02-06 18:57:54",
+      "update_date": "2022-02-20 15:49:11",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1346744.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Миллиарды",
+      "title_en": "Billions",
+      "year": 2016,
+      "kinopoisk_id": 863009,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "35e0112463f9aed68453e45bfb3c86b324516f961c2fe562b4b334759cf57f39",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2022-01-21 23:23:45",
+      "update_date": "2022-02-20 15:48:55",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/863009.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 6,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Йеллоустоун: 1883",
+      "title_en": "1883",
+      "year": 2021,
+      "kinopoisk_id": 4397594,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "c52d8383125cd1dcd96f6edc37b4d9eb99639df319b5592f58b554e9e215ef91",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-12-19 19:47:41",
+      "update_date": "2022-02-20 15:48:36",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4397594.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Извне",
+      "title_en": "From",
+      "year": 2022,
+      "kinopoisk_id": 4476885,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "8c2298a142a7775d54f1dd9db27af5b08d76c44f4ee03b3be45ef99b793bf9ec",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2022-02-20 12:06:18",
+      "update_date": "2022-02-20 13:38:00",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4476885.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Запретная любовь",
+      "title_en": "Ask-i Memnu",
+      "year": 2008,
+      "kinopoisk_id": 491522,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "0f1e9bc7e885b4e9355f502b37afb0768ef8db9aad82de56e76865957b48cf8f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2022-02-07 09:12:20",
+      "update_date": "2022-02-20 12:28:45",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/491522.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 75,
+          "episodes": [
+            1,
+            2,
             3,
             4,
             5,
@@ -296,12 +458,71 @@
             13,
             14,
             15,
-            16
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75
           ]
         },
         {
           "season_number": 2,
-          "episodes_count": 14,
+          "episodes_count": 49,
           "episodes": [
             1,
             2,
@@ -316,32 +537,67 @@
             11,
             12,
             13,
-            14
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49
           ]
         }
       ]
     },
     {
-      "title_ru": "Импровизация (Команды)",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 3308103151,
+      "title_ru": "Чукур",
+      "title_en": "Çukur",
+      "year": 2017,
+      "kinopoisk_id": 1049380,
       "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "80b74c33831b5063ce50042963a3ef63ba094443a2dd5725d3735bb9cc92907d",
+      "translator": "Профессиональный (многоголосый)",
+      "token": "c690a8da74880a9dfd5f019d3187c91f9eb84c0258c49bf0ed0cdf6843a067d5",
       "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-20 16:15:11",
-      "update_date": "2022-02-19 02:08:37",
+      "added_date": "2022-02-15 12:58:44",
+      "update_date": "2022-02-20 12:27:29",
       "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/3308103151.jpg",
+      "translator_id": 126,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1049380.jpg",
       "trailer": "",
       "serial_episodes": [
         {
           "season_number": 1,
-          "episodes_count": 8,
+          "episodes_count": 107,
           "episodes": [
             1,
             2,
@@ -350,25 +606,110 @@
             5,
             6,
             7,
-            8
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107
           ]
         },
         {
           "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
           "episodes_count": 16,
           "episodes": [
             1,
@@ -388,78 +729,44 @@
             15,
             16
           ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
         }
       ]
     },
     {
-      "title_ru": "Комиссар Мартин Бек",
-      "title_en": "Beck",
-      "year": 1997,
-      "kinopoisk_id": 493380,
+      "title_ru": "Открытие ведьм",
+      "title_en": "A Discovery of Witches",
+      "year": 2018,
+      "kinopoisk_id": 665236,
       "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "6db1730321ad57a9a02790ac92b218be559f65d8b467c7c08e74b14e5db8e794",
+      "translator": "Novamedia",
+      "token": "ce9de0b4748bc41b2509ed8fccfc27d4e5c9a69772c3f4f21e8d1fe294425835",
       "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-07 18:14:21",
-      "update_date": "2022-02-18 19:32:31",
+      "added_date": "2021-03-16 13:27:09",
+      "update_date": "2022-02-20 12:26:20",
       "block": false,
-      "translator_id": 183,
+      "translator_id": 51,
       "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/493380.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 8,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        },
-        {
-          "season_number": 9,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Три куруша",
-      "title_en": "Üç Kurus",
-      "year": 2021,
-      "kinopoisk_id": 4526468,
-      "world_art_id": null,
-      "translator": "двухголосый закадровый",
-      "token": "de7b70158e0c09d01fb61f0d2adba4b6beea2f00ce94f8e3b30af96b1a8b7cbb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-12-28 20:32:24",
-      "update_date": "2022-02-18 18:05:09",
-      "block": false,
-      "translator_id": 81,
-      "quality": "WEB-DL",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4526468.jpg",
+      "poster": "https://st.kp.yandex.net/images/film_big/665236.jpg",
       "trailer": "",
       "serial_episodes": [
         {
           "season_number": 1,
-          "episodes_count": 14,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
           "episodes": [
             1,
             2,
@@ -470,11 +777,227 @@
             7,
             8,
             9,
-            10,
-            11,
-            12,
-            13,
-            14
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Засланец из космоса",
+      "title_en": "Resident Alien",
+      "year": 2021,
+      "kinopoisk_id": 1200189,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "8e29e21efca8ba7bf27610f727b98d87c11eb9aa2ae1d8dd0121a9ded00ab1ca",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-06-08 09:06:23",
+      "update_date": "2022-02-20 12:25:56",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1200189.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Разделение",
+      "title_en": "Severance",
+      "year": 2022,
+      "kinopoisk_id": 1343318,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "38ccebd64863756779bc4a58eb8cb31fc6db5fb3c0dc1bf07a953e9f0cd21f73",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2022-02-20 12:24:34",
+      "update_date": "2022-02-20 12:25:25",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOThjMjc4NDUtNmIyOC00MzhmLWIxNjQtMDlkOTlmNzA0NDJlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Южный Парк",
+      "title_en": "South Park",
+      "year": 1997,
+      "kinopoisk_id": 161252,
+      "world_art_id": null,
+      "translator": "Paramount Comedy",
+      "token": "3ed981f7757a9945fb7e45ec0c6d2274901a9dbbc4f993a1eb5a22071a7b3076",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-15 18:16:42",
+      "update_date": "2022-02-20 12:21:15",
+      "block": false,
+      "translator_id": 55,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/161252.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 23,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "season_number": 24,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 25,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Воспитанные волками",
+      "title_en": "Raised by Wolves",
+      "year": 2020,
+      "kinopoisk_id": 1231016,
+      "world_art_id": null,
+      "translator": "Amedia",
+      "token": "f8da256be5b64c4a5e6147935d8c80b0bc4b19ad95337faea5ccac3be3a922ea",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-12-04 17:18:01",
+      "update_date": "2022-02-20 12:20:45",
+      "block": false,
+      "translator_id": 7,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1231016.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Миротворец",
+      "title_en": "Peacemaker",
+      "year": 2022,
+      "kinopoisk_id": 1421587,
+      "world_art_id": null,
+      "translator": "Novamedia",
+      "token": "bdde6f0e7262281c25a82778fa068d2ffc2609a246e41fcb186e4c42d40ce29b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2022-01-14 19:55:38",
+      "update_date": "2022-02-20 12:20:16",
+      "block": false,
+      "translator_id": 51,
+      "quality": "WEB-DL",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1421587.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
           ]
         }
       ]
@@ -485,14 +1008,14 @@
       "year": 2020,
       "kinopoisk_id": 1352700,
       "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "2453806f2f34c529075ef8d4475f058c3408a549bb2da2a26d08e77c00f21b2d",
+      "translator": "BaibaKo",
+      "token": "d020c103dec68f2732474bb1de91c9c4764d9dc5397bc0116132b043763d703a",
       "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-13 22:01:47",
-      "update_date": "2022-02-18 17:34:46",
+      "added_date": "2022-01-14 10:45:47",
+      "update_date": "2022-02-20 12:14:08",
       "block": false,
-      "translator_id": 183,
+      "translator_id": 14,
       "quality": "WEB-DL",
       "poster": "https://st.kp.yandex.net/images/film_big/1352700.jpg",
       "trailer": "",
@@ -516,94 +1039,25 @@
       ]
     },
     {
-      "title_ru": "",
-      "title_en": "Mahkum",
-      "year": 2021,
-      "kinopoisk_id": 4698956,
+      "title_ru": "Смерть в раю",
+      "title_en": "Death in Paradise",
+      "year": 2011,
+      "kinopoisk_id": 592197,
       "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "e132e1f41190285fe7fe41b8270f5f6cb2d257a0c621b520f86a9dcf246bb062",
+      "translator": "BaibaKo",
+      "token": "edbc4829c69eeb6b5e0fc7f209aa04107bb9e9b9234e02cc0311924213c32d00",
       "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-15 17:02:01",
-      "update_date": "2022-02-18 17:34:27",
+      "added_date": "2020-03-04 09:20:33",
+      "update_date": "2022-02-20 12:13:32",
       "block": false,
-      "translator_id": 183,
+      "translator_id": 14,
       "quality": "WEB-DL",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4698956.jpg",
+      "poster": "https://st.kp.yandex.net/images/film_big/592197.jpg",
       "trailer": "",
       "serial_episodes": [
         {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Космические силы",
-      "title_en": "Space Force",
-      "year": 2020,
-      "kinopoisk_id": 1231021,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "20377166d0eb39a1e8df6fefd328267b7ad0242bd6bcf8ca05b5cf06a86b9503",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2022-02-18 14:19:58",
-      "update_date": "2022-02-18 17:31:44",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1231021.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бальтазар",
-      "title_en": "Balthazar",
-      "year": 2018,
-      "kinopoisk_id": 1210572,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "6eb44da2496a988cce303582cdb500473057453ed1eafda84a006f2f7ade6d28",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-08 00:02:34",
-      "update_date": "2022-02-18 16:52:07",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1210572.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
+          "season_number": 9,
           "episodes_count": 8,
           "episodes": [
             1,
@@ -617,127 +1071,59 @@
           ]
         },
         {
+          "season_number": 10,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 11,
+          "episodes_count": 8,
+          "episodes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Правительство",
+      "title_en": "Borgen",
+      "year": 2010,
+      "kinopoisk_id": 678750,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "f0758aec652c7c02cad50de04ea3f3a9877de3df573ed071f50720575f97af00",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2022-02-14 09:34:16",
+      "update_date": "2022-02-20 12:13:18",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/678750.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
           "season_number": 4,
-          "episodes_count": 4,
+          "episodes_count": 2,
           "episodes": [
             1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Барбароссы: Меч Средиземноморья",
-      "title_en": "Barbaroslar: Akdeniz'in Kılıcı",
-      "year": 2021,
-      "kinopoisk_id": 14473896,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "02ba07b6e778c519797dea00faf59eee43c0f1b9365d75c1ec0ad8b4ed38793b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-09-17 20:49:04",
-      "update_date": "2022-02-18 16:23:03",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/14473896.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Беззащитное сердце",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 4519695,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "cc8253ba724ef8734360c3464c241fc32fcf36d2f2af8cf16d185c19de2c5820",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2022-02-18 14:33:18",
-      "update_date": "2022-02-18 14:33:50",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4519695.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Шоу Чашека!",
-      "title_en": "The Cuphead Show!",
-      "year": 2022,
-      "kinopoisk_id": 1283374,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "11163406c63e31086a8829dce643f1d2e7bf2bc81877a181a50f1c3a7251a182",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2022-02-18 14:32:47",
-      "update_date": "2022-02-18 14:33:21",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1283374.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
+            2
           ]
         }
       ]
@@ -748,34 +1134,18 @@
       "year": 2020,
       "kinopoisk_id": 1040428,
       "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "a2ea22cefa40f8d873f318e4fea990a4cdda6485c5dba08f31cd1037e8a385e9",
+      "translator": "Ultradox",
+      "token": "2819922d7efe6bf956f6d7b0f5aed917ce556901471e78c04276ad361058bab8",
       "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-13 21:04:10",
-      "update_date": "2022-02-18 14:33:06",
+      "added_date": "2021-01-25 21:33:49",
+      "update_date": "2022-02-20 11:13:26",
       "block": false,
-      "translator_id": 82,
+      "translator_id": 183,
       "quality": "WEB-DL",
       "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1040428.jpg",
       "trailer": "",
       "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
         {
           "season_number": 2,
           "episodes_count": 10,
@@ -794,6 +1164,65 @@
         },
         {
           "season_number": 3,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Правительство",
+      "title_en": "Borgen",
+      "year": 2010,
+      "kinopoisk_id": 678750,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "4420bf1834d635f3aecebaffd3972dffeeaeed691fb33977eb37428f5421529b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2022-02-13 18:44:18",
+      "update_date": "2022-02-19 19:30:48",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/678750.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Голос ангела",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1254460,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "5b9e27ae1bec72bc223ac14ea3dbed4565fa50942528e01afd1ec2c91e664dd4",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2022-02-19 15:07:34",
+      "update_date": "2022-02-19 15:08:03",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEBRip",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1254460.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
           "episodes_count": 4,
           "episodes": [
             1,
@@ -805,318 +1234,19 @@
       ]
     },
     {
-      "title_ru": "Однажды в Чукурова",
-      "title_en": "Bir Zamanlar Çukurova",
-      "year": 2018,
-      "kinopoisk_id": 1120973,
-      "world_art_id": null,
-      "translator": "двухголосый закадровый",
-      "token": "0ec630a6999666ff72f8d79d47d6aef5d6e3d552c8e7cb12d8e30fc606bdd24f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-03 09:56:22",
-      "update_date": "2022-02-18 14:32:37",
-      "block": false,
-      "translator_id": 81,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1120973.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 9,
-          "episodes": [
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Будет больно",
-      "title_en": "This Is Going to Hurt",
-      "year": 2022,
-      "kinopoisk_id": 1398476,
-      "world_art_id": null,
-      "translator": "Кравец",
-      "token": "2e13339951dbe43ab0f60e8da4ef6fa0dfe3f4d1814a76217d836e1f0e4d5b86",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2022-02-12 13:24:38",
-      "update_date": "2022-02-18 12:32:45",
-      "block": false,
-      "translator_id": 85,
-      "quality": "WEB-DL",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1398476.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Поворот",
-      "title_en": "Pivoting",
-      "year": 2022,
-      "kinopoisk_id": 1435775,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "60f11372004234bded9f462e59c904ee049f8408414cf8018e68f52920772e9a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2022-01-10 11:22:06",
-      "update_date": "2022-02-18 12:31:14",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1435775.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Орлы",
-      "title_en": "Eagles",
-      "year": 2019,
-      "kinopoisk_id": 1145314,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "eb62f257c3afcdfe479e26c72e152536cf142eed9390403bbed4634c407984e8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-06-04 12:39:47",
-      "update_date": "2022-02-18 10:07:23",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1145314.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Паранормальный Веллингтон",
-      "title_en": "Wellington Paranormal",
-      "year": 2018,
-      "kinopoisk_id": 1046267,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "5c9d2c20ec60b12094cccc4fdc0397d461809cd4dff9ee7b46c7f7e3c85d6018",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-26 08:54:00",
-      "update_date": "2022-02-18 09:26:53",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1046267.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 1,
-          "episodes": [
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Звёздный путь: Дискавери",
-      "title_en": "Star Trek: Discovery",
-      "year": 2017,
-      "kinopoisk_id": 977754,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "043669c71d69b7d27330bbbd973f0b659a3f152fa3d7a175494d088ca74ccdd4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-16 08:54:38",
-      "update_date": "2022-02-18 09:25:51",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/977754.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Южный Парк",
-      "title_en": "South Park",
-      "year": 1997,
-      "kinopoisk_id": 161252,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "1dbd32f15b7af9f74ef6eca24208f5399d104c0ecd170100ff52465251040ea0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2022-02-04 09:14:15",
-      "update_date": "2022-02-18 09:25:22",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/161252.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 25,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
       "title_ru": "Засланец из космоса",
       "title_en": "Resident Alien",
       "year": 2021,
       "kinopoisk_id": 1200189,
       "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "b770a64bec80a0afae84304799ef752bd16f701e19f90403829c3e79784cff3d",
+      "translator": "LostFilm",
+      "token": "7aa2c5e57161182fbb4e5bbdaba0069f7b344e1faacf6bfa96babd2035d0284d",
       "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-29 08:54:15",
-      "update_date": "2022-02-18 09:24:44",
+      "added_date": "2021-01-31 02:20:27",
+      "update_date": "2022-02-19 15:07:26",
       "block": false,
-      "translator_id": 14,
+      "translator_id": 43,
       "quality": "WEB-DL",
       "poster": "https://st.kp.yandex.net/images/film_big/1200189.jpg",
       "trailer": "",

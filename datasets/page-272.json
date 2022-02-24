@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Прощай, дорогуша",
+      "title_en": "Goodbye Honey",
+      "year": 2020,
+      "kinopoisk_id": 1167808,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-11 22:28:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Уйти не прощаясь",
+      "title_en": "French Exit",
+      "year": 2021,
+      "kinopoisk_id": 1281194,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-11 22:27:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Прабабушка легкого поведения. Начало",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1354105,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-11 22:18:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Отряд Таганок",
       "title_en": "",
       "year": 2021,
@@ -222,43 +261,274 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "День женщины",
-      "title_en": "Day of the Woman",
-      "year": 1978,
-      "kinopoisk_id": 165229,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-11 15:18:01",
-      "block": false,
-      "translator": "одноголосый закадровый",
-      "translator_id": 93,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Фетровый роман",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1842834,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-11 15:17:02",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Рядовой Чээрин",
+      "title_ru": "Игра на выживание",
       "title_en": "",
       "year": 2020,
-      "kinopoisk_id": 4418992,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-11 15:16:02",
-      "block": false,
+      "kinopoisk_id": 1395366,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "5b87a3219e64c777f499474a6c251058c3e4273eb4da7c30facf370fe3cf6c70",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-31 17:09:11",
+      "update_date": "2020-09-23 12:17:50",
+      "block": false,
       "translator_id": 92,
-      "quality": "WEBRip"
+      "quality": "SATRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1395366.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Во все тяжкие",
+      "title_en": "Breaking Bad",
+      "year": 2008,
+      "kinopoisk_id": 404900,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "248096984ec9425375b6f4e7fede38c5fb2c87453df79e11dde33ef55b5e63dd",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-21 14:07:28",
+      "update_date": "2020-09-23 12:14:54",
+      "block": false,
+      "translator_id": 82,
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/404900.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=85527",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Лихач",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1200027,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "951600bf9502eb12bdab54588327f01e86fb1d13689e868682188f91603c0c30",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-24 15:43:24",
+      "update_date": "2020-09-23 11:57:59",
+      "block": false,
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1200027.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Агентство О.К.О.",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1206895,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "422721ad4c353267b2f4b46e0195f546a24ab9acee4c251ddac0ade4d1c591a2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-24 15:42:19",
+      "update_date": "2020-09-23 11:32:57",
+      "block": false,
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1206895.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Вознесение",
+      "title_en": "Ascension",
+      "year": 2014,
+      "kinopoisk_id": 840056,
+      "world_art_id": null,
+      "translator": "Профессиональный (многоголосый)",
+      "token": "8478f81944ca25ff9633f5a3b1c56107a40a7e7d27a6e85b40d47acf95229571",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-09-22 20:36:10",
+      "update_date": "2020-09-22 20:37:44",
+      "block": false,
+      "translator_id": 126,
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/840056.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Чиста вода у истока",
@@ -1857,218 +2127,6 @@
             18,
             19,
             20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бумтаун",
-      "title_en": "Boomtown",
-      "year": 2002,
-      "kinopoisk_id": 401577,
-      "world_art_id": null,
-      "translator": "Кинопоказ",
-      "token": "007e0fd0fa39648e6d8c3c08de07d6801da67d057bbaa7ad2c2ddf2bce1297b4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-21 19:32:59",
-      "update_date": "2020-09-21 19:42:10",
-      "block": false,
-      "translator_id": 181,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/401577.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Балабол 2",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1228100,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "16dee064d0fc6100b8a9d34693967711f31ccb0deb95fb7c55347baa76d4ec3a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-21 19:16:56",
-      "update_date": "2020-09-21 19:17:47",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1228100.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Балабол",
-      "title_en": "",
-      "year": 2014,
-      "kinopoisk_id": 713978,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "14723d91cf635c3c464cd94cd51815d19b88aed594690ca631abcdd15fc1aaa5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-21 19:15:59",
-      "update_date": "2020-09-21 19:16:39",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/713978.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Танец для двоих",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 64567534,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "8e07b50396faf912342b76a651f127ab738e86c218b30f3357a1fc278ea7b132",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-21 14:41:28",
-      "update_date": "2020-09-21 15:00:56",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "https://www.kinopoisk.ru/images/film_big/64567534.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Малышка",
-      "title_en": "Baby",
-      "year": 2018,
-      "kinopoisk_id": 1129662,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "783eed97c37b048a15b1560fdcef66ba59bc99028cf6b94c1a150f722ae23a8b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-19 00:36:41",
-      "update_date": "2020-09-21 14:37:06",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1129662.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

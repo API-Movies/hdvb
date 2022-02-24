@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title_ru": "Джим Пуговка и машинист Лукас",
+      "title_en": "Jim Knopf und Lukas der Lokomotivführer",
+      "year": 2018,
+      "kinopoisk_id": 1026748,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-11-01 02:11:53",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Богемская рапсодия",
+      "title_en": "Bohemian Rhapsody",
+      "year": 2018,
+      "kinopoisk_id": 568289,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-31 17:58:07",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Галвестон",
+      "title_en": "Galveston",
+      "year": 2018,
+      "kinopoisk_id": 696499,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-10-31 12:38:58",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Проклятие монахини",
       "title_en": "The Nun",
       "year": 2018,
@@ -226,45 +268,6 @@
       "translator": "Дубляж",
       "translator_id": 82,
       "quality": "TS"
-    },
-    {
-      "title_ru": "Кристофер Робин",
-      "title_en": "Christopher Robin",
-      "year": 2018,
-      "kinopoisk_id": 1033352,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-26 21:08:01",
-      "block": false,
-      "translator": "Дубляж [Звук с TS]",
-      "translator_id": 108,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Альфа",
-      "title_en": "Alpha",
-      "year": 2018,
-      "kinopoisk_id": 934956,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-26 14:33:35",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Суперсемейка 2",
-      "title_en": "The Incredibles 2",
-      "year": 2018,
-      "kinopoisk_id": 839650,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-26 14:27:07",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
     }
   ]
 }

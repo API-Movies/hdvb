@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Предполагаемые виновные",
+      "title_en": "Présumé coupable",
+      "year": 2011,
+      "kinopoisk_id": 497201,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-17 21:22:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Поймать, чтобы убить",
+      "title_en": "Hunt to Kill",
+      "year": 2010,
+      "kinopoisk_id": 493197,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-17 21:21:01",
+      "block": false,
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Пятница 13-е",
+      "title_en": "The 13th Friday",
+      "year": 2017,
+      "kinopoisk_id": 1000171,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-17 19:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Американская милашка",
       "title_en": "American Honey",
       "year": 2016,
@@ -222,43 +261,223 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Таверна дракона: Ночь богов",
-      "title_en": "Yongrugak 2: sindeului bam",
-      "year": 2021,
-      "kinopoisk_id": 1445220,
-      "type": "movie",
+      "title_ru": "Другой взгляд",
+      "title_en": "La otra mirada",
+      "year": 2018,
+      "kinopoisk_id": 1112770,
+      "world_art_id": null,
+      "translator": "ViruseProject",
+      "token": "3c645d3d7db2b1dc8b57b306ea95a576e24026b4b36aa0128d7e838f15601196",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-17 11:59:01",
+      "added_date": "2020-08-22 18:32:01",
+      "update_date": "2020-08-22 18:57:34",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 72,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/1112770.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Рифа",
-      "title_en": "Reefa",
-      "year": 2021,
-      "kinopoisk_id": 1241274,
-      "type": "movie",
+      "title_ru": "Страна Рождества",
+      "title_en": "NOS4A2",
+      "year": 2019,
+      "kinopoisk_id": 1192755,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "11c692d00b90c351524af1729cb470a6cd26d0776905197ebe977bd001bb5c65",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-17 11:58:01",
+      "added_date": "2020-07-26 00:36:43",
+      "update_date": "2020-08-22 16:02:46",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1192755.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Понедельник",
-      "title_en": "Monday",
+      "title_ru": "Данк или сквозняк?",
+      "title_en": "Hoops",
       "year": 2020,
-      "kinopoisk_id": 1183611,
-      "type": "movie",
+      "kinopoisk_id": 1202192,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "8f809f6051fa246d13c79eb296cea8917c0b2c21c134b3e183a9c6161ee713e3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-17 11:57:02",
+      "added_date": "2020-08-22 09:45:05",
+      "update_date": "2020-08-22 09:45:39",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1202192.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Монарх",
+      "title_en": "Gunju - gamyeoneui juin",
+      "year": 2017,
+      "kinopoisk_id": 1007746,
+      "world_art_id": null,
+      "translator": "SoftBox",
+      "token": "cda93ef297fe08aa3ca643026d56fae42a7f402338af3f51806c2f3e913d1aef",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-22 04:15:02",
+      "update_date": "2020-08-22 04:21:22",
+      "block": false,
+      "translator_id": 106,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1007746.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Маска",
+      "title_en": "Gamyeon",
+      "year": 2015,
+      "kinopoisk_id": 915243,
+      "world_art_id": null,
+      "translator": "GREEN TEA",
+      "token": "1fa034cb174a02088a4be771c99e4380bc7a90d85491a68ad3e305294b60f499",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-22 04:10:09",
+      "update_date": "2020-08-22 04:14:48",
+      "block": false,
+      "translator_id": 31,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/915243.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Черный лес",
@@ -1533,206 +1752,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Трансформеры",
-      "title_en": "Transformers: Animated",
-      "year": 2007,
-      "kinopoisk_id": 400004,
-      "world_art_id": null,
-      "translator": "одноголосый закадровый",
-      "token": "894ff00b50ad60a4d916a1e4fc02cf34c3efa7bf530082a0e0d09a840f57adde",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-21 03:36:25",
-      "update_date": "2020-08-21 03:37:13",
-      "block": false,
-      "translator_id": 93,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/400004.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Молодость и её последствия",
-      "title_en": "Youth &amp; Consequences",
-      "year": 2018,
-      "kinopoisk_id": 1112876,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "60b5a65a9be190be5185ad0ea1d9d7091ebcc40a2e7c3be5ab45886f9d3dc118",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-21 03:29:50",
-      "update_date": "2020-08-21 03:33:12",
-      "block": false,
-      "translator_id": 15,
-      "quality": "HDTVRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1112876.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Багровые реки",
-      "title_en": "Les rivières pourpres",
-      "year": 2018,
-      "kinopoisk_id": 1304172,
-      "world_art_id": null,
-      "translator": "ViruseProject",
-      "token": "69ee09d7f90e571b70cce774f8e09a27da1dc8aa23300147aadda4c40c06defc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-21 03:12:40",
-      "update_date": "2020-08-21 03:20:38",
-      "block": false,
-      "translator_id": 72,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1304172.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Замок Бландингс",
-      "title_en": "Blandings",
-      "year": 2013,
-      "kinopoisk_id": 730434,
-      "world_art_id": null,
-      "translator": "одноголосый закадровый",
-      "token": "5b95f800bb58f8fe3af7c9cd97a2784258a95fe5ff6f047d98475e2c6727ca8f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-20 22:23:49",
-      "update_date": "2020-08-20 22:24:46",
-      "block": false,
-      "translator_id": 93,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/730434.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Халифат",
-      "title_en": "Kalifat",
-      "year": 2020,
-      "kinopoisk_id": 1331193,
-      "world_art_id": null,
-      "translator": "WestFilm",
-      "token": "588dc701ef7d0981112b236e7db6cd7c9fa488f1b3b02af2587add774cd402df",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-20 22:22:30",
-      "update_date": "2020-08-20 22:23:10",
-      "block": false,
-      "translator_id": 167,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1331193.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

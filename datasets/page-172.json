@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Агент 117: Миссия в Рио",
+      "title_en": "OSS 117: Rio ne répond plus",
+      "year": 2009,
+      "kinopoisk_id": 412777,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-01 14:14:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Звонят, откройте дверь",
+      "title_en": "",
+      "year": 1965,
+      "kinopoisk_id": 45416,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-01 14:13:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Первобытные",
+      "title_en": "The Lost Tribe",
+      "year": 2009,
+      "kinopoisk_id": 397625,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-01 14:12:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Последний дом по улице",
       "title_en": "The Last House on the Street",
       "year": 2021,
@@ -222,43 +261,271 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Идеальное сходство",
-      "title_en": "A Perfect Match",
-      "year": 2021,
-      "kinopoisk_id": 2001369,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-31 03:59:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ночь зверя",
-      "title_en": "The Night of the Beast",
-      "year": 2020,
-      "kinopoisk_id": 1433791,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-31 03:58:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Верхом на драконе",
-      "title_en": "Jik lau daai suk",
+      "title_ru": "Криминальный Амстердам",
+      "title_en": "Der Amsterdam Krimi",
       "year": 2018,
-      "kinopoisk_id": 1115151,
-      "type": "movie",
+      "kinopoisk_id": 1113440,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "88feec90a7458c64c0650ac9cf5e2bf48b244e7e0fbae269fcb047dee8dd887e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-31 03:57:01",
+      "added_date": "2021-02-02 21:57:59",
+      "update_date": "2021-02-02 21:59:19",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1113440.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Герои: Возрождение",
+      "title_en": "Heroes Reborn",
+      "year": 2015,
+      "kinopoisk_id": 838534,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "51e20f9510c7b51f9d473114b2d1f9d9758cfa10f1fab7e5fb062f69cee12265",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-02 18:41:12",
+      "update_date": "2021-02-02 18:42:11",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/838534.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Обитель лжи",
+      "title_en": "House of Lies",
+      "year": 2012,
+      "kinopoisk_id": 577257,
+      "world_art_id": null,
+      "translator": "Amedia",
+      "token": "f7f784076dfab21d43bd103c11bbbedc84bdc9860576f1d6033973dc33bbc296",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-02 17:03:31",
+      "update_date": "2021-02-02 17:06:40",
+      "block": false,
+      "translator_id": 7,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/577257.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Обитель лжи",
+      "title_en": "House of Lies",
+      "year": 2012,
+      "kinopoisk_id": 577257,
+      "world_art_id": null,
+      "translator": "Первый канал",
+      "token": "d0db2147d5104663f477b4e68e310e6ee8ce1f555746e2b85ea4bed6f2d448a2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-02 17:02:22",
+      "update_date": "2021-02-02 17:03:18",
+      "block": false,
+      "translator_id": 94,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/577257.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Отель «Бо Сежур»",
+      "title_en": "Beau Séjour",
+      "year": 2016,
+      "kinopoisk_id": 891455,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "17650dd4dbc1d3bfa6beee783692883206632d4d837d35a2abd46c384c05086f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-02 11:29:23",
+      "update_date": "2021-02-02 16:50:42",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/891455.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Kid Cosmic",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1332007,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "a2125028696e7463a0e43cd44f361750b81f5ce3ae3bcc0f4ac483994a8b682c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-02 13:43:06",
+      "update_date": "2021-02-02 16:41:29",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1332007.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Отель «Бо Сежур»",
@@ -859,219 +1126,6 @@
             22,
             23,
             24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Вдова",
-      "title_en": "The Widow",
-      "year": 2019,
-      "kinopoisk_id": 1177490,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "4f5cdde28db31f063ad36cd4d1d1e67866a9525ac5072926017c008a6826a302",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-01 13:09:30",
-      "update_date": "2021-02-01 13:10:15",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1177490.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дуайт в сияющих доспехах",
-      "title_en": "Dwight in Shining Armor",
-      "year": 2019,
-      "kinopoisk_id": 1179112,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "c6dbd879151c48231def60ed6fe75f176c0f12f8e0fe4fb8623cbb4ee43e713d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-31 20:30:30",
-      "update_date": "2021-02-01 11:38:10",
-      "block": false,
-      "translator_id": 126,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1179112.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Флеминг",
-      "title_en": "Fleming",
-      "year": 2014,
-      "kinopoisk_id": 774749,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "49f920f9cf51c8a9962ee726b4e110636d01968b4837e05da92e62b222d98e2e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-01 09:44:46",
-      "update_date": "2021-02-01 09:45:18",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/774749.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "8 дней",
-      "title_en": "8 Gun",
-      "year": 2018,
-      "kinopoisk_id": 1112359,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "4e5173c803c510644997892d8461f3a7a157774d5f03ea247387ad0c5cdaa470",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-01 09:43:58",
-      "update_date": "2021-02-01 09:44:38",
-      "block": false,
-      "translator_id": 60,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1112359.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Презумпция невиновности",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1112403,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "439aac7a7b7a48f74fa7bcd35165c3c72360892ef3bc8ba829fa43b1142db122",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-31 15:10:02",
-      "update_date": "2021-02-01 04:35:18",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1112403.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Одарённые",
-      "title_en": "The Gifted",
-      "year": 2018,
-      "kinopoisk_id": 1204384,
-      "world_art_id": null,
-      "translator": "двухголосый закадровый",
-      "token": "5fc309c666fa1649e68a6fef922fe19575792f8ebfa539bb0377e0333b53317a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-31 20:31:44",
-      "update_date": "2021-01-31 20:33:00",
-      "block": false,
-      "translator_id": 81,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1204384.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

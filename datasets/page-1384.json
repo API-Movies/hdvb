@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "title_ru": "1+1: Голливудская история",
+      "title_en": "The Untouchables",
+      "year": 2018,
+      "kinopoisk_id": 596484,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-11 12:02:46",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Клаустрофобы",
+      "title_en": "Escape Room",
+      "year": 2019,
+      "kinopoisk_id": 1065805,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-10 21:46:28",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Закатать в асфальт",
+      "title_en": "Dragged Across Concrete",
+      "year": 2018,
+      "kinopoisk_id": 1040748,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-10 20:31:58",
+      "block": [
+        "RU"
+      ],
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Молчание",
       "title_en": "The Silence",
       "year": 2019,
@@ -226,47 +267,6 @@
       "translator": "Дубляж",
       "translator_id": 82,
       "quality": "BluRay"
-    },
-    {
-      "title_ru": "Рождественская история",
-      "title_en": "A Christmas Carol",
-      "year": 2009,
-      "kinopoisk_id": 391755,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-07 22:36:57",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Папа, сдохни",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1049219,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-07 14:13:57",
-      "block": [
-        "RU"
-      ],
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Потерянное звено",
-      "title_en": "Missing Link",
-      "year": 2019,
-      "kinopoisk_id": 1118427,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-07 13:19:11",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
     }
   ]
 }

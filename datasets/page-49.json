@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Разделитель",
+      "title_en": "The Divide",
+      "year": 2011,
+      "kinopoisk_id": null,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "1970-01-01 03:00:00",
+      "block": false,
+      "translator": "",
+      "translator_id": 0,
+      "quality": ""
+    },
+    {
+      "title_ru": "Разделитель",
+      "title_en": "The Divide",
+      "year": 2011,
+      "kinopoisk_id": null,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "1970-01-01 03:00:00",
+      "block": false,
+      "translator": "",
+      "translator_id": 0,
+      "quality": ""
+    },
+    {
+      "title_ru": "Рождество в Вашингтоне: Любовь под омелой",
+      "title_en": "Christmas in Washington",
+      "year": 2021,
+      "kinopoisk_id": 4441365,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-30 15:40:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Рождественская метель",
       "title_en": "Christmas Au Pair",
       "year": 2021,
@@ -222,43 +261,329 @@
       "quality": ""
     },
     {
-      "title_ru": "Разделитель",
-      "title_en": "The Divide",
-      "year": 2011,
-      "kinopoisk_id": null,
-      "type": "movie",
+      "title_ru": "Затерянные в космосе",
+      "title_en": "Lost in Space",
+      "year": 2018,
+      "kinopoisk_id": 993176,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "411d2bb3c354771d5664ae1435932b507e73885418825c5e381f82e3015700e4",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "1970-01-01 03:00:00",
+      "added_date": "2019-12-27 08:25:50",
+      "update_date": "2021-12-02 09:08:06",
       "block": false,
-      "translator": "",
-      "translator_id": 0,
-      "quality": ""
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/993176.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=147584",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Разделитель",
-      "title_en": "The Divide",
-      "year": 2011,
-      "kinopoisk_id": null,
-      "type": "movie",
+      "title_ru": "Ла-Брея",
+      "title_en": "La Brea",
+      "year": 2021,
+      "kinopoisk_id": 1355296,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "064814347a6a7e3e838004057db8084ef53f4af54d4afb5e4cb3c8a2e84c4e5c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "1970-01-01 03:00:00",
+      "added_date": "2021-09-30 08:25:09",
+      "update_date": "2021-12-02 09:06:52",
       "block": false,
-      "translator": "",
-      "translator_id": 0,
-      "quality": ""
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1355296.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Разделитель",
-      "title_en": "The Divide",
-      "year": 2011,
-      "kinopoisk_id": null,
-      "type": "movie",
+      "title_ru": "Чаки",
+      "title_en": "Chucky",
+      "year": 2021,
+      "kinopoisk_id": 1138779,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "fb5a5015b4771d74221c2d63bdb15d264d8d8b042e5ca8dcd0387bd252d33d32",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "1970-01-01 03:00:00",
+      "added_date": "2021-10-14 08:52:55",
+      "update_date": "2021-12-02 09:05:01",
       "block": false,
-      "translator": "",
-      "translator_id": 0,
-      "quality": ""
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1138779.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ангелы смерти",
+      "title_en": "Angels of Death",
+      "year": 2020,
+      "kinopoisk_id": 1268601,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "454e4c364612f0aa4fb1a4e936e453617ae9d7980028fe38f55fd0b1efc240e1",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-08-26 09:30:35",
+      "update_date": "2021-12-02 09:04:39",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1268601.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Затерянные в космосе",
+      "title_en": "Lost in Space",
+      "year": 2018,
+      "kinopoisk_id": 993176,
+      "world_art_id": null,
+      "translator": "Пифагор",
+      "token": "823db689654d6b470fad33bdff04f29ee51614bb45bef92f80f42f87c4a69d84",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-13 23:11:45",
+      "update_date": "2021-12-02 00:02:18",
+      "block": false,
+      "translator_id": 124,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/993176.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=147584",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Полярный",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1207237,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "5cee385b2274da6a5a7f89a8883631e11b4d95e6dfca0d6da20dbacc0940e2a1",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-11-21 23:46:23",
+      "update_date": "2021-12-01 22:11:57",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1207237.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 17,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ангелы смерти",
+      "title_en": "Angels of Death",
+      "year": 2020,
+      "kinopoisk_id": 1268601,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "6731cde44c48638d36dbca960700f3b803ea447aae87eb565fd2c4f44fccf4e5",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-08-25 19:20:58",
+      "update_date": "2021-12-01 19:57:52",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1268601.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Затерянные в космосе",
@@ -949,264 +1274,6 @@
             22,
             23,
             24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Схватка",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 1045166,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "c0a8e565cc704e93ffd0eb795a33e27d4388483c9ece2b0e183fee1da853eb09",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-11-29 08:53:16",
-      "update_date": "2021-11-29 08:53:48",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://i116.fastpic.org/big/2021/1114/16/c41fbc5433564a32af7a157b6e6dd816.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Запоздалая месть",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 4713200,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "0e1ef9b908750a2dc0566b85507cd3ec9e7f30859576554a6a74e8be45cee4aa",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-11-29 08:46:12",
-      "update_date": "2021-11-29 08:47:44",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://i116.fastpic.org/big/2021/1127/30/9045d0750a6b8ae78d88ab36cb4e9830.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ходячие мертвецы: Мир за пределами",
-      "title_en": "The Walking Dead: World Beyond",
-      "year": 2020,
-      "kinopoisk_id": 1282096,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "096fbf59f2b6ffc9ba922973f36cefb2741d064e52e25211428b18895327519e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-09-26 16:05:34",
-      "update_date": "2021-11-28 17:11:31",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1282096.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бойтесь ходячих мертвецов",
-      "title_en": "Fear the Walking Dead",
-      "year": 2015,
-      "kinopoisk_id": 846892,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "e015fb7582bfe2da6656d08cbee493971f3b8796d5a6a0e6c053ce08d40a5f60",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-11 16:56:13",
-      "update_date": "2021-11-28 17:10:33",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/846892.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=122984",
-      "serial_episodes": [
-        {
-          "season_number": 6,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "season_number": 7,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "The Beatles: Вернись",
-      "title_en": "The Beatles: Get Back",
-      "year": 2021,
-      "kinopoisk_id": 1355015,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "4ae7f53af63225d1f5d011ea9128efed1b4510bec19089c307fb19b1282872cd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-11-26 15:01:55",
-      "update_date": "2021-11-28 15:53:33",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1355015.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Венская кровь",
-      "title_en": "Vienna Blood",
-      "year": 2019,
-      "kinopoisk_id": 1302026,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "c8f53d50077123eb568c5946e04bcf9887fad2f87e9d0c56df4df742b333e53e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-21 09:02:23",
-      "update_date": "2021-11-28 09:09:06",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1302026.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 1,
-          "episodes": [
-            1
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "The Beatles: Вернись",
-      "title_en": "The Beatles: Get Back",
-      "year": 2021,
-      "kinopoisk_id": 1355015,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "6aaba65b2a073969bbc5c4b0a0d1b6b74c813c06854764f8e32ea46fd6ce0fc7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-11-27 07:39:03",
-      "update_date": "2021-11-28 09:09:04",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1355015.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Уолден, или Жизнь в лесу",
+      "title_en": "Walden",
+      "year": 2021,
+      "kinopoisk_id": 4522003,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-25 20:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Соло Зоро",
+      "title_en": "Zoros Solo",
+      "year": 2020,
+      "kinopoisk_id": 1188992,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-25 15:52:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Робин Робертс представляет: Махалия",
+      "title_en": "Robin Roberts Presents: Mahalia",
+      "year": 2021,
+      "kinopoisk_id": 4395970,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-25 15:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Потайной ход",
       "title_en": "Passagem Secreta",
       "year": 2021,
@@ -222,43 +261,330 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Скуби-Ду и Бэтмен: Отважный и смелый",
-      "title_en": "Scooby-Doo & Batman: The Brave and the Bold",
+      "title_ru": "Несгибаемая Кимми Шмидт",
+      "title_en": "Unbreakable Kimmy Schmidt",
+      "year": 2015,
+      "kinopoisk_id": 818770,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "d5bff60b4a03aef260173ee66c443e0294c4807ac1880682749d7947b66d0926",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-20 16:13:01",
+      "update_date": "2021-03-20 16:14:23",
+      "block": false,
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/818770.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Повзрослевшие",
+      "title_en": "Grown-ish",
       "year": 2018,
-      "kinopoisk_id": 1078933,
-      "type": "movie",
+      "kinopoisk_id": 1111926,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "dc1b866ed9ce3de09e10bf61b8fc9ec5bc62d954b8152b41acf5a8b2ea32a7bc",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-09-25 13:31:01",
+      "added_date": "2020-10-26 22:30:43",
+      "update_date": "2021-03-20 16:12:16",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1111926.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 21,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Скворец",
-      "title_en": "The Starling",
+      "title_ru": "Ты боишься темноты?",
+      "title_en": "Are You Afraid of the Dark?",
+      "year": 2019,
+      "kinopoisk_id": 1274369,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "a145b9c6f5858ce759b965a024b623cca7c88ba595b5ea10b31466adaac3aeb0",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-13 15:01:14",
+      "update_date": "2021-03-20 14:06:25",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1274369.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Затерянное королевство пиратов",
+      "title_en": "The Lost Pirate Kingdom",
       "year": 2021,
-      "kinopoisk_id": 1039203,
-      "type": "movie",
+      "kinopoisk_id": 14057360,
+      "world_art_id": null,
+      "translator": "HDrezka Studio",
+      "token": "000595c41bdf0192193d39e14aafc5b5df42559d65c5a8f824e9a7b940fe075a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-09-25 13:30:02",
+      "added_date": "2021-03-20 10:44:15",
+      "update_date": "2021-03-20 10:45:19",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
+      "translator_id": 33,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/14057360.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Робот Джокс",
-      "title_en": "Robot Jox",
-      "year": 1989,
-      "kinopoisk_id": 13309,
-      "type": "movie",
+      "title_ru": "Иерро",
+      "title_en": "Hierro",
+      "year": 2019,
+      "kinopoisk_id": 1145306,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "b6b4c1217c6195169fda4a24e9fe7c297629b8065900c65a82c943a975087a88",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-09-25 13:29:01",
+      "added_date": "2021-02-20 09:01:20",
+      "update_date": "2021-03-20 08:04:48",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1145306.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Бремя истины",
+      "title_en": "Burden of Truth",
+      "year": 2018,
+      "kinopoisk_id": 1111881,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "78a72af2001b46db6d464f4f241ccff026a46abebef554ad9b5cf7d93eb33b42",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-04 09:18:54",
+      "update_date": "2021-03-20 08:02:21",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1111881.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Стыд (Франция)",
@@ -974,217 +1300,6 @@
           "episodes_count": 1,
           "episodes": [
             1
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "BBC: Прогулки с динозаврами",
-      "title_en": "BBC: Walking with Dinosaurs",
-      "year": 1999,
-      "kinopoisk_id": 258253,
-      "world_art_id": null,
-      "translator": "одноголосый закадровый",
-      "token": "1a186c9fc136c53535484e405d571f48980ddc86de1281c049c11ead80da6068",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-19 18:41:16",
-      "update_date": "2021-03-19 18:42:19",
-      "block": false,
-      "translator_id": 93,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/258253.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Роковая ошибка",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 4317344,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "30706456ee177abeb1c5b56a005a1c125a178e318cb17973eb1ac18848820af8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-19 18:36:02",
-      "update_date": "2021-03-19 18:38:17",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4317344.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Марлен",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1338078,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "520b46478f9ee0e66e32c913a4f32e0dd3dc2a6d90b43cd98d435ac96c8f9283",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-08 18:43:53",
-      "update_date": "2021-03-19 18:26:51",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1338078.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Иерро",
-      "title_en": "Hierro",
-      "year": 2019,
-      "kinopoisk_id": 1145306,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "6d5f985bcb298d59bcf5dd2e770b048055f2d4261393eb4c8c2eac7b908e56c3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-19 21:44:08",
-      "update_date": "2021-03-19 17:51:00",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1145306.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Десантники",
-      "title_en": "Troopers",
-      "year": 2019,
-      "kinopoisk_id": 1264595,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "983c92738846b835103c7f6c37ef705f32710d47900eaa32d3513c48a3b7ec32",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-09 16:35:33",
-      "update_date": "2021-03-19 16:33:22",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1264595.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бремя истины",
-      "title_en": "Burden of Truth",
-      "year": 2018,
-      "kinopoisk_id": 1111881,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "7bd9ad5c3bc0330b77301de3ae40e7f22246ff9de81c7f97779747611b9397fd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-29 11:30:17",
-      "update_date": "2021-03-19 11:01:51",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1111881.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title_ru": "Путь позора",
+      "title_en": "Traces of Indignity",
+      "year": 2018,
+      "kinopoisk_id": 980991,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-04 11:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Француз",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 981110,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-04 11:04:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Робо",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1228540,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-04 11:03:01",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Шахтер",
       "title_en": "The Miner",
       "year": 2017,
@@ -223,48 +265,6 @@
       "translator": "Не требуется",
       "translator_id": 92,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Волшебник",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1100766,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-03 23:39:01",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Извините, мы вас не застали",
-      "title_en": "Sorry We Missed You",
-      "year": 2019,
-      "kinopoisk_id": 1256216,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-03 21:28:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Юные танцоры",
-      "title_en": "Dance Juvenile",
-      "year": 2019,
-      "kinopoisk_id": 10653298,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-03 21:27:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
     }
   ]
 }

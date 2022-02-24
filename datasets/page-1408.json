@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "title_ru": "Пирсинг",
+      "title_en": "Piercing",
+      "year": 2018,
+      "kinopoisk_id": 1022839,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-01-07 15:28:36",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Жил-был Дэдпул",
+      "title_en": "Once Upon A Deadpool",
+      "year": 2018,
+      "kinopoisk_id": 1209736,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-01-05 18:57:27",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Красивый мальчик",
+      "title_en": "Beautiful Boy",
+      "year": 2018,
+      "kinopoisk_id": 462654,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-01-05 15:26:26",
+      "block": [
+        "RU"
+      ],
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Исчезновение",
       "title_en": "The Vanishing",
       "year": 2018,
@@ -221,45 +262,6 @@
       "block": false,
       "translator": "Не требуется",
       "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Апгрейд",
-      "title_en": "Upgrade",
-      "year": 2018,
-      "kinopoisk_id": 1009784,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-01-01 15:17:58",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Присяга",
-      "title_en": "The Oath",
-      "year": 2018,
-      "kinopoisk_id": 1111596,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-12-31 09:46:07",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ночь длиной в 12 лет",
-      "title_en": "La noche de 12 años",
-      "year": 2018,
-      "kinopoisk_id": 1051309,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-12-30 19:54:23",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
       "quality": "WEB-DL"
     }
   ]

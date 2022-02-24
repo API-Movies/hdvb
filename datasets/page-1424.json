@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Кин",
+      "title_en": "Kin",
+      "year": 2018,
+      "kinopoisk_id": 1000742,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-11-07 10:47:17",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Страшно красив",
+      "title_en": "Beastly",
+      "year": 2011,
+      "kinopoisk_id": 450470,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-11-07 07:47:54",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Сумасшедший дом",
+      "title_en": "Madhouse",
+      "year": 1990,
+      "kinopoisk_id": 31425,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-11-07 07:12:52",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Проклятие монахини",
       "title_en": "The Nun",
       "year": 2018,
@@ -222,48 +261,6 @@
       "block": false,
       "translator": "Дубляж [Лицензия]",
       "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Джим Пуговка и машинист Лукас",
-      "title_en": "Jim Knopf und Lukas der Lokomotivführer",
-      "year": 2018,
-      "kinopoisk_id": 1026748,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-11-01 02:11:53",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Богемская рапсодия",
-      "title_en": "Bohemian Rhapsody",
-      "year": 2018,
-      "kinopoisk_id": 568289,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-31 17:58:07",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Галвестон",
-      "title_en": "Galveston",
-      "year": 2018,
-      "kinopoisk_id": 696499,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-10-31 12:38:58",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
       "quality": "WEB-DL"
     }
   ]

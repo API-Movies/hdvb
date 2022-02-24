@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Падшие",
+      "title_en": "Lapsis",
+      "year": 2020,
+      "kinopoisk_id": 1338925,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-14 23:37:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кошерный поцелуй",
+      "title_en": "Kiss Me Before It Blows Up / Kiss Me Kosher",
+      "year": 2020,
+      "kinopoisk_id": 1210006,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-14 23:36:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Запретные шаги",
+      "title_en": "I'll Meet You There / Forbidden Steps",
+      "year": 2021,
+      "kinopoisk_id": 1143970,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-14 23:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Тяжесть",
       "title_en": "Heavy",
       "year": 2021,
@@ -222,43 +261,185 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Не лечи меня",
+      "title_ru": "Чужое",
       "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1207408,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-14 08:17:01",
-      "block": false,
+      "year": 2014,
+      "kinopoisk_id": 839113,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "34dca9545a1f7d62c90f2f377f97031d90e4579862a5430140d93a176aee5829",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-03 00:46:09",
+      "update_date": "2020-05-03 00:46:09",
+      "block": false,
       "translator_id": 92,
-      "quality": "WEB-DL"
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/839113.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Плавучесть",
-      "title_en": "Buoyancy",
-      "year": 2019,
-      "kinopoisk_id": 1126353,
-      "type": "movie",
+      "title_ru": "Ликвидация",
+      "title_en": "",
+      "year": 2007,
+      "kinopoisk_id": 378244,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "77347038f5d61831fce4ceed13c6b3b8da39e24c9271176dc5e98fc73fa007c2",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-13 23:34:01",
+      "added_date": "2020-05-02 23:12:28",
+      "update_date": "2020-05-02 23:12:28",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/378244.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Закрытая палата",
-      "title_en": "Pyeoswaebyeongdong",
-      "year": 2019,
-      "kinopoisk_id": 1272478,
-      "type": "movie",
+      "title_ru": "Факультатив",
+      "title_en": "Extracurricular / Ingansuoep",
+      "year": 2020,
+      "kinopoisk_id": 1258177,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "3b0804190888126397c96b787e0b6a95d3a41ecc03e99aca1619b5d6155c8b22",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-13 23:25:02",
+      "added_date": "2020-05-02 19:25:38",
+      "update_date": "2020-05-02 19:25:38",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1258177.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Дед Мазаев и Зайцевы",
+      "title_en": "",
+      "year": 2015,
+      "kinopoisk_id": 947040,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "4abd049c291d15bb9f7b94df1afe86c39e5a7eae01ff87fb605a1678941c6d67",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-02 18:06:37",
+      "update_date": "2020-05-02 18:06:37",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/947040.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Голубая кровь",
+      "title_en": "Blue Bloods",
+      "year": 2010,
+      "kinopoisk_id": 503546,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "57b34f8681f865f8cfcfd96fd467f53625722466f8f8d333fc49a1bdd21d4bb3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-02 14:19:03",
+      "update_date": "2020-05-02 14:19:03",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/503546.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=31612",
+      "serial_episodes": [
+        {
+          "season_number": 10,
+          "episodes_count": 19,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Оставленные",
@@ -1078,207 +1259,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Лес любви: Ещё глубже",
-      "title_en": "The Forest of Love: Deep Cut",
-      "year": 2020,
-      "kinopoisk_id": 1368114,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "72f5bcb9c75848260fa029736adafcbcbcf25cdcf533a5eb65b742b1655703e1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-30 21:23:06",
-      "update_date": "2020-04-30 21:23:06",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1368114.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дэйв",
-      "title_en": "Dave",
-      "year": 2020,
-      "kinopoisk_id": 1245489,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "fa7bb5dc356f8c0c6e4c6b797ddcc4b96f27e3118698eb09cf95113417a18064",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-30 18:15:08",
-      "update_date": "2020-04-30 18:15:08",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1245489.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Крепость Бадабер",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1048576,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "0c94fec4b2df5e413362baeb3c419471d48a7bbc31bc16e8776ffdf136003c30",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-30 00:50:06",
-      "update_date": "2020-04-30 00:50:06",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1048576.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мушкетеры",
-      "title_en": "The Musketeers",
-      "year": 2014,
-      "kinopoisk_id": 793557,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "693245a37a155ccc8861ca18d1dc946bec62ba099df1149024a8797f613dd537",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-30 00:49:18",
-      "update_date": "2020-04-30 00:49:18",
-      "block": false,
-      "translator_id": 43,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/793557.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Непокорная",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 1007570,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "3cd0388efb8d54c90927c31eba41d54a0de6fe52ace369fb4cdeaf029f29b820",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-30 00:46:52",
-      "update_date": "2020-04-30 00:46:52",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1007570.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]
