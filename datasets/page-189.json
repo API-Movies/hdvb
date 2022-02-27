@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Демоник",
+      "title_en": "Demonic",
+      "year": 2021,
+      "kinopoisk_id": 2040002,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-16 23:14:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Вот это дедушка",
+      "title_en": "C'est quoi ce papy?!",
+      "year": 2021,
+      "kinopoisk_id": 1399605,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-16 23:13:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Ива",
+      "title_en": "Vrba",
+      "year": 2019,
+      "kinopoisk_id": 1219804,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-16 23:12:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Патруль",
+      "title_en": "Rounds",
+      "year": 2019,
+      "kinopoisk_id": 1282900,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-16 23:11:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Во славу любви",
       "title_en": "U slavu ljubavi",
       "year": 2020,
@@ -209,56 +261,419 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Полная луна",
-      "title_en": "Pun mjesec",
-      "year": 2019,
-      "kinopoisk_id": 1211291,
-      "type": "movie",
+      "title_ru": "Год миллионов",
+      "title_en": "Year Million",
+      "year": 2017,
+      "kinopoisk_id": 1100419,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "87f0db94414ff30986ad8df497b665edb3323509311e26fc14bc79d02aba1b01",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-16 00:39:01",
+      "added_date": "2021-01-09 21:22:23",
+      "update_date": "2021-01-09 21:23:35",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1100419.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Поппи Нонгена",
-      "title_en": "Poppie Nongena",
-      "year": 2019,
-      "kinopoisk_id": 1216291,
-      "type": "movie",
+      "title_ru": "Истории Райли",
+      "title_en": "Girl Meets World",
+      "year": 2014,
+      "kinopoisk_id": 723030,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "610f2dba140e7cf3966bbdca72f16dc22279d9e167471bed66ae409f16190ad8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-16 00:38:01",
+      "added_date": "2021-01-09 21:20:42",
+      "update_date": "2021-01-09 21:22:08",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/723030.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 21,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 30,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 21,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Убийство",
-      "title_en": "Murder",
-      "year": 2020,
-      "kinopoisk_id": 1407503,
-      "type": "movie",
+      "title_ru": "Квест Хармона",
+      "title_en": "HarmonQuest",
+      "year": 2016,
+      "kinopoisk_id": 994677,
+      "world_art_id": null,
+      "translator": "одноголосый закадровый",
+      "token": "cf38a1131422bcbfaae11cff8ce9fb94806aa94a8890b56cc3df75fbdbf9ad01",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-16 00:37:01",
+      "added_date": "2021-01-09 21:11:31",
+      "update_date": "2021-01-09 21:19:40",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 93,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/994677.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "The Demented",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1023963,
-      "type": "movie",
+      "title_ru": "Зажигай!",
+      "title_en": "Hit the Floor",
+      "year": 2013,
+      "kinopoisk_id": 678296,
+      "world_art_id": null,
+      "translator": "GoldTeam",
+      "token": "4e69656f8ed8bcbd13113b8bb8b9a307398701e30a420c59bc69113064d8b514",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-16 00:36:01",
+      "added_date": "2021-01-09 21:10:18",
+      "update_date": "2021-01-09 21:11:37",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 141,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/678296.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Дамское счастье",
+      "title_en": "The Paradise",
+      "year": 2012,
+      "kinopoisk_id": 709266,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "48fc34cc7316e20e312d7014ade1da06c84af5a39a9a99cfedd7d1c3dbd519d6",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-09 21:06:10",
+      "update_date": "2021-01-09 21:09:31",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/709266.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Проект «Орфей»",
+      "title_en": "Project Orpheus",
+      "year": 2016,
+      "kinopoisk_id": 1008546,
+      "world_art_id": null,
+      "translator": "ShowJet",
+      "token": "f71bb1bae145f25944950342d326bdf3f4034ddaff6858716cc21799ebef0826",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-09 21:04:51",
+      "update_date": "2021-01-09 21:05:57",
+      "block": false,
+      "translator_id": 125,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1008546.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Современная любовь",
+      "title_en": "Modern Love",
+      "year": 2019,
+      "kinopoisk_id": 1163856,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "5817185c2cdec2dfb795e4f7338b9ef0bad6cc0c0930fb702ab817241cdc70d7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-09 21:02:59",
+      "update_date": "2021-01-09 21:04:23",
+      "block": false,
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1163856.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Звёздный путь: Дискавери",
@@ -1176,322 +1591,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Койот",
-      "title_en": "Coyote",
-      "year": 2021,
-      "kinopoisk_id": 1322889,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "8647917c6b50ebcbcbc4098c766994516c08dd76ec5c4768e2c1c63418b239e7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-07 16:40:49",
-      "update_date": "2021-01-07 19:59:28",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1322889.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Вампир Алёша",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 67845809,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "adba1a242df5877a03d029739b5b2072413a462e5d8084f7339ecce88539669d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-07 15:57:12",
-      "update_date": "2021-01-07 15:57:34",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/67845809.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Обычная женщина",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1108686,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "b182fab3b336b7819fdde8c65635bc38852e99f41bb5cfe66a45055ee6f685f5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-11-02 21:15:24",
-      "update_date": "2021-01-07 15:55:00",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1108686.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Перед камерой (Разоблачение)",
-      "title_en": "Exposed",
-      "year": 2017,
-      "kinopoisk_id": 7107810,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "31950cc062d4dd2dcc6180e1214dec7258b582b594bc4675840038ab72ce8122",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-30 23:47:42",
-      "update_date": "2021-01-07 15:13:01",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/7107810.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Постановка",
-      "title_en": "Staged",
-      "year": 2020,
-      "kinopoisk_id": 1384808,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "32ea61bb297b0e97743f505669c94e60b93d2a85759dfec76ca68562a996726a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-13 09:30:59",
-      "update_date": "2021-01-07 08:56:17",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1384808.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мэрон",
-      "title_en": "Maron",
-      "year": 2013,
-      "kinopoisk_id": 735198,
-      "world_art_id": null,
-      "translator": "HamsterStudio",
-      "token": "c899ab74fb4ec8f66d52ea2f29474353618274171e090af15554ff39f45dbd68",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-06 22:24:05",
-      "update_date": "2021-01-06 22:26:36",
-      "block": false,
-      "translator_id": 32,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/735198.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бен Гур",
-      "title_en": "Ben Hur",
-      "year": 2010,
-      "kinopoisk_id": 468033,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "29d951049257160b6e6f1bad0bf61fe6b97dd22a986668f84a5ac4f64ca90da6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-06 22:22:25",
-      "update_date": "2021-01-06 22:23:50",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/468033.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 1,
-          "episodes": [
-            1
           ]
         }
       ]

@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Фильм Чарли",
+      "title_en": "Charlie's Movie",
+      "year": 2020,
+      "kinopoisk_id": 1432175,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 00:07:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Независимые",
+      "title_en": "The Independents",
+      "year": 2020,
+      "kinopoisk_id": 934271,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 00:05:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Трафик",
+      "title_en": "Crisis",
+      "year": 2021,
+      "kinopoisk_id": 1237488,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 00:04:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Акеларре",
+      "title_en": "Akelarre",
+      "year": 2020,
+      "kinopoisk_id": 1254396,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 00:03:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Вопрос каузальности",
       "title_en": "A Matter of Causality",
       "year": 2020,
@@ -209,56 +261,338 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Тетради",
-      "title_en": "The Notebooks",
-      "year": 2021,
-      "kinopoisk_id": 4369026,
-      "type": "movie",
+      "title_ru": "Юная",
+      "title_en": "Younger",
+      "year": 2015,
+      "kinopoisk_id": 808208,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "3ebbcd608be6b3312156a1d97a17c8c059ffadd415d30eca2f2bbb8906c97e1d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-10 15:18:02",
+      "added_date": "2020-06-23 22:22:17",
+      "update_date": "2020-06-23 22:22:17",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/808208.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=108843",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Зимнее озеро",
-      "title_en": "The Winter Lake",
-      "year": 2021,
-      "kinopoisk_id": 1244063,
-      "type": "movie",
+      "title_ru": "Юная",
+      "title_en": "Younger",
+      "year": 2015,
+      "kinopoisk_id": 808208,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "987647923c4c98e9f82318f8acafd6ab2a81d93088d28d11180b2e081b1d6af1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-10 15:17:01",
+      "added_date": "2020-06-23 22:21:26",
+      "update_date": "2020-06-23 22:21:26",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/808208.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=108843",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Каньонлендс",
-      "title_en": "The Canyonlands",
-      "year": 2021,
-      "kinopoisk_id": 1266766,
-      "type": "movie",
+      "title_ru": "Оккультные служащие полуночи",
+      "title_en": "Mayonaka no Occult Koumuin",
+      "year": 2019,
+      "kinopoisk_id": 1263120,
+      "world_art_id": null,
+      "translator": "AniLibria",
+      "token": "b6a93900a305b96df3546d79dea9f170555b2162e1e9cc5e5549244a51766a99",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-10 15:16:02",
+      "added_date": "2020-06-23 22:20:17",
+      "update_date": "2020-06-23 22:20:17",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 10,
+      "quality": "WEBRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1263120.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Убийственная мода",
-      "title_en": "Slaxx",
-      "year": 2021,
-      "kinopoisk_id": 1238745,
-      "type": "movie",
+      "title_ru": "Криптон",
+      "title_en": "Krypton",
+      "year": 2018,
+      "kinopoisk_id": 880644,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "692d6337330589c41a87ec4b5b9e31281e4fa9ae19fe79c88bd405701f58f198",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-10 15:15:01",
+      "added_date": "2020-06-23 22:13:57",
+      "update_date": "2020-06-23 22:13:57",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/880644.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=147164",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Живем сегодняшним днем",
+      "title_en": "One Day at a Time",
+      "year": 2017,
+      "kinopoisk_id": 1008345,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "e113a7f30a05e8ea852422b37982ca38e27104a7ede425a81c45e0adc0c634bd",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-23 17:19:51",
+      "update_date": "2020-06-23 17:19:51",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1008345.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Политик",
+      "title_en": "The Politician",
+      "year": 2019,
+      "kinopoisk_id": 1114279,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "437ce1f05fc3b9a9d19840b325269181c11539cddeb13f1acaca299500d6b954",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-23 12:47:23",
+      "update_date": "2020-06-23 12:47:23",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1114279.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Гиппократ",
+      "title_en": "Hippocrate",
+      "year": 2018,
+      "kinopoisk_id": 1217006,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "e7cf6812add5787a5a9e66d7ce967baae79bca7917391c86ffaacc65eee126d3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-23 12:35:19",
+      "update_date": "2020-06-23 12:35:19",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1217006.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Центральный Багдад",
@@ -707,350 +1041,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Зона",
-      "title_en": "",
-      "year": 2006,
-      "kinopoisk_id": 252537,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "58259ca28b08625f85cdad417c322fd253452c9380fed693ea4040eeab907cb1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-23 01:43:53",
-      "update_date": "2020-06-23 01:43:53",
-      "block": false,
-      "translator_id": 92,
-      "quality": "DVDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/252537.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 50,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Идиот",
-      "title_en": "",
-      "year": 2003,
-      "kinopoisk_id": 77051,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "53f3eac9a7fe6938655ccd735c676f2f69cdc8e496eb2a514712abc073c235ed",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-23 01:37:26",
-      "update_date": "2020-06-23 01:37:26",
-      "block": false,
-      "translator_id": 92,
-      "quality": "DVDRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/77051.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Светлана",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1049071,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "ed437a2ae3f68f481cf5ef72eaae041a6a34e4fd88f212c8ccc19d9906dff8bf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-22 23:04:03",
-      "update_date": "2020-06-22 23:04:03",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1049071.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Секунда до...",
-      "title_en": "",
-      "year": 2007,
-      "kinopoisk_id": 397414,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "2ca02a6ccd82da59cad4667e479498d00805621a59130d75daae04fe45397ad1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-22 20:47:17",
-      "update_date": "2020-06-22 20:47:17",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/397414.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Правда",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1291167,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "6dce8dbb3e85c81afb17846cc95c9e106667ae93e2dc93eccd39518a9ae6de06",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-22 20:46:01",
-      "update_date": "2020-06-22 20:46:01",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1291167.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Династия",
-      "title_en": "Dynasty",
-      "year": 2017,
-      "kinopoisk_id": 588761,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "984298e9b1ac156e3238a084ee2e458c855f0530c4af1fd5eef6fdb1c1ce79eb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-22 20:23:44",
-      "update_date": "2020-06-22 20:23:44",
-      "block": false,
-      "translator_id": 60,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/588761.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=141754",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 22,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 22,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Грязный Джон",
-      "title_en": "Dirty John",
-      "year": 2018,
-      "kinopoisk_id": 1140184,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "c3bd89ee145be4f50bc77bf82f6b0c0cf5ad06294f73bb9c7e6f78b3e016cf7a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-22 19:45:55",
-      "update_date": "2020-06-22 19:45:55",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1140184.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]
