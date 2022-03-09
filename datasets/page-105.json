@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Рождество в моём сердце",
+      "title_en": "Christmas in My Heart",
+      "year": 2021,
+      "kinopoisk_id": 4679756,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-14 04:44:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Байки из могилы",
+      "title_en": "Tales from Six Feet Under",
+      "year": 2020,
+      "kinopoisk_id": 1351574,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-14 04:42:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Расти",
+      "title_en": "Rusty",
+      "year": 2019,
+      "kinopoisk_id": 673123,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-14 04:41:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Свадьба моего босса",
+      "title_en": "My Boss' Wedding",
+      "year": 2021,
+      "kinopoisk_id": 15940304,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-14 04:40:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Волк-одиночка",
+      "title_en": "Lone Wolf",
+      "year": 2020,
+      "kinopoisk_id": 1441125,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-14 04:39:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Небольшие напоминания",
+      "title_en": "Little Reminders",
+      "year": 2021,
+      "kinopoisk_id": 4369500,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-14 04:36:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ты мне как сестра",
+      "title_en": "Em Gái Mua",
+      "year": 2018,
+      "kinopoisk_id": 1377503,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-14 04:35:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Заключение",
       "title_en": "Confinement",
       "year": 2020,
@@ -170,95 +261,227 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Связь",
-      "title_en": "Coherence",
-      "year": 2012,
-      "kinopoisk_id": 760829,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-13 15:40:02",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Дунай",
+      "title_ru": "ИП Пирогова",
       "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 4539790,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-13 14:35:01",
-      "block": false,
+      "year": 2019,
+      "kinopoisk_id": 1195651,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "07a9d9384cbde9f048bb2256fce79c95b5f20717f640ba13cb7411bca3179ddc",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-22 15:08:47",
+      "update_date": "2021-07-17 02:01:29",
+      "block": [
+        "RU",
+        "UA"
+      ],
       "translator_id": 92,
-      "quality": "WEB-DL"
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1195651.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Прекрасное: Истории с космической станции",
-      "title_en": "The Wonderful: Stories from the Space Station",
+      "title_ru": "Маккартни 3,2,1",
+      "title_en": "McCartney 3,2,1",
       "year": 2021,
-      "kinopoisk_id": 4489083,
-      "type": "movie",
+      "kinopoisk_id": 4467570,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "413d62f5573038d7e71ed8c198d239e8d3ea83f78232bc6993e42a4d510e046b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-11-13 01:25:01",
+      "added_date": "2021-07-16 15:00:03",
+      "update_date": "2021-07-16 18:44:15",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4467570.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Альпинист",
-      "title_en": "The Alpinist",
+      "title_ru": "Старушки в бегах",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1111029,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "3601fbda82ecd07b381ecb25c2ddbd5c4c3e4e0f479d23da2998b05c183766d8",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-07-12 16:14:08",
+      "update_date": "2021-07-16 17:03:58",
+      "block": false,
+      "translator_id": 92,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/1111029.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Обитель зла: Бесконечная тьма",
+      "title_en": "Resident Evil: Infinite Darkness",
       "year": 2021,
-      "kinopoisk_id": 4518799,
-      "type": "movie",
+      "kinopoisk_id": 1421539,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "fd307cbc33456e2d48d28f4d409e8ba7644c00798d5921840ce4601a13dcb556",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-11-13 01:24:02",
+      "added_date": "2021-07-11 12:55:26",
+      "update_date": "2021-07-16 14:51:12",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Чудо",
-      "title_en": "Gijeok",
-      "year": 2021,
-      "kinopoisk_id": 1390642,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-13 01:23:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Морские огни",
-      "title_en": "Meeresleuchten",
-      "year": 2020,
-      "kinopoisk_id": 1302002,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-13 01:22:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Список желаний",
-      "title_en": "Breast Cancer Bucket List",
-      "year": 2021,
-      "kinopoisk_id": 4439861,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-13 01:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1421539.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "История Лизи",
@@ -956,140 +1179,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Избранные",
-      "title_en": "The Chosen",
-      "year": 2017,
-      "kinopoisk_id": 1228882,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "a8751c3a43f3be0acdf9ae3e72385b514522e87e882b05bd79737c3bd2a5d8c6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-11 08:26:11",
-      "update_date": "2021-07-12 14:25:07",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1228882.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Poligon",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 4362405,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "775db58d9f98b138e8eac4a99d4b7e3621e8197c3f077c2b0cbdb87f38e71b84",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-07-12 13:51:56",
-      "update_date": "2021-07-12 13:52:43",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4362405.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Уцелевшие",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1331264,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "5a29ef35a404a68b7a3c0ad131b44edcbb2c5d092ac4ed3ffee3e379bfc38920",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-07-10 16:34:45",
-      "update_date": "2021-07-12 13:52:39",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1331264.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Смятение",
-      "title_en": "Grahan",
-      "year": 2021,
-      "kinopoisk_id": 14820482,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "5ba7c7d1acb66baf3c85bdb857f289eaf7a6eba012cb748b3b2e53bab71d987a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-07-05 18:23:14",
-      "update_date": "2021-07-12 13:03:48",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/14820482.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

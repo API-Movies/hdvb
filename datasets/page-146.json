@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Ховард Ориджинал",
+      "title_en": "Howard Original",
+      "year": 2020,
+      "kinopoisk_id": 1313857,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-01 23:22:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "",
+      "title_en": "Formentera Lady",
+      "year": 2018,
+      "kinopoisk_id": 1038364,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-01 23:21:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "",
+      "title_en": "Famosi in 7 giorni",
+      "year": 2019,
+      "kinopoisk_id": 1095999,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-01 23:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дорогой Байо",
+      "title_en": "Dear Bayo",
+      "year": 2020,
+      "kinopoisk_id": 11510002,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-01 23:12:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Множественные святые Ньюарка",
+      "title_en": "The Many Saints of Newark",
+      "year": 2021,
+      "kinopoisk_id": 1114968,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-01 23:01:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сорвать куш",
+      "title_en": "Hustle Down",
+      "year": 2021,
+      "kinopoisk_id": 1064020,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-01 19:36:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вечно богатый",
+      "title_en": "Forever Rich",
+      "year": 2021,
+      "kinopoisk_id": 4536610,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-01 19:34:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Певица на всю голову",
       "title_en": "Falling for Figaro",
       "year": 2021,
@@ -170,95 +261,188 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Сайна",
-      "title_en": "Saina",
+      "title_ru": "Повзрослевшие",
+      "title_en": "Grown-ish",
+      "year": 2018,
+      "kinopoisk_id": 1111926,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "dc1b866ed9ce3de09e10bf61b8fc9ec5bc62d954b8152b41acf5a8b2ea32a7bc",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-26 22:30:43",
+      "update_date": "2021-03-20 16:12:16",
+      "block": false,
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1111926.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 21,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ты боишься темноты?",
+      "title_en": "Are You Afraid of the Dark?",
+      "year": 2019,
+      "kinopoisk_id": 1274369,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "a145b9c6f5858ce759b965a024b623cca7c88ba595b5ea10b31466adaac3aeb0",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-13 15:01:14",
+      "update_date": "2021-03-20 14:06:25",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1274369.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Затерянное королевство пиратов",
+      "title_en": "The Lost Pirate Kingdom",
       "year": 2021,
-      "kinopoisk_id": 1210861,
-      "type": "movie",
+      "kinopoisk_id": 14057360,
+      "world_art_id": null,
+      "translator": "HDrezka Studio",
+      "token": "000595c41bdf0192193d39e14aafc5b5df42559d65c5a8f824e9a7b940fe075a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-09-30 22:21:01",
+      "added_date": "2021-03-20 10:44:15",
+      "update_date": "2021-03-20 10:45:19",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 33,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/14057360.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Кэндимэн 3: День мертвых",
-      "title_en": "Candyman: Day of the Dead",
-      "year": 1999,
-      "kinopoisk_id": 84469,
-      "type": "movie",
+      "title_ru": "Иерро",
+      "title_en": "Hierro",
+      "year": 2019,
+      "kinopoisk_id": 1145306,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "b6b4c1217c6195169fda4a24e9fe7c297629b8065900c65a82c943a975087a88",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-09-30 22:19:01",
+      "added_date": "2021-02-20 09:01:20",
+      "update_date": "2021-03-20 08:04:48",
       "block": false,
-      "translator": "РЕН-ТВ",
-      "translator_id": 178,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Лучшие из лучших 2",
-      "title_en": "Best of the Best II",
-      "year": 1993,
-      "kinopoisk_id": 12144,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-30 22:18:02",
-      "block": false,
-      "translator": "РЕН-ТВ",
-      "translator_id": 178,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Веном 2",
-      "title_en": "Venom: Let There Be Carnage",
-      "year": 2021,
-      "kinopoisk_id": 1227967,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-30 22:16:01",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Мой легионер",
-      "title_en": "Mon légionnaire",
-      "year": 2021,
-      "kinopoisk_id": 1222038,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-30 21:06:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "На передовой",
-      "title_en": "Frontliner",
-      "year": 2021,
-      "kinopoisk_id": 15457622,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-30 21:04:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мама: Возвращение из тьмы",
-      "title_en": "The Unlit",
-      "year": 2020,
-      "kinopoisk_id": 1130869,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-30 21:02:01",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1145306.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Бремя истины",
@@ -1053,151 +1237,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Роковая ошибка",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 4317344,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "30706456ee177abeb1c5b56a005a1c125a178e318cb17973eb1ac18848820af8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-19 18:36:02",
-      "update_date": "2021-03-19 18:38:17",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4317344.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Марлен",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1338078,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "520b46478f9ee0e66e32c913a4f32e0dd3dc2a6d90b43cd98d435ac96c8f9283",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-08 18:43:53",
-      "update_date": "2021-03-19 18:26:51",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1338078.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Иерро",
-      "title_en": "Hierro",
-      "year": 2019,
-      "kinopoisk_id": 1145306,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "6d5f985bcb298d59bcf5dd2e770b048055f2d4261393eb4c8c2eac7b908e56c3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-19 21:44:08",
-      "update_date": "2021-03-19 17:51:00",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1145306.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Десантники",
-      "title_en": "Troopers",
-      "year": 2019,
-      "kinopoisk_id": 1264595,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "983c92738846b835103c7f6c37ef705f32710d47900eaa32d3513c48a3b7ec32",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-09 16:35:33",
-      "update_date": "2021-03-19 16:33:22",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1264595.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
           ]
         }
       ]

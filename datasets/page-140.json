@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title_ru": "Маленький Купер",
+      "title_en": "Little Cooper",
+      "year": 2020,
+      "kinopoisk_id": 14695940,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-07 23:13:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Супа модо",
+      "title_en": "Supa Modo",
+      "year": 2018,
+      "kinopoisk_id": 1112844,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-07 21:58:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Лукания",
+      "title_en": "Lucania",
+      "year": 2019,
+      "kinopoisk_id": 1098889,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-07 21:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Свет, Камера, Эмма",
+      "title_en": "Lights, Camera, Romance",
+      "year": 2021,
+      "kinopoisk_id": 1391381,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-07 21:54:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Евгения Гранде",
+      "title_en": "Eugénie Grandet",
+      "year": 2021,
+      "kinopoisk_id": 1330387,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-07 21:53:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Не время умирать",
+      "title_en": "No Time to Die",
+      "year": 2021,
+      "kinopoisk_id": 706019,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-07 21:49:01",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Кошмар за стеной",
+      "title_en": "Derrière les murs",
+      "year": 2011,
+      "kinopoisk_id": 511912,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-07 18:56:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Марадона",
       "title_en": "Maradona by Kusturica",
       "year": 2008,
@@ -170,95 +261,186 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Рождественский чудак",
-      "title_en": "Christmas Freak (aka Xmas Freak)",
-      "year": 2021,
-      "kinopoisk_id": 1415186,
-      "type": "movie",
+      "title_ru": "Ван-Пис",
+      "title_en": "One Piece: Wan pîsu",
+      "year": 1999,
+      "kinopoisk_id": 382731,
+      "world_art_id": null,
+      "translator": "StudioBand",
+      "token": "f809cddee96a571d6302ad4239225e8cbdbd8668a72577ee37e7724e389784a0",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-07 03:21:02",
+      "added_date": "2021-04-01 22:24:19",
+      "update_date": "2021-04-01 22:27:13",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 66,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/382731.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 50,
+          "episodes": [
+            916,
+            917,
+            918,
+            919,
+            920,
+            921,
+            922,
+            923,
+            924,
+            925,
+            926,
+            927,
+            928,
+            929,
+            930,
+            931,
+            932,
+            933,
+            934,
+            935,
+            936,
+            937,
+            938,
+            939,
+            940,
+            941,
+            942,
+            943,
+            944,
+            945,
+            946,
+            947,
+            948,
+            949,
+            950,
+            951,
+            952,
+            953,
+            954,
+            955,
+            956,
+            957,
+            958,
+            959,
+            960,
+            961,
+            962,
+            963,
+            964,
+            965
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "БАБ",
-      "title_en": "BAB",
-      "year": 2021,
-      "kinopoisk_id": 1144769,
-      "type": "movie",
+      "title_ru": "НАСА: Необъяснимые материалы",
+      "title_en": "NASA's Unexplained Files",
+      "year": 2012,
+      "kinopoisk_id": 911212,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "09a6622aad72409a03ac6a3051ba2559bd400f16982011a2230afc733d9e2730",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-07 03:19:01",
+      "added_date": "2021-04-01 22:22:39",
+      "update_date": "2021-04-01 22:23:18",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/911212.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Бестселлер",
-      "title_en": "Best Sellers",
-      "year": 2021,
-      "kinopoisk_id": 1264209,
-      "type": "movie",
+      "title_ru": "Мне хорошо с тобой",
+      "title_en": "Better with You",
+      "year": 2010,
+      "kinopoisk_id": 503685,
+      "world_art_id": null,
+      "translator": "одноголосый закадровый",
+      "token": "1716a44f9ed1592dc117c2668e94fea235b946028f1300d793895178601bf57c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-06 17:17:01",
+      "added_date": "2021-04-01 22:21:16",
+      "update_date": "2021-04-01 22:21:55",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
+      "translator_id": 93,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/503685.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            20,
+            21,
+            22
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "В твоем доме кто-то есть",
-      "title_en": "There\\'s Someone Inside Your House",
-      "year": 2021,
-      "kinopoisk_id": 1245477,
-      "type": "movie",
+      "title_ru": "Мне хорошо с тобой",
+      "title_en": "Better with You",
+      "year": 2010,
+      "kinopoisk_id": 503685,
+      "world_art_id": null,
+      "translator": "Alexfilm",
+      "token": "6c1acad76057ce760272af6d611bb4f10f008e197a139e70960d6d7a370f7816",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-06 11:26:01",
+      "added_date": "2021-04-01 22:20:44",
+      "update_date": "2021-04-01 22:21:36",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Год вечной бури",
-      "title_en": "The Year of the Everlasting Storm",
-      "year": 2021,
-      "kinopoisk_id": 4470904,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-06 03:25:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Рейнджеры: кровавый камень",
-      "title_en": "The Rangers: Bloodstone",
-      "year": 2021,
-      "kinopoisk_id": 1168789,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-06 03:24:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мутация",
-      "title_en": "The Mutation",
-      "year": 2021,
-      "kinopoisk_id": 1365931,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-06 03:21:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 3,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/503685.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 19,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Мой любимый враг",
@@ -1003,138 +1185,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сашка",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 55705674,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "72d0dcda8bfc3b1987790f438801b24aa531c7985b18c5997ad292364f7ca523",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-30 18:38:01",
-      "update_date": "2021-03-30 18:43:07",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/55705674.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дорога на остров Пасхи",
-      "title_en": "",
-      "year": 2012,
-      "kinopoisk_id": 625379,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "3f2c51f8269e41d4e89a67377aa725513673f085e55ad2d3f48d9645ab8edfb3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-30 18:30:08",
-      "update_date": "2021-03-30 18:35:56",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/625379.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Куприн. Поединок",
-      "title_en": "",
-      "year": 2014,
-      "kinopoisk_id": 718238,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "4430779f2aa37315afe98d91895c34e921d4737ac823e2d8ed4b8b58e6e36a4d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-30 18:29:42",
-      "update_date": "2021-03-30 18:30:25",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/718238.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Куприн. Впотьмах",
-      "title_en": "",
-      "year": 2014,
-      "kinopoisk_id": 718239,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "6192bf4ab782da5c7978d6322d8b36c90d49df9c664c9a2876c03acb7841f6a5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-30 18:29:14",
-      "update_date": "2021-03-30 18:30:01",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/718239.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]
