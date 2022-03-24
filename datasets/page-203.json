@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title_ru": "Шоу талантов Кардуччи",
+      "title_en": "The Carducci Talent Show",
+      "year": 2021,
+      "kinopoisk_id": 1418206,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-01 18:52:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Один раз живём",
+      "title_en": "Si vive una volta sola",
+      "year": 2021,
+      "kinopoisk_id": 1265568,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-01 18:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Наполни сердце любовью",
+      "title_en": "Fill Your Heart",
+      "year": 2019,
+      "kinopoisk_id": 1182053,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-01 18:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Бонг живых мертвецов",
+      "title_en": "Bong of the Living Dead",
+      "year": 2017,
+      "kinopoisk_id": 964506,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-01 18:49:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Нарты",
+      "title_en": "Pulk",
+      "year": 2021,
+      "kinopoisk_id": 1233984,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-01 18:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Живи или дай умереть",
+      "title_en": "Live or Let Die",
+      "year": 2020,
+      "kinopoisk_id": 1342474,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-01 18:47:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Страх и ненависть в Аспене",
       "title_en": "Fear and Loathing in Aspen",
       "year": 2021,
@@ -183,82 +261,148 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Принцесса якудза",
-      "title_en": "Yakuza Princess",
-      "year": 2021,
-      "kinopoisk_id": 1289500,
-      "type": "movie",
+      "title_ru": "МакМафия",
+      "title_en": "McMafia",
+      "year": 2018,
+      "kinopoisk_id": 1045197,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "f481605cd350d60a8d9e7d69284c7f96ca364be9c4ee571edfae0faa7d43507c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-31 19:07:01",
+      "added_date": "2020-12-29 00:57:51",
+      "update_date": "2020-12-29 00:58:42",
       "block": false,
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1045197.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Перерождение",
+      "title_en": "The Passage",
+      "year": 2019,
+      "kinopoisk_id": 395052,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "364c5e1b89c475d33ea0b9a30548fbb7ce4786ec7706bcedc7846809fba997e2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-29 00:24:36",
+      "update_date": "2020-12-29 00:57:37",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/395052.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Переправа",
+      "title_en": "The Crossing",
+      "year": 2018,
+      "kinopoisk_id": 1010737,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "ab291ba7b2f74218314aa6ee60182acb7dedd63ff0fbe5937ad747eb30eb4f0a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-29 00:12:05",
+      "update_date": "2020-12-29 00:20:36",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1010737.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Переправа",
+      "title_en": "The Crossing",
+      "year": 2018,
+      "kinopoisk_id": 1010737,
+      "world_art_id": null,
       "translator": "Дубляж",
+      "token": "72c7cc00b3edea688aaae6372f6a7266c7153ae3117a771e341e2c7d857627f5",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-29 00:08:35",
+      "update_date": "2020-12-29 00:11:15",
+      "block": false,
       "translator_id": 82,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "День флага",
-      "title_en": "Flag Day",
-      "year": 2021,
-      "kinopoisk_id": 673726,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-31 19:06:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Всадник смерти в Доме вампиров",
-      "title_en": "Death Rider in the House of Vampires",
-      "year": 2021,
-      "kinopoisk_id": 1337748,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-31 19:05:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Заложники",
-      "title_en": "Ostaggi",
-      "year": 2021,
-      "kinopoisk_id": 4438974,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-31 19:02:05",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Человек против бигфута",
-      "title_en": "Man vs Bigfoot",
-      "year": 2021,
-      "kinopoisk_id": 1257446,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-31 19:00:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Побег из зоны 51",
-      "title_en": "Escape from Area 51",
-      "year": 2021,
-      "kinopoisk_id": 1344809,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-31 18:59:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1010737.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Детки в порядке",
@@ -1052,173 +1196,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Тик",
-      "title_en": "The Tick",
-      "year": 2017,
-      "kinopoisk_id": 968317,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "306e17a9e5c32461abbbd5651ea3badf8a23e7e2b5d87beb5a41ea550843c29f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-27 09:37:59",
-      "update_date": "2020-12-27 09:45:10",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/968317.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рейвенсвуд",
-      "title_en": "Ravenswood",
-      "year": 2013,
-      "kinopoisk_id": 750272,
-      "world_art_id": null,
-      "translator": "Flux-Team",
-      "token": "c05901310ae10fa8f32bdc61aecb9366f414e072eb46f4b7b49e981701af473c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-27 09:34:39",
-      "update_date": "2020-12-27 09:37:45",
-      "block": false,
-      "translator_id": 24,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/750272.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Доказанная невиновность",
-      "title_en": "Proven Innocent",
-      "year": 2019,
-      "kinopoisk_id": 1115573,
-      "world_art_id": null,
-      "translator": "HDrezka Studio",
-      "token": "0e7d928dfb8bee1da8e57edc2cf9411a8179b9800bddeb6c0c596b51d94943d3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-27 09:25:43",
-      "update_date": "2020-12-27 09:34:24",
-      "block": false,
-      "translator_id": 33,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1115573.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Равноденствие оникса",
-      "title_en": "Onyx Equinox",
-      "year": 2020,
-      "kinopoisk_id": 12605636,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "53fbf80444e77c01ca949860a401634ba871afd057b5c6c1a473fc823079bebd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-22 07:54:32",
-      "update_date": "2020-12-27 09:33:43",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/12605636.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

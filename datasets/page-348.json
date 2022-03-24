@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title_ru": "Водопады любви",
+      "title_en": "Chasing Waterfalls",
+      "year": 2021,
+      "kinopoisk_id": 1406223,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-01 02:42:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Кассета страха 3",
+      "title_en": "The Fear Footage: 3AM",
+      "year": 2021,
+      "kinopoisk_id": 13964002,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-01 02:41:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Шон Мендес: In Wonder",
+      "title_en": "Shawn Mendes: In Wonder",
+      "year": 2020,
+      "kinopoisk_id": 1436909,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-01 02:39:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Таверна дракона: Город печали",
+      "title_en": "Yongrugak: bijeongdosi",
+      "year": 2020,
+      "kinopoisk_id": 1402694,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-01 02:38:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Опасная экскурсия: похищенные с пляжа",
+      "title_en": "Deadly Excursion: Kidnapped from the Beach",
+      "year": 2021,
+      "kinopoisk_id": 4366945,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-01 02:37:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Порочный круг",
+      "title_en": "Ann Rule's Circle of Deception",
+      "year": 2021,
+      "kinopoisk_id": 1355579,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-01 02:36:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Хот-доги из свидетелей",
       "title_en": "Witness Infection",
       "year": 2021,
@@ -183,82 +261,183 @@
       "quality": ""
     },
     {
-      "title_ru": "Плюс-Минус",
-      "title_en": "Give or Take",
-      "year": 2020,
-      "kinopoisk_id": 1196449,
-      "type": "movie",
+      "title_ru": "Криптон",
+      "title_en": "Krypton",
+      "year": 2018,
+      "kinopoisk_id": 880644,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "925b54f335c71f81d26eb314768d35653eb0c159a792440f3d39c4dc99d40890",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-31 15:28:01",
+      "added_date": "2020-06-24 10:07:34",
+      "update_date": "2020-06-24 10:07:34",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/880644.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=147164",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Товар",
-      "title_en": "Gear",
+      "title_ru": "Дело Райкара",
+      "title_en": "The Raikar Case",
+      "year": 2020,
+      "kinopoisk_id": 1356898,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "4fc99cd13656192b585271510960cf7d66d03a823f2e62685ade5e21e6e35a2a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-06-24 09:23:07",
+      "update_date": "2020-06-24 09:23:07",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1356898.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Гений",
+      "title_en": "Genius",
       "year": 2017,
-      "kinopoisk_id": 936710,
-      "type": "movie",
+      "kinopoisk_id": 975848,
+      "world_art_id": null,
+      "translator": "National Geographic",
+      "token": "272a1f9d72e5ad868ad985ec1391c605d8aa872cebe93aa1f98ba835f156686f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-31 15:27:01",
+      "added_date": "2020-06-24 02:10:21",
+      "update_date": "2020-06-24 02:10:21",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 153,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/975848.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Осенний сон",
-      "title_en": "Autumnal Sleeps",
-      "year": 2019,
-      "kinopoisk_id": 11788294,
-      "type": "movie",
+      "title_ru": "За пределами",
+      "title_en": "Extant",
+      "year": 2014,
+      "kinopoisk_id": 799433,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "0ca8664764533293d15c466537261a9480f4efe1261c3c0a93e64992dfd0ab03",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-31 15:26:01",
+      "added_date": "2020-06-23 23:57:11",
+      "update_date": "2020-06-23 23:57:11",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Туве",
-      "title_en": "Tove",
-      "year": 2020,
-      "kinopoisk_id": 1313412,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-31 15:25:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Годзилла против Конга",
-      "title_en": "Godzilla vs. Kong",
-      "year": 2021,
-      "kinopoisk_id": 965936,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-31 15:24:01",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Злодей",
-      "title_en": "Villain",
-      "year": 2020,
-      "kinopoisk_id": 1246367,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-31 08:16:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/799433.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Юная",
@@ -870,177 +1049,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Этим пыльным летом",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1138858,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "7f53e7fb0afa03abb9b8697f460d11790f928591c22053587818124f6182cfe2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-23 02:40:21",
-      "update_date": "2020-06-23 02:40:21",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1138858.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Диета из Санта-Клариты",
-      "title_en": "Santa Clarita Diet",
-      "year": 2017,
-      "kinopoisk_id": 1008346,
-      "world_art_id": null,
-      "translator": "Netflix",
-      "token": "6eb1792b1576c26adbfc6066e3197904113ad2ef622aa74bf5a605fd6381da6d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-23 02:37:54",
-      "update_date": "2020-06-23 02:37:54",
-      "block": false,
-      "translator_id": 113,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1008346.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Черный список: Искупление",
-      "title_en": "The Blacklist: Redemption",
-      "year": 2017,
-      "kinopoisk_id": 971150,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "2955f10a4bc81e75883dcf7312f1583d265c3609a8a710d0b89470e8ddf93294",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-23 02:19:08",
-      "update_date": "2020-06-23 02:19:08",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/971150.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кровавая езда",
-      "title_en": "Blood Drive",
-      "year": 2017,
-      "kinopoisk_id": 1044571,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "5051df78c880fb627e7eb5bef0d6826c7a80d2ba4e50e194350650c3b88917a5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-23 02:14:11",
-      "update_date": "2020-06-23 02:14:11",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1044571.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

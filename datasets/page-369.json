@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title_ru": "По наклонной",
+      "title_en": "Cherry",
+      "year": 2021,
+      "kinopoisk_id": 1245501,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 10:24:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кто-нибудь видел мою девчонку?",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1234854,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 09:52:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пиноккио",
+      "title_en": "Pinocchio",
+      "year": 1940,
+      "kinopoisk_id": 8220,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 09:50:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Седьмой этап",
+      "title_en": "Fase 7",
+      "year": 2010,
+      "kinopoisk_id": 492472,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 00:28:02",
+      "block": false,
+      "translator": "одноголосый закадровый",
+      "translator_id": 93,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Белый снег",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1345722,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 00:13:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Нелли Рапп: агент чудовищ",
+      "title_en": "Nelly Rapp - Monsteragent",
+      "year": 2020,
+      "kinopoisk_id": 1324538,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 00:12:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Литл Гром",
       "title_en": "Yakari, le film",
       "year": 2020,
@@ -183,82 +261,201 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Искупление",
-      "title_en": "Redeemed",
-      "year": 2021,
-      "kinopoisk_id": 1202907,
-      "type": "movie",
+      "title_ru": "Живем сегодняшним днем",
+      "title_en": "One Day at a Time",
+      "year": 2017,
+      "kinopoisk_id": 1008345,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "4bb7b06d4537fc55a00637ab8336d16aaf045a19ac03d73d57f9b7dc2b882c65",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-11 00:24:01",
+      "added_date": "2020-05-18 06:12:43",
+      "update_date": "2020-05-18 06:12:43",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1008345.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Постоянная экспозиция",
-      "title_en": "Permanent Collection",
+      "title_ru": "Вокально–криминальный ансамбль",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1047446,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "26edae856ea9eb2d904840f45296bdce1ba26b91bd3854ecbe6586cc9a6a9894",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-18 05:53:27",
+      "update_date": "2020-05-18 05:53:27",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1047446.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Чёрная луна",
+      "title_en": "Luna Nera",
       "year": 2020,
-      "kinopoisk_id": 1116933,
-      "type": "movie",
+      "kinopoisk_id": 1274538,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "d13d5fb5b7edac466ed136713530cbc579327e04f66b2fdeb5e6e3f539382ea6",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-11 00:22:02",
+      "added_date": "2020-05-18 05:43:52",
+      "update_date": "2020-05-18 05:43:52",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1274538.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Отрыв",
-      "title_en": "Party Hard",
-      "year": 2020,
-      "kinopoisk_id": 1310950,
-      "type": "movie",
+      "title_ru": "Диаблеро",
+      "title_en": "Diablero",
+      "year": 2018,
+      "kinopoisk_id": 1148801,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "a6180ff9b0904b8009c59cce719fa8db32811331dc29d8b3858dfcbbfbf92f60",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-11 00:21:02",
+      "added_date": "2020-05-18 05:42:41",
+      "update_date": "2020-05-18 05:42:41",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "История о призраке",
-      "title_en": "Ghost Tale",
-      "year": 2021,
-      "kinopoisk_id": 6423112,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-11 00:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Вечная молодость",
-      "title_en": "Evergreen",
-      "year": 2020,
-      "kinopoisk_id": 1348307,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-11 00:18:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Коннор Макдэвид: Во что бы то ни стало",
-      "title_en": "Connor McDavid: Whatever It Takes",
-      "year": 2020,
-      "kinopoisk_id": 11644320,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-11 00:16:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1148801.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Телефонистки",
@@ -1143,174 +1340,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Расправа",
-      "title_en": "Reprisal",
-      "year": 2019,
-      "kinopoisk_id": 1181436,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "f0fe13637c1391c71ac4f290251e9eb997e798127583debd896255529e77c6b1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 23:14:32",
-      "update_date": "2020-05-16 23:14:32",
-      "block": false,
-      "translator_id": 48,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1181436.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Юные преступники",
-      "title_en": "The Young Offenders",
-      "year": 2018,
-      "kinopoisk_id": 1115260,
-      "world_art_id": null,
-      "translator": "Ozz",
-      "token": "dc2042d4bda765f401814ac4babfa732c495368026e1b329b124f40ce95cdb01",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 23:13:08",
-      "update_date": "2020-05-16 23:13:08",
-      "block": false,
-      "translator_id": 54,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1115260.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Подводная лодка",
-      "title_en": "Das Boot",
-      "year": 2018,
-      "kinopoisk_id": 1005828,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "2b987d5ca94a526163e3026020db8043815308f443f9b95a9a44e94b571e7564",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 22:05:35",
-      "update_date": "2020-05-16 22:05:35",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 60,
-      "quality": "HDTV",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1005828.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Белые линии",
-      "title_en": "White Lines",
-      "year": 2020,
-      "kinopoisk_id": 1280210,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "f35a5902008af480046269478ac2b06291050ffb1e01a4d7d90ab582e4e75db6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 21:57:47",
-      "update_date": "2020-05-16 21:57:47",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1280210.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

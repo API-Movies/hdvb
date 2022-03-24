@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title_ru": "Дорога в Перт",
+      "title_en": "Road to Perth",
+      "year": 2022,
+      "kinopoisk_id": 1072213,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-19 05:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Снаружи",
+      "title_en": "Outside",
+      "year": 2022,
+      "kinopoisk_id": 1309490,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-19 05:04:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Жрицы дорог",
+      "title_en": "Lot Lizards",
+      "year": 2022,
+      "kinopoisk_id": 16384960,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-19 04:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Жара",
+      "title_en": "Heatwave",
+      "year": 2021,
+      "kinopoisk_id": 568567564,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-19 04:56:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Держись за любовь",
+      "title_en": "Hanging on to Love",
+      "year": 2022,
+      "kinopoisk_id": 4516711,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-19 04:53:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пополам",
+      "title_en": "Half &amp; Half",
+      "year": 2022,
+      "kinopoisk_id": 4425467,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-19 04:26:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Энтропия",
       "title_en": "Entropy",
       "year": 2022,
@@ -183,82 +261,138 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Танцы на снегу",
-      "title_en": "Dancing Through Christmas",
+      "title_ru": "The Beatles: Вернись",
+      "title_en": "The Beatles: Get Back",
       "year": 2021,
-      "kinopoisk_id": 4653998,
-      "type": "movie",
+      "kinopoisk_id": 1355015,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "4ae7f53af63225d1f5d011ea9128efed1b4510bec19089c307fb19b1282872cd",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-18 17:14:01",
+      "added_date": "2021-11-26 15:01:55",
+      "update_date": "2021-11-28 15:53:33",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1355015.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Койот",
-      "title_en": "Coiote",
+      "title_ru": "Венская кровь",
+      "title_en": "Vienna Blood",
       "year": 2019,
-      "kinopoisk_id": 1169461,
-      "type": "movie",
+      "kinopoisk_id": 1302026,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "c8f53d50077123eb568c5946e04bcf9887fad2f87e9d0c56df4df742b333e53e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-18 17:12:01",
+      "added_date": "2019-11-21 09:02:23",
+      "update_date": "2021-11-28 09:09:06",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1302026.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 1,
+          "episodes": [
+            1
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Зацепка: Мальтийские часы",
-      "title_en": "Clue: Maltesergåten",
+      "title_ru": "The Beatles: Вернись",
+      "title_en": "The Beatles: Get Back",
       "year": 2021,
-      "kinopoisk_id": 4478578,
-      "type": "movie",
+      "kinopoisk_id": 1355015,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "6aaba65b2a073969bbc5c4b0a0d1b6b74c813c06854764f8e32ea46fd6ce0fc7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-18 17:09:01",
+      "added_date": "2021-11-27 07:39:03",
+      "update_date": "2021-11-28 09:09:04",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1355015.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Калаврита 1943",
-      "title_en": "Echoes of the Past",
+      "title_ru": "Чистосердечное призвание",
+      "title_en": "",
       "year": 2021,
-      "kinopoisk_id": 1178939,
-      "type": "movie",
+      "kinopoisk_id": 1451295,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "a3536a1dd3f8106fb5a0bffab21ee99274afd37243dc0efc4901adae3a6b09c4",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-18 16:38:01",
+      "added_date": "2020-12-12 14:50:36",
+      "update_date": "2021-11-28 09:06:47",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Звездные талеры счастья",
-      "title_en": "Die Sterntaler des Glücks",
-      "year": 2021,
-      "kinopoisk_id": 4710698,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-01-18 16:36:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Любовники",
-      "title_en": "Amants",
-      "year": 2020,
-      "kinopoisk_id": 1245561,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-01-18 16:34:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1451295.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Убийство по Фрейду",
@@ -898,161 +1032,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Джек и Лондон",
-      "title_en": "",
-      "year": 2022,
-      "kinopoisk_id": 4710705,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "9af218322f3f0c1432b03f854a5d25b754174fd2497a8052d40b5a5e50251ab9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-11-15 01:55:02",
-      "update_date": "2021-11-24 21:46:49",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DLRip",
-      "poster": "https://i2.imageban.ru/out/2021/11/15/df531a770e0f3b16855499ac823e622c.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "С Земли на Луну",
-      "title_en": "From the Earth to the Moon",
-      "year": 1998,
-      "kinopoisk_id": 277623,
-      "world_art_id": null,
-      "translator": "Amedia",
-      "token": "25c8178a6634edaed292274b2b509eb6926ceecda35ca06b12eb7ae1a49b499f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-11-24 20:39:53",
-      "update_date": "2021-11-24 20:41:32",
-      "block": false,
-      "translator_id": 7,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/277623.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Темпл",
-      "title_en": "Temple",
-      "year": 2019,
-      "kinopoisk_id": 1191660,
-      "world_art_id": null,
-      "translator": "Novamedia",
-      "token": "14125c3f3eee340c1f4a83dd678e356c58b77ac13d52db4e747192f77c90399e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-14 09:38:34",
-      "update_date": "2021-11-24 20:39:13",
-      "block": false,
-      "translator_id": 51,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1191660.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Dragons Rescue Riders: Heroes of the Sky",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 4640304,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "34737859bd26357d80605168ac2c3d33eab625dab1b3c1ab3b8b4a1ed65bda62",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-11-24 17:22:05",
-      "update_date": "2021-11-24 20:36:56",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4640304.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

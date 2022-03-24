@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title_ru": "Слететь с рельсов",
+      "title_en": "Off the Rails",
+      "year": 2021,
+      "kinopoisk_id": 1236434,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-15 21:35:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Идеальная жена",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4522317,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-15 16:12:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сюзанна Андлер",
+      "title_en": "Suzanna Andler",
+      "year": 2021,
+      "kinopoisk_id": 1338631,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-15 16:11:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Случайность и догадка",
+      "title_en": "Guzen to sozo",
+      "year": 2021,
+      "kinopoisk_id": 4362628,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-15 16:10:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Апокалипсис белой девчонки",
+      "title_en": "White Girl Apokalypse",
+      "year": 2021,
+      "kinopoisk_id": 4657037,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-15 15:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мужской взгляд: третий не лишний",
+      "title_en": "The Male Gaze: Three's Company",
+      "year": 2021,
+      "kinopoisk_id": 4543737,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-15 15:56:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Певец кантри",
       "title_en": "The Country Singer",
       "year": 2020,
@@ -183,82 +261,134 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Самурай в Берлине",
-      "title_en": "Samurai in Berlin",
+      "title_ru": "Паро",
+      "title_en": "Parot",
+      "year": 2021,
+      "kinopoisk_id": 1409125,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "0459873a6220e8561fe5889d8cddba01367a9429ae53d48e5cc9d74653ead21d",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-05-29 09:48:18",
+      "update_date": "2021-05-29 09:48:55",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1409125.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Luther",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4396163,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "d4b9b4c19484914a37d86a6f620126c11d5d65658bb6bf74088d02eab691b103",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-05-24 09:03:18",
+      "update_date": "2021-05-29 09:44:43",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4396163.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Метод Комински",
+      "title_en": "The Kominsky Method",
+      "year": 2018,
+      "kinopoisk_id": 1112254,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "7bdd0cd68f35f10af118ca60449603e6906733cc03fe0450d9faf548e127243e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-05-28 13:19:30",
+      "update_date": "2021-05-28 17:35:34",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1112254.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Клятва",
+      "title_en": "",
       "year": 2019,
-      "kinopoisk_id": 1342465,
-      "type": "movie",
+      "kinopoisk_id": 1305917,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "70b88faaff462332f6b675b60781b94ec573f0b487018f7d6c833f20694e4f44",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-11-15 01:26:02",
+      "added_date": "2021-05-28 16:16:54",
+      "update_date": "2021-05-28 16:17:17",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Лимб",
-      "title_en": "Limbo",
-      "year": 2021,
-      "kinopoisk_id": 1115032,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-15 01:25:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Самая шокирующая свадьба в истории",
-      "title_en": "Il matrimonio più sconvolgente della storia",
-      "year": 2021,
-      "kinopoisk_id": 1129020,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-15 01:24:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Вторая подача",
-      "title_en": "Hum Do Hamare Do",
-      "year": 2021,
-      "kinopoisk_id": 1355547,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-15 01:21:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дом с привидениями 4: Демоны",
-      "title_en": "Haunted 4: Demons",
-      "year": 2020,
-      "kinopoisk_id": 961361,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-15 01:20:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Страх перед чёрной планетой",
-      "title_en": "Fear of a Black Planet",
-      "year": 2021,
-      "kinopoisk_id": 4413212,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-15 01:19:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1305917.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Parot",
@@ -1006,248 +1136,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Черная молния",
-      "title_en": "Black Lightning",
-      "year": 2018,
-      "kinopoisk_id": 1002949,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "b56a879bf340457b25441f379f234c7cd3b7a1899e9aed86980d1f66dafc08d6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-11 23:33:52",
-      "update_date": "2021-05-27 11:33:44",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1002949.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Обломки",
-      "title_en": "Debris",
-      "year": 2021,
-      "kinopoisk_id": 1347334,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "4899a80a6e645f3f66beb0fc88a4b290bec6fa796cdbafd13f2151879e8e27a8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-03 07:57:10",
-      "update_date": "2021-05-27 09:51:39",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://img.imgilall.me/movies/franchise/4/4/2/4/9/0/0/0/0/0/610x900_44249.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Черная молния",
-      "title_en": "Black Lightning",
-      "year": 2018,
-      "kinopoisk_id": 1002949,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "96b0bf83d99b8912413ab8f757591f4108c3f7f70a4e6ffaf260acece1b20c2a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-01 20:34:40",
-      "update_date": "2021-05-27 09:50:43",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1002949.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мушкетёры",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1387037,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "40faa070c94416d8a025f494aac0e19f0b8ba02cba5fc2568d8053bc5f76b05c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-27 12:13:17",
-      "update_date": "2021-05-26 21:25:10",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1387037.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
           ]
         }
       ]

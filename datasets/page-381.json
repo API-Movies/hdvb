@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title_ru": "Моя подружка сорвала куш в лотерее",
+      "title_en": "My Side Piece Hit the Lotto",
+      "year": 2018,
+      "kinopoisk_id": 1104622,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-03 00:33:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "На ничьей земле",
+      "title_en": "Im Niemandsland",
+      "year": 2019,
+      "kinopoisk_id": 1159292,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-03 00:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Девушка в подвале",
+      "title_en": "Girl in the Basement",
+      "year": 2021,
+      "kinopoisk_id": 1435749,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-03 00:31:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Компьютерные хакеры",
+      "title_en": "Computer Hackers",
+      "year": 2019,
+      "kinopoisk_id": 1231354,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-03 00:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Хелене",
+      "title_en": "Helene",
+      "year": 2020,
+      "kinopoisk_id": 1238431,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-03 00:29:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Мы потеряны навсегда?",
+      "title_en": "Are We Lost Forever",
+      "year": 2020,
+      "kinopoisk_id": 1291700,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-03 00:28:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Проделки Тото",
       "title_en": "Les blagues de Toto",
       "year": 2020,
@@ -183,82 +261,160 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Убийца в красном",
-      "title_en": "Ci sha xiao shuo jia",
-      "year": 2020,
-      "kinopoisk_id": 1236082,
-      "type": "movie",
+      "title_ru": "Морская полиция: Лос-Анджелес",
+      "title_en": "NCIS: Los Angeles",
+      "year": 2009,
+      "kinopoisk_id": 468820,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "d8c066bd0c2de0cb0620b99aba5340d339c36ded50b510c59ef1113edc2f9a6c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-02 14:36:02",
+      "added_date": "2020-04-27 17:00:38",
+      "update_date": "2020-04-27 17:00:38",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/468820.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=78279",
+      "serial_episodes": [
+        {
+          "season_number": 11,
+          "episodes_count": 22,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Пугало",
+      "title_ru": "Сашино дело",
       "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1395840,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-02 14:35:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "На скорости",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1049115,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-02 14:34:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Друзья навсегда",
-      "title_en": "The Friend / Our Friend",
-      "year": 2021,
-      "kinopoisk_id": 1231105,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-02 14:33:01",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Уиджа. Проклятое зеркало",
-      "title_en": "The 100 Candles Game",
       "year": 2020,
-      "kinopoisk_id": 1392770,
-      "type": "movie",
+      "kinopoisk_id": 6534634,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "131aae4ca95bd33a17396dca5fe6b14d9a33c1b14aa53913d378fe946ffe5e41",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-02 14:32:01",
+      "added_date": "2020-04-27 15:48:20",
+      "update_date": "2020-04-27 15:48:20",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/6534634.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Земля перемен",
-      "title_en": "Changeland",
+      "title_ru": "Бог меня зафрендил",
+      "title_en": "God Friended Me",
+      "year": 2018,
+      "kinopoisk_id": 1117415,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "8aaa160ee04573290020437fc4c2a466173fd946ef46901be978bbe371486cdf",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-27 15:32:38",
+      "update_date": "2020-04-27 15:32:38",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1117415.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 22,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Елена Прекрасная",
+      "title_en": "",
       "year": 2019,
-      "kinopoisk_id": 1047543,
-      "type": "movie",
+      "kinopoisk_id": 5454322,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "c40c8b2ba45c806985b8ac6929db883ab357e8debca1e97b11c8819a6235fd56",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-02 08:05:01",
+      "added_date": "2020-04-27 14:28:59",
+      "update_date": "2020-04-27 14:28:59",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "HDTV",
+      "poster": "https://www.kinopoisk.ru/images/film_big/5454322.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Когда зовёт сердце",
@@ -893,150 +1049,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Банды Лондона",
-      "title_en": "Gangs of London",
-      "year": 2019,
-      "kinopoisk_id": 1200059,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "f30c877094270bc1809377d8ae880998943d9c2280bab25392925c0de540e5b1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-24 22:26:53",
-      "update_date": "2020-04-24 22:26:53",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1200059.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сделай погромче, Чарли",
-      "title_en": "Turn Up Charlie",
-      "year": 2019,
-      "kinopoisk_id": 1137021,
-      "world_art_id": null,
-      "translator": "РуФилмс",
-      "token": "eb66b790a3bf1df78d86f5fdf55e1ceae1a3d386394e1cb468e702de7fb7a31e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-24 22:11:15",
-      "update_date": "2020-04-24 22:11:15",
-      "block": false,
-      "translator_id": 121,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1137021.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дом цветов",
-      "title_en": "La casa de las flores / The House of Flowers",
-      "year": 2018,
-      "kinopoisk_id": 1155914,
-      "world_art_id": null,
-      "translator": "Gears Media",
-      "token": "7ea02b9e765d1256f730c5edf6eecd34fda0f071f03c34c8b135d9683aa5498e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-24 22:08:28",
-      "update_date": "2020-04-24 22:08:28",
-      "block": false,
-      "translator_id": 28,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1155914.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Диетлэнд",
-      "title_en": "Dietland",
-      "year": 2015,
-      "kinopoisk_id": 1118434,
-      "world_art_id": null,
-      "translator": "KANSAI",
-      "token": "60b94bfbe5d55b96a9a133e7a0afebf08fab7240f88d0ec359b9477ac675a091",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-24 22:05:40",
-      "update_date": "2020-04-24 22:05:40",
-      "block": false,
-      "translator_id": 40,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1118434.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

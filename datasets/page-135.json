@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title_ru": "Бета тест",
+      "title_en": "The Beta Test",
+      "year": 2021,
+      "kinopoisk_id": 1347748,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-06 10:40:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Один выстрел",
+      "title_en": "One Shot",
+      "year": 2021,
+      "kinopoisk_id": 4390372,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-06 10:39:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Минакши Сундарешвар",
+      "title_en": "Meenakshi Sundareshwar",
+      "year": 2021,
+      "kinopoisk_id": 2000726,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-06 10:37:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Лантернс Лейн",
+      "title_en": "Lantern's Lane",
+      "year": 2021,
+      "kinopoisk_id": 1359396,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-06 10:35:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Доктор",
+      "title_en": "Doctor",
+      "year": 2021,
+      "kinopoisk_id": 1330159,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-06 10:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Рождественские воры",
+      "title_en": "Christmas Thieves",
+      "year": 2021,
+      "kinopoisk_id": 2000289,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-06 10:33:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Правосудие Банни Кинг",
       "title_en": "The Justice of Bunny King",
       "year": 2021,
@@ -183,82 +261,126 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Молчание",
-      "title_en": "Hush",
-      "year": 2020,
-      "kinopoisk_id": 1022027,
-      "type": "movie",
+      "title_ru": "Баллада о бомбере",
+      "title_en": "",
+      "year": 2011,
+      "kinopoisk_id": 569961,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "95522557408b2434a0bffaa2d00a2cd99ce9d45bf4305fd9290f66273dccb9a4",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-11-05 14:49:01",
+      "added_date": "2021-04-25 12:30:29",
+      "update_date": "2021-04-25 12:30:43",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/569961.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Держись",
-      "title_en": "Cheer Up",
-      "year": 2020,
-      "kinopoisk_id": 1331637,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-05 14:48:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Контрольный список",
-      "title_en": "Checklist",
-      "year": 2020,
-      "kinopoisk_id": 1389213,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-05 14:46:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Почтальон-пекарь",
-      "title_en": "Bakerz Union",
-      "year": 2020,
-      "kinopoisk_id": 13061978,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-05 14:44:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Финч",
-      "title_en": "Finch",
+      "title_ru": "За все заплачено",
+      "title_en": "",
       "year": 2021,
-      "kinopoisk_id": 823616,
-      "type": "movie",
+      "kinopoisk_id": 4395226,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "82ae2bc662af25f40cbaf2244c09e292cd0413fa721766c0bc73a6bf1722bf6a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-11-05 09:19:02",
+      "added_date": "2021-04-25 12:23:44",
+      "update_date": "2021-04-25 12:29:59",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4395226.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Герда",
+      "title_ru": "Некрасивая",
       "title_en": "",
       "year": 2020,
-      "kinopoisk_id": 1311544,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-05 04:05:01",
-      "block": false,
+      "kinopoisk_id": 1435469,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "fd0da28bc2a27391b3dec3dc7b8ad648531941b4c0b01b74e48eb985b81b2c5b",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-04-24 19:29:50",
+      "update_date": "2021-04-25 12:22:33",
+      "block": false,
       "translator_id": 92,
-      "quality": "WEB-DL"
+      "quality": "SATRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1435469.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Алиса против правил",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 2040147,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "c5edcc3e803689168d1bdf62a243a26c84f38f749d52b39ec1fcbb8179297363",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-04-24 19:30:18",
+      "update_date": "2021-04-25 12:21:56",
+      "block": false,
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/2040147.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Следствие по телу",
@@ -929,153 +1051,6 @@
             9,
             10
           ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Город страха: Нью-Йорк против мафии",
-      "title_en": "Fear City: New York vs the Mafia",
-      "year": 2020,
-      "kinopoisk_id": 1392599,
-      "world_art_id": null,
-      "translator": "IdeaFilm",
-      "token": "81d0748b49b2612d632cab3fd206f62d0b0056c084aa0dcb956787be5ed686c7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-22 12:25:17",
-      "update_date": "2021-04-22 12:39:50",
-      "block": false,
-      "translator_id": 35,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1392599.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Крошечный мир",
-      "title_en": "Tiny World",
-      "year": 2020,
-      "kinopoisk_id": 1404244,
-      "world_art_id": null,
-      "translator": "HDrezka Studio",
-      "token": "a062b7cc01f2e351ddeed78f6d8f581d36ef92ed4e168da3fa07b0e66f8f257e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-21 17:35:29",
-      "update_date": "2021-04-22 12:22:29",
-      "block": false,
-      "translator_id": 33,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1404244.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Нерегулярные части",
-      "title_en": "The Irregulars",
-      "year": 2021,
-      "kinopoisk_id": 1303839,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "5753023702f500e70ac64ca84bb222834564e357b6ac98b0e690679aca3d8a12",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-30 01:22:42",
-      "update_date": "2021-04-21 13:01:33",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1303839.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Легендарный квест",
-      "title_en": "Mythic Quest: Raven's Banquet",
-      "year": 2020,
-      "kinopoisk_id": 1188292,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "47b7a85c3c12bad20db276e5d8e1f3f7ae525c99acb5da57fdc36f75d75c0c8b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-23 08:37:21",
-      "update_date": "2021-04-20 22:13:01",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1188292.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ]
-        },
-        {
-          "season_number": 2
         }
       ]
     }

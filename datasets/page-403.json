@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title_ru": "Бардо",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1359036,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-15 18:43:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ребекка",
+      "title_en": "Rebecca",
+      "year": 2020,
+      "kinopoisk_id": 667045,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-15 08:22:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Гонка на скорость",
+      "title_en": "Last Seen in Idaho",
+      "year": 2018,
+      "kinopoisk_id": 934860,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-15 07:50:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Во всем виновато общество",
+      "title_en": "I Blame Society",
+      "year": 2021,
+      "kinopoisk_id": 1332734,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-14 23:42:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Крошечный дом на Рождество",
+      "title_en": "A Tiny House Christmas",
+      "year": 2021,
+      "kinopoisk_id": 1450393,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-14 23:41:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дом Непобедимых",
+      "title_en": "The House Invictus",
+      "year": 2020,
+      "kinopoisk_id": 1122971,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-14 23:40:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Современная любовь",
       "title_en": "Modern Love",
       "year": 2021,
@@ -183,82 +261,171 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Карта прекрасных маленьких вещей",
-      "title_en": "The Map of Tiny Perfect Things",
-      "year": 2021,
-      "kinopoisk_id": 1346672,
-      "type": "movie",
+      "title_ru": "Очень странные дела",
+      "title_en": "Stranger Things",
+      "year": 2016,
+      "kinopoisk_id": 915196,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "6f6788f7bbad7af1de1a393b3bc22f8eaab0f49d0f19077f9bfbe1ea8b44782b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-14 17:29:01",
+      "added_date": "2020-01-29 14:58:39",
+      "update_date": "2020-01-29 14:58:39",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/915196.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=143128",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Ковбои",
-      "title_en": "Cowboys",
-      "year": 2020,
-      "kinopoisk_id": 1354424,
-      "type": "movie",
+      "title_ru": "Стрела",
+      "title_en": "Arrow",
+      "year": 2012,
+      "kinopoisk_id": 661938,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "13672ff46cc830210346f477f01757c9984c30e9317811ab1ce3a1b279d0dfdf",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-14 17:28:01",
+      "added_date": "2020-01-29 11:09:17",
+      "update_date": "2020-01-29 11:09:17",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/661938.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&trailer_id=142456",
+      "serial_episodes": [
+        {
+          "season_number": 8,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Барб и Звезда едут в Виста дель",
-      "title_en": "Мар Barb and Star Go to Vista Del Mar",
-      "year": 2021,
-      "kinopoisk_id": 1256560,
-      "type": "movie",
+      "title_ru": "Бэнкрофт",
+      "title_en": "Bancroft",
+      "year": 2017,
+      "kinopoisk_id": 1105437,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "40194cb7c0a667df592e72f778526d340185d13c8f79dd3fb41021d943bd0fbc",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-14 17:26:01",
+      "added_date": "2020-01-29 09:04:18",
+      "update_date": "2020-01-29 09:04:18",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1105437.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Последний Вермеер",
-      "title_en": "The Last Vermeer",
-      "year": 2021,
-      "kinopoisk_id": 1121661,
-      "type": "movie",
+      "title_ru": "Вавилон",
+      "title_en": "Babylon",
+      "year": 2019,
+      "kinopoisk_id": 1306615,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "86744aaad47318a53675edb3e7d1fd9c3be8bcd3b9e0d6bee6bc02aa330c76b9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-14 17:25:01",
+      "added_date": "2020-01-28 11:06:06",
+      "update_date": "2020-01-28 11:06:06",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "DVDRip"
-    },
-    {
-      "title_ru": "Ребекка",
-      "title_en": "Rebecca",
-      "year": 2020,
-      "kinopoisk_id": 667045,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-14 14:52:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Голый барабанщик",
-      "title_en": "The Rocker",
-      "year": 2008,
-      "kinopoisk_id": 312375,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-14 14:40:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1306615.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Тредстоун",
@@ -832,248 +999,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рэй Донован",
-      "title_en": "Ray Donovan",
-      "year": 2013,
-      "kinopoisk_id": 667871,
-      "world_art_id": null,
-      "translator": "Amedia",
-      "token": "2ce69dba01e3ef957f3eb17758343790fc45a7e691dc6ded9eafdd6937e8aea7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-24 16:44:23",
-      "update_date": "2020-01-24 16:44:23",
-      "block": false,
-      "translator_id": 7,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/667871.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 7,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Лига Октября",
-      "title_en": "October Faction",
-      "year": 2019,
-      "kinopoisk_id": 1180685,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "ef3a54f7cbc9940579ce11f75d2391a2757be68e147793db2a0c50a9d84da2ab",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-23 21:33:01",
-      "update_date": "2020-01-23 21:33:01",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1180685.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Невеста призрака",
-      "title_en": "Bi an zhi jia / The Ghost Bride",
-      "year": 2020,
-      "kinopoisk_id": 1235018,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "bafeb5c0fd520078a15e4d69c25a7e900a9616106b8e567c678100e5a52ed0a4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-23 19:51:52",
-      "update_date": "2020-01-23 19:51:52",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1235018.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Екатерина Великая",
-      "title_en": "Catherine the Great",
-      "year": 2019,
-      "kinopoisk_id": 1115126,
-      "world_art_id": null,
-      "translator": "Novamedia",
-      "token": "c97c45272b8eea1dbf11ff367ba87292807f4bb9f855a19eaa4d534b6893134a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-23 08:52:53",
-      "update_date": "2020-01-23 08:52:53",
-      "block": false,
-      "translator_id": 51,
-      "quality": "HDTV",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1115126.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

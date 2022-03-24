@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title_ru": "Дом Ани",
+      "title_en": "House of Ani",
+      "year": 2019,
+      "kinopoisk_id": 1169401,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-13 01:39:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ученик часовщика",
+      "title_en": "Hodináruv ucen",
+      "year": 2019,
+      "kinopoisk_id": 1193110,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-13 01:38:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Серый в чёрно-белом, часть 2: Выбор",
+      "title_en": "Gray in White and Black Film Project part 2: The Choice",
+      "year": 2019,
+      "kinopoisk_id": 1361774,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-13 01:37:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Четыре Стены",
+      "title_en": "Todos Cambiamos",
+      "year": 2021,
+      "kinopoisk_id": 1295848,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-13 01:36:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дикий боров Барни Бёрман",
+      "title_en": "Barney Burman's Wild Boar",
+      "year": 2020,
+      "kinopoisk_id": 1447225,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-13 01:34:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Счастливого дня смерти",
+      "title_en": "Happy Death Day",
+      "year": 2017,
+      "kinopoisk_id": 1012421,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-12 19:54:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Энола Холмс",
       "title_en": "Enola Holmes",
       "year": 2020,
@@ -183,82 +261,137 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Встреча в эфире",
-      "title_en": "Encounter in the Air",
+      "title_ru": "Возвращение домой",
+      "title_en": "Homecoming",
+      "year": 2018,
+      "kinopoisk_id": 1047898,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "e6bd483f178a7553d81c5270798948b2ad813a393b14bf5dd7b872bead2df365",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-22 19:09:07",
+      "update_date": "2020-05-22 19:09:07",
+      "block": false,
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1047898.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Возвращение домой",
+      "title_en": "Homecoming",
+      "year": 2018,
+      "kinopoisk_id": 1047898,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "696cf3faa1e0122fe9c0d399de7b5f34396a436d28df5d8d925af0c61600cfd8",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-22 12:45:32",
+      "update_date": "2020-05-22 12:45:32",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1047898.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Кто такая Дани?",
+      "title_en": "Dani Who?",
       "year": 2019,
-      "kinopoisk_id": 11322188,
-      "type": "movie",
+      "kinopoisk_id": 1275470,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "fa6a7de40e8cf0f110957a95a726973835c56b3298f4fb09a4cabd15002418aa",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-12 19:43:02",
+      "added_date": "2020-05-22 08:10:21",
+      "update_date": "2020-05-22 08:10:21",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1275470.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Магия-наоборот",
-      "title_en": "Upside-Down Magic",
-      "year": 2020,
-      "kinopoisk_id": 1299933,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-12 19:43:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Грейхаунд",
-      "title_en": "Greyhound",
-      "year": 2020,
-      "kinopoisk_id": 1055194,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-12 19:42:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "В этом мире я больше не чувствую себя как дома",
-      "title_en": "I Don\\'t Feel at Home in This World Anymore.",
-      "year": 2016,
-      "kinopoisk_id": 978956,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-12 19:41:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Дилетанты",
-      "title_en": "Dilettantes",
-      "year": 2019,
-      "kinopoisk_id": 1353917,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-12 19:41:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Вратарь Галактики",
+      "title_ru": "Северное Сияние. Тайна огненных рун. Фильм девятый",
       "title_en": "",
       "year": 2020,
-      "kinopoisk_id": 841471,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-12 19:40:02",
-      "block": false,
+      "kinopoisk_id": 1367866,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "3bce28882cfd622af6e2503e03f0d024ae8ea894232f8d2d017a3c9966492f47",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-22 02:24:00",
+      "update_date": "2020-05-22 02:24:00",
+      "block": false,
       "translator_id": 92,
-      "quality": "WEBRip"
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1367866.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Катя и Блэк",
@@ -1831,254 +1964,6 @@
           "episodes": [
             1,
             2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Любовники",
-      "title_en": "The Affair",
-      "year": 2014,
-      "kinopoisk_id": 737705,
-      "world_art_id": null,
-      "translator": "Amedia",
-      "token": "ea36b386d3b0cfb6eb1f586f7921258259ab054571f170e8bb4a840cd108b320",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-20 08:30:52",
-      "update_date": "2020-05-20 08:30:52",
-      "block": false,
-      "translator_id": 7,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/737705.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=136056",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Достигаторы",
-      "title_en": "Bajillionaires",
-      "year": 2018,
-      "kinopoisk_id": 1162953,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "e2a8636a04bd8edcc85786fbe6cceac46df197b531f1abe9152c60cd13ce1155",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-20 08:04:47",
-      "update_date": "2020-05-20 08:04:47",
-      "block": false,
-      "translator_id": 126,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1162953.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Посредник (Решала)",
-      "title_en": "Mr Inbetween",
-      "year": 2018,
-      "kinopoisk_id": 1179409,
-      "world_art_id": null,
-      "translator": "Contentica",
-      "token": "aa175e394a0cc9e66dc633f26e56a2755fc3c3f8060923eadee7099e6bdc5c34",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-20 08:02:13",
-      "update_date": "2020-05-20 08:02:13",
-      "block": false,
-      "translator_id": 129,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1179409.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Блеск",
-      "title_en": "GLOW",
-      "year": 2017,
-      "kinopoisk_id": 1037450,
-      "world_art_id": null,
-      "translator": "Кубик в Кубе",
-      "token": "251c1cf0d707ce9d463c88f9aaedeffb6a6d31e686b8ef7f20f4b57a94d4cce2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-19 22:27:18",
-      "update_date": "2020-05-19 22:27:18",
-      "block": false,
-      "translator_id": 86,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1037450.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=142189",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

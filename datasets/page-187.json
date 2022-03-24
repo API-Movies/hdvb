@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title_ru": "Черный ящик",
+      "title_en": "Boîte noire",
+      "year": 2021,
+      "kinopoisk_id": 1368311,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-15 20:43:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Лунные приключения",
+      "title_en": "Moonbound",
+      "year": 2021,
+      "kinopoisk_id": 4440524,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-15 20:41:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Звук и ярость Рика Джеймса",
+      "title_en": "Bitchin': The Sound and Fury of Rick James",
+      "year": 2021,
+      "kinopoisk_id": 4530555,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-15 15:24:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Инфлюенсер",
+      "title_en": "The Influencer",
+      "year": 2021,
+      "kinopoisk_id": 1301071,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-15 15:23:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Танец сверчков",
+      "title_en": "The Crickets Dance",
+      "year": 2021,
+      "kinopoisk_id": 1056301,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-15 15:22:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Школьница вампир",
+      "title_en": "Teenage Vampire",
+      "year": 2021,
+      "kinopoisk_id": 1396312,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-15 15:21:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Хижина Шелби",
       "title_en": "Shelby Shack",
       "year": 2019,
@@ -183,82 +261,186 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Хороший, плохой, коп",
-      "title_en": "Copshop",
-      "year": 2021,
-      "kinopoisk_id": 1404360,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-14 10:53:01",
-      "block": false,
+      "title_ru": "Фальсификация",
+      "title_en": "Faking It",
+      "year": 2014,
+      "kinopoisk_id": 789972,
+      "world_art_id": null,
       "translator": "многоголосый закадровый",
+      "token": "18524f9aeff5dcc4d0d621fb6346acbc6ba2885da90dce3eae2a1667b0245ccf",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-22 22:23:58",
+      "update_date": "2021-01-22 22:25:02",
+      "block": false,
       "translator_id": 89,
-      "quality": "TS"
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/789972.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Странные друзья",
-      "title_en": "Strange Friends",
-      "year": 2021,
-      "kinopoisk_id": 4439869,
-      "type": "movie",
+      "title_ru": "В погоне за тенями",
+      "title_en": "Chasing Shadows",
+      "year": 2014,
+      "kinopoisk_id": 840618,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "97ebc4a8d6b2965d2a18f4934e7cb1267bf70b6ed577c66407d5d342c4314731",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-09-14 10:52:01",
+      "added_date": "2021-01-22 22:21:53",
+      "update_date": "2021-01-22 22:23:29",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/840618.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Гавел",
-      "title_en": "Havel",
-      "year": 2020,
-      "kinopoisk_id": 1282316,
-      "type": "movie",
+      "title_ru": "Ночные кошмары и фантастические видения: По рассказам Стивена Кинга",
+      "title_en": "Nightmares &amp; Dreamscapes: From the Stories of Stephen King",
+      "year": 2006,
+      "kinopoisk_id": 279049,
+      "world_art_id": null,
+      "translator": "Профессиональный (многоголосый)",
+      "token": "abc05aff03a4fa27fca52b1796efcdd040790e6b275d5afefccb0b272d27e5ff",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-09-14 10:51:01",
+      "added_date": "2021-01-22 22:20:46",
+      "update_date": "2021-01-22 22:21:40",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 126,
+      "quality": "DVDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/279049.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Грейс и Салим",
-      "title_en": "Grace &amp; Saleem",
-      "year": 2020,
-      "kinopoisk_id": 10649220,
-      "type": "movie",
+      "title_ru": "Лунный свет",
+      "title_en": "Moonlight",
+      "year": 2007,
+      "kinopoisk_id": 308848,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "c0888769b55d926ca7686683554d42471180d5621dd8b3247e5b87f22928ab76",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-09-14 10:50:01",
+      "added_date": "2021-01-22 22:19:04",
+      "update_date": "2021-01-22 22:20:30",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Первая леди 3: Расплата",
-      "title_en": "First Lady 3",
-      "year": 2021,
-      "kinopoisk_id": 4482815,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-14 10:48:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Настоящий друг",
-      "title_en": "El Amigo Visible",
-      "year": 2021,
-      "kinopoisk_id": 1426823,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-14 10:47:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/308848.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Судьба: Сага клуба Винкс",
@@ -1001,200 +1183,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Возвращайтесь, мистер",
-      "title_en": "Dolawayo ajeossi",
-      "year": 2016,
-      "kinopoisk_id": 973052,
-      "world_art_id": null,
-      "translator": "SoftBox",
-      "token": "d2b7c9115d568a0db71f68048f48ef338e0a9773cfebbe724ec8da4076aecf23",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-21 21:38:55",
-      "update_date": "2021-01-21 22:06:15",
-      "block": false,
-      "translator_id": 106,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/973052.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Самурай и кошка",
-      "title_en": "Neko zamurai",
-      "year": 2013,
-      "kinopoisk_id": 897908,
-      "world_art_id": null,
-      "translator": "одноголосый закадровый",
-      "token": "2ce3fa3ddb9a3497810ab476ca8d27a0622f150c7dc69dd03041519765ab0752",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-21 21:36:25",
-      "update_date": "2021-01-21 21:37:27",
-      "block": false,
-      "translator_id": 93,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/897908.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бэм",
-      "title_en": "BEM",
-      "year": 2019,
-      "kinopoisk_id": 1271349,
-      "world_art_id": null,
-      "translator": "AniLibria",
-      "token": "36c094b713300ff0c5b988b121924ad9332a25c714db62f6b486125ebc788e2f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-21 21:35:08",
-      "update_date": "2021-01-21 21:36:07",
-      "block": false,
-      "translator_id": 10,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1271349.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Грейсленд",
-      "title_en": "Graceland",
-      "year": 2013,
-      "kinopoisk_id": 681050,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "3481ef6dd68b2b7fb7cd408138b22dde16413b3d345b5b1372c8d4cb03f39f3f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-21 21:33:35",
-      "update_date": "2021-01-21 21:34:45",
-      "block": false,
-      "translator_id": 48,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/681050.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

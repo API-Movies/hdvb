@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title_ru": "",
+      "title_en": "North Central",
+      "year": 2022,
+      "kinopoisk_id": 1279664,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-27 01:27:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Можжевельник",
+      "title_en": "Juniper",
+      "year": 2021,
+      "kinopoisk_id": 1338988,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-27 01:26:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Чайка",
+      "title_en": "Seagull",
+      "year": 2019,
+      "kinopoisk_id": 1028865,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-26 15:09:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "В поисках Венеры",
+      "title_en": "Në kërkim të Venerës",
+      "year": 2021,
+      "kinopoisk_id": 4537517,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-26 15:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мараккар: Лев Аравийского моря",
+      "title_en": "Marakkar: Arabikadalinte Simham",
+      "year": 2021,
+      "kinopoisk_id": 1163401,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-26 15:04:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Влюбиться снова",
+      "title_en": "Love Happens Again",
+      "year": 2020,
+      "kinopoisk_id": 4531776,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-26 15:03:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Алчность",
       "title_en": "Hebzucht",
       "year": 2021,
@@ -183,82 +261,170 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Тихая ночь",
-      "title_en": "Silent Night",
+      "title_ru": "Гранд тур",
+      "title_en": "The Grand Tour",
+      "year": 2016,
+      "kinopoisk_id": 982730,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "0d0d8bba55d7a871a2240d47800c155f5d365b2fe554029bcc055dc04d0068ca",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-13 16:35:37",
+      "update_date": "2021-12-17 10:45:25",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/982730.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Сшиватель",
+      "title_en": "Ragdoll",
       "year": 2021,
-      "kinopoisk_id": 1345777,
-      "type": "movie",
+      "kinopoisk_id": 4477150,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "77b2c7729224e7bdee09bb1ef6c154a45adb6a3e63eaf19eb90d900f824add3e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-26 01:04:01",
+      "added_date": "2021-11-12 09:12:40",
+      "update_date": "2021-12-17 10:05:48",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4477150.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Возвращение света: Начало",
-      "title_en": "O retorno da luz - o início",
+      "title_ru": "СуперМакГрубер",
+      "title_en": "MacGruber",
       "year": 2021,
-      "kinopoisk_id": 14690602,
-      "type": "movie",
+      "kinopoisk_id": 1341268,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "afa701acd0129a4ec7aaa88609d868c558a3b6d6a75f7e2aa8d0ad3600748059",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-25 10:05:01",
+      "added_date": "2021-12-17 10:03:31",
+      "update_date": "2021-12-17 10:05:08",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1341268.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Новые квир-видения: Рядом с тобой",
-      "title_en": "New Queer Visions: Right Beside You",
-      "year": 2020,
-      "kinopoisk_id": 1423314,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-01-25 10:04:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Нью-Провиденс",
-      "title_en": "New Providence",
+      "title_ru": "Стойкость",
+      "title_en": "Swagger",
       "year": 2021,
-      "kinopoisk_id": 1358853,
-      "type": "movie",
+      "kinopoisk_id": 1219277,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "278b2c69f9d4fc42188080d178defbc5e12fb4df59135c6611e89bd89c8675dd",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-25 10:02:02",
+      "added_date": "2021-12-03 21:30:01",
+      "update_date": "2021-12-17 09:04:43",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1219277.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Мои славные китайские селяне",
-      "title_en": "My Good Chinese Countrymen",
-      "year": 2020,
-      "kinopoisk_id": 1132708,
-      "type": "movie",
+      "title_ru": "Психиатр по соседству",
+      "title_en": "The Shrink Next Door",
+      "year": 2021,
+      "kinopoisk_id": 1378349,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "53f36b93427d2658d241f71825a72d766c89eedabdffd51f814e5a6c90d1a204",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-25 10:01:01",
+      "added_date": "2021-11-12 11:55:26",
+      "update_date": "2021-12-17 09:03:47",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Маргарин",
-      "title_en": "Margarine",
-      "year": 2020,
-      "kinopoisk_id": 15249740,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-01-25 10:00:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1378349.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Стилет",
@@ -919,197 +1085,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ханна",
-      "title_en": "Hanna",
-      "year": 2019,
-      "kinopoisk_id": 1112559,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "167bf24f080524067bd51dcfeee68c8f7e6b5df2eb78cdbc7dccbfc103d9a9d5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-21 19:40:46",
-      "update_date": "2021-12-14 12:50:32",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1112559.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сисси",
-      "title_en": "Sisi",
-      "year": 2021,
-      "kinopoisk_id": 1421698,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "4609756fea71ce6f732d20fbd38c0c131f7de0ccc82cadbf524c3869682dddb6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-11-30 12:28:00",
-      "update_date": "2021-12-14 12:02:30",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZTZkYmI0NjMtNWE0MS00YzJmLTk0YmUtMzEyNTQyOWRkNzI0XkEyXkFqcGdeQXVyNDgzNDg1MQ@@._V1_FMjpg_UX1000_.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Добро пожаловать на Землю",
-      "title_en": "Welcome to Earth",
-      "year": 2021,
-      "kinopoisk_id": 4293562,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "d6c126950c2593fd571f9e4f15d9ca868c556ae68f02455f84fb0c2c4d548872",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-12-08 18:09:27",
-      "update_date": "2021-12-14 10:29:19",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/c8238789-df6a-4a40-93fb-fa540f7d177d/1920x",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Наследники",
-      "title_en": "Succession",
-      "year": 2018,
-      "kinopoisk_id": 986788,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "0076a3bf9cd842d2bf4a4adc629e5c50b1240552ab7caf48e84e07b70c0cf486",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-10-19 06:58:41",
-      "update_date": "2021-12-14 09:44:53",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/986788.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сисси",
-      "title_en": "Sisi",
-      "year": 2021,
-      "kinopoisk_id": 1421698,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "442b4b52813753cd959679852ce86705fab50f5bbab3d51795951bc02ef4b404",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-11-30 09:08:58",
-      "update_date": "2021-12-14 09:44:36",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZTZkYmI0NjMtNWE0MS00YzJmLTk0YmUtMzEyNTQyOWRkNzI0XkEyXkFqcGdeQXVyNDgzNDg1MQ@@._V1_FMjpg_UX1000_.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]
