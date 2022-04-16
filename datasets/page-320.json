@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "title_ru": "Чёрный ящик",
+      "title_en": "Black Box",
+      "year": 2021,
+      "kinopoisk_id": 1109414,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-26 12:31:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Хищники",
+      "title_en": "Endangered Species",
+      "year": 2021,
+      "kinopoisk_id": 4419513,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-26 12:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Спирит Непокорный",
+      "title_en": "Spirit Untamed",
+      "year": 2021,
+      "kinopoisk_id": 1322683,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-26 12:28:01",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Женщины из блока Джей",
+      "title_en": "The Women in Block J",
+      "year": 2019,
+      "kinopoisk_id": 1277945,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-25 17:33:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Если б я была зимой",
+      "title_en": "Si yo fuera el invierno mismo",
+      "year": 2019,
+      "kinopoisk_id": 1284840,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-25 17:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Псы умирают в одиночку",
+      "title_en": "Psi umiru sami",
+      "year": 2019,
+      "kinopoisk_id": 1108758,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-25 17:31:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Играйте на флейте",
+      "title_en": "Play the Flute",
+      "year": 2019,
+      "kinopoisk_id": 1018932,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-25 17:30:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Планета 5000",
+      "title_en": "Planeta 5000",
+      "year": 2019,
+      "kinopoisk_id": 1156922,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-25 17:29:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Филофобия",
+      "title_en": "Philophobia",
+      "year": 2019,
+      "kinopoisk_id": 1082512,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-25 17:28:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Собака-Бомба",
       "title_en": "Perro Bomba",
       "year": 2019,
@@ -144,121 +261,164 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Редвилль",
-      "title_en": "Redville",
+      "title_ru": "Ночные стражи",
+      "title_en": "Yagyeongkkun ilji",
+      "year": 2014,
+      "kinopoisk_id": 841584,
+      "world_art_id": null,
+      "translator": "Sound-Group",
+      "token": "3188dbb2e787fd5ef6a3f2d26d2be96a0c120cc490e6e7b9bca1844c83c695f1",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-12 05:06:04",
+      "update_date": "2020-08-12 05:07:58",
+      "block": false,
+      "translator_id": 169,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/841584.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Голубка",
+      "title_en": "Guvercin",
+      "year": 2019,
+      "kinopoisk_id": 1316421,
+      "world_art_id": null,
+      "translator": "одноголосый закадровый",
+      "token": "70572d8f00ae397b571b309aa9a5ab54145491fc69778c1149d7f31b9530cf08",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-12 05:00:41",
+      "update_date": "2020-08-12 05:04:38",
+      "block": false,
+      "translator_id": 93,
+      "quality": "WEBRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1316421.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Скажи, что ты видела",
+      "title_en": "Bondaero malhara",
       "year": 2020,
-      "kinopoisk_id": 1350014,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-25 10:17:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Взлёты и падения",
-      "title_en": "Peaks and Valleys",
-      "year": 2019,
-      "kinopoisk_id": 995795,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-25 10:16:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Счастливчик",
-      "title_en": "Lucky One",
-      "year": 2019,
-      "kinopoisk_id": 1247615,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-25 10:15:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Музыка во мне",
-      "title_en": "La Musiquita por Dentro",
-      "year": 2019,
-      "kinopoisk_id": 1224282,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-25 10:14:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Турист",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 4446084,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-25 09:17:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Свободное кино. Фестиваль короткометражных фильмов",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 4402391,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-25 09:16:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мамочкина смертельная аферистка",
-      "title_en": "Mommy's Deadly Con Artist",
-      "year": 2021,
-      "kinopoisk_id": 4440296,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-24 23:12:02",
-      "block": false,
+      "kinopoisk_id": 1283732,
+      "world_art_id": null,
       "translator": "двухголосый закадровый",
+      "token": "e920e5eb8034f62950a21d41c34bcad4833d74469f162f090a0eac47bca8bd26",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-08-12 04:34:28",
+      "update_date": "2020-08-12 04:58:48",
+      "block": false,
       "translator_id": 81,
-      "quality": "WEB-DL"
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1283732.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Молочные реки",
-      "title_en": "Milkwater",
-      "year": 2021,
-      "kinopoisk_id": 1208196,
-      "type": "movie",
+      "title_ru": "Мне плохо",
+      "title_en": "I Feel Bad",
+      "year": 2018,
+      "kinopoisk_id": 1137263,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "e13283e4ed4a13e125a0d5b551079469887a449fc309332c4356566bbe61fd1c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-24 23:11:01",
+      "added_date": "2020-08-12 03:44:06",
+      "update_date": "2020-08-12 04:04:24",
       "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Призрачный воин",
-      "title_en": "Ghost Warrior",
-      "year": 2021,
-      "kinopoisk_id": 1315221,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-24 23:10:01",
-      "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1137263.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Ленор: Маленькая мертвая девочка",
@@ -993,202 +1153,6 @@
       "translator_id": 115,
       "quality": "WEB-DL",
       "poster": "https://st.kp.yandex.net/images/film_big/1113118.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сеньор Авила",
-      "title_en": "Sr. Ávila",
-      "year": 2013,
-      "kinopoisk_id": 714072,
-      "world_art_id": null,
-      "translator": "ViruseProject",
-      "token": "1c52e08ffec2d24667efe9cae9a2a6a85113c5d17f84f606224d71d249c5596b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-10 16:10:57",
-      "update_date": "2020-08-10 16:11:50",
-      "block": false,
-      "translator_id": 72,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/714072.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Старгёрл",
-      "title_en": "Stargirl",
-      "year": 2020,
-      "kinopoisk_id": 1178279,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "d41fa118f0db1bd46934ba1599f69209b420c16fa1a092c06da35032da0c3a1b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-27 21:43:43",
-      "update_date": "2020-08-10 16:01:02",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1178279.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Перри Мэйсон",
-      "title_en": "Perry Mason",
-      "year": 2020,
-      "kinopoisk_id": 633825,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "79c4c05d7eed344a79a5546d77dfeba54ca332a6683bb3c40c0477c6007dc5e9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-27 21:42:11",
-      "update_date": "2020-08-10 16:00:14",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/633825.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Невиданный",
-      "title_en": "Undekhi",
-      "year": 2020,
-      "kinopoisk_id": 1385392,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "b3237c434c25a1aa81aed2dac88e961093aaa13fa745b176cae4795f9b63eae8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-01 12:20:43",
-      "update_date": "2020-08-10 15:56:30",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1385392.jpg",
       "trailer": "",
       "serial_episodes": [
         {

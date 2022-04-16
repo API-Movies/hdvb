@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "title_ru": "Техасец Ред",
+      "title_en": "Texas Red",
+      "year": 2021,
+      "kinopoisk_id": 1273527,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 19:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "На распутье",
+      "title_en": "Conflicted",
+      "year": 2021,
+      "kinopoisk_id": 13899082,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 18:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Портрет",
+      "title_en": "I, Portrait",
+      "year": 2021,
+      "kinopoisk_id": 1066095,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 18:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Стилист",
+      "title_en": "The Stylist",
+      "year": 2020,
+      "kinopoisk_id": 1311458,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 18:56:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Роман на поле: Двойная игра",
+      "title_en": "Romance in the Outfield: Double Play",
+      "year": 2020,
+      "kinopoisk_id": 1274892,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 18:55:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "День сменяет ночь",
+      "title_en": "Night Into Day",
+      "year": 2020,
+      "kinopoisk_id": 1195137,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 18:54:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Танец под луной",
+      "title_en": "Moondance",
+      "year": 2020,
+      "kinopoisk_id": 1200939,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 18:53:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Земля",
+      "title_en": "Land",
+      "year": 2021,
+      "kinopoisk_id": 1261947,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 18:52:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дара из Ясеноваца",
+      "title_en": "Dara iz Jasenovca",
+      "year": 2020,
+      "kinopoisk_id": 1282662,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 18:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Поездка в Америку 2",
       "title_en": "Coming 2 America",
       "year": 2021,
@@ -144,121 +261,147 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Пустой человек",
-      "title_en": "The Empty Man",
+      "title_ru": "В лучшем мире",
+      "title_en": "The Good Place",
+      "year": 2016,
+      "kinopoisk_id": 977493,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "dbaec3a8164e4306c58fac049ce199a26d539f4207adda0ddb561a6d98919032",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-01-31 20:50:03",
+      "update_date": "2020-01-31 20:50:03",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/977493.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135061",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Диаблеро",
+      "title_en": "Diablero",
+      "year": 2018,
+      "kinopoisk_id": 1148801,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "bdf2285d54c4c731e6989c284cffcf71835453aae2494515cbf0168a68026084",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-01-31 18:16:46",
+      "update_date": "2020-01-31 18:16:46",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1148801.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Чёрная луна",
+      "title_en": "Luna Nera",
       "year": 2020,
-      "kinopoisk_id": 992507,
-      "type": "movie",
+      "kinopoisk_id": 1274538,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "f0d15201ea4763961d58d27ca6aea3134344d58e3772c6195bcc850e1bb89a2a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-04 23:54:02",
+      "added_date": "2020-01-31 17:18:53",
+      "update_date": "2020-01-31 17:18:53",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1274538.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Проект Power",
-      "title_en": "Project Power",
-      "year": 2020,
-      "kinopoisk_id": 1190299,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-04 23:53:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Леди Бёрд",
-      "title_en": "Lady Bird",
-      "year": 2017,
-      "kinopoisk_id": 958293,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-04 23:52:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Губка Боб в бегах",
-      "title_en": "The SpongeBob Movie: Sponge on the Run",
-      "year": 2020,
-      "kinopoisk_id": 944043,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-04 23:51:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Первая любовь",
-      "title_en": "Tinh dau tho ngay",
+      "title_ru": "Зло",
+      "title_en": "Evil",
       "year": 2019,
-      "kinopoisk_id": 1260933,
-      "type": "movie",
+      "kinopoisk_id": 1200706,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "66efc37f7f5629e76276d728bd59500d653a621ea45dd5082e32a1b6cbe0a3c7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-04 15:32:02",
+      "added_date": "2020-01-31 16:49:36",
+      "update_date": "2020-01-31 16:49:36",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Заклинание",
-      "title_en": "Spell",
-      "year": 2020,
-      "kinopoisk_id": 1291301,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-04 15:10:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Страна чудес Вилли",
-      "title_en": "Willy's Wonderland",
-      "year": 2021,
-      "kinopoisk_id": 1319046,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-04 14:48:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ночь королей",
-      "title_en": "Night of the Kings",
-      "year": 2020,
-      "kinopoisk_id": 81327781,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-04 14:46:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Роковой визит",
-      "title_en": "Sing ho sai mau saai ngon",
-      "year": 2019,
-      "kinopoisk_id": 1059010,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-04 14:43:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1200706.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Ученица Мессинга",
@@ -865,144 +1008,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бесстыдники",
-      "title_en": "Shameless",
-      "year": 2011,
-      "kinopoisk_id": 571335,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "9983f836b8cc397faf54202fdc43dc41c24449ffe59e2a4cf46c3a1815ec14c0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-27 17:14:02",
-      "update_date": "2020-01-27 17:14:02",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/571335.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 10,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Невеста призрака",
-      "title_en": "Bi an zhi jia / The Ghost Bride",
-      "year": 2020,
-      "kinopoisk_id": 1235018,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "f5ceede537a08780db30979e05d69bfbdab33ec0eb9f2c6c79aa71ee2b1e6b32",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-27 11:38:06",
-      "update_date": "2020-01-27 11:38:06",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1235018.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Суд над Кристиной Килер / Дело Кристин Килер",
-      "title_en": "The Trial of Christine Keeler",
-      "year": 2019,
-      "kinopoisk_id": 1190060,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "a31ae1b69ae367e9e938806c7ef0739bb1c34c68a3a7cbdbd958f388a39ca558",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-27 10:03:48",
-      "update_date": "2020-01-27 10:03:48",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1190060.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Лига Октября",
-      "title_en": "October Faction",
-      "year": 2019,
-      "kinopoisk_id": 1180685,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "084da0221f89a53b1ffaeb84d3bd99f104431156c3135e8540c8e5f43a083e52",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-26 10:00:58",
-      "update_date": "2020-01-26 10:00:58",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1180685.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

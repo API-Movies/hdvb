@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "title_ru": "Разделитель",
+      "title_en": "The Divide",
+      "year": 2011,
+      "kinopoisk_id": null,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "1970-01-01 03:00:00",
+      "block": false,
+      "translator": "",
+      "translator_id": 0,
+      "quality": ""
+    },
+    {
+      "title_ru": "Заступник",
+      "title_en": "The Marksman",
+      "year": 2020,
+      "kinopoisk_id": 1152767,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-18 21:39:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Жертва",
+      "title_en": "Sacrifice",
+      "year": 2020,
+      "kinopoisk_id": 1246210,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-18 21:38:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Разделитель",
+      "title_en": "The Divide",
+      "year": 2011,
+      "kinopoisk_id": null,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "1970-01-01 03:00:00",
+      "block": false,
+      "translator": "",
+      "translator_id": 0,
+      "quality": ""
+    },
+    {
+      "title_ru": "Прошлой ночью в Сохо",
+      "title_en": "Last Night in Soho",
+      "year": 2021,
+      "kinopoisk_id": 1236583,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-18 20:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Удары",
+      "title_en": "Bruised",
+      "year": 2020,
+      "kinopoisk_id": 1192890,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-18 20:31:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ряд 19",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1330041,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-18 18:29:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Параллельные матери",
+      "title_en": "Madres paralelas",
+      "year": 2021,
+      "kinopoisk_id": 1390810,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-18 18:28:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Опасное соседство",
+      "title_en": "Terror in the Country",
+      "year": 2021,
+      "kinopoisk_id": 4500712,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-18 18:27:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Вместе мы сила",
       "title_en": "Divided We Fall",
       "year": 2021,
@@ -144,121 +261,206 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Три приключения Брук",
-      "title_en": "Three Adventures of Brooke",
+      "title_ru": "Шериф",
+      "title_en": "Cherif",
+      "year": 2013,
+      "kinopoisk_id": 806683,
+      "world_art_id": null,
+      "translator": "ViruseProject",
+      "token": "d8e328c6257a8a78a211a058b2858fa287fcdb4d03d687454a0d84f6fc75f848",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-31 09:24:01",
+      "update_date": "2021-03-31 09:25:27",
+      "block": false,
+      "translator_id": 72,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/806683.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Незабытые",
+      "title_en": "Unforgotten",
+      "year": 2015,
+      "kinopoisk_id": 933284,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "38ff1c4d6b6ca85596065bfc163080ffc7837aa179e60496bd327e23ac1edeb2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-24 08:39:02",
+      "update_date": "2021-03-31 08:14:09",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/933284.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Багровые реки",
+      "title_en": "Les rivières pourpres",
       "year": 2018,
-      "kinopoisk_id": 1178490,
-      "type": "movie",
+      "kinopoisk_id": 1304172,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "fbc588989119d59d8f7586286241ac5efbfc8058a260c7bb7e52f0a5efa98fcf",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-11-18 02:02:01",
+      "added_date": "2021-03-09 07:59:34",
+      "update_date": "2021-03-31 08:09:49",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1304172.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Человек-полотенце",
-      "title_en": "The Towel Man",
-      "year": 2021,
-      "kinopoisk_id": 14112996,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-18 02:01:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Обыкновенная страсть",
-      "title_en": "Passion simple",
+      "title_ru": "Напряжение",
+      "title_en": "Hard",
       "year": 2020,
-      "kinopoisk_id": 1245445,
-      "type": "movie",
+      "kinopoisk_id": 1368191,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "afa50848d3ee79005b03523742b51986394382f0e5e0896751410a83a65dda6c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-11-18 01:59:01",
+      "added_date": "2020-06-23 12:34:06",
+      "update_date": "2021-03-30 20:22:33",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ноева акула",
-      "title_en": "Noah's Shark",
-      "year": 2021,
-      "kinopoisk_id": 4645855,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-18 01:56:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Государство комаров",
-      "title_en": "Mosquito State",
-      "year": 2020,
-      "kinopoisk_id": 1395424,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-18 01:55:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Здесь была Мэдисон Бэйкер",
-      "title_en": "Madison Baker Was Here",
-      "year": 2021,
-      "kinopoisk_id": 10221732,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-18 01:54:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "На грани",
-      "title_en": "Borderline",
-      "year": 2021,
-      "kinopoisk_id": 1067270,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-18 01:52:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "До конца",
-      "title_en": "Até o Fim",
-      "year": 2020,
-      "kinopoisk_id": 11721070,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-18 01:51:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Анкоридж",
-      "title_en": "Anchorage",
-      "year": 2021,
-      "kinopoisk_id": 1407546,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-18 01:49:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1368191.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Выжить После",
@@ -1418,179 +1620,6 @@
             1,
             2,
             3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Нерегулярные части",
-      "title_en": "The Irregulars",
-      "year": 2021,
-      "kinopoisk_id": 1303839,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "8374152dad7e86d88dda2c58aa3f6b58a8750f60d193d0db170f76b2f2b83bb9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-26 15:50:15",
-      "update_date": "2021-03-29 18:39:45",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1303839.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дылды",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1272366,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "cf77cacbfd3a72de89fcbbedb4f65e319250e8bbe59e2462a1630cdbb8b6cf21",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-31 22:02:41",
-      "update_date": "2021-03-29 17:55:16",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1272366.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 21,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 21,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Тот, кто убивает — Узник тьмы",
-      "title_en": "Den som dræber - Fanget af mørket",
-      "year": 2019,
-      "kinopoisk_id": 1221677,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "22a8a514e5b863b27dc1613d9bf6004886c92e6df7c8d9955bc344c8120c9d4f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-28 15:48:23",
-      "update_date": "2021-03-29 17:47:47",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1221677.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Libertad",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1346201,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "b49ee1f369360f20a727f5f5d7b7d870f37e571731dad634297922a605377174",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-26 20:40:15",
-      "update_date": "2021-03-29 16:56:06",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1346201.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
           ]
         }
       ]
