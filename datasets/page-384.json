@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Открытая ложь, сокрытые секреты часть 4",
+      "title_en": "The lies we tell but the secrets we keep part 4",
+      "year": 2019,
+      "kinopoisk_id": 1389228,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-27 00:12:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Опра с Меган и Гарри: Специальный выпуск CBS Primetime",
+      "title_en": "Oprah with Meghan and Harry: A CBS Primetime Special",
+      "year": 2021,
+      "kinopoisk_id": 14117288,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-27 00:11:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дети Судьбы",
+      "title_en": "Figli del Destino",
+      "year": 2019,
+      "kinopoisk_id": 1228610,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-27 00:09:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Атака на Дунси",
       "title_en": "Dongxi Assault",
       "year": 2020,
@@ -222,43 +261,42 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Кладбище потерянных душ",
-      "title_en": "O Cemitério das Almas Perdidas",
-      "year": 2020,
-      "kinopoisk_id": 1427032,
-      "type": "movie",
+      "title_ru": "Апачи",
+      "title_en": "Apaches",
+      "year": 2017,
+      "kinopoisk_id": 484465,
+      "world_art_id": null,
+      "translator": "Мобильное телевидение",
+      "token": "dff25dca17c0e98cf2aa32f657a039e6493c346691f8e23a1d4047ebb55bf44e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-26 01:18:01",
+      "added_date": "2020-05-04 23:00:24",
+      "update_date": "2020-05-04 23:00:24",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "",
-      "title_en": "Zavera",
-      "year": 2019,
-      "kinopoisk_id": 1200362,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-26 01:17:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Семейство Лэндри: Руби",
-      "title_en": "V.C. Andrews' Ruby",
-      "year": 2021,
-      "kinopoisk_id": 1347609,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-26 01:14:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 133,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/484465.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Двойной блюз",
@@ -1296,42 +1334,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Загрузка",
-      "title_en": "Upload",
-      "year": 2020,
-      "kinopoisk_id": 1127489,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "bdc6fa46f17a82defd53bedf620a76ecb568309a27c420d2b2fb4d0c26574a0e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-01 15:33:39",
-      "update_date": "2020-05-01 15:33:39",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1127489.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

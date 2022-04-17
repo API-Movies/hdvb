@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Связь",
+      "title_en": "Coherence",
+      "year": 2012,
+      "kinopoisk_id": 760829,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-13 15:40:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Дунай",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4539790,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-13 14:35:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Прекрасное: Истории с космической станции",
+      "title_en": "The Wonderful: Stories from the Space Station",
+      "year": 2021,
+      "kinopoisk_id": 4489083,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-13 01:25:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Альпинист",
       "title_en": "The Alpinist",
       "year": 2021,
@@ -222,43 +261,36 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Диванный король",
-      "title_en": "Sofa King",
-      "year": 2020,
-      "kinopoisk_id": 1372633,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-12 17:06:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Лето у бассейна",
-      "title_en": "My Summer in the Chair",
-      "year": 2020,
-      "kinopoisk_id": 4370412,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-12 17:05:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Девственники",
-      "title_en": "Cheri boizu",
+      "title_ru": "Би: Начало",
+      "title_en": "B: The Beginning",
       "year": 2018,
-      "kinopoisk_id": 1086562,
-      "type": "movie",
+      "kinopoisk_id": 1107878,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "480322ca415f7491871dca01caaabbdfccdd7d7c37687dbc9be897e31394980d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-11-12 17:04:01",
+      "added_date": "2021-03-18 14:22:36",
+      "update_date": "2021-03-18 14:23:43",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1107878.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Водоворот",
@@ -1165,36 +1197,6 @@
       "translator_id": 92,
       "quality": "WEB-DL",
       "poster": "https://www.kinopoisk.ru/images/film_big/2000005.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Суррогатная мать",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1402929,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "15fe13faddcc5137e79235a9e77106a21880fbc329ac110539e0082e672e6915",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-14 19:49:11",
-      "update_date": "2021-03-14 19:51:10",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1402929.jpg",
       "trailer": "",
       "serial_episodes": [
         {

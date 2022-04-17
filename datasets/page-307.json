@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Вера",
+      "title_en": "Permanecer",
+      "year": 2019,
+      "kinopoisk_id": 12445268,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-08 22:09:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Моя семья 2",
+      "title_en": "Me Familia 2",
+      "year": 2021,
+      "kinopoisk_id": 14546496,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-08 22:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Жизнь на мели",
+      "title_en": "Life on the Rocks",
+      "year": 2021,
+      "kinopoisk_id": 1310012,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-08 21:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Нечто большее",
       "title_en": "Far More",
       "year": 2021,
@@ -222,43 +261,46 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Нездоровый",
-      "title_en": "The Unhealer",
-      "year": 2021,
-      "kinopoisk_id": 438684,
-      "type": "movie",
+      "title_ru": "Жвачка",
+      "title_en": "Pungseonkkeom",
+      "year": 2015,
+      "kinopoisk_id": 952175,
+      "world_art_id": null,
+      "translator": "SoftBox",
+      "token": "551f0a91fa8a5800926c39c17eec2a6d7cc6621279c0f99b9eec06651ce6c66f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-07 00:37:01",
+      "added_date": "2020-08-27 20:24:52",
+      "update_date": "2020-08-27 20:25:38",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Зои",
-      "title_en": "Zooey",
-      "year": 2021,
-      "kinopoisk_id": 1160738,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-07 00:36:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Гамлет/Горацио",
-      "title_en": "Hamlet/Horatio",
-      "year": 2021,
-      "kinopoisk_id": 1073518,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-07 00:35:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 106,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/952175.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Лицом к лицу",
@@ -1829,36 +1871,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Фармацевт",
-      "title_en": "The Pharmacist",
-      "year": 2020,
-      "kinopoisk_id": 1341575,
-      "world_art_id": null,
-      "translator": "WestFilm",
-      "token": "b37b64da7312fc035e46330991f6f3cc9cebfa63316468e7505b519d599fabaa",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-26 03:12:08",
-      "update_date": "2020-08-26 03:13:15",
-      "block": false,
-      "translator_id": 167,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1341575.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Другая правда",
+      "title_en": "Curveball",
+      "year": 2020,
+      "kinopoisk_id": 1253639,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-21 12:42:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Сестрёнка",
+      "title_en": "Schwesterlein",
+      "year": 2020,
+      "kinopoisk_id": 1253443,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-21 12:41:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "",
+      "title_en": "Matares",
+      "year": 2020,
+      "kinopoisk_id": 1358966,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-21 12:40:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Отравленная кровь",
       "title_en": "Tainted Blood",
       "year": 2020,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "На Земле",
-      "title_en": "In the Earth",
-      "year": 2021,
-      "kinopoisk_id": 1446828,
-      "type": "movie",
+      "title_ru": "Кандис Ренуар",
+      "title_en": "Candice Renoir",
+      "year": 2013,
+      "kinopoisk_id": 796030,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "d1b75e1ac3588ca4a718d22a37458a57c824d9cba2a33bd7b36c4a11311ff3fa",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-20 19:54:01",
+      "added_date": "2020-06-21 15:39:44",
+      "update_date": "2020-06-21 15:39:44",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Кто здесь босс",
-      "title_en": "Who's the Boss",
-      "year": 2020,
-      "kinopoisk_id": 1445372,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-20 19:53:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "День, когда я умерла",
-      "title_en": "Naega jukdeon nal",
-      "year": 2020,
-      "kinopoisk_id": 1274282,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-20 19:52:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/796030.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 8,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Карточный домик",
@@ -1547,36 +1583,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Диверсант",
-      "title_en": "",
-      "year": 2004,
-      "kinopoisk_id": 89607,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "9be88d936e5a4ee0d86cca3f4b902f9e9771d4f10c4bf0646f6d8961213ca23c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-19 19:27:10",
-      "update_date": "2020-06-19 19:27:10",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "https://www.kinopoisk.ru/images/film_big/89607.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

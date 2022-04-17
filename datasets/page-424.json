@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Выездка",
+      "title_en": "Dressage",
+      "year": 2018,
+      "kinopoisk_id": 1131484,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-19 14:55:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дельта",
+      "title_en": "Delt",
+      "year": 2020,
+      "kinopoisk_id": 1180622,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-19 14:54:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Никоим образом",
+      "title_en": "By No Means",
+      "year": 2020,
+      "kinopoisk_id": 1309568,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-19 14:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Скуби-Ду! Меч и Скуб",
       "title_en": "Scooby-Doo! The Sword and the Scoob",
       "year": 2021,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Энди",
-      "title_en": "Andy",
-      "year": 2019,
-      "kinopoisk_id": 1189973,
-      "type": "movie",
+      "title_ru": "Импульс",
+      "title_en": "Impulse",
+      "year": 2018,
+      "kinopoisk_id": 1046497,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "ea9cb38508b996c02a45d2bfc293db3f9dad83c5832b7d5eb8a7cd6d8aa391cb",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-19 00:16:01",
+      "added_date": "2019-10-20 09:36:36",
+      "update_date": "2019-10-20 09:36:36",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Посылка",
-      "title_en": "Postal",
-      "year": 2019,
-      "kinopoisk_id": 1200855,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-18 20:22:02",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Красный кошмар",
-      "title_en": "The Red Nightmare",
-      "year": 2021,
-      "kinopoisk_id": 13978498,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-18 15:44:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1046497.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=148295",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Жизнь с самим собой",
@@ -1038,109 +1074,6 @@
             19,
             20,
             21
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чип и Дейл спешат на помощь",
-      "title_en": "Chip \\'n\\' Dale Rescue Rangers",
-      "year": 1989,
-      "kinopoisk_id": 95231,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "f8e5129530e1bd11296e4bba4626fe20b369d69bd25b6692d3dd7d90a2023bef",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-12 12:32:31",
-      "update_date": "2019-10-12 12:32:31",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/95231.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=4208",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 47,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
           ]
         }
       ]

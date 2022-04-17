@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Трюк",
+      "title_en": "The Trick",
+      "year": 2021,
+      "kinopoisk_id": 4501341,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-29 10:24:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Проснись и пой, Бенедикт Стоун",
+      "title_en": "Rise and Shine, Benedict Stone",
+      "year": 2021,
+      "kinopoisk_id": 4510903,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-29 10:22:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Паранормальное явление: Ближайшая родня",
+      "title_en": "Paranormal Activity: Next of Kin",
+      "year": 2021,
+      "kinopoisk_id": 1287543,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-10-28 20:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Локильо: Другой я",
       "title_en": "Lokillo en: Mi Otra Yo",
       "year": 2021,
@@ -222,43 +261,40 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "G. I. Joe. Бросок кобры: Снейк Айз",
-      "title_en": "Snake Eyes",
-      "year": 2021,
-      "kinopoisk_id": 1154837,
-      "type": "movie",
+      "title_ru": "Изумрудный город",
+      "title_en": "Emerald City",
+      "year": 2016,
+      "kinopoisk_id": 840106,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "b2419acba4c71430709531b53c20ab6c1c1b4855de2db45f8851686c96990fe1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-27 22:33:01",
+      "added_date": "2021-02-19 22:00:37",
+      "update_date": "2021-02-19 22:01:36",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Отчаянные аферистки",
-      "title_en": "Queenpins",
-      "year": 2021,
-      "kinopoisk_id": 1263450,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-27 22:32:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Мистериум. Журнал 64",
-      "title_en": "Journal 64",
-      "year": 2018,
-      "kinopoisk_id": 1045598,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-27 22:31:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/840106.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Граница",
@@ -1244,37 +1280,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Это грех",
-      "title_en": "It\\'s a Sin",
-      "year": 2021,
-      "kinopoisk_id": 1311396,
-      "world_art_id": null,
-      "translator": "Amedia",
-      "token": "bd71a42e5029ec81c036c19ba4216261084fa34b1f8b11fd91ad43c221acb8aa",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-18 08:54:49",
-      "update_date": "2021-02-18 08:57:52",
-      "block": false,
-      "translator_id": 7,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1311396.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
           ]
         }
       ]

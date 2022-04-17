@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Третий человек",
+      "title_en": "The Third Man",
+      "year": 1949,
+      "kinopoisk_id": 359,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-05 14:49:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "12 разгневанных мужчин",
+      "title_en": "12 Angry Men",
+      "year": 1956,
+      "kinopoisk_id": 346,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-05 14:48:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Разборки под прикрытием",
+      "title_en": "Undercover Consequences",
+      "year": 2021,
+      "kinopoisk_id": 1392846,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-05 11:30:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Новая пора",
       "title_en": "The New Frontier",
       "year": 2021,
@@ -222,43 +261,251 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Ночь в долине",
-      "title_en": "Vale Night",
-      "year": 2022,
-      "kinopoisk_id": 4784313,
-      "type": "movie",
+      "title_ru": "Острые козырьки",
+      "title_en": "Peaky Blinders",
+      "year": 2013,
+      "kinopoisk_id": 716587,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "e1e42a942c19c02dd9e70a19dbdd66b764d4b10ab45107f11f7f5271b0424f65",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-04-04 11:12:02",
+      "added_date": "2019-11-15 16:02:37",
+      "update_date": "2022-04-06 12:00:22",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/716587.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=134056",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Тест",
-      "title_en": "Le test",
+      "title_ru": "Развод по-английски",
+      "title_en": "The Split",
+      "year": 2018,
+      "kinopoisk_id": 1121791,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "69f9dc42b4fe5eca395490f184246618630b169dd880cd12a30d2beb5800f3c2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-09-07 20:39:27",
+      "update_date": "2022-04-06 09:29:42",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1121791.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Семейка Крудс: Семейное древо",
+      "title_en": "The Croods: Family Tree",
       "year": 2021,
-      "kinopoisk_id": 4512151,
-      "type": "movie",
+      "kinopoisk_id": 15341442,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "b71698dd2ba5f2d0e00de49fcc45927d332cf51270654d94d39c5d376e39a59e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-04-04 11:10:01",
+      "added_date": "2021-09-24 07:59:21",
+      "update_date": "2022-04-06 09:26:41",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/15341442.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Бесконечная буря",
-      "title_en": "Infinite Storm",
+      "title_ru": "Часовые",
+      "title_en": "Sentinelles",
       "year": 2022,
-      "kinopoisk_id": 4367421,
-      "type": "movie",
+      "kinopoisk_id": 18549982,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "ee123535d050125891f99b1d69bb799eb1a93a24d820e65ed69a24aaf86b2920",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-04-04 11:08:01",
+      "added_date": "2022-04-05 10:10:09",
+      "update_date": "2022-04-06 09:25:10",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.crew-united.com/Media/Images/1489/1489894/1489894.entity.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Часовые",
+      "title_en": "Sentinelles",
+      "year": 2022,
+      "kinopoisk_id": 18549982,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "06e2a533564ca11c9261dfbb32bffbac676e7bca3cfda012405be0bca4caf81e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2022-04-06 08:48:33",
+      "update_date": "2022-04-06 08:49:08",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.crew-united.com/Media/Images/1489/1489894/1489894.entity.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Кремниевая долина",
@@ -1101,260 +1348,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ходячие мертвецы",
-      "title_en": "The Walking Dead",
-      "year": 2010,
-      "kinopoisk_id": 508161,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "3ecb883a33dd744af67bfb64c9959e34f4292329d839a4e1b6c86da67f22a5c9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-08-15 13:54:06",
-      "update_date": "2022-04-03 14:57:07",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/508161.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 11,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Убивая Еву",
-      "title_en": "Killing Eve",
-      "year": 2018,
-      "kinopoisk_id": 1046229,
-      "world_art_id": null,
-      "translator": "Amedia",
-      "token": "6bd7283add652110161f879d4acfe7784da8f3d4f4d39be13a1c11557db3899d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-14 17:29:13",
-      "update_date": "2022-04-03 13:34:36",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 7,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1046229.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=148398",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Я тебя слышу",
-      "title_en": "Neoui moksoriga deulleo",
-      "year": 2013,
-      "kinopoisk_id": 765093,
-      "world_art_id": null,
-      "translator": "Мобильное телевидение",
-      "token": "830c1cfd3169862b3be325fd0b4e8268b993d8ff8f88db416334d7cd696c10ec",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2022-04-03 13:26:23",
-      "update_date": "2022-04-03 13:28:19",
-      "block": false,
-      "translator_id": 133,
-      "quality": "WEB-DL",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/765093.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Музыкальная интуиция",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 4374613,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "8b89d1c3bf712462c8f1b4c9892a6ef057bbe663a55126d3ce24a5fcc3238dd4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-30 15:00:54",
-      "update_date": "2022-04-03 10:32:01",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4374613.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ван Дер Валк",
-      "title_en": "Van Der Valk",
-      "year": 2020,
-      "kinopoisk_id": 1274303,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "a7cbbb2fe3f5bfe4de9320f2dfacdc1567d4ba97f8d2b82b75fc9f370fcccb7c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-09 09:18:22",
-      "update_date": "2022-04-03 09:51:20",
-      "block": false,
-      "translator_id": 60,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1274303.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Бесстрашная вера",
+      "title_en": "Fearless Faith",
+      "year": 2020,
+      "kinopoisk_id": 1145030,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 01:04:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Однажды на Пасху",
+      "title_en": "Easter Someday",
+      "year": 2021,
+      "kinopoisk_id": 13694856,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-05 01:03:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Путь Хико",
+      "title_en": "Xicos Journey (El Camino de Xico)",
+      "year": 2020,
+      "kinopoisk_id": 1447980,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-04 23:55:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Пустой человек",
       "title_en": "The Empty Man",
       "year": 2020,
@@ -222,43 +261,36 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Тихоокеанские ангелы",
-      "title_en": "Pacific Angels",
-      "year": 2018,
-      "kinopoisk_id": 1168773,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-04 14:21:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Моё первое лето",
-      "title_en": "My First Summer",
-      "year": 2020,
-      "kinopoisk_id": 1268791,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-04 14:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Бабушка Игна",
-      "title_en": "Lola Igna",
+      "title_ru": "Вернуться к жизни",
+      "title_en": "Back to Life",
       "year": 2019,
-      "kinopoisk_id": 1304620,
-      "type": "movie",
+      "kinopoisk_id": 1211996,
+      "world_art_id": null,
+      "translator": "Кравец",
+      "token": "2a35caa1786d50e30290e6df3f36518cc40c4a7d4546cdc6f6602f4215f2e012",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-04 14:19:02",
+      "added_date": "2020-01-27 19:50:02",
+      "update_date": "2020-01-27 19:50:02",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 85,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1211996.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Бесстыдники",
@@ -1084,42 +1116,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Женщины на грани",
-      "title_en": "Clink",
-      "year": 2019,
-      "kinopoisk_id": 1264020,
-      "world_art_id": null,
-      "translator": "Zone Vision",
-      "token": "58047d444735257aa9d4421a876fafb10a4f9569b06d442ce548f096deedb5fd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-21 19:28:44",
-      "update_date": "2020-01-21 19:28:44",
-      "block": false,
-      "translator_id": 120,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/1264020.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

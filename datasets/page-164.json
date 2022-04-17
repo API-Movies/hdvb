@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Вторжение ковидла",
+      "title_en": "Lockdown",
+      "year": 2021,
+      "kinopoisk_id": 1369407,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-08 15:12:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Закон притяжения",
+      "title_en": "Law of Attraction",
+      "year": 2020,
+      "kinopoisk_id": 1236442,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-08 15:11:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Хороший шанс",
+      "title_en": "La volta buona",
+      "year": 2020,
+      "kinopoisk_id": 1265187,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-08 15:09:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Могила в земле",
       "title_en": "Gravis Terrae",
       "year": 2021,
@@ -222,43 +261,137 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Да прольётся свет",
-      "title_en": "Jai Bhim",
-      "year": 2021,
-      "kinopoisk_id": 4542346,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-07 14:45:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Каньоны",
-      "title_en": "The Canyons",
+      "title_ru": "Микки Маус",
+      "title_en": "Mickey Mouse",
       "year": 2013,
-      "kinopoisk_id": 673087,
-      "type": "movie",
+      "kinopoisk_id": 817739,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "df09526b257aaa494694dad7e0d8e1b72407d73c15616a18e5370c95bde71f08",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-11-06 23:54:01",
+      "added_date": "2020-10-20 17:25:42",
+      "update_date": "2021-03-03 18:46:34",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Страшный секрет ее парня",
-      "title_en": "Her Deadly Boyfriend",
-      "year": 2021,
-      "kinopoisk_id": 4294527,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-06 23:49:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/817739.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            11
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 19,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Наводчица",
@@ -1111,42 +1244,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "У Эбби",
-      "title_en": "Abby\\'s",
-      "year": 2019,
-      "kinopoisk_id": 1139935,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "cf79e9e9d9dd9e9abe53a564c5f0319f513196b19c41faccc74d4c942817b2f8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-02 20:33:23",
-      "update_date": "2021-03-02 20:34:18",
-      "block": false,
-      "translator_id": 48,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1139935.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

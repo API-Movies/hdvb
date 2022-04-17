@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Школа навсегда",
+      "title_en": "School's Out Forever",
+      "year": 2021,
+      "kinopoisk_id": 1290463,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 17:29:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вокруг смерти",
+      "title_en": "Being Dead",
+      "year": 2021,
+      "kinopoisk_id": 1220411,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 17:28:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Охотник на монстров",
+      "title_en": "Monster Hunter",
+      "year": 2020,
+      "kinopoisk_id": 1038789,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 17:27:02",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Захватчик 33D",
       "title_en": "Mi Tao Cheng Shu Shi 33D",
       "year": 2011,
@@ -222,43 +261,40 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Вилла",
-      "title_en": "La villa",
-      "year": 2017,
-      "kinopoisk_id": 1048348,
-      "type": "movie",
+      "title_ru": "Плащ и Кинжал",
+      "title_en": "Cloak &amp; Dagger",
+      "year": 2018,
+      "kinopoisk_id": 978854,
+      "world_art_id": null,
+      "translator": "HamsterStudio",
+      "token": "6785131a4d2c7d15b4b8744f8329f3750a89af71566e64d0e0966bbe4f04e16a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-16 12:11:02",
+      "added_date": "2019-09-02 20:11:57",
+      "update_date": "2019-09-02 20:14:22",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Вампирская глина",
-      "title_en": "Chi o su nendo",
-      "year": 2017,
-      "kinopoisk_id": 1048283,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 12:10:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Преступность умысла",
-      "title_en": "Xin li zui",
-      "year": 2017,
-      "kinopoisk_id": 1045670,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 12:09:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 32,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/978854.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140183",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Легкий как перышко",
@@ -927,40 +963,6 @@
             5,
             6,
             7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "3%",
-      "title_en": "3%",
-      "year": 2016,
-      "kinopoisk_id": 1007455,
-      "world_art_id": null,
-      "translator": "HamsterStudio",
-      "token": "13f9fda2dcd8f10e7a370555cb9b390041dbbe17a6fdc34574083d6298f1ea63",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-31 12:53:24",
-      "update_date": "2019-08-31 12:54:04",
-      "block": false,
-      "translator_id": 32,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1007455.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135817",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

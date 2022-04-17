@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Место среди мертвых",
+      "title_en": "A Place Among the Dead",
+      "year": 2020,
+      "kinopoisk_id": 1411109,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-02 14:22:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Цари войны",
+      "title_en": "Warrior Kings",
+      "year": 2021,
+      "kinopoisk_id": 53634734,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-02 00:07:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Кроссовки-убийцы",
+      "title_en": "Zapatillas asesinas",
+      "year": 2020,
+      "kinopoisk_id": 1402848,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-02 00:04:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Конечная",
       "title_en": "Uride",
       "year": 2021,
@@ -222,43 +261,36 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Убийца в красном / Ассасин: Битва миров",
-      "title_en": "Ci sha xiao shuo jia",
-      "year": 2020,
-      "kinopoisk_id": 1236082,
-      "type": "movie",
+      "title_ru": "Искусство преступления",
+      "title_en": "L\\'art du crime",
+      "year": 2017,
+      "kinopoisk_id": 1113109,
+      "world_art_id": null,
+      "translator": "GreenРай Studio",
+      "token": "a5410a4066a8204c71f51ce76c0b5eee2758831f2e11349c17cc7b5c2ddbb0a2",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-01 23:18:01",
+      "added_date": "2020-08-19 23:49:45",
+      "update_date": "2020-08-19 23:50:42",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Почему вы меня убили?",
-      "title_en": "Why Did You Kill Me?",
-      "year": 2021,
-      "kinopoisk_id": 14318430,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-01 21:11:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Радушие",
-      "title_en": "Hospitality",
-      "year": 2018,
-      "kinopoisk_id": 1087251,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-01 21:10:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 143,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1113109.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Сто миллионов звёзд с неба",
@@ -1302,52 +1334,6 @@
             138,
             139,
             140
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Её легенда",
-      "title_en": "Geunyeoui sinhwa",
-      "year": 2013,
-      "kinopoisk_id": 780589,
-      "world_art_id": null,
-      "translator": "XDUB DORAMA",
-      "token": "3e96697d1b19904b22d6a1f560c4c3edc9af0ca8eac9393cc41b8a650875fa3d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-19 02:21:00",
-      "update_date": "2020-08-19 02:33:45",
-      "block": false,
-      "translator_id": 161,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/780589.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
           ]
         }
       ]

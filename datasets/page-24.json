@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Книжный в Париже",
+      "title_en": "Il materiale emotivo",
+      "year": 2021,
+      "kinopoisk_id": 1253022,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-03-28 19:30:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Оставшиеся",
+      "title_en": "Akik maradtak",
+      "year": 2019,
+      "kinopoisk_id": 1200365,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-03-28 19:29:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Проект «Адам»",
+      "title_en": "The Adam Project",
+      "year": 2022,
+      "kinopoisk_id": 714185,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-03-28 19:28:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Небо повсюду",
       "title_en": "The Sky Is Everywhere",
       "year": 2022,
@@ -222,43 +261,144 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Вихрь, рассвет суверенитета",
-      "title_en": "Vortex, l'aube de la souveraineté",
-      "year": 2021,
-      "kinopoisk_id": 3567468056,
-      "type": "movie",
+      "title_ru": "Уборщица",
+      "title_en": "The Cleaning Lady",
+      "year": 2022,
+      "kinopoisk_id": 1355223,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "3a8e9b9e5cebd3910ff19d86eda0a6ceb8e8945ff0dbb0ad2af71970d6ad9129",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-03-28 15:06:01",
+      "added_date": "2022-01-04 12:04:33",
+      "update_date": "2022-03-15 11:36:40",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1355223.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Месть подаётся холодной",
-      "title_en": "Vengeance Served Cold",
-      "year": 2021,
-      "kinopoisk_id": 4655950,
-      "type": "movie",
+      "title_ru": "Как я встретила вашего папу",
+      "title_en": "How I Met Your Father",
+      "year": 2022,
+      "kinopoisk_id": 4430835,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "d5188e6c94e66ab282ecbb72d2123edf4f5e9b80c77721860b3ce9fd9993b48d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-03-28 15:04:01",
+      "added_date": "2022-01-18 12:30:24",
+      "update_date": "2022-03-15 11:36:22",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4430835.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Правильная мама",
-      "title_en": "The Right Mom",
+      "title_ru": "Астрологический гид для разбитых сердец",
+      "title_en": "Guida astrologica per cuori infranti",
       "year": 2021,
-      "kinopoisk_id": 4422410,
-      "type": "movie",
+      "kinopoisk_id": 4544555,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "fc61f0bcbef556ef2188837ab079b6abb1dac5d39de22a05f1fbc6b760d8da25",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-03-28 15:03:01",
+      "added_date": "2022-03-11 12:13:14",
+      "update_date": "2022-03-15 10:42:14",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4544555.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Карманник",
+      "title_en": "Dodger",
+      "year": 2021,
+      "kinopoisk_id": 4549395,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "f2fb23621db813b6981cd44bd1774ee42985fe5da4c23d6953f96361b5068df9",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2022-02-08 09:50:53",
+      "update_date": "2022-03-15 10:41:33",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://ichef.bbci.co.uk/images/ic/320xn/p0bm68j7.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Между ними",
@@ -996,171 +1136,6 @@
             22,
             23,
             24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Астрологический гид для разбитых сердец",
-      "title_en": "Guida astrologica per cuori infranti",
-      "year": 2021,
-      "kinopoisk_id": 4544555,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "4b54451960e3a574793347a7256a29c2bbd86160b62320f461408fe037ca9fac",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-12-11 22:48:40",
-      "update_date": "2022-03-12 21:07:05",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4544555.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Части неё",
-      "title_en": "Pieces of Her",
-      "year": 2022,
-      "kinopoisk_id": 1287177,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "09384596d2e8722ab22013b2cd623e10c32416e24c6d947741981821b0fd7d76",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2022-03-12 20:30:34",
-      "update_date": "2022-03-12 20:31:27",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1287177.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Уиджи",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 56745656,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "6a37b9ce27fc7672c8a038d415fd2e144c261583d00a81070aa3f77543a0f222",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-12-27 02:16:36",
-      "update_date": "2022-03-12 19:04:07",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://i6.imageban.ru/out/2021/12/26/15f88036399f4b8d30e425b9f7036b77.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 29,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Волк 2039",
-      "title_en": "Börü 2039",
-      "year": 2021,
-      "kinopoisk_id": 4456374,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "a67bb5ebbddec4312e6e8e87254462621af0a5113b4447ca663dc0f1f9af4167",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-12-29 23:22:27",
-      "update_date": "2022-03-12 14:54:22",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYjRhNDNkZDYtZDE5MS00NDkwLTg2NWEtN2U5MGRkZjYxZjBiXkEyXkFqcGdeQXVyMTIyMjI4OTkx._V1_FMjpg_UX1000_.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

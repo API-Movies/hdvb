@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Страшные истории для рассказа незнакомцам",
+      "title_en": "Scare Us",
+      "year": 2021,
+      "kinopoisk_id": 1306106,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-11 16:32:02",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Рождественское обещание",
+      "title_en": "The Christmas Promise",
+      "year": 2021,
+      "kinopoisk_id": 4693125,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-11 13:54:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Игровая площадка",
+      "title_en": "Un monde",
+      "year": 2021,
+      "kinopoisk_id": 11087960,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-11 13:53:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Наша свадьба мечты",
       "title_en": "Our Dream Wedding",
       "year": 2021,
@@ -222,43 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Анонимные животные",
-      "title_en": "Anonymous Animals",
-      "year": 2020,
-      "kinopoisk_id": 1403852,
-      "type": "movie",
+      "title_ru": "Единственный",
+      "title_en": "The One",
+      "year": 2021,
+      "kinopoisk_id": 4385347,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "18b1bbf7b582fd46c0f6f007a2a3685b3b1f9890a8b6a87a34d6838922d6f608",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-11-10 22:07:02",
+      "added_date": "2021-03-12 15:47:00",
+      "update_date": "2021-03-12 19:32:03",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Человек-паук 3: Враг в отражении",
-      "title_en": "Spider-Man 3",
-      "year": 2007,
-      "kinopoisk_id": 82441,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-10 21:57:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Ослик, любовник и я",
-      "title_en": "Antoinette dans les Cévennes",
-      "year": 2020,
-      "kinopoisk_id": 1309481,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-10 21:56:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4385347.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Золотая кровь. Градус смерти",
@@ -1264,68 +1298,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бывшие",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 992490,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "286abec40670ec6dbea9958148f0770b4dc59ffd3aaf944d8f3641f0fc2ad76f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-16 20:53:15",
-      "update_date": "2021-03-11 03:05:25",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/992490.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

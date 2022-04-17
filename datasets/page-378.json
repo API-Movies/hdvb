@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Дьявольская сказка",
+      "title_en": "An Evil Tale",
+      "year": 2018,
+      "kinopoisk_id": 1075481,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-01 20:25:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вложения",
+      "title_en": "Attachments",
+      "year": 2019,
+      "kinopoisk_id": 992421,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-01 20:24:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Лига справедливости Зака Снайдера",
+      "title_en": "Zack Snyder's Justice League",
+      "year": 2021,
+      "kinopoisk_id": 1387021,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-01 16:25:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Холостяцкая резня",
       "title_en": "Slashlorette Party",
       "year": 2020,
@@ -222,43 +261,45 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Таверна дракона: Город печали",
-      "title_en": "Yongrugak: bijeongdosi",
-      "year": 2020,
-      "kinopoisk_id": 1402694,
-      "type": "movie",
+      "title_ru": "Некотируемый",
+      "title_en": "The Unlisted",
+      "year": 2019,
+      "kinopoisk_id": 1264789,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "a87e44cbe52054acaeaf6b0d23636241a5de71f771e4296efe5f02b1daffb092",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-01 02:38:01",
+      "added_date": "2020-05-14 17:36:59",
+      "update_date": "2020-05-14 17:36:59",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Опасная экскурсия: похищенные с пляжа",
-      "title_en": "Deadly Excursion: Kidnapped from the Beach",
-      "year": 2021,
-      "kinopoisk_id": 4366945,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-01 02:37:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Порочный круг",
-      "title_en": "Ann Rule's Circle of Deception",
-      "year": 2021,
-      "kinopoisk_id": 1355579,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-01 02:36:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1264789.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Стражи аэропорта (Аэропортный спецназ)",
@@ -1358,38 +1399,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мэри и Майк",
-      "title_en": "Mary &amp; Mike",
-      "year": 2018,
-      "kinopoisk_id": 1113246,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "84c6de57b20894075bde0aa405d272ad81bee9f833e7949eb89c20350d1f1930",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-13 12:33:57",
-      "update_date": "2020-05-13 12:33:57",
-      "block": false,
-      "translator_id": 60,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1113246.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

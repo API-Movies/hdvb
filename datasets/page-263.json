@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Страшные сказки Бангкока",
+      "title_en": "Bangkok Dark Tales",
+      "year": 2019,
+      "kinopoisk_id": 1317823,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-29 03:14:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Состояние души",
+      "title_en": "A State of Mind",
+      "year": 2021,
+      "kinopoisk_id": 1304668,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-29 03:13:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Прогулка с Гербом",
+      "title_en": "Walking with Herb",
+      "year": 2021,
+      "kinopoisk_id": 7765850,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-29 00:16:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Робо-апокалипсис",
       "title_en": "Robot Apocalypse",
       "year": 2021,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Камилла. Часть Первая",
-      "title_en": "Camille Vol 1",
-      "year": 2021,
-      "kinopoisk_id": 1351639,
-      "type": "movie",
+      "title_ru": "Срок годности",
+      "title_en": "Expiry Date",
+      "year": 2020,
+      "kinopoisk_id": 1407374,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "b28555ae9809dff76c4661eb53f2f7518a0b691d44ff52bfad064cf1ac3b45f9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-27 22:42:01",
+      "added_date": "2020-10-12 20:06:43",
+      "update_date": "2020-10-21 14:50:33",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Время",
-      "title_en": "Old",
-      "year": 2021,
-      "kinopoisk_id": 1379090,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-07-27 21:06:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Под откос",
-      "title_en": "Off the Rails",
-      "year": 2021,
-      "kinopoisk_id": 1236434,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-07-27 21:05:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1407374.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Десять процентов",
@@ -1586,42 +1622,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Страна Лавкрафта",
-      "title_en": "Lovecraft Country",
-      "year": 2020,
-      "kinopoisk_id": 1045251,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "e30ccf29fb15ab766973ac48a715c01296219fdd5e6b2d8d429ffb2f7581ddb9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-19 09:26:14",
-      "update_date": "2020-10-20 09:43:03",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1045251.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Балто 3: Крылья перемен",
+      "title_en": "Balto III: Wings of Change",
+      "year": 2004,
+      "kinopoisk_id": 86302,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-02 22:41:01",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Полночный поцелуй",
+      "title_en": "In Search of a Midnight Kiss",
+      "year": 2007,
+      "kinopoisk_id": 281158,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-02 22:40:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Кролик Питер 2",
+      "title_en": "Peter Rabbit 2: The Runaway",
+      "year": 2021,
+      "kinopoisk_id": 1122117,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-02 21:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Путешествие в ночь",
       "title_en": "Voyage Into the Night",
       "year": 2021,
@@ -222,43 +261,39 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Дьявольская сказка",
-      "title_en": "An Evil Tale",
-      "year": 2018,
-      "kinopoisk_id": 1075481,
-      "type": "movie",
+      "title_ru": "Преступный мир",
+      "title_en": "Paatal Lok",
+      "year": 2020,
+      "kinopoisk_id": 1371852,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "e700baecc3fad53cde9e75b60193b63fad7ba2a6b81b71a7d519a59531bae959",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-01 20:25:01",
+      "added_date": "2020-05-15 20:27:48",
+      "update_date": "2020-05-15 20:27:48",
       "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Вложения",
-      "title_en": "Attachments",
-      "year": 2019,
-      "kinopoisk_id": 992421,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-01 20:24:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Лига справедливости Зака Снайдера",
-      "title_en": "Zack Snyder's Justice League",
-      "year": 2021,
-      "kinopoisk_id": 1387021,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-01 16:25:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1371852.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Пожарная часть 19",
@@ -1074,47 +1109,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Некотируемый",
-      "title_en": "The Unlisted",
-      "year": 2019,
-      "kinopoisk_id": 1264789,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "a87e44cbe52054acaeaf6b0d23636241a5de71f771e4296efe5f02b1daffb092",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-14 17:36:59",
-      "update_date": "2020-05-14 17:36:59",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1264789.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
           ]
         }
       ]

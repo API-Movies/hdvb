@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Держись от меня подальше",
+      "title_en": "¡Ni te me acerques!",
+      "year": 2020,
+      "kinopoisk_id": 1427710,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-25 00:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Осия",
+      "title_en": "Hosea",
+      "year": 2019,
+      "kinopoisk_id": 1090056,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-25 00:55:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Горацио",
+      "title_en": "Horatio",
+      "year": 2019,
+      "kinopoisk_id": 1024826,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-25 00:54:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Жимолость",
       "title_en": "Honeysuckle",
       "year": 2021,
@@ -222,43 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Странное соседство",
-      "title_en": "Strange Company",
-      "year": 2021,
-      "kinopoisk_id": 869065,
-      "type": "movie",
+      "title_ru": "Гриссе",
+      "title_en": "Grisse",
+      "year": 2018,
+      "kinopoisk_id": 1123702,
+      "world_art_id": null,
+      "translator": "GreenРай Studio",
+      "token": "4bf57dd30628c766d8bb89d0d5a662f893bc1f7d46ab09541f37ecfdfd219499",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-23 22:29:01",
+      "added_date": "2020-10-17 18:47:04",
+      "update_date": "2020-10-17 18:47:36",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сердце надежды",
-      "title_en": "Heart of Hope",
-      "year": 2021,
-      "kinopoisk_id": 1427597,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-07-23 22:22:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Просвет",
-      "title_en": "Alleyway",
-      "year": 2021,
-      "kinopoisk_id": 1440217,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-07-23 22:18:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 143,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/1123702.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Почти семья",
@@ -1160,56 +1194,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Вера",
-      "title_en": "Sineui",
-      "year": 2012,
-      "kinopoisk_id": 692425,
-      "world_art_id": null,
-      "translator": "Мобильное телевидение",
-      "token": "c34107b1902d263f9f951f32ae3de1d4bbdca130a550bf8a8df69ef006c6623f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-15 22:40:06",
-      "update_date": "2020-10-15 22:41:06",
-      "block": false,
-      "translator_id": 133,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/692425.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 24,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24
           ]
         }
       ]

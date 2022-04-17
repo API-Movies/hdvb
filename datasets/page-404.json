@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Планета Зи",
+      "title_en": "Planet Zee",
+      "year": 2021,
+      "kinopoisk_id": 1351598,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 23:48:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Безжалостные",
+      "title_en": "Gods of No Mercy",
+      "year": 2020,
+      "kinopoisk_id": 1442070,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 23:47:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вот такие друзья",
+      "title_en": "Friends Like These",
+      "year": 2019,
+      "kinopoisk_id": 1158995,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 23:46:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Пустынный волк",
       "title_en": "Desert Wolf",
       "year": 2019,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Женщина",
-      "title_en": "Woman",
-      "year": 2019,
-      "kinopoisk_id": 1263355,
-      "type": "movie",
+      "title_ru": "Мастера мяча: 9009",
+      "title_en": "Ballmastrz 9009",
+      "year": 2018,
+      "kinopoisk_id": 1115410,
+      "world_art_id": null,
+      "translator": "2x2",
+      "token": "5d61e87fee14e26dff39469ae9b7b7325f5daedd5b0ad6e1667657aa8262afeb",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-08 19:08:02",
+      "added_date": "2020-02-19 21:57:11",
+      "update_date": "2020-02-19 21:57:11",
       "block": false,
-      "translator": "Первый канал",
-      "translator_id": 94,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Порок",
-      "title_en": "Kalank",
-      "year": 2019,
-      "kinopoisk_id": 1075902,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-08 14:33:02",
-      "block": false,
-      "translator": "SDI Media",
-      "translator_id": 60,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Реальные пацаны против зомби",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1346360,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-08 08:15:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEBRip"
+      "translator_id": 1,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1115410.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Убийство на ферме «Уайтхаус»",
@@ -922,42 +958,6 @@
           "episodes": [
             1,
             2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Допрос",
-      "title_en": "Interrogation",
-      "year": 2020,
-      "kinopoisk_id": 1232285,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "c4b74f6a87ef27f4d51b04d623714bf79e3cfc66515c41d3d1e5322c6eb7f2ce",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-15 13:32:09",
-      "update_date": "2020-02-15 13:32:09",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1232285.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

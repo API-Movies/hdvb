@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Все говорят о Джейми",
+      "title_en": "Everybody's Talking About Jamie",
+      "year": 2021,
+      "kinopoisk_id": 1278093,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-18 00:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мужские слезы",
+      "title_en": "Cry Macho",
+      "year": 2021,
+      "kinopoisk_id": 586418,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-18 00:56:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Безумное кино для взрослых",
+      "title_en": "Babardeala cu bucluc sau porno balamuc",
+      "year": 2021,
+      "kinopoisk_id": 4362629,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-18 00:55:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Кабельщик",
       "title_en": "The Cable Guy",
       "year": 1996,
@@ -222,43 +261,89 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Страна фей",
-      "title_en": "The Magical Legend of the Leprechauns",
-      "year": 1999,
-      "kinopoisk_id": 77309,
-      "type": "movie",
+      "title_ru": "Торчвуд",
+      "title_en": "Torchwood",
+      "year": 2006,
+      "kinopoisk_id": 402941,
+      "world_art_id": null,
+      "translator": "ТВ-3",
+      "token": "131b8f7b5b69dd827794cf18a8abd8d9052fdfa0f608afe2d6bdfdb99fba36b8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-09-16 14:34:02",
+      "added_date": "2020-12-19 10:32:16",
+      "update_date": "2020-12-19 10:46:19",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Проклятие пиковой дамы",
-      "title_en": "Queen of Spades",
-      "year": 2019,
-      "kinopoisk_id": 1262008,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-16 14:33:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Принцесса якудза",
-      "title_en": "Yakuza Princess",
-      "year": 2021,
-      "kinopoisk_id": 1289500,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-16 14:32:01",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "CAMRip"
+      "translator_id": 100,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/402941.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Сезон беспокойных дев",
@@ -1127,42 +1212,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Доктор Шанс",
-      "title_en": "Chance",
-      "year": 2016,
-      "kinopoisk_id": 981281,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "99bfb6248dd534e13e1be9f9a9ba5c2420feabb42e8e0a8fc71075e5c9789df8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-18 18:27:08",
-      "update_date": "2020-12-18 18:28:35",
-      "block": false,
-      "translator_id": 48,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/981281.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Опасные связи",
+      "title_en": "A Date with Danger",
+      "year": 2021,
+      "kinopoisk_id": 4423229,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-13 02:16:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Матч",
+      "title_en": "The Match",
+      "year": 2021,
+      "kinopoisk_id": 6639482,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-13 02:15:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Откуда ты знаешь Криса?",
+      "title_en": "How Do You Know Chris?",
+      "year": 2020,
+      "kinopoisk_id": 1167666,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-13 02:12:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "18 килогерц",
       "title_en": "18 kHz",
       "year": 2020,
@@ -222,43 +261,38 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Лена и львенок",
-      "title_en": "Lena and Snowball",
-      "year": 2021,
-      "kinopoisk_id": 1236682,
-      "type": "movie",
+      "title_ru": "Доброе утро, Вероника",
+      "title_en": "Bom Dia, Verônica",
+      "year": 2020,
+      "kinopoisk_id": 1403707,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "8c0b6da661231e6b6c06af13f9c64c99299b04f7d9e0298b47169de8c5d7ac12",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-12 01:22:01",
+      "added_date": "2020-10-01 17:13:35",
+      "update_date": "2020-10-01 17:14:14",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Билал",
-      "title_en": "Bilal: A New Breed of Hero",
-      "year": 2015,
-      "kinopoisk_id": 843326,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-07-11 19:10:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Расследования на Мартас-Винъярде: Корабли в ночи",
-      "title_en": "Ships in the Night: A Martha's Vineyard Mystery",
-      "year": 2021,
-      "kinopoisk_id": 1446680,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-07-11 12:46:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1403707.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Монстры против пришельцев",
@@ -1465,34 +1499,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Правило Коми",
-      "title_en": "The Comey Rule",
-      "year": 2020,
-      "kinopoisk_id": 1311329,
-      "world_art_id": null,
-      "translator": "Кравец",
-      "token": "7833e77e49c5d3b8a3bead14fa0373aee233b115228d592936d6dd581774b2cd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-29 07:31:38",
-      "update_date": "2020-09-29 07:32:09",
-      "block": false,
-      "translator_id": 85,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1311329.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
           ]
         }
       ]

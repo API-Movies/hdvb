@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Дом на карантине",
+      "title_en": "House of Quarantine",
+      "year": 2021,
+      "kinopoisk_id": 1393423,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-21 20:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пиратское радио",
+      "title_en": "1480 Radio Pirates",
+      "year": 2021,
+      "kinopoisk_id": 1436602,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-21 20:49:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Как это закончится",
+      "title_en": "How It Ends",
+      "year": 2021,
+      "kinopoisk_id": 4295459,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-21 17:49:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Как я стал супергероем",
       "title_en": "Comment je suis devenu super-héros",
       "year": 2020,
@@ -222,43 +261,38 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Оставшиеся из нас",
-      "title_en": "The Rest of Us",
-      "year": 2019,
-      "kinopoisk_id": 1054384,
-      "type": "movie",
+      "title_ru": "Мосгаз",
+      "title_en": "",
+      "year": 2012,
+      "kinopoisk_id": 687929,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "dcf122f395ace27ae61014bde8786e4881a36480c603d03fc469e2cc4068cd61",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-20 00:20:01",
+      "added_date": "2020-10-14 02:07:41",
+      "update_date": "2020-10-14 02:09:21",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Швы",
-      "title_en": "Savovi",
-      "year": 2019,
-      "kinopoisk_id": 1068274,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-07-20 00:18:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Последняя просьба",
-      "title_en": "Last Request",
-      "year": 2020,
-      "kinopoisk_id": 1278628,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-07-20 00:17:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/687929.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Обманутые надежды",
@@ -1058,36 +1092,6 @@
           "episodes": [
             1,
             2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Плоть и кровь",
-      "title_en": "Flesh and Blood",
-      "year": 2020,
-      "kinopoisk_id": 1272585,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "2e78557d032eee7c8f351cce9dd7a9cbba16bd5fffac721e1e105e1a51431d95",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-12 23:25:47",
-      "update_date": "2020-10-12 23:26:20",
-      "block": false,
-      "translator_id": 15,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1272585.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

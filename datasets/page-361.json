@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Running Away",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 1006021,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-17 17:33:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Сто лет прощения",
+      "title_en": "Cien años de perdón",
+      "year": 2016,
+      "kinopoisk_id": 857023,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-17 17:32:01",
+      "block": false,
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Братство по крови",
+      "title_en": "The Reunion",
+      "year": 2011,
+      "kinopoisk_id": 575342,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-17 17:31:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Всем нужна Кэт",
       "title_en": "Cat Run",
       "year": 2011,
@@ -222,43 +261,52 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Ангел мести",
-      "title_en": "Vanquish",
-      "year": 2020,
-      "kinopoisk_id": 1339222,
-      "type": "movie",
+      "title_ru": "Джеймстаун",
+      "title_en": "Jamestown",
+      "year": 2017,
+      "kinopoisk_id": 1004925,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "cccd85c1c18cbedca760bd31996c9f7ddb773771f38e4ab703bedcc8479c4d0e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-16 12:02:01",
+      "added_date": "2020-06-12 17:41:40",
+      "update_date": "2020-06-12 17:41:40",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Война под землей",
-      "title_en": "The War Below",
-      "year": 2020,
-      "kinopoisk_id": 1272255,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-16 12:01:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Человек, который продал свою кожу",
-      "title_en": "The Man Who Sold His Skin",
-      "year": 2020,
-      "kinopoisk_id": 1332521,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-16 12:00:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1004925.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140085",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "В густом лесу",
@@ -1489,38 +1537,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Постановка",
-      "title_en": "Staged",
-      "year": 2020,
-      "kinopoisk_id": 1384808,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "182a195f3449e87f02af46a0fc6b7f4afc29c5162da45db101106cc1527750cc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-11 16:26:56",
-      "update_date": "2020-06-11 16:26:56",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1384808.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

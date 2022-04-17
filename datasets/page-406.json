@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Дело Коллини",
+      "title_en": "Der Fall Collini",
+      "year": 2019,
+      "kinopoisk_id": 1179501,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 07:57:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Академия монстров",
+      "title_en": "Cranston Academy: Monster Zone",
+      "year": 2020,
+      "kinopoisk_id": 1197918,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 07:56:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Страна чудес Вилли",
+      "title_en": "Willy's Wonderland",
+      "year": 2021,
+      "kinopoisk_id": 1319046,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 07:46:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Неистовый",
       "title_en": "Unhinged",
       "year": 2020,
@@ -222,43 +261,123 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Ловец снов",
-      "title_en": "Dreamcatcher",
-      "year": 2021,
-      "kinopoisk_id": 1219842,
-      "type": "movie",
+      "title_ru": "Власть в ночном городе",
+      "title_en": "Power",
+      "year": 2014,
+      "kinopoisk_id": 818782,
+      "world_art_id": null,
+      "translator": "Amedia",
+      "token": "900d33b4f88a37a062a1b59fce98e8ca3ca04c1bb9c5a7d3513643d6b51606dc",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-07 02:36:01",
+      "added_date": "2020-02-11 08:30:47",
+      "update_date": "2020-02-11 08:30:47",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мойщики собак",
-      "title_en": "Dogwashers / Lavaperros",
-      "year": 2021,
-      "kinopoisk_id": 1437394,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-07 02:35:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Цикада 3301: Квест для хакера",
-      "title_en": "Dark Web: Cicada 3301",
-      "year": 2021,
-      "kinopoisk_id": 1133310,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-07 02:33:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 7,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/818782.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Новый Папа",
@@ -1007,33 +1126,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Призраки прошлого",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1262945,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "b0cccce3a136960e56aab64189468b7bbcba0235c05921a087846e5c2909ca89",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-05 17:44:14",
-      "update_date": "2020-02-05 17:44:14",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1262945.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 1,
-          "episodes": [
-            1
           ]
         }
       ]

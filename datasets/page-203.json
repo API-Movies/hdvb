@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Кино по-крупному",
+      "title_en": "The Martini Shot",
+      "year": 2020,
+      "kinopoisk_id": 829856,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-26 20:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Рози и Муса",
+      "title_en": "Rosie &amp; Moussa",
+      "year": 2018,
+      "kinopoisk_id": 1079994,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-26 20:45:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Древняя душа",
+      "title_en": "Mbah Jhiwo",
+      "year": 2021,
+      "kinopoisk_id": 4401188,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-26 20:39:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Любовь по-французски",
       "title_en": "Love in Translation",
       "year": 2021,
@@ -222,43 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "В заточении",
-      "title_en": "Crated",
-      "year": 2020,
-      "kinopoisk_id": 1368689,
-      "type": "movie",
+      "title_ru": "Жаркое американское лето: 10 лет спустя",
+      "title_en": "Wet Hot American Summer: Ten Years Later",
+      "year": 2017,
+      "kinopoisk_id": 1008421,
+      "world_art_id": null,
+      "translator": "Newstudio",
+      "token": "af6f5ead2ebdbda7daf83e28e6c3bb90e0aba53e8ef2b72154f34dddc2ad8fc8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-09-26 00:56:01",
+      "added_date": "2021-01-06 22:15:37",
+      "update_date": "2021-01-06 22:16:43",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Коронавирусный заговор. Дома безопаснее.",
-      "title_en": "Safer at Home: The Coronavirus Movie",
-      "year": 2021,
-      "kinopoisk_id": 1407247,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-26 00:55:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Возвращаясь домой в темноте",
-      "title_en": "Coming Home in the Dark",
-      "year": 2021,
-      "kinopoisk_id": 1166314,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-26 00:51:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 48,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1008421.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Не беспокойтесь за меня",
@@ -2019,36 +2053,6 @@
             72,
             73,
             74
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Исключение",
-      "title_en": "Striking Out",
-      "year": 2017,
-      "kinopoisk_id": 1046628,
-      "world_art_id": null,
-      "translator": "многоголосый закадровый",
-      "token": "1a66bfbf226a2709ae693809529ee052c10d189a8bc88a100a4af2c8e45ac70a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-05 17:20:10",
-      "update_date": "2021-01-05 17:22:00",
-      "block": false,
-      "translator_id": 89,
-      "quality": "WEB-DLRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1046628.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

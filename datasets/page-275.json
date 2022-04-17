@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "No Lost Love",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4484713,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-15 23:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Надя, Баттерфляй",
+      "title_en": "Nadia, Butterfly",
+      "year": 2020,
+      "kinopoisk_id": 1387202,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-15 23:18:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Лилит",
+      "title_en": "Lillith",
+      "year": 2019,
+      "kinopoisk_id": 1088301,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-15 23:16:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "На волнах",
       "title_en": "Into the Waves",
       "year": 2020,
@@ -222,43 +261,37 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Красный призрак",
-      "title_en": "",
+      "title_ru": "Галифакс: Возмездие",
+      "title_en": "Halifax: Retribution",
       "year": 2020,
-      "kinopoisk_id": 1115648,
-      "type": "movie",
+      "kinopoisk_id": 1302752,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "c8fd46658661c95d1100135b2900528e91c38f80842729915fabdcaec04be91a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-15 03:32:01",
+      "added_date": "2020-08-28 09:34:43",
+      "update_date": "2020-10-08 08:07:40",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "История Золушки: Встреча со звездой",
-      "title_en": "A Cinderella Story: Starstruck",
-      "year": 2021,
-      "kinopoisk_id": 4433934,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-07-15 03:14:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Круг",
-      "title_en": "Circle",
-      "year": 2020,
-      "kinopoisk_id": 1354683,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-07-15 02:36:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1302752.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
       "title_ru": "#трудовыебудни",
@@ -1469,58 +1502,6 @@
             24,
             25,
             26
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Я — убийца",
-      "title_en": "I Am a Killer",
-      "year": 2018,
-      "kinopoisk_id": 1153550,
-      "world_art_id": null,
-      "translator": "Пифагор",
-      "token": "04683e82aa0165c43eea3a39e96c68cc7f7ac766822d30a4ce98ab507c21cf0d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-07 10:33:22",
-      "update_date": "2020-10-07 10:34:01",
-      "block": false,
-      "translator_id": 124,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1153550.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

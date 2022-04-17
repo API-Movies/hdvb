@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Уинфред Микс",
+      "title_en": "Winifred Meeks",
+      "year": 2020,
+      "kinopoisk_id": 1356426,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-21 03:29:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "И наступит весна",
+      "title_en": "Syksyn jälkeen saapuu kevät",
+      "year": 2020,
+      "kinopoisk_id": 1400497,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-21 03:28:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Телек",
+      "title_en": "The Tube",
+      "year": 2019,
+      "kinopoisk_id": 1294086,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-21 03:27:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Я не твоя мама",
       "title_en": "No soy tu mami",
       "year": 2019,
@@ -222,43 +261,39 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Ковбои",
-      "title_en": "Buffalo Boys",
-      "year": 2018,
-      "kinopoisk_id": 1050274,
-      "type": "movie",
+      "title_ru": "Роковой патруль",
+      "title_en": "Doom Patrol",
+      "year": 2019,
+      "kinopoisk_id": 1144179,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "bc414e6874594610c0dfb209647f773bec90e39e88efe784c5dddae1e620908a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-20 12:10:01",
+      "added_date": "2020-07-23 22:02:14",
+      "update_date": "2020-08-06 19:20:25",
       "block": false,
-      "translator": "HDrezka Studio",
-      "translator_id": 33,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Водяной",
-      "title_en": "The Water Man",
-      "year": 2020,
-      "kinopoisk_id": 924361,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-20 12:09:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Вокзал для двоих",
-      "title_en": "",
-      "year": 1982,
-      "kinopoisk_id": 45822,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-20 12:09:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1144179.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Военная хроника",
@@ -1295,64 +1330,6 @@
             1,
             2,
             3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Уильям наш, Шекспир",
-      "title_en": "Upstart Crow",
-      "year": 2016,
-      "kinopoisk_id": 922924,
-      "world_art_id": null,
-      "translator": "Ozz",
-      "token": "9eeecbae6c0e7647e4822802c956462951a15746a144cbaffa17d6d3fd69187a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-05 23:12:45",
-      "update_date": "2020-08-05 23:16:41",
-      "block": false,
-      "translator_id": 54,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/922924.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
           ]
         }
       ]

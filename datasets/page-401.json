@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "История о призраке",
+      "title_en": "Ghost Tale",
+      "year": 2021,
+      "kinopoisk_id": 6423112,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-11 00:20:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вечная молодость",
+      "title_en": "Evergreen",
+      "year": 2020,
+      "kinopoisk_id": 1348307,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-11 00:18:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Коннор Макдэвид: Во что бы то ни стало",
+      "title_en": "Connor McDavid: Whatever It Takes",
+      "year": 2020,
+      "kinopoisk_id": 11644320,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-11 00:16:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Рождество Кэрол",
       "title_en": "Carol's Christmas",
       "year": 2021,
@@ -222,43 +261,47 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Мой сосед Тоторо",
-      "title_en": "Tonari no Totoro",
-      "year": 1988,
-      "kinopoisk_id": 8221,
-      "type": "movie",
+      "title_ru": "Шучу",
+      "title_en": "Kidding",
+      "year": 2018,
+      "kinopoisk_id": 1161788,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "f80f8e4bc15d6c9a02e0d87ecbe2f90511909fefb6f57bb75617a21d633783de",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-10 10:02:03",
+      "added_date": "2020-03-05 08:36:35",
+      "update_date": "2020-03-05 08:36:35",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Кот под прикрытием",
-      "title_en": "Spycies",
-      "year": 2019,
-      "kinopoisk_id": 1142566,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-10 10:01:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Клуб бунтарей",
-      "title_en": "The Riot Club",
-      "year": 2014,
-      "kinopoisk_id": 741308,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-10 10:00:01",
-      "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "WEBRip"
+      "translator_id": 14,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1161788.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=150032",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            5,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Гавайи 5.0",
@@ -967,38 +1010,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мёртвые земли",
-      "title_en": "The Dead Lands",
-      "year": 2019,
-      "kinopoisk_id": 1192861,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "8e0e6c55e70e448aa7028a5318e35916dfb308875ab3049ea57ff67f306e08aa",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-01 20:41:57",
-      "update_date": "2020-03-01 20:41:57",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1192861.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            7
           ]
         }
       ]

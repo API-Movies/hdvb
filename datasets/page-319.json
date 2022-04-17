@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Stallone: Frank, That Is",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4300065,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-27 20:09:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Радхе",
+      "title_en": "Radhe",
+      "year": 2021,
+      "kinopoisk_id": 1302324,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-27 20:08:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Roohi",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1254924,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-27 20:07:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Лифчик",
       "title_en": "Le soutien-gorge",
       "year": 2018,
@@ -222,43 +261,44 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Сыграем?",
-      "title_en": "Shall We Play?",
-      "year": 2021,
-      "kinopoisk_id": 1302311,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-26 12:36:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сделано в Чайнатаун",
-      "title_en": "Made in Chinatown",
-      "year": 2021,
-      "kinopoisk_id": 1158166,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-26 12:35:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "",
-      "title_en": "Buiten is het Feest",
+      "title_ru": "Не копайся в себе",
+      "title_en": "Don't Look Deeper",
       "year": 2020,
-      "kinopoisk_id": 1330915,
-      "type": "movie",
+      "kinopoisk_id": 1274562,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "a6d1cb2da1d21841366969a69561286810681545f2205aa7446ffbeece38b972",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-26 12:34:01",
+      "added_date": "2020-07-28 09:51:37",
+      "update_date": "2020-08-13 11:32:44",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "CAMRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1274562.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Исчезнувшая",
@@ -1060,40 +1100,6 @@
       "translator_id": 85,
       "quality": "WEB-DL",
       "poster": "https://www.kinopoisk.ru/images/film_big/633825.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Водоворот",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1227993,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "dee7d68098c428266fc2d0ba2fd12e323867c5cb277b0725537b5c4ec051c1bc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-25 21:19:56",
-      "update_date": "2020-08-12 06:52:19",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1227993.jpg",
       "trailer": "",
       "serial_episodes": [
         {

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Всё меняется",
+      "title_en": "Todos  cambiamos",
+      "year": 2019,
+      "kinopoisk_id": 1295848,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-19 03:04:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Рай на земле",
+      "title_en": "Paradise Next",
+      "year": 2019,
+      "kinopoisk_id": 1281248,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-19 03:01:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Смешанные чувства 2",
+      "title_en": "Mixed Emotions Vol. 2",
+      "year": 2020,
+      "kinopoisk_id": 1350063,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-19 03:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Мэджик",
       "title_en": "Magic",
       "year": 2019,
@@ -222,43 +261,80 @@
       "quality": "HDTV"
     },
     {
-      "title_ru": "Майсабель",
-      "title_en": "Maixabel",
-      "year": 2021,
-      "kinopoisk_id": 4368578,
-      "type": "movie",
+      "title_ru": "Кровавая барыня",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 1044616,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "2f5e0e810130732ab920ea97e3ce4017dd94223dce4236af8cfe229c1f772ce7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-18 20:48:02",
+      "added_date": "2021-06-25 23:20:34",
+      "update_date": "2021-06-25 23:21:16",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1044616.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Фабиан — полет в пропасть",
-      "title_en": "Fabian oder Der Gang vor die Hunde",
+      "title_ru": "Секс/жизнь",
+      "title_en": "Sex/Life",
       "year": 2021,
-      "kinopoisk_id": 4382278,
-      "type": "movie",
+      "kinopoisk_id": 1347744,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "b1d31aa5bace1970bc4a21e1cdccd6dae314dcec689c0f04bcd2d788d6eb5d9b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-18 18:16:02",
+      "added_date": "2021-06-25 13:22:11",
+      "update_date": "2021-06-25 20:29:57",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мое озеро",
-      "title_en": "My lake",
-      "year": 2020,
-      "kinopoisk_id": 1088805,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-12-18 13:14:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1347744.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Сирены",
@@ -1451,71 +1527,6 @@
       "serial_episodes": [
         {
           "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Танцуй!",
-      "title_en": "Jiva!",
-      "year": 2021,
-      "kinopoisk_id": 4483896,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "e2235fb5f513d708214c32ba12bc4ee74458b30a70ce1ca7ad6d3dde7468e499",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-06-24 13:11:22",
-      "update_date": "2021-06-24 16:28:44",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4483896.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Доктор, доктор",
-      "title_en": "Doctor Doctor",
-      "year": 2016,
-      "kinopoisk_id": 1002656,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "6717aa4df9f5b2d52cfd42912a937eab4e3d8171ba92d06af6531310a5d07832",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-30 07:54:00",
-      "update_date": "2021-06-23 21:57:38",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1002656.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 5,
           "episodes_count": 8,
           "episodes": [
             1,

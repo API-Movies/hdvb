@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Комплекс",
+      "title_en": "Complx",
+      "year": 2021,
+      "kinopoisk_id": 1129176,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-07 11:33:05",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Расследования Авроры Тигарден: Пока смерть не разлучит нас",
+      "title_en": "Aurora Teagarden Mysteries Til Death Do Us Part",
+      "year": 2021,
+      "kinopoisk_id": 95685697,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-07 11:31:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Расследования Авроры Тигарден: Медовый месяц и убийство",
+      "title_en": "Aurora Teagarden Mysteries Honeymoon, Honeymurder",
+      "year": 2021,
+      "kinopoisk_id": 95765898,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-07 11:28:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Жёлтая ночь",
       "title_en": "A Noite Amarela",
       "year": 2019,
@@ -222,43 +261,90 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Сущая пандемия",
-      "title_en": "Sheer Pandemic",
-      "year": 2022,
-      "kinopoisk_id": 4480866,
-      "type": "movie",
+      "title_ru": "Крёстный отец Гарлема",
+      "title_en": "Godfather of Harlem",
+      "year": 2019,
+      "kinopoisk_id": 1115221,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "8f7867dfb9112d0ca97870efe71334acfe8401c063469c287be2a2d684d871cd",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-06 13:45:01",
+      "added_date": "2019-12-03 10:41:03",
+      "update_date": "2021-08-30 16:10:45",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1115221.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Чёрная беладонна",
-      "title_en": "Nightshade",
-      "year": 2022,
-      "kinopoisk_id": 1238952,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-01-06 13:40:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Лулли",
-      "title_en": "Lulli",
+      "title_ru": "Кликбейт",
+      "title_en": "Clickbait",
       "year": 2021,
-      "kinopoisk_id": 4760067,
-      "type": "movie",
+      "kinopoisk_id": 1309595,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "b978d43918e47f6900af1233844aaeb3482f36d0864bc36dbedfc35a0926259f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-06 13:37:01",
+      "added_date": "2021-08-25 14:26:41",
+      "update_date": "2021-08-30 14:51:48",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1309595.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Внешние отмели",
@@ -951,74 +1037,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Открой глаза",
-      "title_en": "Otwórz oczy",
-      "year": 2021,
-      "kinopoisk_id": 4413876,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "dcccfd118ca2cc1f53c8b87ffd79c7eeb3ba530f680c6a88f0a86b989879bd1a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-08-26 09:40:03",
-      "update_date": "2021-08-26 09:40:54",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4413876.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Родина: Форт Салем",
-      "title_en": "Motherland: Fort Salem",
-      "year": 2020,
-      "kinopoisk_id": 1253333,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "ce9e7272771ddcb8ce130bf6890cad5c828eaacbbfc4b80356cead86b53621db",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-06-07 09:05:23",
-      "update_date": "2021-08-26 09:39:15",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1253333.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

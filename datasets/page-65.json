@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Воспоминания навсегда",
+      "title_en": "On n'efface pas les souvenirs",
+      "year": 2021,
+      "kinopoisk_id": 4645212,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-02-20 15:51:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "На задворках Голливуда",
+      "title_en": "Hollywood Fringe",
+      "year": 2020,
+      "kinopoisk_id": 1210786,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-02-20 15:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Электрик",
+      "title_en": "Electrician",
+      "year": 2020,
+      "kinopoisk_id": 345456234,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-02-20 15:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "12 дней лета",
       "title_en": "12 Tage Sommer",
       "year": 2021,
@@ -222,43 +261,108 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Трусливый велосипедист",
-      "title_en": "Yowamushi pedaru",
-      "year": 2020,
-      "kinopoisk_id": 1338351,
-      "type": "movie",
+      "title_ru": "Сплетница",
+      "title_en": "Gossip Girl",
+      "year": 2021,
+      "kinopoisk_id": 1289335,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "dbe2f69bffe1baf92e193caf454dcc3c439b1590cd08473ddc26a83abac70595",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-02-19 14:37:01",
+      "added_date": "2021-07-08 16:21:48",
+      "update_date": "2021-12-02 23:54:26",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1289335.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Хинтерленд: город грехов",
-      "title_en": "Hinterland",
-      "year": 2021,
-      "kinopoisk_id": 1447398,
-      "type": "movie",
+      "title_ru": "Грешница",
+      "title_en": "The Sinner",
+      "year": 2017,
+      "kinopoisk_id": 1004780,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "8c0fe95373bb3cb0d6685c3a3f74dd35c131c3165a07fd760ad0d6d5409eadc6",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-02-19 14:35:02",
+      "added_date": "2021-10-14 13:36:59",
+      "update_date": "2021-12-02 13:37:04",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1004780.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Тед К. «Унабомбер»",
-      "title_en": "Ted K",
+      "title_ru": "«Везёт»",
+      "title_en": "",
       "year": 2021,
-      "kinopoisk_id": 1143595,
-      "type": "movie",
+      "kinopoisk_id": 1357179,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "f7d054d49cc3e382d90cd11e99baa3f915b43c36822d59ef34ccaaf2d38c6882",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-02-19 14:34:01",
+      "added_date": "2021-11-04 03:16:02",
+      "update_date": "2021-12-02 10:31:00",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1357179.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Горячая зона",
@@ -1038,224 +1142,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Декстер",
-      "title_en": "Dexter",
-      "year": 2006,
-      "kinopoisk_id": 277537,
-      "world_art_id": null,
-      "translator": "Novamedia",
-      "token": "e2ae0f78022ba03e81fe61a75c4d7d8741385d01dac4914f7a4677f4133a2f01",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-11-09 17:07:59",
-      "update_date": "2021-11-29 12:59:22",
-      "block": false,
-      "translator_id": 51,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/277537.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 9,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Хороший доктор",
-      "title_en": "The Good Doctor",
-      "year": 2017,
-      "kinopoisk_id": 1011528,
-      "world_art_id": null,
-      "translator": "Кириллица",
-      "token": "a86135ad4ab4bab3e83a21ef73379f56cff83b5008da19dbd60ea746e73ad44c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-04 19:01:35",
-      "update_date": "2021-11-29 12:52:54",
-      "block": [
-        "RU",
-        "UA"
-      ],
-      "translator_id": 123,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1011528.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=144648",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 18,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ходячие мертвецы: Мир за пределами",
-      "title_en": "The Walking Dead: World Beyond",
-      "year": 2020,
-      "kinopoisk_id": 1282096,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "41c219a81bd20158ac2136396b92be2bfea3eb97cb6b007fabd43eb8888536f2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-03 10:11:12",
-      "update_date": "2021-11-29 09:21:57",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1282096.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

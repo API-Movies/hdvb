@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Иди до конца или умри",
+      "title_en": "Creature in the Dark",
+      "year": 2020,
+      "kinopoisk_id": 1423827,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-21 17:53:00",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ударная волна 2",
+      "title_en": "Chai dan zhuan jia 2",
+      "year": 2019,
+      "kinopoisk_id": 1115076,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-21 17:52:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Фестиваль Рифкина",
+      "title_en": "Rifkin's Festival",
+      "year": 2020,
+      "kinopoisk_id": 1169702,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-21 17:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Красота обманчива",
       "title_en": "Beauty is Skin Deep",
       "year": 2021,
@@ -222,43 +261,32 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Проклятый сезон",
-      "title_en": "Dark Blue",
-      "year": 2002,
-      "kinopoisk_id": 3443,
-      "type": "movie",
+      "title_ru": "Искушение наследством",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1313581,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "5067c8ca1e82508e2cf790097b32162cbd74981074d76d09960df397c8e400d9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-21 08:43:01",
+      "added_date": "2019-11-03 17:08:09",
+      "update_date": "2019-11-03 17:08:09",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Критическое мышление",
-      "title_en": "Critical Thinking",
-      "year": 2020,
-      "kinopoisk_id": 1140302,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-21 08:11:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ледяная синева",
-      "title_en": "Ice Blue",
-      "year": 2017,
-      "kinopoisk_id": 1054904,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-21 08:10:02",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "HDTV",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1313581.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Живая вода",
@@ -1139,36 +1167,6 @@
             18,
             19,
             20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "След лисицы на камнях",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1235981,
-      "world_art_id": null,
-      "translator": "Перевод не требуется",
-      "token": "88b2854d6dc7abebbcf56404bcb2874752e62e8ed967ad2013cca6363f5e6519",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-10-26 16:13:16",
-      "update_date": "2019-10-26 16:13:16",
-      "block": false,
-      "translator_id": 103,
-      "quality": "WEB-DLRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1235981.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

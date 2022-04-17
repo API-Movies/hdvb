@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Все будет хорошо",
+      "title_en": "Every Thing Will Be Fine",
+      "year": 2015,
+      "kinopoisk_id": 568422,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-19 17:46:01",
+      "block": false,
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Взрослые дети развода",
+      "title_en": "A.C.O.D.",
+      "year": 2013,
+      "kinopoisk_id": 461962,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-19 17:30:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Красная фракция: Происхождение",
+      "title_en": "Red Faction: Origins",
+      "year": 2011,
+      "kinopoisk_id": 540853,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-19 17:29:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "HDTV"
+    },
+    {
       "title_ru": "Моя настоящая сказка",
       "title_en": "My True Fairytale",
       "year": 2021,
@@ -222,43 +261,56 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "",
-      "title_en": "Deux gouttes d'eau",
+      "title_ru": "Плащ и Кинжал",
+      "title_en": "Cloak &amp; Dagger",
       "year": 2018,
-      "kinopoisk_id": 7766054,
-      "type": "movie",
+      "kinopoisk_id": 978854,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "fbc2433fcc8136079ca89222464a924cbed3cb17096f02c40f8ac79194139f35",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-19 09:23:01",
+      "added_date": "2020-06-17 20:45:36",
+      "update_date": "2020-06-17 20:45:36",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Чистилище",
-      "title_en": "Czysciec",
-      "year": 2020,
-      "kinopoisk_id": 1429595,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-19 09:21:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Кислотная остановка",
-      "title_en": "Acid Pit Stop",
-      "year": 2019,
-      "kinopoisk_id": 1083078,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-19 09:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/978854.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140183",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Подлый Пит",
@@ -1084,37 +1136,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Исчезновения и убийства в Атланте: Пропавшие дети",
-      "title_en": "Atlanta's Missing and Murdered: The Lost Children",
-      "year": 2020,
-      "kinopoisk_id": 1312758,
-      "world_art_id": null,
-      "translator": "Contentica",
-      "token": "9042d570932bdf4dadb3916f2fb0d4ca36b618398269db226bff93654517e1a4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-16 21:06:59",
-      "update_date": "2020-06-16 21:06:59",
-      "block": false,
-      "translator_id": 129,
-      "quality": "HDTV",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1312758.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
           ]
         }
       ]

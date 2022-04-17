@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Укрась своё сердце",
+      "title_en": "Deck the Heart",
+      "year": 2021,
+      "kinopoisk_id": 1328614,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-07 23:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Между двух огней",
+      "title_en": "Between Two Minds",
+      "year": 2020,
+      "kinopoisk_id": 1085394,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-07 23:49:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Альтернативная земля",
+      "title_en": "Alternate Ground",
+      "year": 2021,
+      "kinopoisk_id": 1197344,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-07 23:47:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Код 355",
       "title_en": "The 355",
       "year": 2022,
@@ -222,43 +261,116 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Комплекс",
-      "title_en": "Complx",
-      "year": 2021,
-      "kinopoisk_id": 1129176,
-      "type": "movie",
+      "title_ru": "Белые волки",
+      "title_en": "",
+      "year": 2012,
+      "kinopoisk_id": 732531,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "79c0731345710d33a56aab9cfb8dd242c0414639231fcb6fbf138af40dfbfb7c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-07 11:33:05",
+      "added_date": "2021-05-24 09:19:52",
+      "update_date": "2021-09-02 14:21:21",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/732531.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Расследования Авроры Тигарден: Пока смерть не разлучит нас",
-      "title_en": "Aurora Teagarden Mysteries Til Death Do Us Part",
-      "year": 2021,
-      "kinopoisk_id": 95685697,
-      "type": "movie",
+      "title_ru": "Братья по обмену",
+      "title_en": "",
+      "year": 2013,
+      "kinopoisk_id": 736157,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "23fbf37ab13499760365ea293d10d896dcb1ec999e0ccd3c6f2755382b354884",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-07 11:31:02",
+      "added_date": "2020-09-05 12:54:05",
+      "update_date": "2021-09-02 14:17:51",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Расследования Авроры Тигарден: Медовый месяц и убийство",
-      "title_en": "Aurora Teagarden Mysteries Honeymoon, Honeymurder",
-      "year": 2021,
-      "kinopoisk_id": 95765898,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-01-07 11:28:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/736157.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Короче",
@@ -959,92 +1071,6 @@
       "translator_id": 14,
       "quality": "WEB-DL",
       "poster": "https://www.kinopoisk.ru/images/film_big/4425336.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Крёстный отец Гарлема",
-      "title_en": "Godfather of Harlem",
-      "year": 2019,
-      "kinopoisk_id": 1115221,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "8f7867dfb9112d0ca97870efe71334acfe8401c063469c287be2a2d684d871cd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-03 10:41:03",
-      "update_date": "2021-08-30 16:10:45",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1115221.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кликбейт",
-      "title_en": "Clickbait",
-      "year": 2021,
-      "kinopoisk_id": 1309595,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "b978d43918e47f6900af1233844aaeb3482f36d0864bc36dbedfc35a0926259f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-08-25 14:26:41",
-      "update_date": "2021-08-30 14:51:48",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1309595.jpg",
       "trailer": "",
       "serial_episodes": [
         {

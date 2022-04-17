@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Во всем виновато общество",
+      "title_en": "I Blame Society",
+      "year": 2021,
+      "kinopoisk_id": 1332734,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-14 23:42:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Крошечный дом на Рождество",
+      "title_en": "A Tiny House Christmas",
+      "year": 2021,
+      "kinopoisk_id": 1450393,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-14 23:41:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дом Непобедимых",
+      "title_en": "The House Invictus",
+      "year": 2020,
+      "kinopoisk_id": 1122971,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-14 23:40:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Современная любовь",
       "title_en": "Modern Love",
       "year": 2021,
@@ -222,43 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Последний Вермеер",
-      "title_en": "The Last Vermeer",
-      "year": 2021,
-      "kinopoisk_id": 1121661,
-      "type": "movie",
+      "title_ru": "Тёмная сеть",
+      "title_en": "Dark/Web",
+      "year": 2019,
+      "kinopoisk_id": 1008788,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "240a4c56ffcb90639f0e5a9e7779943a8845693f777471694f51372e23eef95e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-14 17:25:01",
+      "added_date": "2019-07-20 19:36:53",
+      "update_date": "2019-07-31 14:39:52",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "DVDRip"
-    },
-    {
-      "title_ru": "Ребекка",
-      "title_en": "Rebecca",
-      "year": 2020,
-      "kinopoisk_id": 667045,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-14 14:52:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Голый барабанщик",
-      "title_en": "The Rocker",
-      "year": 2008,
-      "kinopoisk_id": 312375,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-14 14:40:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1008788.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Поместье Бичема",
@@ -1293,160 +1327,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сыны анархии",
-      "title_en": "Sons of Anarchy",
-      "year": 2008,
-      "kinopoisk_id": 417846,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "de7a3e69024ee1bab345977c4a2a6536e010edfc58f82316efc3d4b8f0b79502",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-07-11 17:19:00",
-      "update_date": "2019-07-12 08:27:43",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/417846.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=105840",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 7,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Унни Икки",
+      "title_en": "Unni Ikki",
+      "year": 2019,
+      "kinopoisk_id": 1310014,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-27 20:41:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Обломки",
+      "title_en": "The Wreck / Epava",
+      "year": 2019,
+      "kinopoisk_id": 1259294,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-27 20:40:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Примроуз",
+      "title_en": "The Primrose",
+      "year": 2018,
+      "kinopoisk_id": 1197538,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-27 20:39:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Точка невозврата",
       "title_en": "Point of no Return",
       "year": 2018,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Пьеса",
-      "title_en": "Hra",
-      "year": 2019,
-      "kinopoisk_id": 1288044,
-      "type": "movie",
+      "title_ru": "Государственный секретарь",
+      "title_en": "Madam Secretary",
+      "year": 2014,
+      "kinopoisk_id": 823674,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "4435430d3d8f63120d28ef9448266e519eeb053f985365f3c8960d30bfac485a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-26 11:13:01",
+      "added_date": "2019-12-11 08:55:25",
+      "update_date": "2019-12-11 08:55:25",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Проект &quot;Сущность&quot;",
-      "title_en": "Entity Project",
-      "year": 2019,
-      "kinopoisk_id": 1211725,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-26 11:11:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Можно просто Долапо",
-      "title_en": "Dolapo is Fine",
-      "year": 2020,
-      "kinopoisk_id": 1347506,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-26 11:10:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/823674.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=102370",
+      "serial_episodes": [
+        {
+          "season_number": 6,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Расправа",
@@ -987,43 +1023,6 @@
             22,
             23,
             24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Солнечная сторона",
-      "title_en": "Sunnyside",
-      "year": 2019,
-      "kinopoisk_id": 1245505,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "a2f3b4731e01fd153e887624b579704b82f6eb8c1218f38ba34c1a36313545d6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-06 15:31:14",
-      "update_date": "2019-12-06 15:31:14",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1245505.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
           ]
         }
       ]

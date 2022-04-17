@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Девочка по имени Джо",
+      "title_en": "Her Name Was Jo",
+      "year": 2020,
+      "kinopoisk_id": 1064932,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-06 23:29:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ученик экзорциста",
+      "title_en": "The Seventh Day",
+      "year": 2021,
+      "kinopoisk_id": 1323039,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-06 23:27:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Поступь хаоса",
+      "title_en": "Chaos Walking",
+      "year": 2021,
+      "kinopoisk_id": 634786,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-06 23:26:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Три попытки",
       "title_en": "Thre3bound",
       "year": 2019,
@@ -222,43 +261,148 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Я не сплю",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1254791,
-      "type": "movie",
+      "title_ru": "Зовите повитуху",
+      "title_en": "Call the Midwife",
+      "year": 2012,
+      "kinopoisk_id": 664424,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "8ce11b4196012b65f3cd4ad0329920a9568951c0eb71e6316a407c92fe38934d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-05 21:41:01",
+      "added_date": "2020-05-22 00:42:54",
+      "update_date": "2020-05-22 00:42:54",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Белый снег",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1345722,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-05 21:40:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Агент Мамбо",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1245329,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-05 19:47:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/664424.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 7,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 8,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 9,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Приятные хлопоты",
@@ -1923,40 +2067,6 @@
       "translator_id": 92,
       "quality": "HDTV",
       "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1006538.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Реставраторы автоистории",
-      "title_en": "Driven",
-      "year": 2020,
-      "kinopoisk_id": 11310986,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "1e5aeddf9344bbee71999eb62e381360e021f9c07161e4c3076cc5fed9d37edd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-19 20:46:08",
-      "update_date": "2020-05-19 20:46:08",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/11310986.jpg",
       "trailer": "",
       "serial_episodes": [
         {

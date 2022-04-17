@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Раз, еще раз",
+      "title_en": "Raz, jeszcze raz",
+      "year": 2020,
+      "kinopoisk_id": 1192437,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-11 22:33:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Позднее лето",
+      "title_en": "Neujyeoreum",
+      "year": 2018,
+      "kinopoisk_id": 1048900,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-11 22:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Флакка 666",
+      "title_en": "Flakka 666",
+      "year": 2021,
+      "kinopoisk_id": 1157145,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-11 22:31:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Глаза",
       "title_en": "Đoi Mắt Am Dương",
       "year": 2020,
@@ -222,43 +261,37 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "А завтра весь мир",
-      "title_en": "Und morgen die ganze Welt",
-      "year": 2020,
-      "kinopoisk_id": 1265405,
-      "type": "movie",
+      "title_ru": "Далеко от тебя",
+      "title_en": "Lejos De Ti (Love, Inevitably)",
+      "year": 2019,
+      "kinopoisk_id": 1120385,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "d6db8a486cdb9ba146a3e3bb5483e655b41b383de0122095a9f93c397fecb400",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-11 15:25:02",
+      "added_date": "2020-07-27 21:40:52",
+      "update_date": "2020-07-27 21:40:52",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "2149: Последствия войны",
-      "title_en": "Confinement / 2149: The Aftermath",
-      "year": 2021,
-      "kinopoisk_id": 4398028,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-11 15:24:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Сопротивление",
-      "title_en": "Resistance",
-      "year": 2020,
-      "kinopoisk_id": 1048854,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-11 15:23:01",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1120385.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Закон и порядок. Специальный корпус",
@@ -1098,44 +1131,6 @@
             5,
             6,
             7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Следственный отдел старичков-красавчиков",
-      "title_en": "Kkothalbae susadae",
-      "year": 2014,
-      "kinopoisk_id": 841541,
-      "world_art_id": null,
-      "translator": "двухголосый закадровый",
-      "token": "8486b1fc5494dc87838364954d52f0f57522a827d4742a15aff3d2f4c6d606c5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-26 17:19:08",
-      "update_date": "2020-07-26 17:19:08",
-      "block": false,
-      "translator_id": 81,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/841541.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

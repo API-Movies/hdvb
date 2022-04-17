@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Да прольётся свет",
+      "title_en": "Jai Bhim",
+      "year": 2021,
+      "kinopoisk_id": 4542346,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-07 14:45:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Каньоны",
+      "title_en": "The Canyons",
+      "year": 2013,
+      "kinopoisk_id": 673087,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-06 23:54:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Страшный секрет ее парня",
+      "title_en": "Her Deadly Boyfriend",
+      "year": 2021,
+      "kinopoisk_id": 4294527,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-06 23:49:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "HDTV"
+    },
+    {
       "title_ru": "Мой частный ад",
       "title_en": "Inferninho",
       "year": 2018,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Лантернс Лейн",
-      "title_en": "Lantern's Lane",
-      "year": 2021,
-      "kinopoisk_id": 1359396,
-      "type": "movie",
+      "title_ru": "У Эбби",
+      "title_en": "Abby\\'s",
+      "year": 2019,
+      "kinopoisk_id": 1139935,
+      "world_art_id": null,
+      "translator": "Newstudio",
+      "token": "cf79e9e9d9dd9e9abe53a564c5f0319f513196b19c41faccc74d4c942817b2f8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-11-06 10:35:01",
+      "added_date": "2021-03-02 20:33:23",
+      "update_date": "2021-03-02 20:34:18",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Доктор",
-      "title_en": "Doctor",
-      "year": 2021,
-      "kinopoisk_id": 1330159,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-06 10:34:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Рождественские воры",
-      "title_en": "Christmas Thieves",
-      "year": 2021,
-      "kinopoisk_id": 2000289,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-06 10:33:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 48,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1139935.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Девушка-сэнрю",
@@ -1155,44 +1191,6 @@
             22,
             23,
             24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Золотой капкан",
-      "title_en": "",
-      "year": 2011,
-      "kinopoisk_id": 471793,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "3837b42f8f8c730f1d2511c2b4dbb4176926ab2ecd81c3b6ff609b43496f71e7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-01 16:49:16",
-      "update_date": "2021-03-01 16:55:04",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/471793.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

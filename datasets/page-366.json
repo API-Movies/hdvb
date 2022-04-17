@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Убийца в красном / Ассасин: Битва миров",
+      "title_en": "Ci sha xiao shuo jia",
+      "year": 2020,
+      "kinopoisk_id": 1236082,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-13 02:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сокровища наших сердец",
+      "title_en": "Fruits of the Heart",
+      "year": 2021,
+      "kinopoisk_id": 1313137,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-13 02:29:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "В погоне за миллионами",
+      "title_en": "Bazdmeg",
+      "year": 2019,
+      "kinopoisk_id": 1293553,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-13 02:28:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Уроки фарси",
       "title_en": "Persian Lessons / Persischstunden",
       "year": 2020,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Вернуть малыша",
-      "title_en": "Win My Baby Back / Cua lai vo bau",
-      "year": 2019,
-      "kinopoisk_id": 1260033,
-      "type": "movie",
+      "title_ru": "Ответный удар",
+      "title_en": "Strike Back",
+      "year": 2010,
+      "kinopoisk_id": 505661,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "a9fd91ae234a10b0907e46310e4bc00aa0730784d82c6a6c495b87936da9c7f1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-11 23:34:02",
+      "added_date": "2020-06-03 22:47:06",
+      "update_date": "2020-06-03 22:47:06",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Пиола",
-      "title_en": "Piola",
-      "year": 2019,
-      "kinopoisk_id": 1277785,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-11 23:33:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Стопроцентный халяль",
-      "title_en": "100% Halal",
-      "year": 2020,
-      "kinopoisk_id": 1351242,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-11 23:32:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/505661.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 7,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Ответный удар",
@@ -1400,38 +1436,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мы охотимся вместе",
-      "title_en": "We Hunt Together",
-      "year": 2020,
-      "kinopoisk_id": 1307024,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "72460d1e5c35075865802f8d297b614700ad6e12170960fdca70bcf3c7349dcb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-02 10:37:02",
-      "update_date": "2020-06-02 10:37:02",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1307024.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

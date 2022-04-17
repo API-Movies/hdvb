@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Вторая половина",
+      "title_en": "Druga polowa",
+      "year": 2021,
+      "kinopoisk_id": 4478673,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-25 14:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Тайна Муйе - Хранитель горы",
+      "title_en": "Mystery of Muye: The Guardian of the Mountain",
+      "year": 2021,
+      "kinopoisk_id": 658546456,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-25 13:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Младший агент",
+      "title_en": "Junior Agent",
+      "year": 2021,
+      "kinopoisk_id": 76896786,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-25 13:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Сумасшедший кулак",
       "title_en": "Crazy Fist",
       "year": 2021,
@@ -222,43 +261,70 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Ниндзя в клеточку 2",
-      "title_en": "Ternet Ninja 2",
-      "year": 2021,
-      "kinopoisk_id": 4709633,
-      "type": "movie",
+      "title_ru": "Poligon",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 4362405,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "775db58d9f98b138e8eac4a99d4b7e3621e8197c3f077c2b0cbdb87f38e71b84",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-24 01:21:01",
+      "added_date": "2021-07-12 13:51:56",
+      "update_date": "2021-07-12 13:52:43",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4362405.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Волк",
-      "title_en": "Wolf",
-      "year": 2021,
-      "kinopoisk_id": 1346640,
-      "type": "movie",
+      "title_ru": "Уцелевшие",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1331264,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "5a29ef35a404a68b7a3c0ad131b44edcbb2c5d092ac4ed3ffee3e379bfc38920",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-24 01:20:01",
+      "added_date": "2021-07-10 16:34:45",
+      "update_date": "2021-07-12 13:52:39",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Камон Камон",
-      "title_en": "C\\'mon C\\'mon",
-      "year": 2021,
-      "kinopoisk_id": 1309501,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-12-24 01:19:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1331264.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Смятение",
@@ -930,65 +996,6 @@
       "serial_episodes": [
         {
           "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Симпсоны: Добро, Барт и Локи",
-      "title_en": "The Good, the Bart, and the Loki",
-      "year": 2021,
-      "kinopoisk_id": 4492434,
-      "world_art_id": null,
-      "translator": "многоголосый закадровый",
-      "token": "854ef007b99e3b470b56be68e8ea09d2ebaf59784d54c1da1ed246cf45fc0cba",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-07-08 08:29:10",
-      "update_date": "2021-07-08 08:29:51",
-      "block": false,
-      "translator_id": 89,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4492434.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 1,
-          "episodes": [
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кошатники",
-      "title_en": "Cat People",
-      "year": 2021,
-      "kinopoisk_id": 4481035,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "6d828a259f8b2132ed573fca99adff7c025b276f71ab1cc03375b93ed0fbcd4f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-07-08 08:26:46",
-      "update_date": "2021-07-08 08:27:26",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/4481035.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 6,
           "episodes": [
             1,

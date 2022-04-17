@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Тихоокеанские ангелы",
+      "title_en": "Pacific Angels",
+      "year": 2018,
+      "kinopoisk_id": 1168773,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-04 14:21:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Моё первое лето",
+      "title_en": "My First Summer",
+      "year": 2020,
+      "kinopoisk_id": 1268791,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-04 14:20:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Бабушка Игна",
+      "title_en": "Lola Igna",
+      "year": 2019,
+      "kinopoisk_id": 1304620,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-04 14:19:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Письма к М. 4",
       "title_en": "Listy do M. 4",
       "year": 2021,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Свет Лилли",
-      "title_en": "Lilly's Light",
-      "year": 2020,
-      "kinopoisk_id": 518337,
-      "type": "movie",
+      "title_ru": "Женщины на грани",
+      "title_en": "Clink",
+      "year": 2019,
+      "kinopoisk_id": 1264020,
+      "world_art_id": null,
+      "translator": "Zone Vision",
+      "token": "58047d444735257aa9d4421a876fafb10a4f9569b06d442ce548f096deedb5fd",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-03 20:59:01",
+      "added_date": "2020-01-21 19:28:44",
+      "update_date": "2020-01-21 19:28:44",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Плавучесть",
-      "title_en": "BUOYANCY",
-      "year": 2020,
-      "kinopoisk_id": 1297426,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-03 20:58:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дети-детективы и загадочный сосед",
-      "title_en": "Aperture Kids and the Mysterious Neighbor",
-      "year": 2021,
-      "kinopoisk_id": 13571090,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-03 20:56:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 120,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/1264020.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Убийство на пляже",
@@ -1247,42 +1283,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Медицинская полиция",
-      "title_en": "Medical Police",
-      "year": 2020,
-      "kinopoisk_id": 1245640,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "72c19706b58bf301f8ddf95bb649b7c48da9cc922083664b46f6588dfefb3b98",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-14 09:05:21",
-      "update_date": "2020-01-14 09:05:21",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1245640.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

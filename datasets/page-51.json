@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Трусливый велосипедист",
+      "title_en": "Yowamushi pedaru",
+      "year": 2020,
+      "kinopoisk_id": 1338351,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-03-10 12:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Волк и лев",
+      "title_en": "Le loup et le lion",
+      "year": 2021,
+      "kinopoisk_id": 1304482,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-03-10 12:50:02",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Тоска",
+      "title_en": "Tadap",
+      "year": 2021,
+      "kinopoisk_id": 1291690,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-03-10 12:49:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Онода",
       "title_en": "Onoda",
       "year": 2021,
@@ -222,43 +261,134 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Брат во всём",
+      "title_ru": "Знахарь",
       "title_en": "",
-      "year": 2022,
-      "kinopoisk_id": 4830642,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-03-10 01:19:02",
-      "block": false,
+      "year": 2018,
+      "kinopoisk_id": 1093784,
+      "world_art_id": null,
       "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
-    },
-    {
-      "title_ru": "Космическое радио",
-      "title_en": "Cosmic Radio",
-      "year": 2022,
-      "kinopoisk_id": 8403061,
-      "type": "movie",
+      "token": "1a140b5197f7d58c3e7ee9fc6ad37853a84af768bcaf0df02324588eef83ba69",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-03-09 23:40:01",
+      "added_date": "2019-11-02 23:39:01",
+      "update_date": "2022-01-02 16:30:41",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "HDTV",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1093784.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Гранит",
+      "title_ru": "Стас",
       "title_en": "",
       "year": 2021,
-      "kinopoisk_id": 4761862,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-03-09 23:39:02",
-      "block": false,
+      "kinopoisk_id": 4798178,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "f2991a35fe33da272ad61d7ed7cfb92ce88aaa2517a4dae4e054d00795a12cda",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2022-01-02 16:29:44",
+      "update_date": "2022-01-02 16:30:21",
+      "block": false,
       "translator_id": 92,
-      "quality": "WEB-DL"
+      "quality": "WEB-DL",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4798178.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Турист",
+      "title_en": "The Tourist",
+      "year": 2022,
+      "kinopoisk_id": 4357684,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "43026fda4603bbdf1328345e24482a78eb4a619aea2f2ad75ac37e3dfee1f7e9",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2022-01-02 12:20:36",
+      "update_date": "2022-01-02 15:04:47",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4357684.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Подставили!",
@@ -1190,107 +1320,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кицбюэль",
-      "title_en": "Kitz",
-      "year": 2021,
-      "kinopoisk_id": 1369591,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "f2dad23f728b371d498f53c96b390ed3fac9163321f3166c3f43ec8345ddc8b7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-12-30 15:28:30",
-      "update_date": "2021-12-30 17:57:30",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMGViZGM4ZDQtNTRlOC00OGI5LWIzMWMtMmYwNjY3YTFhZjQ4XkEyXkFqcGdeQXVyMzMzMTYwOTE@._V1_FMjpg_UX1000_.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Вампиры средней полосы",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1224067,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "7cc68d78ebcd0212fb074cded328208e272c240320aae4baed871f4e0f046957",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-18 01:21:44",
-      "update_date": "2021-12-30 16:32:37",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1224067.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Солдаут",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 4430109,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "e9ff1d71481498cfe19197a130fd0ef762640acf13c7a30460871685a8a91448",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-12-10 00:10:30",
-      "update_date": "2021-12-30 16:31:23",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4430109.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

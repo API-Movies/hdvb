@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Возврат",
+      "title_en": "Take Back",
+      "year": 2021,
+      "kinopoisk_id": 1355150,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-30 00:02:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Нёрд / Нерд",
+      "title_en": "Nerd",
+      "year": 2019,
+      "kinopoisk_id": 10920266,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-29 19:12:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Жирный отмороженный шпик",
+      "title_en": "The Big Frozen Gumshoe",
+      "year": 2018,
+      "kinopoisk_id": 951549,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-29 19:10:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Обследование",
       "title_en": "Test Pattern",
       "year": 2019,
@@ -222,43 +261,43 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Пикси",
-      "title_en": "Pixie",
-      "year": 2020,
-      "kinopoisk_id": 1296668,
-      "type": "movie",
+      "title_ru": "Ассимиляция Кимов",
+      "title_en": "Kim's Convenience",
+      "year": 2016,
+      "kinopoisk_id": 1037680,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "e65e1561ed880e6500b76f58e488842be328c98dcaf73d0f61d10d61d96dde0b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-28 15:51:01",
+      "added_date": "2020-05-10 17:16:01",
+      "update_date": "2020-05-10 17:16:01",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Праздник к Нам Приходит",
-      "title_en": "Tis the Season",
-      "year": 2020,
-      "kinopoisk_id": 13475542,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-28 12:39:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Беспокойная кукла",
-      "title_en": "The Worry Doll",
-      "year": 2019,
-      "kinopoisk_id": 1208307,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-28 12:37:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1037680.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Чужестранка",
@@ -1010,40 +1049,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Избранные",
-      "title_en": "The Chosen",
-      "year": 2019,
-      "kinopoisk_id": 1332885,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "d1bba5d84bd82c84cc2b3ab3c9634ede9ffa25e4311a10882f804cf3185da05e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-08 22:45:01",
-      "update_date": "2020-05-08 22:45:01",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1332885.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

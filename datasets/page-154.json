@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Сладких снов",
+      "title_en": "Night Night",
+      "year": 2021,
+      "kinopoisk_id": 1339714,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-16 22:40:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мультивселенная",
+      "title_en": "Multiverse",
+      "year": 2021,
+      "kinopoisk_id": 1190264,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-16 22:38:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Материнство",
+      "title_en": "Motherly",
+      "year": 2021,
+      "kinopoisk_id": 1332073,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-16 22:37:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Представляем Джодею",
       "title_en": "Introducing Jodea",
       "year": 2021,
@@ -222,43 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Случайность и догадка",
-      "title_en": "Guzen to sozo",
-      "year": 2021,
-      "kinopoisk_id": 4362628,
-      "type": "movie",
+      "title_ru": "Я не шучу",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1363091,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "f6dc7ef31ffabe493a7bfadb2d48e0abfbe4259c5948d9c43e1dde6acb9d81e5",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-11-15 16:10:01",
+      "added_date": "2021-03-04 02:08:32",
+      "update_date": "2021-03-25 01:57:32",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Апокалипсис белой девчонки",
-      "title_en": "White Girl Apokalypse",
-      "year": 2021,
-      "kinopoisk_id": 4657037,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-15 15:58:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мужской взгляд: третий не лишний",
-      "title_en": "The Male Gaze: Three's Company",
-      "year": 2021,
-      "kinopoisk_id": 4543737,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-15 15:56:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1363091.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Незакрытая мишень",
@@ -1740,70 +1774,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Американские боги",
-      "title_en": "American Gods",
-      "year": 2017,
-      "kinopoisk_id": 591843,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "3e1ef00db3b225841b6b8917ffa2a7c8552e53ee3d48c24af6936de9da4354be",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-16 21:26:22",
-      "update_date": "2021-03-23 08:27:33",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/591843.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=139987",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

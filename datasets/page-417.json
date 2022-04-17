@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Пьеса",
+      "title_en": "Hra",
+      "year": 2019,
+      "kinopoisk_id": 1288044,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-26 11:13:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Проект &quot;Сущность&quot;",
+      "title_en": "Entity Project",
+      "year": 2019,
+      "kinopoisk_id": 1211725,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-26 11:11:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Можно просто Долапо",
+      "title_en": "Dolapo is Fine",
+      "year": 2020,
+      "kinopoisk_id": 1347506,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-26 11:10:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Кактус Джек",
       "title_en": "Cactus Jack",
       "year": 2021,
@@ -222,43 +261,41 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Искренне твой",
-      "title_en": "Sincerely, Yours, Truly",
-      "year": 2020,
-      "kinopoisk_id": 1273859,
-      "type": "movie",
+      "title_ru": "Солнечная сторона",
+      "title_en": "Sunnyside",
+      "year": 2019,
+      "kinopoisk_id": 1245505,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "a2f3b4731e01fd153e887624b579704b82f6eb8c1218f38ba34c1a36313545d6",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-26 00:03:02",
+      "added_date": "2019-12-06 15:31:14",
+      "update_date": "2019-12-06 15:31:14",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Игра Лепрекона",
-      "title_en": "The Leprechaun's Game / Vengeance of the Leprechaun's Gold",
-      "year": 2020,
-      "kinopoisk_id": 1357681,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-26 00:02:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Под маской Марвел",
-      "title_en": "Marvel's Behind the Mask",
-      "year": 2021,
-      "kinopoisk_id": 4365701,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-26 00:00:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1245505.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Видеть",
@@ -1110,42 +1147,6 @@
       "serial_episodes": [
         {
           "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Остров Обречённых",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1049212,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "d10812ef20ec134bb3465cc28ee7c617e9c6c5199bf37e1c875673c6ca598059",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-11-30 14:12:22",
-      "update_date": "2019-11-30 14:12:22",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1049212.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 10,
           "episodes": [
             1,

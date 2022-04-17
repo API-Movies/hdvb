@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Домашняя битва",
+      "title_en": "Domestic Warfare",
+      "year": 2019,
+      "kinopoisk_id": 1294689,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-10 19:52:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Меч судьбы",
+      "title_en": "Sword of Destiny",
+      "year": 2021,
+      "kinopoisk_id": 4441735,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-10 19:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Картинка в доме",
+      "title_en": "The Picture in the House",
+      "year": 2020,
+      "kinopoisk_id": 9574384,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-10 19:49:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Родные",
       "title_en": "",
       "year": 2021,
@@ -222,43 +261,41 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Миньян",
-      "title_en": "Minyan",
-      "year": 2020,
-      "kinopoisk_id": 1265677,
-      "type": "movie",
+      "title_ru": "Слепая зона",
+      "title_en": "Blindspot",
+      "year": 2015,
+      "kinopoisk_id": 894877,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "ed9dd4b356b1c1983eddaefac4051f190f36df00dda9bb5ab94c97fa9c4dc2ee",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-09 15:47:02",
+      "added_date": "2020-07-24 17:49:36",
+      "update_date": "2020-07-24 17:49:36",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Одинокие сердца",
-      "title_en": "Lonely Hearts",
-      "year": 2019,
-      "kinopoisk_id": 1060445,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-09 15:46:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Светлые Видения",
-      "title_en": "Light Visions",
-      "year": 2019,
-      "kinopoisk_id": 1235940,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-09 15:44:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/894877.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 5,
+          "episodes_count": 11,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Центральный парк",
@@ -2015,64 +2052,6 @@
             50,
             51,
             52
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Легион Супергероев",
-      "title_en": "Legion of Super Heroes",
-      "year": 2006,
-      "kinopoisk_id": 400111,
-      "world_art_id": null,
-      "translator": "HTB",
-      "token": "926b53ec5e6e5fbf80a4a182868c17f3bbe1a76b2046e0e649f0fe000b50b240",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-22 21:20:23",
-      "update_date": "2020-07-22 21:20:23",
-      "block": false,
-      "translator_id": 34,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/400111.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

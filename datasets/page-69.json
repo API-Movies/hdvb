@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "(Не)идеальные парочки",
+      "title_en": "Per tutta la vita",
+      "year": 2021,
+      "kinopoisk_id": 1404110,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-02-14 21:53:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Навальный",
+      "title_en": "NAVALNY",
+      "year": 2022,
+      "kinopoisk_id": 4821789,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-02-14 20:27:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Пушпа",
+      "title_en": "Pushpa: The Rise - Part 1",
+      "year": 2021,
+      "kinopoisk_id": 1318882,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-02-14 20:26:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "",
       "title_en": "Tadap",
       "year": 2021,
@@ -222,43 +261,68 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Предел",
-      "title_en": "Die Grenze",
+      "title_ru": "Роковая женщина",
+      "title_en": "",
       "year": 2021,
-      "kinopoisk_id": 1399928,
-      "type": "movie",
+      "kinopoisk_id": 4707563,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "be56b768c6f08cfa015d02a373efb7b8e216e1af12e14e023a7a5e34faaecc69",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-02-12 23:22:01",
+      "added_date": "2021-11-21 15:20:57",
+      "update_date": "2021-11-21 15:21:51",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4707563.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Анне+: фильм",
-      "title_en": "Anne+",
+      "title_ru": "Семья черной мафии",
+      "title_en": "Black Mafia Family",
       "year": 2021,
-      "kinopoisk_id": 4629227,
-      "type": "movie",
+      "kinopoisk_id": 4296824,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "6802908bb8c0df451c4ff6666f1909f2c18b794e8082cfe453f5a71b6eabbc5d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-02-12 23:20:01",
+      "added_date": "2021-09-26 16:04:18",
+      "update_date": "2021-11-21 13:56:56",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Эйфель",
-      "title_en": "Eiffel",
-      "year": 2021,
-      "kinopoisk_id": 1294875,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-02-12 19:30:01",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4296824.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "МастерШеф",
@@ -1098,104 +1162,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Замок и ключ / Ключи Локков",
-      "title_en": "Locke &amp; Key",
-      "year": 2020,
-      "kinopoisk_id": 774797,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "65abd2003a42c36b5fb565712834913a510151ca711aebb201596159146b1390",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-12 19:29:32",
-      "update_date": "2021-11-20 02:38:55",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/774797.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Любовная магия",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 4681797,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "3279553b5c6ad46ce3977d0d9699f3775d24b5f4a6a4d0ad0f5989f8948cebc2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-11-09 01:31:19",
-      "update_date": "2021-11-19 21:57:47",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4681797.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
           ]
         }
       ]

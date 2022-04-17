@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Мэр",
+      "title_en": "Teukbyeolsimin",
+      "year": 2017,
+      "kinopoisk_id": 1006698,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 11:52:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Гарри Бенсон: Стреляй первым",
+      "title_en": "Harry Benson: Shoot First",
+      "year": 2016,
+      "kinopoisk_id": 1006664,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 11:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "На пляже",
+      "title_en": "Beaches",
+      "year": 2017,
+      "kinopoisk_id": 997300,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 11:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Slugterra: Into the Shadows",
       "title_en": "",
       "year": 2016,
@@ -222,43 +261,38 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Little Pink House",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 935164,
-      "type": "movie",
+      "title_ru": "Барри",
+      "title_en": "Barry",
+      "year": 2018,
+      "kinopoisk_id": 972587,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "1ad9f2b5fb461d8a0ab4fbef408834feada230a4497ee6ac8a1952f10988db0b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-16 11:32:01",
+      "added_date": "2019-08-27 11:29:52",
+      "update_date": "2019-08-27 11:30:34",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Вышедшие из тени",
-      "title_en": "Out of the Shadows",
-      "year": 2017,
-      "kinopoisk_id": 934556,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 11:31:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Народ Америки",
-      "title_en": "American Folk",
-      "year": 2017,
-      "kinopoisk_id": 934490,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 11:30:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/972587.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=147763",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Очень странные дела",
@@ -892,35 +926,6 @@
             3,
             4,
             5
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Черное зеркало",
-      "title_en": "Black Mirror",
-      "year": 2011,
-      "kinopoisk_id": 655800,
-      "world_art_id": null,
-      "translator": "Coldfilm",
-      "token": "f40ab3de03089c50d58eeb53979454e97420b81bb1a87530b6cac7c57d69160b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-21 07:01:44",
-      "update_date": "2019-08-23 15:47:18",
-      "block": false,
-      "translator_id": 15,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/655800.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135634",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
           ]
         }
       ]

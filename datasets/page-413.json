@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Друзья навсегда",
+      "title_en": "The Friend / Our Friend",
+      "year": 2021,
+      "kinopoisk_id": 1231105,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-02 14:33:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Уиджа. Проклятое зеркало",
+      "title_en": "The 100 Candles Game",
+      "year": 2020,
+      "kinopoisk_id": 1392770,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-02 14:32:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Земля перемен",
+      "title_en": "Changeland",
+      "year": 2019,
+      "kinopoisk_id": 1047543,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-02 08:05:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Проклятие ведьмы",
       "title_en": "The Reckoning",
       "year": 2020,
@@ -222,43 +261,42 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Ну и городок",
-      "title_en": "This Town",
-      "year": 2020,
-      "kinopoisk_id": 1122592,
-      "type": "movie",
+      "title_ru": "В поисках божественного рецепта",
+      "title_en": "Food Wars: Shokugeki no Soma",
+      "year": 2015,
+      "kinopoisk_id": 917288,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "37ba6fc836b3d0442914bf687a5c1f063998757c1d188891ea8766cdb2605057",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-02 01:10:02",
+      "added_date": "2019-12-28 14:38:36",
+      "update_date": "2019-12-28 14:38:36",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Чай или кофе?",
-      "title_en": "Coffee or Tea? / Yi dian jiu dao jia",
-      "year": 2020,
-      "kinopoisk_id": 1398976,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-02 01:07:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Земля теней",
-      "title_en": "Shadowland",
-      "year": 2021,
-      "kinopoisk_id": 1212204,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-02 01:06:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/917288.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Мандалорец",
@@ -992,33 +1030,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рождественская песнь",
-      "title_en": "A Christmas Carol",
-      "year": 2019,
-      "kinopoisk_id": 1244979,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "8026686a743b6e80b73185c7f091c6d70485c51da1211960f799bcd3870183fa",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-23 11:30:32",
-      "update_date": "2019-12-23 11:30:32",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1244979.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 1,
-          "episodes": [
-            1
           ]
         }
       ]

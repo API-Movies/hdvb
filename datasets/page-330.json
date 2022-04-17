@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Ты мне скажи",
+      "title_en": "Sag Du Es Mir",
+      "year": 2019,
+      "kinopoisk_id": 1292541,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-14 22:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Зуб мудрости",
+      "title_en": "Oyashirazu / Wisdom Tooth",
+      "year": 2020,
+      "kinopoisk_id": 11855030,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-14 22:49:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Детективы: зов истины",
+      "title_en": "The Investigators: When Truth Calls",
+      "year": 2019,
+      "kinopoisk_id": 1116100,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-14 22:47:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Солнечная Сторона",
       "title_en": "Sunny Side Up",
       "year": 2017,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "От винта 2",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1239328,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-13 22:32:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Инстаграмщики",
-      "title_en": "Insta Famous",
-      "year": 2021,
-      "kinopoisk_id": 1317055,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-13 22:32:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Неверность",
-      "title_en": "Infidelity",
+      "title_ru": "Академия «Амбрелла»",
+      "title_en": "The Umbrella Academy",
       "year": 2019,
-      "kinopoisk_id": 1030720,
-      "type": "movie",
+      "kinopoisk_id": 463401,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "bc985fda294e6c28f7359e3637ec0a35862ac670629aa454ca5d7d70e5ae7146",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-13 22:30:01",
+      "added_date": "2020-07-31 17:36:58",
+      "update_date": "2020-08-01 00:38:52",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/463401.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Билли и Билли",
@@ -1206,36 +1242,6 @@
             16,
             17,
             18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Надежда как свидетельство жизни",
-      "title_en": "",
-      "year": 2008,
-      "kinopoisk_id": 406136,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "8908f51379d07e3f5f7563aa8211b85b7cd18e3e779f0f13aa7edeef228b79d1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-31 15:05:36",
-      "update_date": "2020-07-31 15:07:13",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/406136.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

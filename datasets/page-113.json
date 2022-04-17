@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Город тайн",
+      "title_en": "The Dry",
+      "year": 2020,
+      "kinopoisk_id": 1217828,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-30 15:07:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Разделитель",
+      "title_en": "The Divide",
+      "year": 2011,
+      "kinopoisk_id": null,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "1970-01-01 03:00:00",
+      "block": false,
+      "translator": "",
+      "translator_id": 0,
+      "quality": ""
+    },
+    {
+      "title_ru": "В тысяче километров от рождества",
+      "title_en": "A mil kilómetros de la Navidad",
+      "year": 2021,
+      "kinopoisk_id": 4412509,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-30 15:05:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Восточный ветер. Великий ураган",
       "title_en": "Ostwind - Der große Orkan",
       "year": 2021,
@@ -222,43 +261,70 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Исповедь",
-      "title_en": "Mass",
+      "title_ru": "Локи",
+      "title_en": "Loki",
       "year": 2021,
-      "kinopoisk_id": 1330409,
-      "type": "movie",
+      "kinopoisk_id": 1203039,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "8e6a09dc0fe043c52691875d05958179850109a45291615dc8592a2c8bcaadbf",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-29 15:27:02",
+      "added_date": "2021-06-12 04:36:46",
+      "update_date": "2021-08-01 14:08:54",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1203039.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Изысканное блюдо",
-      "title_en": "An Exquisite Meal",
-      "year": 2021,
-      "kinopoisk_id": 1296822,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-12-29 15:26:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Гранит",
+      "title_ru": "Пищеблок",
       "title_en": "",
       "year": 2021,
-      "kinopoisk_id": 4761862,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-12-29 08:35:01",
-      "block": false,
+      "kinopoisk_id": 1405843,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "3d691eee39e50a4d7e90ea1cbb39024acc3e6b4f888e4fb139645f4df05ff3e2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-05-19 08:53:36",
+      "update_date": "2021-08-01 14:08:12",
+      "block": false,
       "translator_id": 92,
-      "quality": "HDTV"
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1405843.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Внешние отмели",
@@ -1068,119 +1134,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кармен Сандиего",
-      "title_en": "Carmen Sandiego",
-      "year": 2019,
-      "kinopoisk_id": 1048099,
-      "world_art_id": null,
-      "translator": "Netflix",
-      "token": "78cb812f1764c17c26a87a92dc93914d0df09b2df3d4475dbfdd2837c50c7401",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-17 18:38:32",
-      "update_date": "2021-07-27 21:04:50",
-      "block": false,
-      "translator_id": 113,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1048099.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Плохие парни",
-      "title_en": "Nappeun nyeoseokdeul",
-      "year": 2014,
-      "kinopoisk_id": 842266,
-      "world_art_id": null,
-      "translator": "Мобильное телевидение",
-      "token": "4fac32a480e95e3539a2caffc87458725c8a3e76feed8e9fc91227fa6e1527a9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-07-27 21:00:34",
-      "update_date": "2021-07-27 21:02:50",
-      "block": false,
-      "translator_id": 133,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/842266.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
           ]
         }
       ]

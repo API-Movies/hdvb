@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Наш конец",
+      "title_en": "The End of Us",
+      "year": 2021,
+      "kinopoisk_id": 4651828,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-08 11:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Джон, палата 316",
+      "title_en": "John, 316",
+      "year": 2021,
+      "kinopoisk_id": 1006078,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-08 11:04:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Путешествие на Запад: Реинкарнация Царя демонов",
+      "title_en": "Xi you ji zhi zai shi yao wang",
+      "year": 2021,
+      "kinopoisk_id": 1435391,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-08 00:55:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Сварщик",
       "title_en": "The Scrapper",
       "year": 2021,
@@ -222,43 +261,72 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Рождество в Вашингтоне: Любовь под омелой",
-      "title_en": "Christmas in Washington",
+      "title_ru": "Домина",
+      "title_en": "Domina",
       "year": 2021,
-      "kinopoisk_id": 4441365,
-      "type": "movie",
+      "kinopoisk_id": 1346720,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "aefa2022c4c89c61746fe941040cec6a58b5c8bcae8809b90a4254244a061d51",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-07 17:08:02",
+      "added_date": "2021-05-13 15:19:40",
+      "update_date": "2021-05-17 16:16:25",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1346720.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Чори",
-      "title_en": "Chhorii",
+      "title_ru": "Тень и кость",
+      "title_en": "Shadow and Bone",
       "year": 2021,
-      "kinopoisk_id": 1451353,
-      "type": "movie",
+      "kinopoisk_id": 708065,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "22ecf4b72741c4693de31c25db874727b071f134b06f5613ad20e6d61d4aeeaa",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-07 17:07:01",
+      "added_date": "2021-04-27 12:11:49",
+      "update_date": "2021-05-17 13:18:34",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Добро пожаловать в ад",
-      "title_en": "Bienvenidos al infierno",
-      "year": 2021,
-      "kinopoisk_id": 4404653,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-12-07 17:06:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/708065.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Сумеречные охотники",
@@ -1019,74 +1087,6 @@
             2,
             3,
             4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Последний час",
-      "title_en": "The Last Hour",
-      "year": 2021,
-      "kinopoisk_id": 1239073,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "b47e2b266feba5c37d4c0028e800e6b2dd928bfb7a3a201981ea452692d202c7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-15 10:59:14",
-      "update_date": "2021-05-15 11:00:19",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1239073.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Любовь. Смерть. Роботы",
-      "title_en": "Love, Death &amp; Robots",
-      "year": 2019,
-      "kinopoisk_id": 1228254,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "212a7c2bd0c887d5091e9e2961d2bb351dcd6983daeca047650b447a687b29f1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-15 10:56:42",
-      "update_date": "2021-05-15 10:58:30",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1228254.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Лантернс Лейн",
+      "title_en": "Lantern's Lane",
+      "year": 2021,
+      "kinopoisk_id": 1359396,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-06 10:35:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Доктор",
+      "title_en": "Doctor",
+      "year": 2021,
+      "kinopoisk_id": 1330159,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-06 10:34:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Рождественские воры",
+      "title_en": "Christmas Thieves",
+      "year": 2021,
+      "kinopoisk_id": 2000289,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-06 10:33:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Правосудие Банни Кинг",
       "title_en": "The Justice of Bunny King",
       "year": 2021,
@@ -222,43 +261,42 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Почтальон-пекарь",
-      "title_en": "Bakerz Union",
-      "year": 2020,
-      "kinopoisk_id": 13061978,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-05 14:44:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Финч",
-      "title_en": "Finch",
-      "year": 2021,
-      "kinopoisk_id": 823616,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-05 09:19:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Герда",
+      "title_ru": "Золотой капкан",
       "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1311544,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-05 04:05:01",
-      "block": false,
+      "year": 2011,
+      "kinopoisk_id": 471793,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "3837b42f8f8c730f1d2511c2b4dbb4176926ab2ecd81c3b6ff609b43496f71e7",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-03-01 16:49:16",
+      "update_date": "2021-03-01 16:55:04",
+      "block": false,
       "translator_id": 92,
-      "quality": "WEB-DL"
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/471793.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Остров ненужных людей",
@@ -1386,52 +1424,6 @@
             17,
             18,
             19
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Робоцып",
-      "title_en": "Robot Chicken",
-      "year": 2005,
-      "kinopoisk_id": 258354,
-      "world_art_id": null,
-      "translator": "Jaskier",
-      "token": "850ceb25f41c9b5c5661e27c345ed5ea30ddc57f7f326947e8f1613726f7c934",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-26 17:07:53",
-      "update_date": "2021-02-26 17:08:44",
-      "block": false,
-      "translator_id": 36,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/258354.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 7,
-          "episodes_count": 20,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
           ]
         }
       ]

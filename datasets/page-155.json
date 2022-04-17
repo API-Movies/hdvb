@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Случайность и догадка",
+      "title_en": "Guzen to sozo",
+      "year": 2021,
+      "kinopoisk_id": 4362628,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-15 16:10:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Апокалипсис белой девчонки",
+      "title_en": "White Girl Apokalypse",
+      "year": 2021,
+      "kinopoisk_id": 4657037,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-15 15:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мужской взгляд: третий не лишний",
+      "title_en": "The Male Gaze: Three's Company",
+      "year": 2021,
+      "kinopoisk_id": 4543737,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-15 15:56:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Певец кантри",
       "title_en": "The Country Singer",
       "year": 2020,
@@ -222,43 +261,68 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Вторая подача",
-      "title_en": "Hum Do Hamare Do",
-      "year": 2021,
-      "kinopoisk_id": 1355547,
-      "type": "movie",
+      "title_ru": "Американские боги",
+      "title_en": "American Gods",
+      "year": 2017,
+      "kinopoisk_id": 591843,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "3e1ef00db3b225841b6b8917ffa2a7c8552e53ee3d48c24af6936de9da4354be",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-11-15 01:21:01",
+      "added_date": "2020-06-16 21:26:22",
+      "update_date": "2021-03-23 08:27:33",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дом с привидениями 4: Демоны",
-      "title_en": "Haunted 4: Demons",
-      "year": 2020,
-      "kinopoisk_id": 961361,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-15 01:20:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Страх перед чёрной планетой",
-      "title_en": "Fear of a Black Planet",
-      "year": 2021,
-      "kinopoisk_id": 4413212,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-15 01:19:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/591843.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=139987",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Однолюбы",
@@ -1131,36 +1195,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "В тихом омуте",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 45668051,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "ac15e1c27ec01d60e0a5b837edb6f9353ffb139fa8aedd23b68853078a370d20",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-20 20:34:58",
-      "update_date": "2021-03-20 20:37:41",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/45668051.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
           ]
         }
       ]

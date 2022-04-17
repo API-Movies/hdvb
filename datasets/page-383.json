@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Сон",
+      "title_en": "Schlaf",
+      "year": 2020,
+      "kinopoisk_id": 1346798,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-27 13:54:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Пламя свечи",
+      "title_en": "The Match-Stick Flame",
+      "year": 2019,
+      "kinopoisk_id": 1179111,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-27 13:20:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Закон Мойсея",
+      "title_en": "The Law of Moises",
+      "year": 2019,
+      "kinopoisk_id": 1054310,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-27 13:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Бразильская связь",
       "title_en": "The Brazilian Connection",
       "year": 2019,
@@ -222,43 +261,32 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Открытая ложь, сокрытые секреты часть 4",
-      "title_en": "The lies we tell but the secrets we keep part 4",
-      "year": 2019,
-      "kinopoisk_id": 1389228,
-      "type": "movie",
+      "title_ru": "Смягчающие обстоятельства",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 1044704,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "dc4b13c6ee82202f77780368a003b5a36c313d25aa30e2a155db92bf82533da9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-27 00:12:01",
+      "added_date": "2020-05-07 02:11:06",
+      "update_date": "2020-05-07 02:11:06",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Опра с Меган и Гарри: Специальный выпуск CBS Primetime",
-      "title_en": "Oprah with Meghan and Harry: A CBS Primetime Special",
-      "year": 2021,
-      "kinopoisk_id": 14117288,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-27 00:11:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дети Судьбы",
-      "title_en": "Figli del Destino",
-      "year": 2019,
-      "kinopoisk_id": 1228610,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-27 00:09:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1044704.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Практика",
@@ -1311,44 +1339,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Апачи",
-      "title_en": "Apaches",
-      "year": 2017,
-      "kinopoisk_id": 484465,
-      "world_art_id": null,
-      "translator": "Мобильное телевидение",
-      "token": "dff25dca17c0e98cf2aa32f657a039e6493c346691f8e23a1d4047ebb55bf44e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-04 23:00:24",
-      "update_date": "2020-05-04 23:00:24",
-      "block": false,
-      "translator_id": 133,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/484465.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

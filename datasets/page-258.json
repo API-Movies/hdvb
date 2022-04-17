@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Уондер",
+      "title_en": "Wander",
+      "year": 2020,
+      "kinopoisk_id": 1235421,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-04 21:23:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Легенда о Зелёном Рыцаре",
+      "title_en": "The Green Knight",
+      "year": 2021,
+      "kinopoisk_id": 1209476,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-04 18:09:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Бродящий по пустоши",
+      "title_en": "Zone Drifter",
+      "year": 2021,
+      "kinopoisk_id": 14730740,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-04 18:08:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Прилив",
       "title_en": "Whelm",
       "year": 2019,
@@ -222,43 +261,34 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Список",
-      "title_en": "No Knock List",
-      "year": 2019,
-      "kinopoisk_id": 1050291,
-      "type": "movie",
+      "title_ru": "Красота требует жертв",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1206352,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "c6724b03d749254d2ecc1dd781b3e63f84ce2e0ba154d259b10aee6a41deb9a3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-03 15:42:01",
+      "added_date": "2020-10-27 00:21:38",
+      "update_date": "2020-10-27 00:25:42",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Напряжённая схватка: Перезагрузка",
-      "title_en": "Intense Battles Reloaded",
-      "year": 2021,
-      "kinopoisk_id": 1343455,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-03 15:41:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Джинн: извратитель желаний",
-      "title_en": "Devil Djinn",
-      "year": 2021,
-      "kinopoisk_id": 1365933,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-03 15:40:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "HDTV",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1206352.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Робин Гуд",
@@ -1139,40 +1169,6 @@
         },
         {
           "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Смерть в раю",
-      "title_en": "Death in Paradise",
-      "year": 2011,
-      "kinopoisk_id": 592197,
-      "world_art_id": null,
-      "translator": "IdeaFilm",
-      "token": "2555e9af4c0a307cb8f6dc9b0f6b8ec669c778d9a841df23cac7581a7599ebbc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-23 23:42:12",
-      "update_date": "2020-10-25 23:44:28",
-      "block": false,
-      "translator_id": 35,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/592197.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 8,
           "episodes_count": 8,
           "episodes": [
             1,

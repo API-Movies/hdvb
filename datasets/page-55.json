@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Одна дурная привычка",
+      "title_en": "One Bad Habit",
+      "year": 2022,
+      "kinopoisk_id": 4746033,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-03-06 11:55:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "У Мэрилин чёрные глаза",
+      "title_en": "Marilyn ha gli occhi neri",
+      "year": 2021,
+      "kinopoisk_id": 1450726,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-03-06 11:53:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Великий",
+      "title_en": "Mahaan",
+      "year": 2022,
+      "kinopoisk_id": 4385049,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-03-06 11:52:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Святое семейство",
       "title_en": "La sainte famille",
       "year": 2019,
@@ -222,43 +261,134 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "В то время",
-      "title_en": "Zupa nic",
+      "title_ru": "Секс, Комната, Кухня, Ванная",
+      "title_en": "Sex Zimmer, Küche, Bad",
       "year": 2021,
-      "kinopoisk_id": 4510873,
-      "type": "movie",
+      "kinopoisk_id": 15135662,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "a4d7af19097256ad49bbcb189db86180d7d0f7faaeadf43c752957ce8a354513",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-03-05 16:26:01",
+      "added_date": "2021-12-24 09:29:29",
+      "update_date": "2021-12-24 09:30:17",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://i.ytimg.com/vi/B3PCVlELr_M/maxresdefault.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Разделитель",
-      "title_en": "The Divide",
-      "year": 2011,
-      "kinopoisk_id": null,
-      "type": "movie",
+      "title_ru": "В Филадельфии всегда солнечно",
+      "title_en": "It's Always Sunny in Philadelphia",
+      "year": 2005,
+      "kinopoisk_id": 401515,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "7cd49b86be61d003612c04d138c3d7b45d68484dd7ddd0c4de9867ffb3db1424",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "1970-01-01 03:00:00",
+      "added_date": "2019-11-22 20:00:12",
+      "update_date": "2021-12-24 09:14:28",
       "block": false,
-      "translator": "",
-      "translator_id": 0,
-      "quality": ""
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/401515.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=84727",
+      "serial_episodes": [
+        {
+          "season_number": 14,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 15,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Переводчик",
-      "title_en": "The Translator",
-      "year": 2020,
-      "kinopoisk_id": 1288122,
-      "type": "movie",
+      "title_ru": "Призраки",
+      "title_en": "Ghosts",
+      "year": 2019,
+      "kinopoisk_id": 1236766,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "75859ba3dafb3b82b8b864b965e821bbc453fae4b62cba7a8637ef2a3699ca74",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-03-05 11:20:01",
+      "added_date": "2020-09-23 16:12:11",
+      "update_date": "2021-12-24 09:13:36",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1236766.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 7,
+          "episodes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Колесо времени",
@@ -1110,118 +1240,6 @@
             16,
             17,
             18
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Шоу Снупи",
-      "title_en": "The Snoopy Show",
-      "year": 2021,
-      "kinopoisk_id": 1440400,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "fb9a3d4518ea6c3882b890d0dec6918b57fa211bf7897f4954f516947e26775d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-12-23 00:12:48",
-      "update_date": "2021-12-23 00:15:01",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1440400.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Остров фантазий",
-      "title_en": "Fantasy Island",
-      "year": 2021,
-      "kinopoisk_id": 4479877,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "ce35522d898ebfffc2d38954035fb9fb9e29d37e4e5aa9d3705d6ab320c58f9e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-08-09 16:19:47",
-      "update_date": "2021-12-23 00:11:38",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/4479877.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 11,
-          "episodes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Эмили в Париже",
-      "title_en": "Emily in Paris",
-      "year": 2020,
-      "kinopoisk_id": 1190441,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "07a34ad05e7f7c8747be88871bc50ba74fb90d72914da3e603c0be1071e98e79",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-12-22 12:54:16",
-      "update_date": "2021-12-22 19:03:11",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1190441.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Женщина",
+      "title_en": "Woman",
+      "year": 2019,
+      "kinopoisk_id": 1263355,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 19:08:02",
+      "block": false,
+      "translator": "Первый канал",
+      "translator_id": 94,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Порок",
+      "title_en": "Kalank",
+      "year": 2019,
+      "kinopoisk_id": 1075902,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 14:33:02",
+      "block": false,
+      "translator": "SDI Media",
+      "translator_id": 60,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Реальные пацаны против зомби",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1346360,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 08:15:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Легенда о волках",
       "title_en": "Wolfwalkers",
       "year": 2020,
@@ -222,43 +261,40 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Дело Коллини",
-      "title_en": "Der Fall Collini",
-      "year": 2019,
-      "kinopoisk_id": 1179501,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-08 07:57:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Академия монстров",
-      "title_en": "Cranston Academy: Monster Zone",
+      "title_ru": "Допрос",
+      "title_en": "Interrogation",
       "year": 2020,
-      "kinopoisk_id": 1197918,
-      "type": "movie",
+      "kinopoisk_id": 1232285,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "c4b74f6a87ef27f4d51b04d623714bf79e3cfc66515c41d3d1e5322c6eb7f2ce",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-08 07:56:01",
+      "added_date": "2020-02-15 13:32:09",
+      "update_date": "2020-02-15 13:32:09",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Страна чудес Вилли",
-      "title_en": "Willy's Wonderland",
-      "year": 2021,
-      "kinopoisk_id": 1319046,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-08 07:46:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1232285.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Гранчестер",
@@ -975,125 +1011,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Власть в ночном городе",
-      "title_en": "Power",
-      "year": 2014,
-      "kinopoisk_id": 818782,
-      "world_art_id": null,
-      "translator": "Amedia",
-      "token": "900d33b4f88a37a062a1b59fce98e8ca3ca04c1bb9c5a7d3513643d6b51606dc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-11 08:30:47",
-      "update_date": "2020-02-11 08:30:47",
-      "block": false,
-      "translator_id": 7,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/818782.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
           ]
         }
       ]

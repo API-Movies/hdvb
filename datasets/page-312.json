@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Поцелуй в сумерках",
+      "title_en": "Suk Suk",
+      "year": 2019,
+      "kinopoisk_id": 1306234,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-02 14:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Голые звери",
+      "title_en": "Nackte Tiere",
+      "year": 2020,
+      "kinopoisk_id": 1319091,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-02 14:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Раненные ветром",
+      "title_en": "Las heridas del viento",
+      "year": 2017,
+      "kinopoisk_id": 1005186,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-02 14:46:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Жду тебя",
       "title_en": "Waiting for You",
       "year": 2017,
@@ -222,43 +261,65 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Место среди мертвых",
-      "title_en": "A Place Among the Dead",
-      "year": 2020,
-      "kinopoisk_id": 1411109,
-      "type": "movie",
+      "title_ru": "Трансформеры",
+      "title_en": "Transformers: Animated",
+      "year": 2007,
+      "kinopoisk_id": 400004,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "84ca8f2e6ae151cad8a75e98c4c870c23a583b5d64078d94ecd02c384da872fc",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-02 14:22:01",
+      "added_date": "2020-08-21 03:37:43",
+      "update_date": "2020-08-21 03:41:21",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Цари войны",
-      "title_en": "Warrior Kings",
-      "year": 2021,
-      "kinopoisk_id": 53634734,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-02 00:07:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Кроссовки-убийцы",
-      "title_en": "Zapatillas asesinas",
-      "year": 2020,
-      "kinopoisk_id": 1402848,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-02 00:04:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/400004.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Трансформеры",
@@ -1112,38 +1173,6 @@
       "serial_episodes": [
         {
           "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Искусство преступления",
-      "title_en": "L\\'art du crime",
-      "year": 2017,
-      "kinopoisk_id": 1113109,
-      "world_art_id": null,
-      "translator": "GreenРай Studio",
-      "token": "a5410a4066a8204c71f51ce76c0b5eee2758831f2e11349c17cc7b5c2ddbb0a2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-19 23:49:45",
-      "update_date": "2020-08-19 23:50:42",
-      "block": false,
-      "translator_id": 143,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1113109.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 6,
           "episodes": [
             1,

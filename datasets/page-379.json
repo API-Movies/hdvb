@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Таверна дракона: Город печали",
+      "title_en": "Yongrugak: bijeongdosi",
+      "year": 2020,
+      "kinopoisk_id": 1402694,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-01 02:38:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Опасная экскурсия: похищенные с пляжа",
+      "title_en": "Deadly Excursion: Kidnapped from the Beach",
+      "year": 2021,
+      "kinopoisk_id": 4366945,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-01 02:37:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Порочный круг",
+      "title_en": "Ann Rule's Circle of Deception",
+      "year": 2021,
+      "kinopoisk_id": 1355579,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-01 02:36:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Хот-доги из свидетелей",
       "title_en": "Witness Infection",
       "year": 2021,
@@ -222,43 +261,36 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Туве",
-      "title_en": "Tove",
-      "year": 2020,
-      "kinopoisk_id": 1313412,
-      "type": "movie",
+      "title_ru": "Мэри и Майк",
+      "title_en": "Mary &amp; Mike",
+      "year": 2018,
+      "kinopoisk_id": 1113246,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "84c6de57b20894075bde0aa405d272ad81bee9f833e7949eb89c20350d1f1930",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-31 15:25:02",
+      "added_date": "2020-05-13 12:33:57",
+      "update_date": "2020-05-13 12:33:57",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Годзилла против Конга",
-      "title_en": "Godzilla vs. Kong",
-      "year": 2021,
-      "kinopoisk_id": 965936,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-31 15:24:01",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Злодей",
-      "title_en": "Villain",
-      "year": 2020,
-      "kinopoisk_id": 1246367,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-31 08:16:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1113246.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Флэш",
@@ -1025,34 +1057,6 @@
             1,
             2,
             3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кровь не вода",
-      "title_en": "",
-      "year": 2009,
-      "kinopoisk_id": 471567,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "7637a7d0bd373b02fea10a63c5548c9a037381bc1a8e14a7fe090e69daa98849",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-12 10:22:29",
-      "update_date": "2020-05-12 10:22:29",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/471567.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
           ]
         }
       ]

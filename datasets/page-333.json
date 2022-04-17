@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Кармен и Лола",
+      "title_en": "Carmen y Lola",
+      "year": 2018,
+      "kinopoisk_id": 1118731,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-12 17:39:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Чёрный день",
+      "title_en": "Black Day",
+      "year": 2018,
+      "kinopoisk_id": 1206533,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-12 17:38:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кислород",
+      "title_en": "Oxygène",
+      "year": 2021,
+      "kinopoisk_id": 1053302,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-12 12:44:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Спасти дочь",
       "title_en": "Double Kidnapped",
       "year": 2021,
@@ -222,43 +261,72 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Раз, еще раз",
-      "title_en": "Raz, jeszcze raz",
-      "year": 2020,
-      "kinopoisk_id": 1192437,
-      "type": "movie",
+      "title_ru": "Китай, Иллинойс",
+      "title_en": "China, IL",
+      "year": 2008,
+      "kinopoisk_id": 686348,
+      "world_art_id": null,
+      "translator": "2x2",
+      "token": "87fbcabe3e0a1a2ded28a192a139616b19f32139def8a2d06f0a8c4978f01cf8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-11 22:33:01",
+      "added_date": "2020-07-28 22:07:46",
+      "update_date": "2020-07-28 22:08:53",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Позднее лето",
-      "title_en": "Neujyeoreum",
-      "year": 2018,
-      "kinopoisk_id": 1048900,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-11 22:32:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Флакка 666",
-      "title_en": "Flakka 666",
-      "year": 2021,
-      "kinopoisk_id": 1157145,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-11 22:31:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 1,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/686348.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Последний кандидат: 60 дней",
@@ -1143,39 +1211,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Далеко от тебя",
-      "title_en": "Lejos De Ti (Love, Inevitably)",
-      "year": 2019,
-      "kinopoisk_id": 1120385,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "d6db8a486cdb9ba146a3e3bb5483e655b41b383de0122095a9f93c397fecb400",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-27 21:40:52",
-      "update_date": "2020-07-27 21:40:52",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1120385.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
           ]
         }
       ]

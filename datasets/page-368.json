@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Проект Эдем, часть 1",
+      "title_en": "Project Eden: Vol. I",
+      "year": 2017,
+      "kinopoisk_id": 913572,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-11 16:56:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "История призрачной девушки",
+      "title_en": "Sonyeogoedam",
+      "year": 2014,
+      "kinopoisk_id": 840265,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-11 16:55:01",
+      "block": false,
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "BluRay"
+    },
+    {
+      "title_ru": "Газели",
+      "title_en": "Les gazelles",
+      "year": 2013,
+      "kinopoisk_id": 749514,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-11 16:54:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Темная правда",
       "title_en": "A Dark Truth",
       "year": 2012,
@@ -222,43 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Øтражение",
-      "title_en": "The Broken",
-      "year": 2008,
-      "kinopoisk_id": 271907,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-10 11:04:01",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Я — жених",
-      "title_en": "",
+      "title_ru": "Сакральные игры",
+      "title_en": "Sacred Games",
       "year": 2018,
-      "kinopoisk_id": 1114934,
-      "type": "movie",
+      "kinopoisk_id": 1118195,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "c137557b4519d6f3b40c437430a5a5d4379adc4a40be84dd6b3c2a45469249b9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-10 11:03:01",
+      "added_date": "2020-05-31 09:23:57",
+      "update_date": "2020-05-31 09:23:57",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Нейтральные воды",
-      "title_en": "",
-      "year": 1968,
-      "kinopoisk_id": 46389,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-10 11:01:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "DVDRip"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1118195.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=149236",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Родина: Форт Салем",
@@ -951,42 +985,6 @@
             5,
             6,
             7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сирена",
-      "title_en": "Siren",
-      "year": 2018,
-      "kinopoisk_id": 1044468,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "31561946bbe096cde9965f01ba53a9028aa6cf2b38efa6ef585940657e373a66",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-29 14:19:53",
-      "update_date": "2020-05-29 14:19:53",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1044468.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

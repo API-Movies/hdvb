@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Человек-паук 3: Враг в отражении",
+      "title_en": "Spider-Man 3",
+      "year": 2007,
+      "kinopoisk_id": 82441,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-02 14:09:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Маруся фореva!",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1338093,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-02 08:56:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кёртис",
+      "title_en": "Curtis",
+      "year": 2021,
+      "kinopoisk_id": 1198064,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-01 22:10:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Расшифровано",
       "title_en": "Decrypted",
       "year": 2021,
@@ -222,43 +261,32 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Джастин Бибер: Наш мир",
-      "title_en": "Justin Bieber: Our World",
-      "year": 2021,
-      "kinopoisk_id": 4659059,
-      "type": "movie",
+      "title_ru": "Совсем чужие",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1313573,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "1a51fdda747eb801b96e75ca562956c0658015222226c293eb889c3cea9bdbd6",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-10-31 00:54:01",
+      "added_date": "2021-02-22 09:33:40",
+      "update_date": "2021-02-22 09:34:26",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "На всех парах. Путешествие в Астурию",
-      "title_en": "¡A todo tren! Destino Asturias",
-      "year": 2021,
-      "kinopoisk_id": 1423599,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-31 00:52:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Амадей",
-      "title_en": "National Theatre Live: Amadeus",
-      "year": 2017,
-      "kinopoisk_id": 1044810,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-10-30 17:12:01",
-      "block": false,
-      "translator": "Субтитры",
-      "translator_id": 97,
-      "quality": "HDTVRip"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://img.imgilall.me/movies/franchise/1/1/9/3/0/0/0/0/0/0/610x900_11930.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Счастье можно дарить",
@@ -1268,58 +1296,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Изгоняющий дьявола",
-      "title_en": "The Exorcist",
-      "year": 2016,
-      "kinopoisk_id": 961151,
-      "world_art_id": null,
-      "translator": "Amedia",
-      "token": "74c6e58e69eb5a5d35e8f5010dc0c04af9fafbe10fd653132a2d268c144d65d1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-02-20 19:57:54",
-      "update_date": "2021-02-20 20:02:36",
-      "block": false,
-      "translator_id": 7,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/961151.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

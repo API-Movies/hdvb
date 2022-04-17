@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Море волнуется раз",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4298812,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-15 20:19:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Чиновник",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4463981,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-15 20:18:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Память",
+      "title_en": "Memoria",
+      "year": 2021,
+      "kinopoisk_id": 1139584,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-15 13:46:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Пробный брак",
       "title_en": "The Starter Marriage",
       "year": 2021,
@@ -222,43 +261,77 @@
       "quality": ""
     },
     {
-      "title_ru": "Мясники",
-      "title_en": "Butchers",
-      "year": 2020,
-      "kinopoisk_id": 1179628,
-      "type": "movie",
+      "title_ru": "Я жив",
+      "title_en": "Estoy vivo",
+      "year": 2017,
+      "kinopoisk_id": 1112521,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "2d5808918bb5878f058fd62e8924539839853dfb7a287c90cfdc92cd8c8c62a4",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-14 17:30:01",
+      "added_date": "2021-03-12 08:21:12",
+      "update_date": "2021-06-12 09:24:22",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1112521.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Микстейп моих родителей",
-      "title_en": "Mixtape",
+      "title_ru": "Эдем",
+      "title_en": "Eden",
       "year": 2021,
-      "kinopoisk_id": 4726124,
-      "type": "movie",
+      "kinopoisk_id": 4422108,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "04c822c6c567310786035b5afb06ff8aaa93f7d5cf791fdc68ae58c362ffb87c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-14 17:29:01",
+      "added_date": "2021-06-12 09:23:05",
+      "update_date": "2021-06-12 09:23:50",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Разделитель",
-      "title_en": "The Divide",
-      "year": 2011,
-      "kinopoisk_id": null,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "1970-01-01 03:00:00",
-      "block": false,
-      "translator": "",
-      "translator_id": 0,
-      "quality": ""
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4422108.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Королева юга",
@@ -1071,103 +1144,6 @@
       "serial_episodes": [
         {
           "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чукур",
-      "title_en": "Çukur",
-      "year": 2017,
-      "kinopoisk_id": 1049380,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "ddf04cbbd08f2f3da73748d19f0fbb81f34d74925fecc13bf2f6a7b2ecb0a9ac",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-11 13:41:46",
-      "update_date": "2021-06-08 18:03:27",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1049380.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 39,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Метод Комински",
-      "title_en": "The Kominsky Method",
-      "year": 2018,
-      "kinopoisk_id": 1112254,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "829822f1178084be6bba0ef31f32bfebdc59252503b19a3e07a83311d37ac3eb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-06-08 09:15:17",
-      "update_date": "2021-06-08 09:16:01",
-      "block": false,
-      "translator_id": 60,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1112254.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
           "episodes_count": 6,
           "episodes": [
             1,

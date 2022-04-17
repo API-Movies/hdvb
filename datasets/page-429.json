@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Вилла",
+      "title_en": "La villa",
+      "year": 2017,
+      "kinopoisk_id": 1048348,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 12:11:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Вампирская глина",
+      "title_en": "Chi o su nendo",
+      "year": 2017,
+      "kinopoisk_id": 1048283,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 12:10:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Преступность умысла",
+      "title_en": "Xin li zui",
+      "year": 2017,
+      "kinopoisk_id": 1045670,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-16 12:09:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Ликвидатор",
       "title_en": "Xin li zui zhi cheng shi zhi guang",
       "year": 2017,
@@ -222,43 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Мэр",
-      "title_en": "Teukbyeolsimin",
-      "year": 2017,
-      "kinopoisk_id": 1006698,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 11:52:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Гарри Бенсон: Стреляй первым",
-      "title_en": "Harry Benson: Shoot First",
+      "title_ru": "3%",
+      "title_en": "3%",
       "year": 2016,
-      "kinopoisk_id": 1006664,
-      "type": "movie",
+      "kinopoisk_id": 1007455,
+      "world_art_id": null,
+      "translator": "HamsterStudio",
+      "token": "13f9fda2dcd8f10e7a370555cb9b390041dbbe17a6fdc34574083d6298f1ea63",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-16 11:51:01",
+      "added_date": "2019-08-31 12:53:24",
+      "update_date": "2019-08-31 12:54:04",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "На пляже",
-      "title_en": "Beaches",
-      "year": 2017,
-      "kinopoisk_id": 997300,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 11:50:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 32,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1007455.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135817",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Страна Рождества",
@@ -910,40 +944,6 @@
             6,
             8,
             9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Барри",
-      "title_en": "Barry",
-      "year": 2018,
-      "kinopoisk_id": 972587,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "1ad9f2b5fb461d8a0ab4fbef408834feada230a4497ee6ac8a1952f10988db0b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-08-27 11:29:52",
-      "update_date": "2019-08-27 11:30:34",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/972587.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=147763",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

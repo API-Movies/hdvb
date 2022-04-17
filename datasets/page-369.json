@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Øтражение",
+      "title_en": "The Broken",
+      "year": 2008,
+      "kinopoisk_id": 271907,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-10 11:04:01",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Я — жених",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1114934,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-10 11:03:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Нейтральные воды",
+      "title_en": "",
+      "year": 1968,
+      "kinopoisk_id": 46389,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-10 11:01:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "DVDRip"
+    },
+    {
       "title_ru": "Бывшая",
       "title_en": "",
       "year": 2021,
@@ -222,43 +261,40 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Шанхай",
-      "title_en": "Shanghai",
-      "year": 2010,
-      "kinopoisk_id": 413449,
-      "type": "movie",
+      "title_ru": "Сирена",
+      "title_en": "Siren",
+      "year": 2018,
+      "kinopoisk_id": 1044468,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "31561946bbe096cde9965f01ba53a9028aa6cf2b38efa6ef585940657e373a66",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-09 22:32:01",
+      "added_date": "2020-05-29 14:19:53",
+      "update_date": "2020-05-29 14:19:53",
       "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Смерть свадебного свидетеля",
-      "title_en": "Best Man Down",
-      "year": 2013,
-      "kinopoisk_id": 719705,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-09 18:50:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Потерянный Валентин",
-      "title_en": "The Lost Valentine",
-      "year": 2011,
-      "kinopoisk_id": 568453,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-09 18:37:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1044468.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Знаки",
@@ -1597,38 +1633,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Пуленепробиваемые",
-      "title_en": "Bulletproof",
-      "year": 2018,
-      "kinopoisk_id": 1132323,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "c963bcb7e0331b153002f4f39e9865cfec42ff6d3aeb1564c19aa8dd587bca49",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-27 14:30:24",
-      "update_date": "2020-05-27 14:30:24",
-      "block": false,
-      "translator_id": 48,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/1132323.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

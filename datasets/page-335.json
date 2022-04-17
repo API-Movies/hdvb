@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "А завтра весь мир",
+      "title_en": "Und morgen die ganze Welt",
+      "year": 2020,
+      "kinopoisk_id": 1265405,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-11 15:25:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "2149: Последствия войны",
+      "title_en": "Confinement / 2149: The Aftermath",
+      "year": 2021,
+      "kinopoisk_id": 4398028,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-11 15:24:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сопротивление",
+      "title_en": "Resistance",
+      "year": 2020,
+      "kinopoisk_id": 1048854,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-11 15:23:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Извержение",
       "title_en": "Baekdusan",
       "year": 2019,
@@ -222,43 +261,42 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Домашняя битва",
-      "title_en": "Domestic Warfare",
-      "year": 2019,
-      "kinopoisk_id": 1294689,
-      "type": "movie",
+      "title_ru": "Следственный отдел старичков-красавчиков",
+      "title_en": "Kkothalbae susadae",
+      "year": 2014,
+      "kinopoisk_id": 841541,
+      "world_art_id": null,
+      "translator": "двухголосый закадровый",
+      "token": "8486b1fc5494dc87838364954d52f0f57522a827d4742a15aff3d2f4c6d606c5",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-10 19:52:02",
+      "added_date": "2020-07-26 17:19:08",
+      "update_date": "2020-07-26 17:19:08",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Меч судьбы",
-      "title_en": "Sword of Destiny",
-      "year": 2021,
-      "kinopoisk_id": 4441735,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-10 19:50:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Картинка в доме",
-      "title_en": "The Picture in the House",
-      "year": 2020,
-      "kinopoisk_id": 9574384,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-10 19:49:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 81,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/841541.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Тодд и книга чистого зла",
@@ -1457,43 +1495,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Слепая зона",
-      "title_en": "Blindspot",
-      "year": 2015,
-      "kinopoisk_id": 894877,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "ed9dd4b356b1c1983eddaefac4051f190f36df00dda9bb5ab94c97fa9c4dc2ee",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-24 17:49:36",
-      "update_date": "2020-07-24 17:49:36",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/894877.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 5,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
           ]
         }
       ]

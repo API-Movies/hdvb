@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Власть пса",
+      "title_en": "The Power of the Dog",
+      "year": 2021,
+      "kinopoisk_id": 1262931,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-05 22:58:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Веном 2",
+      "title_en": "Venom: Let There Be Carnage",
+      "year": 2021,
+      "kinopoisk_id": 1227967,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-05 22:57:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Лакричная пицца",
+      "title_en": "Licorice Pizza",
+      "year": 2021,
+      "kinopoisk_id": 1320623,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-04 21:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Рождественское пополнение в семье Лиддл",
       "title_en": "Merry Liddle Christmas Baby",
       "year": 2021,
@@ -222,43 +261,75 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Американский убийца",
-      "title_en": "American Sicario",
+      "title_ru": "Сержант",
+      "title_en": "",
       "year": 2021,
-      "kinopoisk_id": 1446843,
-      "type": "movie",
+      "kinopoisk_id": 1320529,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "05b84ff6ddecaee86d6ddc57477f8cfc7140de3f94d95bf82438f549b289ba67",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-03 20:23:01",
+      "added_date": "2021-05-03 17:09:15",
+      "update_date": "2021-05-04 00:21:11",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1320529.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Вот это вечерок",
-      "title_en": "Twas the Night",
-      "year": 2021,
-      "kinopoisk_id": 1404077,
-      "type": "movie",
+      "title_ru": "Любовь в рабочие недели",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 4382262,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "d4d95f754f60b31c9c3fe6dbc439553ae386f3275ff0ef37d27fa7693bdde4c2",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-03 20:22:01",
+      "added_date": "2021-03-28 10:50:46",
+      "update_date": "2021-05-03 22:36:55",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дом",
-      "title_en": "Home",
-      "year": 2021,
-      "kinopoisk_id": 1271786,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-12-03 20:19:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4382262.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 15,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Тайны Броукенвуда",
@@ -1042,70 +1113,6 @@
             22,
             23,
             24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мужские каникулы",
-      "title_en": "",
-      "year": 2014,
-      "kinopoisk_id": 842907,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "a0842ca37e138a79c6d28425cd31ea179e11865ca4107975b3a1fdc695bef7fd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-04-30 14:22:19",
-      "update_date": "2021-04-30 14:24:38",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/842907.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Неуязвимый",
-      "title_en": "Invincible",
-      "year": 2021,
-      "kinopoisk_id": 1171895,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "c660539aa84ebafe038b33cc2d6bd76e0b925f4b63258b2101c0acb2e4b87276",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-26 10:26:02",
-      "update_date": "2021-04-30 09:17:26",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1171895.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

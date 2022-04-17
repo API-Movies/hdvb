@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Пикси",
+      "title_en": "Pixie",
+      "year": 2020,
+      "kinopoisk_id": 1296668,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-28 15:51:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Праздник к Нам Приходит",
+      "title_en": "Tis the Season",
+      "year": 2020,
+      "kinopoisk_id": 13475542,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-28 12:39:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Беспокойная кукла",
+      "title_en": "The Worry Doll",
+      "year": 2019,
+      "kinopoisk_id": 1208307,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-28 12:37:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Родители",
       "title_en": "Parents - Wir Eltern",
       "year": 2019,
@@ -222,43 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Сон",
-      "title_en": "Schlaf",
-      "year": 2020,
-      "kinopoisk_id": 1346798,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-27 13:54:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Пламя свечи",
-      "title_en": "The Match-Stick Flame",
+      "title_ru": "Избранные",
+      "title_en": "The Chosen",
       "year": 2019,
-      "kinopoisk_id": 1179111,
-      "type": "movie",
+      "kinopoisk_id": 1332885,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "d1bba5d84bd82c84cc2b3ab3c9634ede9ffa25e4311a10882f804cf3185da05e",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-27 13:20:01",
+      "added_date": "2020-05-08 22:45:01",
+      "update_date": "2020-05-08 22:45:01",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Закон Мойсея",
-      "title_en": "The Law of Moises",
-      "year": 2019,
-      "kinopoisk_id": 1054310,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-27 13:19:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1332885.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Лощина",
@@ -935,34 +969,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Смягчающие обстоятельства",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 1044704,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "dc4b13c6ee82202f77780368a003b5a36c313d25aa30e2a155db92bf82533da9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-07 02:11:06",
-      "update_date": "2020-05-07 02:11:06",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1044704.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
           ]
         }
       ]

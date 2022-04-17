@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "День живых мертвецов",
+      "title_en": "The Day of the Living Dead",
+      "year": 2020,
+      "kinopoisk_id": 1356130,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-04 22:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ужас у пруда Бигфута",
+      "title_en": "Terror at Bigfoot Pond",
+      "year": 2020,
+      "kinopoisk_id": 1428762,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-04 22:16:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Играй бесплатно",
+      "title_en": "Play for Free",
+      "year": 2020,
+      "kinopoisk_id": 13561130,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-04 22:15:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Повёрнутые на комиксах",
       "title_en": "Comic Book Junkies",
       "year": 2020,
@@ -222,43 +261,72 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Просто скажи да",
-      "title_en": "Just Say Yes",
-      "year": 2021,
-      "kinopoisk_id": 1371834,
-      "type": "movie",
+      "title_ru": "Гранчестер",
+      "title_en": "Grantchester",
+      "year": 2014,
+      "kinopoisk_id": 840574,
+      "world_art_id": null,
+      "translator": "ТВЦ",
+      "token": "98ae45643cb60d8c46a2905b71d890750745f7056c8b6e74c4704fc4fa6b7a24",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-04 05:47:01",
+      "added_date": "2020-05-17 23:03:36",
+      "update_date": "2020-05-17 23:03:36",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Пробуждение зверя",
-      "title_en": "Dawn of the Beast",
-      "year": 2021,
-      "kinopoisk_id": 1447303,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-04 05:46:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Без корней нет плодов",
-      "title_en": "No Root No Fruit",
-      "year": 2021,
-      "kinopoisk_id": 80430644,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-04 01:03:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 136,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/840574.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Незнакомец",
@@ -1221,38 +1289,6 @@
             13,
             14,
             15
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сантос Дюмон",
-      "title_en": "Santos Dumont",
-      "year": 2019,
-      "kinopoisk_id": 1266723,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "37c4d2712bbb70fd59512210a91b832c685f5acffa1c4ce516ae7e8b451089bd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-16 21:32:13",
-      "update_date": "2020-05-16 21:32:13",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1266723.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

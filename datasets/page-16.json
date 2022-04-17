@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Ночь в долине",
+      "title_en": "Vale Night",
+      "year": 2022,
+      "kinopoisk_id": 4784313,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-04 11:12:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Тест",
+      "title_en": "Le test",
+      "year": 2021,
+      "kinopoisk_id": 4512151,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-04 11:10:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Бесконечная буря",
+      "title_en": "Infinite Storm",
+      "year": 2022,
+      "kinopoisk_id": 4367421,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-04 11:08:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Первое",
       "title_en": "Firstness",
       "year": 2021,
@@ -222,43 +261,208 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Слишком крут для убийства",
-      "title_en": "Zhe ge sha shou bu tai leng jing",
-      "year": 2022,
-      "kinopoisk_id": 4746644,
-      "type": "movie",
+      "title_ru": "Ходячие мертвецы",
+      "title_en": "The Walking Dead",
+      "year": 2010,
+      "kinopoisk_id": 508161,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "3ecb883a33dd744af67bfb64c9959e34f4292329d839a4e1b6c86da67f22a5c9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-04-03 15:20:01",
+      "added_date": "2021-08-15 13:54:06",
+      "update_date": "2022-04-03 14:57:07",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/508161.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 11,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Зловещая тыква",
-      "title_en": "The Spooky Pumpkin",
-      "year": 2020,
-      "kinopoisk_id": 1397842,
-      "type": "movie",
+      "title_ru": "Убивая Еву",
+      "title_en": "Killing Eve",
+      "year": 2018,
+      "kinopoisk_id": 1046229,
+      "world_art_id": null,
+      "translator": "Amedia",
+      "token": "6bd7283add652110161f879d4acfe7784da8f3d4f4d39be13a1c11557db3899d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-04-03 15:18:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "added_date": "2020-06-14 17:29:13",
+      "update_date": "2022-04-03 13:34:36",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator_id": 7,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1046229.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=148398",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Дикие: Начало",
-      "title_en": "Savage Genesis",
-      "year": 2020,
-      "kinopoisk_id": 45678967,
-      "type": "movie",
+      "title_ru": "Я тебя слышу",
+      "title_en": "Neoui moksoriga deulleo",
+      "year": 2013,
+      "kinopoisk_id": 765093,
+      "world_art_id": null,
+      "translator": "Мобильное телевидение",
+      "token": "830c1cfd3169862b3be325fd0b4e8268b993d8ff8f88db416334d7cd696c10ec",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-04-03 15:16:01",
+      "added_date": "2022-04-03 13:26:23",
+      "update_date": "2022-04-03 13:28:19",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 133,
+      "quality": "WEB-DL",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/765093.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ван Дер Валк",
+      "title_en": "Van Der Valk",
+      "year": 2020,
+      "kinopoisk_id": 1274303,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "a7cbbb2fe3f5bfe4de9320f2dfacdc1567d4ba97f8d2b82b75fc9f370fcccb7c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-02-09 09:18:22",
+      "update_date": "2022-04-03 09:51:20",
+      "block": false,
+      "translator_id": 60,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1274303.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Вторая жена",
@@ -987,155 +1191,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бель-Эйр",
-      "title_en": "Bel-Air",
-      "year": 2022,
-      "kinopoisk_id": 1400526,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "3b7a027a2930eda4dc1eaeff0276f057aaf487817b9faac4ca62d3906ded0c70",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2022-02-13 22:17:30",
-      "update_date": "2022-03-31 20:23:16",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1400526.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сыграй моего мужа",
-      "title_en": "",
-      "year": 2022,
-      "kinopoisk_id": 457056573,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "54c94c288eb7209271a4aed88def8fb03724e55a194c1be24b3d4e52135f5684",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2022-03-28 15:21:29",
-      "update_date": "2022-03-31 18:43:01",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://i116.fastpic.org/big/2022/0328/5c/e8be134936a09b8d25b72980d24e735c.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Модный синдикат",
-      "title_en": "",
-      "year": 2022,
-      "kinopoisk_id": 4868245,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "2482cfd17e940d148ba4000e177a0565918bd023716b13899c62cba253329a3f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2022-03-14 20:24:59",
-      "update_date": "2022-03-31 18:42:51",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4868245.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 17,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дикие",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 4327116,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "e3a79ddc94d9279d20981e2cb2fea39dfbd47c4c86551bc78777a2c3979a3709",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2022-01-24 02:38:26",
-      "update_date": "2022-03-31 18:42:41",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://i7.imageban.ru/out/2022/01/23/ba46403a70d65b499f35ac0c117f372d.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
           ]
         }
       ]

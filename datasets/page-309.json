@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Один день",
+      "title_en": "Egy nap",
+      "year": 2018,
+      "kinopoisk_id": 1118538,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-05 23:57:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Холодная ловушка",
+      "title_en": "Cold Comfort",
+      "year": 2020,
+      "kinopoisk_id": 1142862,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-05 23:56:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Эзуг Назаре",
+      "title_en": "Azougue Nazaré",
+      "year": 2018,
+      "kinopoisk_id": 1139962,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-05 23:54:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Больница",
       "title_en": "Xing lin yi yuan",
       "year": 2020,
@@ -222,43 +261,50 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Путешествие к морю",
-      "title_en": "Qin mi lu xing",
-      "year": 2019,
-      "kinopoisk_id": 1348818,
-      "type": "movie",
+      "title_ru": "Под сетью",
+      "title_en": "Bajo la red",
+      "year": 2018,
+      "kinopoisk_id": 1122643,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "1d8242c617ee899b7665d2f2e1a7bfc52c92ae46b56f2c414fd1cd892ef5a562",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-05 00:32:01",
+      "added_date": "2020-08-12 20:48:14",
+      "update_date": "2020-08-25 17:49:43",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Синий час",
-      "title_en": "Blue Hour / Burûawâ ni buttobasu",
-      "year": 2019,
-      "kinopoisk_id": 10309218,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-04 22:50:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Обещание бабочки",
-      "title_en": "The Promise of the Butterfly",
-      "year": 2019,
-      "kinopoisk_id": 1284209,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-04 22:48:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1122643.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Ва-банк",
@@ -1193,45 +1239,6 @@
             17,
             18,
             19
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Остров Харпера",
-      "title_en": "Harper\\'s Island",
-      "year": 2009,
-      "kinopoisk_id": 455381,
-      "world_art_id": null,
-      "translator": "СВ-Дубль",
-      "token": "c4b23b933570ea09ae00e0afdb417b0b933e6132f1ea76a4eb02160ff45f7663",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-24 09:16:15",
-      "update_date": "2020-08-24 09:16:58",
-      "block": false,
-      "translator_id": 166,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/455381.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

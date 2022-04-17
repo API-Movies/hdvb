@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Дом",
+      "title_en": "La Casa",
+      "year": 2019,
+      "kinopoisk_id": 1220143,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-23 23:09:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Форнасис",
+      "title_en": "Fornacis",
+      "year": 2018,
+      "kinopoisk_id": 1146658,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-23 23:08:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Праздник Нибиру",
+      "title_en": "Fiesta Nibiru",
+      "year": 2019,
+      "kinopoisk_id": 1311912,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-23 22:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Ешь, играй, люби",
       "title_en": "Nai-Kai-Jeow / Eat, Play, Laugh",
       "year": 2017,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Серебряные звёзды на алом бархате",
-      "title_en": "Silver Stars on Red Velvet",
-      "year": 2019,
-      "kinopoisk_id": 1141019,
-      "type": "movie",
+      "title_ru": "Уилл",
+      "title_en": "Will",
+      "year": 2017,
+      "kinopoisk_id": 978869,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "605e4009eb925c1a6fb591cb86e2bed0a4eb87e3d4d1de6f5cfbe27b1e7ae923",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-23 15:22:01",
+      "added_date": "2020-06-25 19:54:39",
+      "update_date": "2020-06-25 19:54:39",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Искупление на пасху",
-      "title_en": "Redemption for Easter",
-      "year": 2021,
-      "kinopoisk_id": 14154440,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-23 15:21:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Измерения 2: Пятое измерение",
-      "title_en": "Realm's 2 the 5th Dimension",
-      "year": 2019,
-      "kinopoisk_id": 1052880,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-23 14:55:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/978869.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Петербург. Любовь. До востребования",
@@ -1126,44 +1162,6 @@
         },
         {
           "season_number": 4,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Оккультные служащие полуночи",
-      "title_en": "Mayonaka no Occult Koumuin",
-      "year": 2019,
-      "kinopoisk_id": 1263120,
-      "world_art_id": null,
-      "translator": "AniLibria",
-      "token": "b6a93900a305b96df3546d79dea9f170555b2162e1e9cc5e5549244a51766a99",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-23 22:20:17",
-      "update_date": "2020-06-23 22:20:17",
-      "block": false,
-      "translator_id": 10,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1263120.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 12,
           "episodes": [
             1,

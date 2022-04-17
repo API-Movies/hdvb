@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Путешествие к морю",
+      "title_en": "Qin mi lu xing",
+      "year": 2019,
+      "kinopoisk_id": 1348818,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-05 00:32:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Синий час",
+      "title_en": "Blue Hour / Burûawâ ni buttobasu",
+      "year": 2019,
+      "kinopoisk_id": 10309218,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-04 22:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Обещание бабочки",
+      "title_en": "The Promise of the Butterfly",
+      "year": 2019,
+      "kinopoisk_id": 1284209,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-06-04 22:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Мрачный жнец",
       "title_en": "Soul Reaper",
       "year": 2019,
@@ -222,43 +261,43 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Вилла Бэлла",
-      "title_en": "Villa Bella",
-      "year": 2019,
-      "kinopoisk_id": 10879980,
-      "type": "movie",
+      "title_ru": "Остров Харпера",
+      "title_en": "Harper\\'s Island",
+      "year": 2009,
+      "kinopoisk_id": 455381,
+      "world_art_id": null,
+      "translator": "СВ-Дубль",
+      "token": "c4b23b933570ea09ae00e0afdb417b0b933e6132f1ea76a4eb02160ff45f7663",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-06-03 22:28:01",
+      "added_date": "2020-08-24 09:16:15",
+      "update_date": "2020-08-24 09:16:58",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Акульи контакты третьей степени",
-      "title_en": "Shark Encounters of the Third Kind",
-      "year": 2020,
-      "kinopoisk_id": 1416048,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-03 22:26:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Католички",
-      "title_en": "Our Ladies",
-      "year": 2019,
-      "kinopoisk_id": 1228352,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-06-03 22:25:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 166,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/455381.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Пираты семи морей: Черная борода",
@@ -1497,61 +1536,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Страшилки",
-      "title_en": "Creeped Out",
-      "year": 2017,
-      "kinopoisk_id": 1199474,
-      "world_art_id": null,
-      "translator": "HDrezka Studio",
-      "token": "71765f260ed02f91e2415d608a0cdfea54416108bb0f6eebf4259e5803741bb0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-08-22 21:03:29",
-      "update_date": "2020-08-22 21:05:05",
-      "block": false,
-      "translator_id": 33,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1199474.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

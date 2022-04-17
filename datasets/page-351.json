@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Большая игра",
+      "title_en": "The Great Charade",
+      "year": 2019,
+      "kinopoisk_id": 1232227,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-25 20:52:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Урок для негра",
+      "title_en": "The Education of a Negro",
+      "year": 2019,
+      "kinopoisk_id": 1184426,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-25 20:51:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Смертельная клятва",
+      "title_en": "The Death Pledge",
+      "year": 2019,
+      "kinopoisk_id": 1119246,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-04-25 20:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Восстание Вальхаллы",
       "title_en": "The Rise of Valhalla",
       "year": 2019,
@@ -222,43 +261,40 @@
       "quality": "BDRip"
     },
     {
-      "title_ru": "Хищники",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1392490,
-      "type": "movie",
+      "title_ru": "Отдел 42",
+      "title_en": "Unité 42",
+      "year": 2017,
+      "kinopoisk_id": 1275280,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "595257706e1d79d63964a2538a0750a6e348fb3e8e645f29c7850a49c5b671d0",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-04-25 11:49:01",
+      "added_date": "2020-06-30 21:55:25",
+      "update_date": "2020-06-30 21:55:25",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Под прицелом",
-      "title_en": "Framed",
-      "year": 2021,
-      "kinopoisk_id": 1289895,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-25 11:48:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Парни из деревенского ада",
-      "title_en": "Boys from County Hell",
-      "year": 2020,
-      "kinopoisk_id": 1262090,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-04-25 11:46:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1275280.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Сумасшедшие",
@@ -1034,42 +1070,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Как выжить, будучи одиноким",
-      "title_en": "Cómo Sobrevivir Soltero (How to Survive Being Single)",
-      "year": 2020,
-      "kinopoisk_id": 1255021,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "7cef4e071e1d88437873bdf90930d272eb3498788e735fd86612b4d5771755d5",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-06-29 11:07:13",
-      "update_date": "2020-06-29 11:07:13",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1255021.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

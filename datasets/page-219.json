@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Грейс и Салим",
+      "title_en": "Grace &amp; Saleem",
+      "year": 2020,
+      "kinopoisk_id": 10649220,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-14 10:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Первая леди 3: Расплата",
+      "title_en": "First Lady 3",
+      "year": 2021,
+      "kinopoisk_id": 4482815,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-14 10:48:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Настоящий друг",
+      "title_en": "El Amigo Visible",
+      "year": 2021,
+      "kinopoisk_id": 1426823,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-14 10:47:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "За пределами невзгод",
       "title_en": "Beyond Adversity",
       "year": 2021,
@@ -222,43 +261,46 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Домохозяйка",
-      "title_en": "HouseSitter",
-      "year": 1992,
-      "kinopoisk_id": 9206,
-      "type": "movie",
+      "title_ru": "Фокусники",
+      "title_en": "Jeogeulreosu",
+      "year": 2017,
+      "kinopoisk_id": 1049344,
+      "world_art_id": null,
+      "translator": "двухголосый закадровый",
+      "token": "83a9b865c96ff5708c6b0415b7180628603fa668f767d8a1c6e501eb2b4b9349",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-09-13 12:41:01",
+      "added_date": "2020-12-14 22:13:10",
+      "update_date": "2020-12-14 22:14:16",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "В постели с врагом",
-      "title_en": "Sleeping with the Enemy",
-      "year": 1991,
-      "kinopoisk_id": 8157,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-13 12:40:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Беглый огонь",
-      "title_en": "Rapid Fire",
-      "year": 1992,
-      "kinopoisk_id": 13705,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-13 12:39:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
+      "translator_id": 81,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1049344.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Весело счастливо",
@@ -1091,42 +1133,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дикарки",
-      "title_en": "The Wilds",
-      "year": 2020,
-      "kinopoisk_id": 1179554,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "a35d402266b4c9d67ad282cb5d35bd39aad18be0f88a28307bec54173fef07cd",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-12 09:29:02",
-      "update_date": "2020-12-13 10:11:14",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1179554.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

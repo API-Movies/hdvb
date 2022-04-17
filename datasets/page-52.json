@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Брат во всём",
+      "title_en": "",
+      "year": 2022,
+      "kinopoisk_id": 4830642,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-03-10 01:19:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Космическое радио",
+      "title_en": "Cosmic Radio",
+      "year": 2022,
+      "kinopoisk_id": 8403061,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-03-09 23:40:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Гранит",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4761862,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-03-09 23:39:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Земля Голубых озёр",
       "title_en": "The Land of Blue Lakes",
       "year": 2021,
@@ -222,43 +261,105 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Американский психопат",
-      "title_en": "American Psycho",
-      "year": 2000,
-      "kinopoisk_id": 588,
-      "type": "movie",
+      "title_ru": "Кицбюэль",
+      "title_en": "Kitz",
+      "year": 2021,
+      "kinopoisk_id": 1369591,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "f2dad23f728b371d498f53c96b390ed3fac9163321f3166c3f43ec8345ddc8b7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-03-09 18:25:01",
+      "added_date": "2021-12-30 15:28:30",
+      "update_date": "2021-12-30 17:57:30",
       "block": false,
-      "translator": "Профессиональный (двухголосый)",
-      "translator_id": 162,
-      "quality": "BDRip"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGViZGM4ZDQtNTRlOC00OGI5LWIzMWMtMmYwNjY3YTFhZjQ4XkEyXkFqcGdeQXVyMzMzMTYwOTE@._V1_FMjpg_UX1000_.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Прототип",
-      "title_en": "The Prototype",
-      "year": 2022,
-      "kinopoisk_id": 572653,
-      "type": "movie",
+      "title_ru": "Вампиры средней полосы",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1224067,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "7cc68d78ebcd0212fb074cded328208e272c240320aae4baed871f4e0f046957",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-03-09 00:18:01",
+      "added_date": "2021-03-18 01:21:44",
+      "update_date": "2021-12-30 16:32:37",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1224067.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Девочка с горы",
-      "title_en": "The Girl on the Mountain",
-      "year": 2022,
-      "kinopoisk_id": 1349784,
-      "type": "movie",
+      "title_ru": "Солдаут",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4430109,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "e9ff1d71481498cfe19197a130fd0ef762640acf13c7a30460871685a8a91448",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-03-09 00:17:01",
+      "added_date": "2021-12-10 00:10:30",
+      "update_date": "2021-12-30 16:31:23",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/4430109.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Собор",
@@ -941,140 +1042,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ветер в лицо",
-      "title_en": "",
-      "year": 2014,
-      "kinopoisk_id": 839987,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "8de588cb28daf299558497d503c19b84f8b97b26b9c1723c3bf4e5c8dceb7ecb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-12-28 18:47:06",
-      "update_date": "2021-12-28 18:50:23",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/839987.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Волчье солнце",
-      "title_en": "",
-      "year": 2014,
-      "kinopoisk_id": 806717,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "b4289059a22dd122ff5752e03aba7c4e2a3476fd9b79cfb2e8eb20852b19a3de",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-12-28 18:47:47",
-      "update_date": "2021-12-28 18:50:20",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/806717.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Затерянные в космосе",
-      "title_en": "Lost in Space",
-      "year": 2018,
-      "kinopoisk_id": 993176,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "ed13c4b4c6cf7151cc3ae62219d774090c8f7f4b6cca04f95fef1d232de1576b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-03 00:21:26",
-      "update_date": "2021-12-28 15:52:10",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/993176.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=147584",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

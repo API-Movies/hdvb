@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Эдди",
+      "title_en": "Eddie",
+      "year": 2021,
+      "kinopoisk_id": 1171844,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-14 17:19:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кровавые обряды вампира",
+      "title_en": "Blood Rites of the Vampyr",
+      "year": 2020,
+      "kinopoisk_id": 1332300,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-14 17:18:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Кровавое сестринство",
+      "title_en": "Blood Pi",
+      "year": 2020,
+      "kinopoisk_id": 927910,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-14 17:17:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Малыш на районе",
       "title_en": "Baby N The Hood",
       "year": 2021,
@@ -222,43 +261,32 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Бессонные ночи: настоящий дом с привидениями",
-      "title_en": "The Sleepless Unrest: The Real Conjuring Home",
-      "year": 2021,
-      "kinopoisk_id": 4493015,
-      "type": "movie",
+      "title_ru": "По ту сторону счастья",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 567857465,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "1c8e1aab841bc35d122654abb4b29936d42c71561eeb252e1f503dcaf0c30de9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-14 01:05:01",
+      "added_date": "2020-10-03 20:52:49",
+      "update_date": "2020-10-06 15:40:37",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Оборотень",
-      "title_en": "Skinwalker",
-      "year": 2021,
-      "kinopoisk_id": 1389910,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-07-14 01:03:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ривер",
-      "title_en": "River",
-      "year": 2021,
-      "kinopoisk_id": 1419201,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-07-14 01:02:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/567857465.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Териус у меня за спиной",
@@ -1325,40 +1353,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Земля монстров",
-      "title_en": "Monsterland",
-      "year": 2020,
-      "kinopoisk_id": 1273277,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "08c82aa45388dbe3ba0f699c31dbed5e338995d954bf523aff4631d336d04c24",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-03 09:24:34",
-      "update_date": "2020-10-03 10:08:04",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1273277.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

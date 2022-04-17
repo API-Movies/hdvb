@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Вызов ограничен",
+      "title_en": "Balsinjehan",
+      "year": 2021,
+      "kinopoisk_id": 1387171,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-30 15:27:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Обитатели",
+      "title_en": "The Lodgers",
+      "year": 2017,
+      "kinopoisk_id": 992614,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-30 15:26:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Нули и единицы",
+      "title_en": "Zeros and Ones",
+      "year": 2021,
+      "kinopoisk_id": 1447100,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-30 15:25:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Разделитель",
       "title_en": "The Divide",
       "year": 2011,
@@ -222,43 +261,78 @@
       "quality": ""
     },
     {
-      "title_ru": "Город тайн",
-      "title_en": "The Dry",
-      "year": 2020,
-      "kinopoisk_id": 1217828,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-12-30 15:07:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Разделитель",
-      "title_en": "The Divide",
-      "year": 2011,
-      "kinopoisk_id": null,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "1970-01-01 03:00:00",
-      "block": false,
-      "translator": "",
-      "translator_id": 0,
-      "quality": ""
-    },
-    {
-      "title_ru": "В тысяче километров от рождества",
-      "title_en": "A mil kilómetros de la Navidad",
+      "title_ru": "Ходячие мертвецы: Начало",
+      "title_en": "The Walking Dead: Origins",
       "year": 2021,
-      "kinopoisk_id": 4412509,
-      "type": "movie",
+      "kinopoisk_id": 1854192,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "0284bf01b7a59e9aafd0b5188d0bf8d3bab8c160be11d5a39ef0c54b9365f863",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-30 15:05:02",
+      "added_date": "2021-07-16 08:37:29",
+      "update_date": "2021-08-05 16:49:17",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1854192.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Жвачка",
+      "title_en": "Chewing Gum",
+      "year": 2015,
+      "kinopoisk_id": 957391,
+      "world_art_id": null,
+      "translator": "DoubleRec",
+      "token": "eb56355849b8719bb5b0c2e36ecb913193ee9e20c75023a1af5b4fc0782431fd",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-08-04 21:23:27",
+      "update_date": "2021-08-04 21:24:01",
+      "block": false,
+      "translator_id": 175,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/957391.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Код 37: Отдел секс-преступлений",
@@ -1347,72 +1421,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Локи",
-      "title_en": "Loki",
-      "year": 2021,
-      "kinopoisk_id": 1203039,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "8e6a09dc0fe043c52691875d05958179850109a45291615dc8592a2c8bcaadbf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-06-12 04:36:46",
-      "update_date": "2021-08-01 14:08:54",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1203039.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Пищеблок",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1405843,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "3d691eee39e50a4d7e90ea1cbb39024acc3e6b4f888e4fb139645f4df05ff3e2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-19 08:53:36",
-      "update_date": "2021-08-01 14:08:12",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1405843.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

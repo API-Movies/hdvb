@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Скейтеры",
+      "title_en": "Boarders",
+      "year": 2021,
+      "kinopoisk_id": 1350656,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-08 15:12:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Я создан для тебя",
+      "title_en": "Ich bin dein Mensch",
+      "year": 2021,
+      "kinopoisk_id": 1410079,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-08 01:10:01",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Стремглав сквозь снег",
+      "title_en": "Crashing Through the Snow",
+      "year": 2021,
+      "kinopoisk_id": 4502110,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-08-08 01:09:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Возвращение хищника",
       "title_en": "A Predator Returns",
       "year": 2021,
@@ -222,43 +261,34 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Убийство на Мэйпл Драйв",
-      "title_en": "Murder on Maple Drive",
-      "year": 2021,
-      "kinopoisk_id": 45634551,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-06 23:16:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Главная Героиня",
-      "title_en": "La protagonista",
+      "title_ru": "Сестра (Потому что ночь)",
+      "title_en": "The Sister (Because the Night)",
       "year": 2020,
-      "kinopoisk_id": 1348248,
-      "type": "movie",
+      "kinopoisk_id": 1311628,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "9932aee3e3dadafdf176b32ecafb72d073fddb6a2bb275d54540df77fd385426",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-08-06 23:14:01",
+      "added_date": "2020-10-28 09:00:18",
+      "update_date": "2020-10-31 09:03:53",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Джон и дыра",
-      "title_en": "John and the Hole",
-      "year": 2021,
-      "kinopoisk_id": 1330597,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-08-06 23:13:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1311628.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Субура",
@@ -1055,39 +1085,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Жить",
-      "title_en": "Hausen",
-      "year": 2020,
-      "kinopoisk_id": 1309726,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "72a4b9dbb2aee1d805f6d6206b52b09902ceafd5a83e9d5b46128c93ad83c865",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-30 08:34:38",
-      "update_date": "2020-10-30 08:35:36",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1309726.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Мой сосед Тоторо",
+      "title_en": "Tonari no Totoro",
+      "year": 1988,
+      "kinopoisk_id": 8221,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-10 10:02:03",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Кот под прикрытием",
+      "title_en": "Spycies",
+      "year": 2019,
+      "kinopoisk_id": 1142566,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-10 10:01:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Клуб бунтарей",
+      "title_en": "The Riot Club",
+      "year": 2014,
+      "kinopoisk_id": 741308,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-10 10:00:01",
+      "block": false,
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Безумно богатые азиаты",
       "title_en": "Crazy Rich Asians",
       "year": 2018,
@@ -222,43 +261,36 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Предупреждение",
-      "title_en": "Hallali",
+      "title_ru": "Мёртвые земли",
+      "title_en": "The Dead Lands",
       "year": 2019,
-      "kinopoisk_id": 1340929,
-      "type": "movie",
+      "kinopoisk_id": 1192861,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "8e0e6c55e70e448aa7028a5318e35916dfb308875ab3049ea57ff67f306e08aa",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-09 14:01:01",
+      "added_date": "2020-03-01 20:41:57",
+      "update_date": "2020-03-01 20:41:57",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Замкнутый круг",
-      "title_en": "Full Circle",
-      "year": 2019,
-      "kinopoisk_id": 1202658,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-09 13:59:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Обманка",
-      "title_en": "Frank's Deep Fake",
-      "year": 2019,
-      "kinopoisk_id": 1117625,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-09 13:58:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1192861.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Медперсонал",
@@ -942,49 +974,6 @@
             5,
             6,
             7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Агата Рейзин",
-      "title_en": "Agatha Raisin",
-      "year": 2016,
-      "kinopoisk_id": 932339,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "4b5b9ccdc721ac79bab387b41d89b498d4f77c1a44c96a35ce97f64c0ddd4979",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-02-24 22:35:25",
-      "update_date": "2020-02-24 22:35:25",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/932339.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
           ]
         }
       ]

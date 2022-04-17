@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Дать дуба в округе Юба",
+      "title_en": "Breaking News in Yuba County",
+      "year": 2021,
+      "kinopoisk_id": 1208829,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-13 09:17:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Фотография",
+      "title_en": "The Photograph",
+      "year": 2020,
+      "kinopoisk_id": 1253225,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-12 23:32:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Короче говоря",
+      "title_en": "Long Story Short",
+      "year": 2021,
+      "kinopoisk_id": 1302363,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-12 20:21:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Тёплое объятие",
       "title_en": "Wen nuan de bao bao",
       "year": 2020,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "El Camino de Xico",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1447980,
-      "type": "movie",
+      "title_ru": "Доктор Хэрроу",
+      "title_en": "Harrow",
+      "year": 2018,
+      "kinopoisk_id": 1112955,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "947a9bb151c83000713dce7e9f317099fa26d30dcd97bc6f7d3bcfc59dd37d00",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-12 13:14:01",
+      "added_date": "2019-05-21 00:02:42",
+      "update_date": "2019-06-24 12:07:26",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Поломка",
-      "title_en": "The Breakdown",
-      "year": 2021,
-      "kinopoisk_id": 1408846,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-12 05:16:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Черноснежка",
-      "title_en": "Snow Black",
-      "year": 2021,
-      "kinopoisk_id": 1255519,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-12 05:15:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1112955.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Во все тяжкие",
@@ -1053,42 +1089,6 @@
             1,
             2,
             3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Подлый Пит",
-      "title_en": "Sneaky Pete",
-      "year": 2015,
-      "kinopoisk_id": 848297,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "0aa5401e4b50c758fa68bd6239025a1e170aa2af96671907a8d42beed2cf1859",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-05-21 11:58:17",
-      "update_date": "2019-06-03 19:23:52",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/848297.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135921",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

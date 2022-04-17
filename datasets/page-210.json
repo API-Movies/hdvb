@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Скорость 2: Контроль над круизом",
+      "title_en": "Speed 2: Cruise Control",
+      "year": 1997,
+      "kinopoisk_id": 6085,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-21 12:50:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Приключения Реми",
+      "title_en": "Rémi sans famille",
+      "year": 2018,
+      "kinopoisk_id": 1108571,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-21 12:49:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Под прицелом",
+      "title_en": "Silent Trigger",
+      "year": 1996,
+      "kinopoisk_id": 32980,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-21 12:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Парный удар",
       "title_en": "Sidekicks",
       "year": 1992,
@@ -222,43 +261,43 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Солнечные сестрички",
-      "title_en": "Yang guang jie mei tao",
-      "year": 2021,
-      "kinopoisk_id": 4420246,
-      "type": "movie",
+      "title_ru": "Мастера ужасов",
+      "title_en": "Masters of Horror",
+      "year": 2005,
+      "kinopoisk_id": 230571,
+      "world_art_id": null,
+      "translator": "РЕН-ТВ",
+      "token": "a06f9cfe7fcb3662dca5fbd698f38da29423419c6521a417a39f821f20abd814",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-09-20 21:17:02",
+      "added_date": "2020-12-27 21:32:34",
+      "update_date": "2020-12-27 21:33:28",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "На старт!",
-      "title_en": "Liao bu qi de lao ba",
-      "year": 2021,
-      "kinopoisk_id": 1323863,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-20 21:16:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Восьмиугольник",
-      "title_en": "Octagon",
-      "year": 2018,
-      "kinopoisk_id": 1094214,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-20 21:12:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 178,
+      "quality": "BluRay",
+      "poster": "https://st.kp.yandex.net/images/film_big/230571.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Мастера ужасов",
@@ -1393,58 +1432,6 @@
       "serial_episodes": [
         {
           "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Обман",
-      "title_en": "Bedrag",
-      "year": 2015,
-      "kinopoisk_id": 885661,
-      "world_art_id": null,
-      "translator": "Sunshine Studio",
-      "token": "1f6a67a6903b4c97a0ece524793a4f369ffc279f3937dc646813eeefd1551a7e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-25 22:08:48",
-      "update_date": "2020-12-25 22:10:18",
-      "block": false,
-      "translator_id": 67,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/885661.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
           "episodes_count": 10,
           "episodes": [
             1,

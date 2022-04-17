@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Часики тикают",
+      "title_en": "Die fruchtbaren Jahre sind vorbei",
+      "year": 2019,
+      "kinopoisk_id": 1284288,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-22 06:18:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Отделение",
+      "title_en": "La Sucursal",
+      "year": 2019,
+      "kinopoisk_id": 1294790,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-22 05:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Взрывной удар",
+      "title_en": "Blast Beat",
+      "year": 2021,
+      "kinopoisk_id": 1331098,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-05-22 05:54:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Внук",
       "title_en": "Sardar Ka Grandson",
       "year": 2021,
@@ -222,43 +261,81 @@
       "quality": "HDTV"
     },
     {
-      "title_ru": "Уинфред Микс",
-      "title_en": "Winifred Meeks",
-      "year": 2020,
-      "kinopoisk_id": 1356426,
-      "type": "movie",
+      "title_ru": "Правосудие",
+      "title_en": "Justified",
+      "year": 2010,
+      "kinopoisk_id": 500600,
+      "world_art_id": null,
+      "translator": "Jaskier",
+      "token": "01c2d3eb1ea3fb51ac9329f93273da2ecf82b204b98f19b60e8f7873df9298d3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-05-21 03:29:01",
+      "added_date": "2020-08-07 17:56:10",
+      "update_date": "2020-08-07 17:57:00",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "И наступит весна",
-      "title_en": "Syksyn jälkeen saapuu kevät",
-      "year": 2020,
-      "kinopoisk_id": 1400497,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-21 03:28:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Телек",
-      "title_en": "The Tube",
-      "year": 2019,
-      "kinopoisk_id": 1294086,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-05-21 03:27:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 36,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/500600.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Правосудие",
@@ -1869,41 +1946,6 @@
             38,
             39,
             40
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Роковой патруль",
-      "title_en": "Doom Patrol",
-      "year": 2019,
-      "kinopoisk_id": 1144179,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "bc414e6874594610c0dfb209647f773bec90e39e88efe784c5dddae1e620908a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-23 22:02:14",
-      "update_date": "2020-08-06 19:20:25",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1144179.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
           ]
         }
       ]

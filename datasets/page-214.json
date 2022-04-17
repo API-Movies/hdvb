@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Доктор Дулиттл",
+      "title_en": "Doctor Dolittle",
+      "year": 1998,
+      "kinopoisk_id": 1961,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-18 18:45:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Всё прошло хорошо",
+      "title_en": "Tout s\\'est bien passé",
+      "year": 2021,
+      "kinopoisk_id": 1403122,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-18 15:49:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "В Ибадане",
+      "title_en": "In Ibadan",
+      "year": 2021,
+      "kinopoisk_id": 14389388,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-18 15:48:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Я ношу тебя с собой",
       "title_en": "I Carry You with Me",
       "year": 2020,
@@ -222,43 +261,32 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Все говорят о Джейми",
-      "title_en": "Everybody's Talking About Jamie",
-      "year": 2021,
-      "kinopoisk_id": 1278093,
-      "type": "movie",
+      "title_ru": "Критический возраст",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1236240,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "cd98ef19b52b45acb736394c0d58c305208f4b04d6bc8545589708f68b7f2826",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-09-18 00:57:01",
+      "added_date": "2020-12-21 03:01:37",
+      "update_date": "2020-12-21 03:02:05",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Мужские слезы",
-      "title_en": "Cry Macho",
-      "year": 2021,
-      "kinopoisk_id": 586418,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-18 00:56:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Безумное кино для взрослых",
-      "title_en": "Babardeala cu bucluc sau porno balamuc",
-      "year": 2021,
-      "kinopoisk_id": 4362629,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-18 00:55:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1236240.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Настоящая кровь",
@@ -1497,91 +1525,6 @@
       "serial_episodes": [
         {
           "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Торчвуд",
-      "title_en": "Torchwood",
-      "year": 2006,
-      "kinopoisk_id": 402941,
-      "world_art_id": null,
-      "translator": "ТВ-3",
-      "token": "131b8f7b5b69dd827794cf18a8abd8d9052fdfa0f608afe2d6bdfdb99fba36b8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-19 10:32:16",
-      "update_date": "2020-12-19 10:46:19",
-      "block": false,
-      "translator_id": 100,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/402941.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        {
-          "season_number": 4,
           "episodes_count": 10,
           "episodes": [
             1,

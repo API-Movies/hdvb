@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Любовь без меры",
+      "title_en": "Amor Sem Medida",
+      "year": 2021,
+      "kinopoisk_id": 15863594,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-19 03:03:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Фишер",
+      "title_en": "Fisher",
+      "year": 2021,
+      "kinopoisk_id": 1179623,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-11-19 02:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Разделитель",
+      "title_en": "The Divide",
+      "year": 2011,
+      "kinopoisk_id": null,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "1970-01-01 03:00:00",
+      "block": false,
+      "translator": "",
+      "translator_id": 0,
+      "quality": ""
+    },
+    {
       "title_ru": "Разделитель",
       "title_en": "The Divide",
       "year": 2011,
@@ -222,43 +261,42 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Бабочки",
-      "title_en": "Butterflies",
-      "year": 2021,
-      "kinopoisk_id": 4679634,
-      "type": "movie",
+      "title_ru": "Шериф",
+      "title_en": "Cherif",
+      "year": 2013,
+      "kinopoisk_id": 806683,
+      "world_art_id": null,
+      "translator": "WestFilm",
+      "token": "60e9cc6a54d38b0f0169e4e88b5d9671c841853ca4633a195e82c70c7052e451",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-11-18 13:39:02",
+      "added_date": "2021-03-31 09:24:26",
+      "update_date": "2021-03-31 09:25:29",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Нули и единицы",
-      "title_en": "Zeros and Ones",
-      "year": 2021,
-      "kinopoisk_id": 1447100,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-18 13:36:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ничья",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1437864,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-11-18 09:13:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
+      "translator_id": 167,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/806683.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 6,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Шериф",
@@ -1591,35 +1629,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Жестокий Стамбул",
-      "title_en": "Zalim Istanbul",
-      "year": 2019,
-      "kinopoisk_id": 1245958,
-      "world_art_id": null,
-      "translator": "одноголосый закадровый",
-      "token": "db9fb0de9d0055ec1f22137c2fef5017ef66e96dda77b29b440606805b61da86",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-29 20:32:57",
-      "update_date": "2021-03-29 20:33:40",
-      "block": false,
-      "translator_id": 93,
-      "quality": "WEB-DLRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1245958.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
           ]
         }
       ]

@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Бессонные ночи: настоящий дом с привидениями",
+      "title_en": "The Sleepless Unrest: The Real Conjuring Home",
+      "year": 2021,
+      "kinopoisk_id": 4493015,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-14 01:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Оборотень",
+      "title_en": "Skinwalker",
+      "year": 2021,
+      "kinopoisk_id": 1389910,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-14 01:03:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ривер",
+      "title_en": "River",
+      "year": 2021,
+      "kinopoisk_id": 1419201,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-14 01:02:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Корпорация ножей",
       "title_en": "Knifecorp",
       "year": 2021,
@@ -222,43 +261,38 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Опасные связи",
-      "title_en": "A Date with Danger",
-      "year": 2021,
-      "kinopoisk_id": 4423229,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-07-13 02:16:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Матч",
-      "title_en": "The Match",
-      "year": 2021,
-      "kinopoisk_id": 6639482,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-07-13 02:15:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Откуда ты знаешь Криса?",
-      "title_en": "How Do You Know Chris?",
+      "title_ru": "Земля монстров",
+      "title_en": "Monsterland",
       "year": 2020,
-      "kinopoisk_id": 1167666,
-      "type": "movie",
+      "kinopoisk_id": 1273277,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "08c82aa45388dbe3ba0f699c31dbed5e338995d954bf523aff4631d336d04c24",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-13 02:12:01",
+      "added_date": "2020-10-03 09:24:34",
+      "update_date": "2020-10-03 10:08:04",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1273277.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Балабол 4",
@@ -1492,40 +1526,6 @@
             76,
             77,
             78
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Доброе утро, Вероника",
-      "title_en": "Bom Dia, Verônica",
-      "year": 2020,
-      "kinopoisk_id": 1403707,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "8c0b6da661231e6b6c06af13f9c64c99299b04f7d9e0298b47169de8c5d7ac12",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-01 17:13:35",
-      "update_date": "2020-10-01 17:14:14",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1403707.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

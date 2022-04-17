@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Ниндзя в клеточку 2",
+      "title_en": "Ternet Ninja 2",
+      "year": 2021,
+      "kinopoisk_id": 4709633,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-24 01:21:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Волк",
+      "title_en": "Wolf",
+      "year": 2021,
+      "kinopoisk_id": 1346640,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-24 01:20:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Камон Камон",
+      "title_en": "C\\'mon C\\'mon",
+      "year": 2021,
+      "kinopoisk_id": 1309501,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-12-24 01:19:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Энканто",
       "title_en": "Encanto",
       "year": 2021,
@@ -222,43 +261,63 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Новый шанс под Рождество",
-      "title_en": "A New Lease on Christmas",
+      "title_ru": "Симпсоны: Добро, Барт и Локи",
+      "title_en": "The Good, the Bart, and the Loki",
       "year": 2021,
-      "kinopoisk_id": 1197780,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-12-22 14:36:01",
-      "block": false,
+      "kinopoisk_id": 4492434,
+      "world_art_id": null,
       "translator": "многоголосый закадровый",
+      "token": "854ef007b99e3b470b56be68e8ea09d2ebaf59784d54c1da1ed246cf45fc0cba",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-07-08 08:29:10",
+      "update_date": "2021-07-08 08:29:51",
+      "block": false,
       "translator_id": 89,
-      "quality": "HDTV"
+      "quality": "WEBRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4492434.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 1,
+          "episodes": [
+            1
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Рождество с Божьей помощью: Чудо любви",
-      "title_en": "A Godwink Christmas: Miracle of Love",
+      "title_ru": "Кошатники",
+      "title_en": "Cat People",
       "year": 2021,
-      "kinopoisk_id": 4746214,
-      "type": "movie",
+      "kinopoisk_id": 4481035,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "6d828a259f8b2132ed573fca99adff7c025b276f71ab1cc03375b93ed0fbcd4f",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-12-22 14:35:01",
+      "added_date": "2021-07-08 08:26:46",
+      "update_date": "2021-07-08 08:27:26",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
-    },
-    {
-      "title_ru": "Рождественское чудо для Дэйзи",
-      "title_en": "A Christmas Miracle for Daisy",
-      "year": 2021,
-      "kinopoisk_id": 4746317,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-12-22 14:34:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "HDTV"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/4481035.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "The Good, the Bart, and the Loki",
@@ -1099,74 +1158,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Поколение 56k",
-      "title_en": "Generation 56K",
-      "year": 2021,
-      "kinopoisk_id": 2000584,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "945e9f9bd65c69bf4f1ae075039ef45960d3f34c2d2f1f0f66f39bfc4b22c624",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-07-02 08:46:49",
-      "update_date": "2021-07-02 08:47:33",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/2000584.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Поколение 56k",
-      "title_en": "Generation 56K",
-      "year": 2021,
-      "kinopoisk_id": 2000584,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "dbed9df64a012b6345a83a0eefbf4785987679d397afd2b49c474810d4dce75a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-07-01 14:24:39",
-      "update_date": "2021-07-01 18:42:08",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/2000584.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

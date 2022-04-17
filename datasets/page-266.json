@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "У подножия вулкана",
+      "title_en": "Under the Volcano",
+      "year": 2021,
+      "kinopoisk_id": 1289534,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-26 00:37:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Часы света",
+      "title_en": "The Hours Of Light",
+      "year": 2019,
+      "kinopoisk_id": 1133224,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-26 00:35:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Rose England",
+      "title_en": "",
+      "year": 0,
+      "kinopoisk_id": 1152381,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-07-26 00:33:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Нос",
       "title_en": "Nose",
       "year": 2021,
@@ -222,43 +261,36 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Держись от меня подальше",
-      "title_en": "¡Ni te me acerques!",
+      "title_ru": "Молох",
+      "title_en": "Moloch",
       "year": 2020,
-      "kinopoisk_id": 1427710,
-      "type": "movie",
+      "kinopoisk_id": 1271762,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "38398f1547877c827010e67ce3b42c8dbcfb93edfd39ceb27759bf7ab382d2a6",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-07-25 00:57:01",
+      "added_date": "2020-10-16 08:51:37",
+      "update_date": "2020-10-18 14:37:38",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Осия",
-      "title_en": "Hosea",
-      "year": 2019,
-      "kinopoisk_id": 1090056,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-07-25 00:55:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Горацио",
-      "title_en": "Horatio",
-      "year": 2019,
-      "kinopoisk_id": 1024826,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-07-25 00:54:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1271762.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Семья",
@@ -1003,40 +1035,6 @@
             18,
             19,
             20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Гриссе",
-      "title_en": "Grisse",
-      "year": 2018,
-      "kinopoisk_id": 1123702,
-      "world_art_id": null,
-      "translator": "GreenРай Studio",
-      "token": "4bf57dd30628c766d8bb89d0d5a662f893bc1f7d46ab09541f37ecfdfd219499",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-17 18:47:04",
-      "update_date": "2020-10-17 18:47:36",
-      "block": false,
-      "translator_id": 143,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/1123702.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

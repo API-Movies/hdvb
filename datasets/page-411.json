@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Свет Лилли",
+      "title_en": "Lilly's Light",
+      "year": 2020,
+      "kinopoisk_id": 518337,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-03 20:59:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Плавучесть",
+      "title_en": "BUOYANCY",
+      "year": 2020,
+      "kinopoisk_id": 1297426,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-03 20:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дети-детективы и загадочный сосед",
+      "title_en": "Aperture Kids and the Mysterious Neighbor",
+      "year": 2021,
+      "kinopoisk_id": 13571090,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-03 20:56:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Мавританец",
       "title_en": "The Mauritanian",
       "year": 2021,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Компьютерные хакеры",
-      "title_en": "Computer Hackers",
-      "year": 2019,
-      "kinopoisk_id": 1231354,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-03 00:30:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Хелене",
-      "title_en": "Helene",
+      "title_ru": "Медицинская полиция",
+      "title_en": "Medical Police",
       "year": 2020,
-      "kinopoisk_id": 1238431,
-      "type": "movie",
+      "kinopoisk_id": 1245640,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "72c19706b58bf301f8ddf95bb649b7c48da9cc922083664b46f6588dfefb3b98",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-03 00:29:02",
+      "added_date": "2020-01-14 09:05:21",
+      "update_date": "2020-01-14 09:05:21",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Мы потеряны навсегда?",
-      "title_en": "Are We Lost Forever",
-      "year": 2020,
-      "kinopoisk_id": 1291700,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-03 00:28:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1245640.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Звёздный путь: Короткометражки",
@@ -910,42 +946,6 @@
       "translator_id": 43,
       "quality": "WEB-DL",
       "poster": "https://www.kinopoisk.ru/images/film_big/1142624.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мессия",
-      "title_en": "Messiah",
-      "year": 2020,
-      "kinopoisk_id": 1328045,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "e2ccba0c3574e4e3b897e886c04e03433e243a4f670c26a43b3055d24c792401",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-01-05 11:13:11",
-      "update_date": "2020-01-05 11:13:11",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1328045.jpg",
       "trailer": "",
       "serial_episodes": [
         {

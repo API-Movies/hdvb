@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Компьютерные хакеры",
+      "title_en": "Computer Hackers",
+      "year": 2019,
+      "kinopoisk_id": 1231354,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-03 00:30:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Хелене",
+      "title_en": "Helene",
+      "year": 2020,
+      "kinopoisk_id": 1238431,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-03 00:29:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Мы потеряны навсегда?",
+      "title_en": "Are We Lost Forever",
+      "year": 2020,
+      "kinopoisk_id": 1291700,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-03 00:28:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
       "title_ru": "Проделки Тото",
       "title_en": "Les blagues de Toto",
       "year": 2020,
@@ -222,43 +261,40 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Друзья навсегда",
-      "title_en": "The Friend / Our Friend",
-      "year": 2021,
-      "kinopoisk_id": 1231105,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-02 14:33:01",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Уиджа. Проклятое зеркало",
-      "title_en": "The 100 Candles Game",
+      "title_ru": "Мессия",
+      "title_en": "Messiah",
       "year": 2020,
-      "kinopoisk_id": 1392770,
-      "type": "movie",
+      "kinopoisk_id": 1328045,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "e2ccba0c3574e4e3b897e886c04e03433e243a4f670c26a43b3055d24c792401",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-02 14:32:01",
+      "added_date": "2020-01-05 11:13:11",
+      "update_date": "2020-01-05 11:13:11",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Земля перемен",
-      "title_en": "Changeland",
-      "year": 2019,
-      "kinopoisk_id": 1047543,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-02 08:05:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1328045.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Сумерки",
@@ -948,44 +984,6 @@
           "episodes": [
             1,
             2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "В поисках божественного рецепта",
-      "title_en": "Food Wars: Shokugeki no Soma",
-      "year": 2015,
-      "kinopoisk_id": 917288,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "37ba6fc836b3d0442914bf687a5c1f063998757c1d188891ea8766cdb2605057",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-28 14:38:36",
-      "update_date": "2019-12-28 14:38:36",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/917288.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

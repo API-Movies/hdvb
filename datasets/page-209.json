@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "Этой ночью",
+      "title_en": "This Is the Night",
+      "year": 2021,
+      "kinopoisk_id": 1160012,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-21 23:00:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Alpines",
+      "title_en": "The Alpines",
+      "year": 2021,
+      "kinopoisk_id": 1177261,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-21 22:59:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Связанные",
+      "title_en": "Tethered",
+      "year": 2021,
+      "kinopoisk_id": 4424559,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-09-21 22:55:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Ночь анимационных мертвецов",
       "title_en": "Night of the Animated Dead",
       "year": 2021,
@@ -222,43 +261,34 @@
       "quality": "WEBRip"
     },
     {
-      "title_ru": "Скорость 2: Контроль над круизом",
-      "title_en": "Speed 2: Cruise Control",
-      "year": 1997,
-      "kinopoisk_id": 6085,
-      "type": "movie",
+      "title_ru": "Беседы с убийцей: Записи Теда Банди",
+      "title_en": "Conversations with a Killer: The Ted Bundy Tapes",
+      "year": 2019,
+      "kinopoisk_id": 1221340,
+      "world_art_id": null,
+      "translator": "Jimmy J.",
+      "token": "5d2a9ada684be3b71cadcdb7d8f2b477e111b544aca22fde8bd1861ff846c8fe",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-09-21 12:50:01",
+      "added_date": "2020-12-29 01:09:35",
+      "update_date": "2020-12-29 01:11:05",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Приключения Реми",
-      "title_en": "Rémi sans famille",
-      "year": 2018,
-      "kinopoisk_id": 1108571,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-21 12:49:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Под прицелом",
-      "title_en": "Silent Trigger",
-      "year": 1996,
-      "kinopoisk_id": 32980,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-09-21 12:48:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 38,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1221340.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "МакМафия",
@@ -1152,45 +1182,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мастера ужасов",
-      "title_en": "Masters of Horror",
-      "year": 2005,
-      "kinopoisk_id": 230571,
-      "world_art_id": null,
-      "translator": "РЕН-ТВ",
-      "token": "a06f9cfe7fcb3662dca5fbd698f38da29423419c6521a417a39f821f20abd814",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-27 21:32:34",
-      "update_date": "2020-12-27 21:33:28",
-      "block": false,
-      "translator_id": 178,
-      "quality": "BluRay",
-      "poster": "https://st.kp.yandex.net/images/film_big/230571.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
           ]
         }
       ]

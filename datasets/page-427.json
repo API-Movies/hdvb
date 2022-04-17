@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title_ru": "От меча и погибнет",
+      "title_en": "Die by the Sword",
+      "year": 2020,
+      "kinopoisk_id": 1398989,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-17 14:09:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Милая доченька",
+      "title_en": "Jawaani Jaaneman",
+      "year": 2020,
+      "kinopoisk_id": 1211773,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-17 09:48:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мир грядущий",
+      "title_en": "The World to Come",
+      "year": 2020,
+      "kinopoisk_id": 1236607,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-02-17 05:55:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Детектив из Чайнатауна 3",
       "title_en": "Tang ren jie tang an 3",
       "year": 2021,
@@ -222,43 +261,40 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Школа навсегда",
-      "title_en": "School's Out Forever",
-      "year": 2021,
-      "kinopoisk_id": 1290463,
-      "type": "movie",
+      "title_ru": "Снегопад",
+      "title_en": "Snowfall",
+      "year": 2017,
+      "kinopoisk_id": 909854,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "6a9f216c62cc3f9452ce673a13c26ed2ed13830f02d10579c1a4dd717fa12b63",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-02-16 17:29:02",
+      "added_date": "2019-07-11 22:05:06",
+      "update_date": "2019-09-23 01:15:59",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Вокруг смерти",
-      "title_en": "Being Dead",
-      "year": 2021,
-      "kinopoisk_id": 1220411,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 17:28:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Охотник на монстров",
-      "title_en": "Monster Hunter",
-      "year": 2020,
-      "kinopoisk_id": 1038789,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-02-16 17:27:02",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/909854.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=141427",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Шоу Шермана",
@@ -919,42 +955,6 @@
       "serial_episodes": [
         {
           "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Плащ и Кинжал",
-      "title_en": "Cloak &amp; Dagger",
-      "year": 2018,
-      "kinopoisk_id": 978854,
-      "world_art_id": null,
-      "translator": "HamsterStudio",
-      "token": "6785131a4d2c7d15b4b8744f8329f3750a89af71566e64d0e0966bbe4f04e16a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-09-02 20:11:57",
-      "update_date": "2019-09-02 20:14:22",
-      "block": false,
-      "translator_id": 32,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/978854.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=140183",
-      "serial_episodes": [
-        {
-          "season_number": 2,
           "episodes_count": 10,
           "episodes": [
             1,
