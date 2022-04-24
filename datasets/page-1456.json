@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "title_ru": "На волне",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1228484,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-09 20:45:15",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Стекло",
+      "title_en": "Glass",
+      "year": 2019,
+      "kinopoisk_id": 1044601,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-09 16:50:20",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Потерянный остров",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1124737,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-09 14:45:08",
+      "block": [
+        "RU"
+      ],
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "TS"
+    },
+    {
+      "title_ru": "Амундсен",
+      "title_en": "Amundsen",
+      "year": 2019,
+      "kinopoisk_id": 1022484,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-04-09 13:37:14",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "TS"
+    },
+    {
       "title_ru": "Лови момент",
       "title_en": "",
       "year": 2019,
@@ -215,60 +269,6 @@
       "translator": "Дубляж",
       "translator_id": 82,
       "quality": "TS"
-    },
-    {
-      "title_ru": "Работа без авторства",
-      "title_en": "Werk ohne Autor",
-      "year": 2018,
-      "kinopoisk_id": 959606,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-06 19:02:07",
-      "block": [
-        "RU"
-      ],
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Обитель страха",
-      "title_en": "The Wind",
-      "year": 2018,
-      "kinopoisk_id": 1149801,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-06 12:20:48",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Блестяще",
-      "title_en": "Le brio",
-      "year": 2017,
-      "kinopoisk_id": 1032094,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-06 11:04:09",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Шутки в сторону 2: Миссия в Майами",
-      "title_en": "Le Flic de Belleville",
-      "year": 2018,
-      "kinopoisk_id": 1045391,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-04-05 16:20:36",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BluRay"
     }
   ]
 }

@@ -1,6 +1,61 @@
 {
   "items": [
     {
+      "title_ru": "Откупоренные",
+      "title_en": "Uncorked",
+      "year": 2019,
+      "kinopoisk_id": 1215057,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-03-27 23:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Вивариум",
+      "title_en": "Vivarium",
+      "year": 2019,
+      "kinopoisk_id": 1118663,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-03-27 23:57:02",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Сопротивление",
+      "title_en": "Resistance",
+      "year": 2020,
+      "kinopoisk_id": 1048854,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-03-27 23:56:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Отель для самоубийц",
+      "title_en": "Manden Uden Fremtid / Selvmordsturisten  / Suicide Tourist",
+      "year": 2019,
+      "kinopoisk_id": 1204245,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-03-27 23:54:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Утраченный дом",
       "title_en": "Hogar",
       "year": 2020,
@@ -207,58 +262,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "С Богами: Два мира",
-      "title_en": "Singwa hamkke: joewa beol",
-      "year": 2017,
-      "kinopoisk_id": 1008561,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-03-27 20:19:01",
-      "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "LEGO супергерои DC: Лига справедливости – Прорыв Готэм-сити",
-      "title_en": "Lego DC Comics Superheroes: Justice League - Gotham City Breakout",
-      "year": 2016,
-      "kinopoisk_id": 973169,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-03-27 20:18:01",
-      "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Да будет свет",
-      "title_en": "Let There Be Light",
-      "year": 2017,
-      "kinopoisk_id": 1031110,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-03-27 20:17:02",
-      "block": false,
-      "translator": "двухголосый закадровый",
-      "translator_id": 81,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Лагерь для жирных",
-      "title_en": "Fat Camp",
-      "year": 2017,
-      "kinopoisk_id": 977681,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-03-27 20:16:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
     }
   ]
 }

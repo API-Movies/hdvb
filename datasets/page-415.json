@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Корпорация Ad Libitum",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1101306,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 08:03:02",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Заклятье. Дом 32",
+      "title_en": "Malasaña 32",
+      "year": 2019,
+      "kinopoisk_id": 1303058,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 08:02:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Дыши во мгле",
+      "title_en": "Dans la brume",
+      "year": 2018,
+      "kinopoisk_id": 1027311,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 08:01:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
+      "title_ru": "Дружить по-русски!",
+      "title_en": "Inséparables",
+      "year": 2019,
+      "kinopoisk_id": 1246627,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-03-08 08:00:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEBRip"
+    },
+    {
       "title_ru": "Джек Ричер",
       "title_en": "Jack Reacher",
       "year": 2012,
@@ -209,56 +261,267 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Гуляй, Вася! Свидание на Бали",
+      "title_ru": "Выдающиеся звери",
+      "title_en": "BEASTARS",
+      "year": 2019,
+      "kinopoisk_id": 1290944,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "94156357caa7e39aed6c367c8a30d725e73f037a1c77a4d174ee961577df21b8",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-27 08:23:19",
+      "update_date": "2019-12-27 08:23:19",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1290944.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Ты",
+      "title_en": "You",
+      "year": 2018,
+      "kinopoisk_id": 1115630,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "c844cd9267500529fa7d4ed7a4d79878bc564f3174ee117cc3770703385b0782",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-27 08:22:48",
+      "update_date": "2019-12-27 08:22:48",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1115630.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "И это всё Роберт",
       "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1189865,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2021-03-07 15:32:01",
-      "block": false,
+      "year": 2019,
+      "kinopoisk_id": 1235004,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "78c25d3215463f93a94584b83aeb4bdf422c269f6d88006529bba1bc3a62a88d",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-12-27 03:14:13",
+      "update_date": "2019-12-27 03:14:13",
+      "block": false,
       "translator_id": 92,
-      "quality": "TS"
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1235004.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Хребет дьявола",
-      "title_en": "The Devil Below",
-      "year": 2021,
-      "kinopoisk_id": 1134989,
-      "type": "movie",
+      "title_ru": "Форсаж: Шпионы-гонщики",
+      "title_en": "Fast &amp; Furious",
+      "year": 2019,
+      "kinopoisk_id": 1138776,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "396cfcd12b8d0fdf525ae74a05e4b6557a9950d396a37469f723f3966d3f0b2c",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-07 02:46:01",
+      "added_date": "2019-12-26 17:29:27",
+      "update_date": "2019-12-26 17:29:27",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1138776.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Как-нибудь в другой раз",
-      "title_en": "Sometime Other Than Now",
-      "year": 2021,
-      "kinopoisk_id": 1272554,
-      "type": "movie",
+      "title_ru": "Улики",
+      "title_en": "Traces",
+      "year": 2019,
+      "kinopoisk_id": 1238013,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "fc8eefeabcda538a993f7c72777033c25bc39f968cb21170b059735a50001cc7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-07 02:44:02",
+      "added_date": "2019-12-25 17:51:57",
+      "update_date": "2019-12-25 17:51:57",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/1238013.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Часовой",
-      "title_en": "Sentinelle",
-      "year": 2021,
-      "kinopoisk_id": 1348084,
-      "type": "movie",
+      "title_ru": "Мистер Робот",
+      "title_en": "Mr. Robot",
+      "year": 2015,
+      "kinopoisk_id": 859908,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "33753ce0d2051c53f958b38b1b40c1ea9c267dd809eff6962155f53889f3db20",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-03-07 02:41:02",
+      "added_date": "2019-12-25 15:39:43",
+      "update_date": "2019-12-25 15:39:43",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/859908.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=134055",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Все реки текут",
@@ -751,214 +1014,6 @@
             7,
             8,
             9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Картер",
-      "title_en": "Carter",
-      "year": 2018,
-      "kinopoisk_id": 1114920,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "02a605068591b823239c0c5487669d8a1287145f6db1d16563d5a0e34c18524d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-22 08:19:58",
-      "update_date": "2019-12-22 08:19:58",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1114920.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=148383",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рождественская песнь",
-      "title_en": "A Christmas Carol",
-      "year": 2019,
-      "kinopoisk_id": 1244979,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "90a242b28bbc6d8fac81712fe5b9fcd7e10948c26813a3c8ca8dbf2089d98727",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-21 20:03:10",
-      "update_date": "2019-12-21 20:03:10",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1244979.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 1,
-          "episodes": [
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ван Хельсинг",
-      "title_en": "Van Helsing",
-      "year": 2016,
-      "kinopoisk_id": 984331,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "8af9675c43f8a65f62cba9bc0430f1d900e66f878d8a31ef26d557189a5c6963",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-21 10:45:36",
-      "update_date": "2019-12-21 10:45:36",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/984331.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=135362",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Гурманы",
-      "title_en": "Foodie Love",
-      "year": 2019,
-      "kinopoisk_id": 1245847,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "7e0257b7f8148dd6079a9e967bb0dca189f80061993d0ba5634dd0bebc4b65a2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-20 16:41:45",
-      "update_date": "2019-12-20 16:41:45",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1245847.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Ради всего человечества",
-      "title_en": "For All Mankind",
-      "year": 2019,
-      "kinopoisk_id": 1188415,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "35daa3e9b511d3d36dab1bdda05b054732818ae4b855773467b3ad9b25ef0d04",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-20 13:59:30",
-      "update_date": "2019-12-20 13:59:30",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1188415.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Утреннее шоу",
-      "title_en": "The Morning Show",
-      "year": 2019,
-      "kinopoisk_id": 1048143,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "319a8699164cc87f8f35193a349a1a5f07833931bdca78dae506bf56a57eb4b0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2019-12-20 13:16:58",
-      "update_date": "2019-12-20 13:16:58",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1048143.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

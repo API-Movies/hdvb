@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title_ru": "Чиновник",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4463981,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-04 10:31:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Глоток воздуха",
+      "title_en": "A Mouthful of Air",
+      "year": 2021,
+      "kinopoisk_id": 1302057,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-04 10:30:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Буран",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 1263667,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-03 20:12:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Чудеса кораллового рифа",
+      "title_en": "Puff: Wonders of the Reef",
+      "year": 2021,
+      "kinopoisk_id": 4745245,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-01-03 14:20:00",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Увалень Томми",
       "title_en": "Tommy Boy",
       "year": 1995,
@@ -209,56 +261,375 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Эбони Хасл",
-      "title_en": "Ebony Hustle",
-      "year": 2021,
-      "kinopoisk_id": 4399250,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-01-03 10:16:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Последний город",
-      "title_en": "Die letzte Stadt",
+      "title_ru": "Центральный парк",
+      "title_en": "Central Park",
       "year": 2020,
-      "kinopoisk_id": 1342241,
-      "type": "movie",
+      "kinopoisk_id": 1139898,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "2b7740c5b8cb2b305e9c50d0621b1f3a82355f9ffc3c053c979e541580177675",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-03 10:14:01",
+      "added_date": "2021-06-25 13:21:35",
+      "update_date": "2021-07-30 13:52:02",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1139898.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Рождество отправляется в полёт",
-      "title_en": "Christmas Takes Flight",
+      "title_ru": "Почему женщины убивают",
+      "title_en": "Why Women Kill",
+      "year": 2019,
+      "kinopoisk_id": 1197956,
+      "world_art_id": null,
+      "translator": "Amedia",
+      "token": "d6a5f2a9c592a7a4acf6f7ef4303484536d1463bc7c9eaaf5536237dd9446fc1",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-11 00:22:56",
+      "update_date": "2021-07-30 07:57:54",
+      "block": false,
+      "translator_id": 7,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1197956.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Почему женщины убивают",
+      "title_en": "Why Women Kill",
+      "year": 2019,
+      "kinopoisk_id": 1197956,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "78365f43ace72e825cfb0cca8ab0d65e3218475f0c17f85d6c14cdc6f96115b1",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-10-22 02:06:36",
+      "update_date": "2021-07-30 07:55:12",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1197956.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 9,
+          "episodes": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Принц",
+      "title_en": "The Prince",
       "year": 2021,
-      "kinopoisk_id": 4543703,
-      "type": "movie",
+      "kinopoisk_id": 1348057,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "477cec86aaf19177b0192e21f6e10686941071c62e40afcfde857a10d00581eb",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-03 10:13:01",
+      "added_date": "2021-07-30 07:52:58",
+      "update_date": "2021-07-30 07:54:18",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1348057.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Крошечное Рождество",
-      "title_en": "Tiny Christmas",
-      "year": 2017,
-      "kinopoisk_id": 1063272,
-      "type": "movie",
+      "title_ru": "Хорошие девчонки",
+      "title_en": "Good Girls",
+      "year": 2018,
+      "kinopoisk_id": 1042826,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "fabd4feb7e8ac18ee042dff6825ef08c6faa287f4c137a25d584c7b475a50857",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-01-02 18:06:01",
+      "added_date": "2020-05-05 08:54:32",
+      "update_date": "2021-07-30 07:50:46",
       "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "HDTV"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1042826.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Почему женщины убивают",
+      "title_en": "Why Women Kill",
+      "year": 2019,
+      "kinopoisk_id": 1197956,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "57b174e26e26ebb1aa0fd532331df5816a2a1bea0ddb8ae472751c0ba546cc83",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-06-03 13:53:53",
+      "update_date": "2021-07-29 13:17:55",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1197956.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Трансформеры: Война за Кибертрон",
+      "title_en": "Transformers: War for Cybertron",
+      "year": 2020,
+      "kinopoisk_id": 1237959,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "69d4351452c482ea2ff5b5f4a185337646e3b169cdcca1e917345a5f5e79a36d",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-30 20:18:38",
+      "update_date": "2021-07-29 13:17:44",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1237959.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Содержанки",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1191043,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "729b635c7cb172333c9b7282f8e622c0b4b96ab43827121896190fbf6ca09f33",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-03-30 20:21:14",
+      "update_date": "2021-07-29 02:59:55",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1191043.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Чародей",
@@ -1014,309 +1385,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мазантонио",
-      "title_en": "Masantonio",
-      "year": 2020,
-      "kinopoisk_id": 1333877,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "00e4ed6670ea34f05dc80138d8d1d1befe08832aebe3f720db1290be38ef79f0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-07-16 15:00:59",
-      "update_date": "2021-07-25 16:27:00",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1333877.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кевин может пойти на***",
-      "title_en": "Kevin Can F**k Himself",
-      "year": 2021,
-      "kinopoisk_id": 1309701,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "a5b3cae498b0737c1a06dea49b175bdd29e3ef9500b142539e0220add8d7a048",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-06-14 03:26:20",
-      "update_date": "2021-07-25 16:25:57",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1309701.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Красный дерматин",
-      "title_en": "Sky Rojo",
-      "year": 2021,
-      "kinopoisk_id": 1323118,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "71d042f7d33c7988e41fb4499f35e75202156f2ed49790c2e0e2fd96739b4aac",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-20 08:06:01",
-      "update_date": "2021-07-24 09:09:57",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1323118.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Хостел Дейз",
-      "title_en": "Hostel Daze",
-      "year": 2019,
-      "kinopoisk_id": 1330988,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "4c29e069dcfd53e579678a204c0dcfc973e34116c7f0e3c4e902d67c6aa8ed42",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-07-24 09:05:36",
-      "update_date": "2021-07-24 09:06:29",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1330988.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Десятилетия Дианы",
-      "title_en": "Diana's Decades",
-      "year": 2021,
-      "kinopoisk_id": 14827322,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "8690c8eeaae36e119a3a3adf7600265ba06b7b7a5616bf3df47bd464bb5ab215",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-07-10 20:06:38",
-      "update_date": "2021-07-23 15:37:55",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/14827322.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Красный дерматин",
-      "title_en": "Sky Rojo",
-      "year": 2021,
-      "kinopoisk_id": 1323118,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "fd06490c91b785d39899378d23283238ce3a3dd7aa96eb8b9c7f2e3ebcf9c509",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-19 16:25:59",
-      "update_date": "2021-07-23 15:37:34",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1323118.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Хорошие девчонки",
-      "title_en": "Good Girls",
-      "year": 2018,
-      "kinopoisk_id": 1042826,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "9059306b7d0679b9922553ef59404a37356908d07b79be8d3f5ebc23f142ee4b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-08 14:33:05",
-      "update_date": "2021-07-23 15:37:03",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1042826.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Жестокое лето",
-      "title_en": "Cruel Summer",
-      "year": 2021,
-      "kinopoisk_id": 1320789,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "ba84445230540ca807dbf323edcc2fb15c2680df44a1c6e6dcf67ff35ca70b0b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-05-30 13:40:16",
-      "update_date": "2021-07-23 13:45:38",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1320789.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

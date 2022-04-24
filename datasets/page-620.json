@@ -1,6 +1,61 @@
 {
   "items": [
     {
+      "title_ru": "Форсаж 6",
+      "title_en": "Furious 6",
+      "year": 2013,
+      "kinopoisk_id": 594736,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-14 10:29:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Сумерки",
+      "title_en": "Twilight",
+      "year": 2008,
+      "kinopoisk_id": 401177,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-14 10:28:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Повелитель стихий",
+      "title_en": "The Last Airbender",
+      "year": 2010,
+      "kinopoisk_id": 417855,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-14 10:27:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Палм-Спрингс",
+      "title_en": "Palm Springs",
+      "year": 2020,
+      "kinopoisk_id": 1245524,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-08-14 10:26:02",
+      "block": [
+        "UA",
+        "EU"
+      ],
+      "translator": "2x2",
+      "translator_id": 1,
+      "quality": "CAMRip"
+    },
+    {
       "title_ru": "Махинаторы",
       "title_en": "Schemers",
       "year": 2020,
@@ -207,58 +262,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Возрождение! / Воскресение!",
-      "title_en": "Revival!",
-      "year": 2020,
-      "kinopoisk_id": 819487,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-13 20:42:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дикие притчи про Фрэнка МакГаффина",
-      "title_en": "The Savage Tales of Frank MacGuffin",
-      "year": 2020,
-      "kinopoisk_id": 1092041,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-13 20:40:04",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Палм-Спрингс",
-      "title_en": "Palm Springs",
-      "year": 2020,
-      "kinopoisk_id": 1245524,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-13 11:34:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ад на границе",
-      "title_en": "Hell on the Border",
-      "year": 2019,
-      "kinopoisk_id": 1176055,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-13 11:33:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BDRip"
     }
   ]
 }

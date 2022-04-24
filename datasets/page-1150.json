@@ -1,6 +1,64 @@
 {
   "items": [
     {
+      "title_ru": "Элефант",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1138865,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-06 05:56:01",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Короли интриги",
+      "title_en": "El Cuento de las Comadrejas",
+      "year": 2019,
+      "kinopoisk_id": 1146093,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-06 05:55:02",
+      "block": false,
+      "translator": "Профессиональный (многоголосый) [Лицензия]",
+      "translator_id": 110,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Ты умеешь хранить секреты?",
+      "title_en": "Can You Keep a Secret?",
+      "year": 2019,
+      "kinopoisk_id": 1178301,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-06 05:54:01",
+      "block": [
+        "RU",
+        "UA"
+      ],
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Опасные секреты",
+      "title_en": "Official Secrets",
+      "year": 2019,
+      "kinopoisk_id": 958464,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-11-05 20:11:03",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Дора и Затерянный город",
       "title_en": "Dora and the Lost City of Gold",
       "year": 2019,
@@ -210,58 +268,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Остров сокровищ",
-      "title_en": "",
-      "year": 1988,
-      "kinopoisk_id": 573759,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-04 23:53:01",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Красавчик со стажем",
-      "title_en": "Just a Gigolo",
-      "year": 2019,
-      "kinopoisk_id": 1190636,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-04 22:58:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Что скажут люди",
-      "title_en": "Hva vil folk si",
-      "year": 2017,
-      "kinopoisk_id": 1048928,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-04 22:57:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Дефолт",
-      "title_en": "Gukgabudo-ui Nal",
-      "year": 2018,
-      "kinopoisk_id": 1047328,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-11-04 22:56:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
     }
   ]
 }
