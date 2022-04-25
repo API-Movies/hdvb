@@ -261,6 +261,241 @@
       "quality": "BDRip"
     },
     {
+      "title_ru": "ХБ",
+      "title_en": "",
+      "year": 2013,
+      "kinopoisk_id": 745204,
+      "world_art_id": null,
+      "translator": "Перевод не требуется",
+      "token": "4c363aa64a383db15d7d917553d6288178acf7e89e3795cb7494c271b50a8c59",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2018-09-19 16:38:19",
+      "update_date": "2018-11-25 18:44:24",
+      "block": false,
+      "translator_id": 103,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/745204.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 19,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 18,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Купчино",
+      "title_en": "",
+      "year": 2018,
+      "kinopoisk_id": 1110933,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "e3be0494672132979ce6861873f91845a03894a6688f6bbd12e08545c825dde6",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2018-11-12 15:47:27",
+      "update_date": "2018-11-24 20:08:22",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1110933.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Боец 2: Рождение легенды",
+      "title_en": "",
+      "year": 2008,
+      "kinopoisk_id": 428980,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "79efe89b07029dc27e04c0027dbb74bc7bb027f09b39a500cc6b469f98dfebc3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2018-11-16 20:47:24",
+      "update_date": "2018-11-16 21:10:58",
+      "block": false,
+      "translator_id": 92,
+      "quality": "DVDRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/428980.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 14,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мажор",
+      "title_en": "",
+      "year": 2014,
+      "kinopoisk_id": 820638,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "73da2fd14a57999cae48a49c0d8cbe32b796ae19b18dea9f56e2a03e2b28545c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2018-10-26 22:40:07",
+      "update_date": "2018-11-16 20:42:13",
+      "block": [
+        "RU"
+      ],
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/820638.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=112341",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Ненастье",
       "title_en": "",
       "year": 2018,
@@ -749,180 +984,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Касл-Рок",
-      "title_en": "Castle Rock",
-      "year": 2018,
-      "kinopoisk_id": 1040949,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "3a89fbe25e9c962362bd977bef1f72f32ebfdb94185c335e1b7d476b2135870b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-09-21 13:29:32",
-      "update_date": "2018-09-21 13:29:32",
-      "block": false,
-      "translator_id": 48,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1040949.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=151100",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Большая игра",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1162854,
-      "world_art_id": null,
-      "translator": "Перевод не требуется",
-      "token": "bdf519b52fde960ab920f74092a6a1f1fee947b7c24c5d1515c3155e2ba0cbee",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-09-19 18:18:08",
-      "update_date": "2018-09-19 18:18:08",
-      "block": false,
-      "translator_id": 103,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/1162854.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=151354",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Челночницы",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 961723,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "681e91bde55ff5ca67a3e2752d71fa36886d4b16bbdabbc28d8a39ceea553645",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-09-19 18:17:15",
-      "update_date": "2018-09-19 18:17:15",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/961723.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Акварели",
-      "title_en": "",
-      "year": 2018,
-      "kinopoisk_id": 1189791,
-      "world_art_id": null,
-      "translator": "Перевод не требуется",
-      "token": "d65b3747d629bc3eedc1ed220b526f86d66c206402c875d5a244d2df857bd1e6",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2018-09-18 22:19:31",
-      "update_date": "2018-09-19 16:22:32",
-      "block": false,
-      "translator_id": 103,
-      "quality": "HDTV",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1189791.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]
