@@ -1,264 +1,480 @@
 {
   "items": [
     {
-      "title_ru": "Обратимая реальность",
+      "title_ru": "",
       "title_en": "",
-      "year": 2022,
-      "kinopoisk_id": 1354764,
+      "year": 0,
+      "kinopoisk_id": null,
       "type": "movie",
       "iframe_url": "",
-      "added_date": "2022-04-19 11:59:01",
+      "added_date": "1970-01-01 03:00:00",
+      "block": false,
+      "translator": "",
+      "translator_id": 0,
+      "quality": ""
+    },
+    {
+      "title_ru": "",
+      "title_en": "",
+      "year": 0,
+      "kinopoisk_id": null,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "1970-01-01 03:00:00",
+      "block": false,
+      "translator": "",
+      "translator_id": 0,
+      "quality": ""
+    },
+    {
+      "title_ru": "",
+      "title_en": "",
+      "year": 0,
+      "kinopoisk_id": null,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "1970-01-01 03:00:00",
+      "block": false,
+      "translator": "",
+      "translator_id": 0,
+      "quality": ""
+    },
+    {
+      "title_ru": "",
+      "title_en": "",
+      "year": 0,
+      "kinopoisk_id": null,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "1970-01-01 03:00:00",
+      "block": false,
+      "translator": "",
+      "translator_id": 0,
+      "quality": ""
+    },
+    {
+      "title_ru": "Капитан",
+      "title_en": "Der Hauptmann",
+      "year": 2017,
+      "kinopoisk_id": 1048214,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-25 20:39:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Бесконечная любовь",
+      "title_en": "Sonsuz Ask",
+      "year": 2017,
+      "kinopoisk_id": 1043818,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-25 20:38:01",
+      "block": false,
+      "translator": "двухголосый закадровый",
+      "translator_id": 81,
+      "quality": "HDTVRip"
+    },
+    {
+      "title_ru": "Крриш 3",
+      "title_en": "Krrish 3",
+      "year": 2013,
+      "kinopoisk_id": 309487,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-25 20:37:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Крриш",
+      "title_en": "Krrish",
+      "year": 2006,
+      "kinopoisk_id": 197076,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-25 20:36:04",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Безымянная звезда",
+      "title_en": "",
+      "year": 1978,
+      "kinopoisk_id": 77248,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-25 20:35:02",
       "block": false,
       "translator": "Не требуется",
       "translator_id": 92,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Облако-рай",
+      "title_en": "",
+      "year": 1990,
+      "kinopoisk_id": 42694,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-25 20:34:01",
+      "block": false,
+      "translator": "Не требуется",
+      "translator_id": 92,
+      "quality": "DVDRip"
+    },
+    {
+      "title_ru": "Ты не одинок",
+      "title_en": "Koi... Mil Gaya",
+      "year": 2003,
+      "kinopoisk_id": 41876,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-25 20:33:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "HDTV"
+    },
+    {
+      "title_ru": "Горец 2: Оживление",
+      "title_en": "Highlander II: The Quickening",
+      "year": 1990,
+      "kinopoisk_id": 13682,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-25 20:32:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Человек божий",
+      "title_en": "Man of God",
+      "year": 2021,
+      "kinopoisk_id": 1003448,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-25 18:16:02",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Закат",
+      "title_en": "Sundown",
+      "year": 2021,
+      "kinopoisk_id": 4536578,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-23 21:10:03",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Мои дорогие дети",
+      "title_en": "Mes très chers enfants",
+      "year": 2021,
+      "kinopoisk_id": 4294265,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-23 21:09:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
       "quality": "TS"
     },
     {
-      "title_ru": "Жизнь бабули",
-      "title_en": "The Nan Movie",
-      "year": 2022,
-      "kinopoisk_id": 1272614,
+      "title_ru": "Дьяволик",
+      "title_en": "Diabolik",
+      "year": 2021,
+      "kinopoisk_id": 1220209,
       "type": "movie",
       "iframe_url": "",
-      "added_date": "2022-04-19 11:58:01",
+      "added_date": "2022-04-23 21:08:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Альпийские приключения",
+      "title_en": "Schellen-Ursli",
+      "year": 2015,
+      "kinopoisk_id": 917795,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-23 21:07:02",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Дети греха",
+      "title_en": "Children of Sin",
+      "year": 2022,
+      "kinopoisk_id": 4503103,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-23 15:48:02",
       "block": false,
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Синдром жизни",
-      "title_en": "",
+      "title_ru": "Анчартед: На картах не значится",
+      "title_en": "Uncharted",
       "year": 2022,
-      "kinopoisk_id": 4915889,
+      "kinopoisk_id": 468373,
       "type": "movie",
       "iframe_url": "",
-      "added_date": "2022-04-18 22:44:02",
+      "added_date": "2022-04-23 15:47:01",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Дочь рыбака",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1235996,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2022-04-23 13:20:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Хемингуэй и Геллхорн",
-      "title_en": "Hemingway &amp; Gellhorn",
-      "year": 2012,
-      "kinopoisk_id": 574096,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-04-18 20:18:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Сияние",
-      "title_en": "The Shining",
-      "year": 1980,
-      "kinopoisk_id": 409,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-04-18 20:17:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Последний император",
-      "title_en": "The Last Emperor",
-      "year": 1987,
-      "kinopoisk_id": 7663,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-04-18 20:16:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Генри: Портрет серийного убийцы",
-      "title_en": "Henry: Portrait of a Serial Killer",
-      "year": 1986,
-      "kinopoisk_id": 21254,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-04-18 20:15:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Щелкунчик и четыре королевства",
-      "title_en": "The Nutcracker and the Four Realms",
-      "year": 2018,
-      "kinopoisk_id": 975292,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-04-18 20:14:01",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Пятое измерение",
-      "title_en": "Push",
-      "year": 2009,
-      "kinopoisk_id": 105397,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-04-18 20:13:03",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Голубая бездна",
-      "title_en": "Le grand bleu",
-      "year": 1988,
-      "kinopoisk_id": 9579,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-04-18 20:12:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "28 панфиловцев",
+      "title_ru": "Когда закончится февраль",
       "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 764465,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-04-18 20:11:02",
-      "block": false,
+      "year": 2022,
+      "kinopoisk_id": 4857645,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "e012ec7546215047bc0a2af127dca4d9da63cc1fbdb7f2fd72216afbe568fc6f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2022-02-21 16:34:19",
+      "update_date": "2022-02-24 16:24:43",
+      "block": false,
       "translator_id": 92,
-      "quality": "WEBRip"
+      "quality": "WEB-DL",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4857645.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Заложники",
-      "title_en": "Kapringen",
-      "year": 2012,
-      "kinopoisk_id": 687878,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-04-18 20:10:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Бомж с дробовиком",
-      "title_en": "Hobo with a Shotgun",
-      "year": 2011,
-      "kinopoisk_id": 518214,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-04-18 20:09:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Девушка, которая играла с огнем",
-      "title_en": "Flickan som lekte med elden",
-      "year": 2009,
-      "kinopoisk_id": 409226,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-04-18 20:08:03",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Дом. История путешествия",
-      "title_en": "Home",
-      "year": 2009,
-      "kinopoisk_id": 309397,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-04-18 20:07:02",
-      "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей",
-      "title_en": "Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей. Часть 1",
-      "year": 1981,
-      "kinopoisk_id": 77263,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-04-18 20:06:02",
-      "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "Собака на сене",
+      "title_ru": "Дина и Доберман",
       "title_en": "",
-      "year": 1977,
-      "kinopoisk_id": 77206,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-04-18 20:05:01",
-      "block": false,
+      "year": 2022,
+      "kinopoisk_id": 4715305,
+      "world_art_id": null,
       "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEBRip"
-    },
-    {
-      "title_ru": "И в печали, и в радости...",
-      "title_en": "Kabhi Khushi Kabhie Gham...",
-      "year": 2001,
-      "kinopoisk_id": 64595,
-      "type": "movie",
+      "token": "d939265d9d53870b6ff18d166ec070ce6b24cb038c544a7cc1c38e4832378122",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-04-18 20:04:01",
+      "added_date": "2022-02-23 19:45:16",
+      "update_date": "2022-02-24 03:17:47",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEBRip"
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4715305.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Барышня-крестьянка",
+      "title_ru": "Тени старого шкафа",
       "title_en": "",
-      "year": 1995,
-      "kinopoisk_id": 41475,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2022-04-18 20:03:02",
-      "block": false,
+      "year": 2021,
+      "kinopoisk_id": 4535448,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "289d5c4ce8403e13850e5dc05415b457e2df4299075e69da99ec705a61cc17b2",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2022-02-23 01:01:08",
+      "update_date": "2022-02-23 19:49:05",
+      "block": false,
       "translator_id": 92,
-      "quality": "WEBRip"
+      "quality": "WEB-DL",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4535448.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Моя собачья жизнь",
-      "title_en": "Mitt liv som hund",
-      "year": 1985,
-      "kinopoisk_id": 22421,
-      "type": "movie",
+      "title_ru": "Учености плоды",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4823177,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "073361acf81f572bac3fa792e70c07228fa2fc9951a318b14e094b0fc96e20d7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2022-04-18 20:02:02",
+      "added_date": "2022-02-02 15:54:50",
+      "update_date": "2022-02-23 19:47:30",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "WEBRip"
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4823177.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Серебрянный волк",
+      "title_en": "Serebryanniy volk",
+      "year": 2022,
+      "kinopoisk_id": 4726036,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "487742821fb9a28486314cdba4e198dba8d0f0998c602f6ef441a80051a04887",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2022-02-14 18:03:04",
+      "update_date": "2022-02-23 19:46:50",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4726036.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Русские хакеры: Начало",
+      "title_en": "",
+      "year": 2021,
+      "kinopoisk_id": 4742511,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "3d9f16f5a41d1a241ff90c45a81eb58fa79d76904aed06b560f9c7a597147131",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2022-02-23 18:57:27",
+      "update_date": "2022-02-23 18:58:37",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4742511.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Беливо",
+      "title_en": "Béliveau",
+      "year": 2017,
+      "kinopoisk_id": 6290542,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "597e8ea8c4e867906259e070728f49553de81e673bdc2173676c546c756e610d",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2022-02-12 16:48:40",
+      "update_date": "2022-02-23 18:54:54",
+      "block": false,
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDAxMGUxMmMtZjhlZi00YTgxLThjMDktZTgxODY0OTAyYzBhXkEyXkFqcGdeQXVyMDU5NzA5Ng@@._V1_FMjpg_UX1000_.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Ридли Джонс",
@@ -749,269 +965,6 @@
       "translator_id": 123,
       "quality": "WEB-DL",
       "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1371805.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Изобретая Анну",
-      "title_en": "Inventing Anna",
-      "year": 2022,
-      "kinopoisk_id": 1318982,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "356449268bbe61461c92ae7b967502d279bcd937cb04b4df0305e4f498202d01",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2022-02-20 20:17:46",
-      "update_date": "2022-02-20 20:19:29",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1318982.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бабуля",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 4856144,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "8fdd7a667e2917a9f22439b76ba765a7209e7d186ccf49c43b173e72dac29590",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2022-02-19 15:05:42",
-      "update_date": "2022-02-20 18:41:49",
-      "block": false,
-      "translator_id": 92,
-      "quality": "SATRip",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4856144.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "На рубеже. Ответный удар",
-      "title_en": "",
-      "year": 2014,
-      "kinopoisk_id": 827251,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "e5c9edfcca6f101065fbfe751d0cd5dd60187ef0fe7de387dab803b4397c53e7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2022-02-20 18:41:30",
-      "update_date": "2022-02-20 18:41:38",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/827251.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Миротворец",
-      "title_en": "Peacemaker",
-      "year": 2022,
-      "kinopoisk_id": 1421587,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "79e1aa0961282b3c268dda6a63d7de541f39efff49ba865c906ebca851a6c738",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2022-01-17 00:33:48",
-      "update_date": "2022-02-20 18:39:45",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1421587.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Штрафбат",
-      "title_en": "",
-      "year": 2004,
-      "kinopoisk_id": 84342,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "c56f6cae4bc74e66e0f99c41ecbb2fe8347ec4726b0c6d2302049f71b55974eb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2022-02-20 15:55:55",
-      "update_date": "2022-02-20 16:36:02",
-      "block": false,
-      "translator_id": 92,
-      "quality": "DVDRip",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/84342.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 11,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Открытие ведьм",
-      "title_en": "A Discovery of Witches",
-      "year": 2018,
-      "kinopoisk_id": 665236,
-      "world_art_id": null,
-      "translator": "Novamedia",
-      "token": "ce9de0b4748bc41b2509ed8fccfc27d4e5c9a69772c3f4f21e8d1fe294425835",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-03-16 13:27:09",
-      "update_date": "2022-02-20 12:26:20",
-      "block": false,
-      "translator_id": 51,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/665236.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Миротворец",
-      "title_en": "Peacemaker",
-      "year": 2022,
-      "kinopoisk_id": 1421587,
-      "world_art_id": null,
-      "translator": "Novamedia",
-      "token": "bdde6f0e7262281c25a82778fa068d2ffc2609a246e41fcb186e4c42d40ce29b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2022-01-14 19:55:38",
-      "update_date": "2022-02-20 12:20:16",
-      "block": false,
-      "translator_id": 51,
-      "quality": "WEB-DL",
-      "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1421587.jpg",
       "trailer": "",
       "serial_episodes": [
         {
